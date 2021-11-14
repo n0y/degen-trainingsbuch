@@ -1,0 +1,17 @@
+= Degen - Trainingsbuch
+
+Ziel der hier veröffentlichten Texte ist es, Grundlagen, Ziele, Inhalte und Trainingsmethoden für das Degenfechten zu sammeln.
+
+Haupt-Augenmerk soll darauf liegen, neue Erkenntnisse zu Lernmethoden einzuarbeiten, um den Lernaufwand zu minimieren, die Motivation hoch zu halten und Spaß am Training zu vermitteln.
+
+Alle Texte hier sind unter dieser Lizenz veröffentlicht: xref:LICENSE.adoc[] (Englisch:xref:LICENSE.en.adoc[]).
+
+Alle Autoren sind unter xref:AUTOREN.adoc[] einzusehen.
+
+== Mitarbeit
+
+Jede Art von Mitarbeit ist willkommen. Inhalte sind gut unter den Issues zu erstellen, wo eine Diskussion neuer Inhalte möglich ist.
+
+Jederzeit kannst Du gerne auch einen Pull-Request erstellen. Die Maintainer behalten sich eine Entscheidung über die Aufnahme von Beiträgen vor.
+
+** Wenn Du Änderungen vorschlägst, dann trage Dich bitte als erstes in die Autoren-Liste unter xref:AUTOREN.adoc[] ein. Damit akzeptierst Du, dass deine Inhalte unserer Lizenz unterliegen und Verzichtest auf weiter gehende Rechte. **
