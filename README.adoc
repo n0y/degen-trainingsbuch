@@ -14,4 +14,4 @@ Jede Art von Mitarbeit ist willkommen. Inhalte sind gut unter den Issues zu erst
 
 Jederzeit kannst Du gerne auch einen Pull-Request erstellen. Die Maintainer behalten sich eine Entscheidung über die Aufnahme von Beiträgen vor.
 
-** Wenn Du Änderungen vorschlägst, dann trage Dich bitte als erstes in die Autoren-Liste unter xref:AUTOREN.adoc[] ein. Damit akzeptierst Du, dass deine Inhalte unserer Lizenz unterliegen und Verzichtest auf weiter gehende Rechte. **
+*Wenn Du Änderungen vorschlägst, dann trage Dich bitte als erstes in die Autoren-Liste unter xref:AUTOREN.adoc[] ein. Damit stellst Du die Inhalte, die Du beigetragen hast, unter unsere xref:LICENSE.adoc[Lizenz].*
