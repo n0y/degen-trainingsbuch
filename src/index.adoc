@@ -1,0 +1,34 @@
+= Degen - Trainingsbuch
+:bibtex-file: literatur.bib
+:bibtex-order: alphabetical
+:bibtex-style: apa
+:bibtex-throw: true
+
+:toc:
+
+== Über dieses Buch
+
+Das Fechten ist eine Sportart mit langer Tradition. Entsprechend werden auch Lehrbücher seit mehreren hundert Jahren verfasst.
+
+Dabei haben sich alle Aspekte des Fechtens gleich mehrfach fundamental gewandelt: Die Zielsetzung wandelte sich vom Kriegseinsatz über Duellsituationen bis zum modernen Sportfechten. Das Material änderte sich bezüglich Klingenlängen und -Geometrien genauso wie hinsichtlich der eingesetzten Materialien vielfach. Immer effektivere Schutzausrüstung ermöglicht inzwischen das gefahrlose Training nahezu jeder Kampfsituation. Entsprechend können im modernen Fechten Techniken und Taktiken eingesetzt werden, die sich früher verboten. Hinzu kommen durch neue Trainingsverfahren und neue Anthropometrie völlig andere körperliche Voraussetzungen.
+
+Deswegen müssen wir für jeden Aspekt des Degenfechtens hinterfragen, ob wir als Ziel tatsächlich Handlungsfähigkeit und Erfolg als maßgebliche Größen betrachten, oder ob wir nicht gelegentlich mehr einem historisch geprägten ästethischen Empfinden nacheifern.
+
+Ziel dieses Buches soll sein, in möglichst jedem Aspekt die effektivsten Taktiken, Techniken und Methoden zu identifizieren und einzusetzen.
+
+Gerade Jugendliche, die Jahre der Ausbildung auf sich nehmen, haben ein Recht darauf, ihre Zeit effizient einzusetzen. Gleichzeitig wollen wir es jedem Menschen ermöglichen, seine/ihre individuellen Vorteile und Möglichkeiten auszuschöpfen.
+
+In zweiter Linie wollen wir verstehen, warum Techniken oder Trainingsmethoden Erfolg zeigen und wir wollen das wissenschaftlich Begründen. Die Umsetzung neuer Erkenntnisse aus der Forschung erscheint uns ein geeigneter Weg, um unser Training stetig zu verbessern. Es soll immer gelten: Das Bessere ist der Feind des Guten.
+
+
+include::chapters/grundlagen/grundlagen.adoc[]
+
+include::chapters/techniktraining/techniktraining.adoc[]
+
+include::chapters/taktiktraining/taktiktraining.adoc[]
+
+include::chapters/agilitaetstraining/agilitaetstraining.adoc[]
+
+include::chapters/fitnesstraining/fitnesstraining.adoc[]
+
+include::chapters/literatur/literatur.adoc[]
