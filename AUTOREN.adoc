@@ -1,0 +1,9 @@
+Degen Trainingsbuch - AutorInnen in alphabetischer Reihenfolge:
+
+Bertram Fey <bertram.fey@corelogics.de>
+
+Indem Du Deinen Namen dieser Liste hinzufügst, gewährst Du dem Degen Trainingsbuch die Rechte auf Nutzung unter den Bedingungen unserer xref:LICENSE.adoc[Lizenz] und versicherst, dass Du die Urheberrechte besitzt und die Rechte an das Degen Trainingsbuch abtreten darfst, für alle Commits, die Du dem Degen Trainingsbuch hinzufügst.
+
+By adding your name to this list, you grant full and irrevocable copyright and patent indemnity to
+Degen Trainingsbuch and all use of Degen-Trainingsbuch under our xref:LICENSE.en.adoc[], and you certify that you have the
+right to do so for all commits you add to Degen Trainingsbuch.github.
