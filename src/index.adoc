@@ -1,10 +1,9 @@
 = Degen - Trainingsbuch
+:toc:
 :bibtex-file: literatur.bib
 :bibtex-order: alphabetical
 :bibtex-style: apa
 :bibtex-throw: true
-
-:toc:
 
 == Über dieses Buch
 
