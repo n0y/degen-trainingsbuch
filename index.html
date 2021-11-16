@@ -1,0 +1,1472 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.16">
+<title>Degen - Trainingsbuch</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
+<style>
+/*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
+/* Uncomment the following line when using as a custom stylesheet */
+/* @import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700"; */
+html{font-family:sans-serif;-webkit-text-size-adjust:100%}
+a{background:none}
+a:focus{outline:thin dotted}
+a:active,a:hover{outline:0}
+h1{font-size:2em;margin:.67em 0}
+b,strong{font-weight:bold}
+abbr{font-size:.9em}
+abbr[title]{cursor:help;border-bottom:1px dotted #dddddf;text-decoration:none}
+dfn{font-style:italic}
+hr{height:0}
+mark{background:#ff0;color:#000}
+code,kbd,pre,samp{font-family:monospace;font-size:1em}
+pre{white-space:pre-wrap}
+q{quotes:"\201C" "\201D" "\2018" "\2019"}
+small{font-size:80%}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sup{top:-.5em}
+sub{bottom:-.25em}
+img{border:0}
+svg:not(:root){overflow:hidden}
+figure{margin:0}
+audio,video{display:inline-block}
+audio:not([controls]){display:none;height:0}
+fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}
+legend{border:0;padding:0}
+button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}
+button,input{line-height:normal}
+button,select{text-transform:none}
+button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}
+button[disabled],html input[disabled]{cursor:default}
+input[type=checkbox],input[type=radio]{padding:0}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}
+textarea{overflow:auto;vertical-align:top}
+table{border-collapse:collapse;border-spacing:0}
+*,::before,::after{box-sizing:border-box}
+html,body{font-size:100%}
+body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;line-height:1;position:relative;cursor:auto;-moz-tab-size:4;-o-tab-size:4;tab-size:4;word-wrap:anywhere;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}
+a:hover{cursor:pointer}
+img,object,embed{max-width:100%;height:auto}
+object,embed{height:100%}
+img{-ms-interpolation-mode:bicubic}
+.left{float:left!important}
+.right{float:right!important}
+.text-left{text-align:left!important}
+.text-right{text-align:right!important}
+.text-center{text-align:center!important}
+.text-justify{text-align:justify!important}
+.hide{display:none}
+img,object,svg{display:inline-block;vertical-align:middle}
+textarea{height:auto;min-height:50px}
+select{width:100%}
+.subheader,.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{line-height:1.45;color:#7a2518;font-weight:400;margin-top:0;margin-bottom:.25em}
+div,dl,dt,dd,ul,ol,li,h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6,pre,form,p,blockquote,th,td{margin:0;padding:0}
+a{color:#2156a5;text-decoration:underline;line-height:inherit}
+a:hover,a:focus{color:#1d4b8f}
+a img{border:0}
+p{line-height:1.6;margin-bottom:1.25em;text-rendering:optimizeLegibility}
+p aside{font-size:.875em;line-height:1.35;font-style:italic}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{font-family:"Open Sans","DejaVu Sans",sans-serif;font-weight:300;font-style:normal;color:#ba3925;text-rendering:optimizeLegibility;margin-top:1em;margin-bottom:.5em;line-height:1.0125em}
+h1 small,h2 small,h3 small,#toctitle small,.sidebarblock>.content>.title small,h4 small,h5 small,h6 small{font-size:60%;color:#e99b8f;line-height:0}
+h1{font-size:2.125em}
+h2{font-size:1.6875em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.375em}
+h4,h5{font-size:1.125em}
+h6{font-size:1em}
+hr{border:solid #dddddf;border-width:1px 0 0;clear:both;margin:1.25em 0 1.1875em}
+em,i{font-style:italic;line-height:inherit}
+strong,b{font-weight:bold;line-height:inherit}
+small{font-size:60%;line-height:inherit}
+code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;color:rgba(0,0,0,.9)}
+ul,ol,dl{line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
+ul,ol{margin-left:1.5em}
+ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0}
+ul.square li ul,ul.circle li ul,ul.disc li ul{list-style:inherit}
+ul.square{list-style-type:square}
+ul.circle{list-style-type:circle}
+ul.disc{list-style-type:disc}
+ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
+dl dt{margin-bottom:.3125em;font-weight:bold}
+dl dd{margin-bottom:1.25em}
+blockquote{margin:0 0 1.25em;padding:.5625em 1.25em 0 1.1875em;border-left:1px solid #ddd}
+blockquote,blockquote p{line-height:1.6;color:rgba(0,0,0,.85)}
+@media screen and (min-width:768px){h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2}
+h1{font-size:2.75em}
+h2{font-size:2.3125em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.6875em}
+h4{font-size:1.4375em}}
+table{background:#fff;margin-bottom:1.25em;border:1px solid #dedede;word-wrap:normal}
+table thead,table tfoot{background:#f7f8f7}
+table thead tr th,table thead tr td,table tfoot tr th,table tfoot tr td{padding:.5em .625em .625em;font-size:inherit;color:rgba(0,0,0,.8);text-align:left}
+table tr th,table tr td{padding:.5625em .625em;font-size:inherit;color:rgba(0,0,0,.8)}
+table tr.even,table tr.alt{background:#f8f8f7}
+table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td{line-height:1.6}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2;word-spacing:-.05em}
+h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title strong,h4 strong,h5 strong,h6 strong{font-weight:400}
+.center{margin-left:auto;margin-right:auto}
+.stretch{width:100%}
+.clearfix::before,.clearfix::after,.float-group::before,.float-group::after{content:" ";display:table}
+.clearfix::after,.float-group::after{clear:both}
+:not(pre).nobreak{word-wrap:normal}
+:not(pre).nowrap{white-space:nowrap}
+:not(pre).pre-wrap{white-space:pre-wrap}
+:not(pre):not([class^=L])>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background:#f7f7f8;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed}
+pre{color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;line-height:1.45;text-rendering:optimizeSpeed}
+pre code,pre pre{color:inherit;font-size:inherit;line-height:inherit}
+pre>code{display:block}
+pre.nowrap,pre.nowrap pre{white-space:pre;word-wrap:normal}
+em em{font-style:normal}
+strong strong{font-weight:400}
+.keyseq{color:rgba(51,51,51,.8)}
+kbd{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;display:inline-block;color:rgba(0,0,0,.8);font-size:.65em;line-height:1.45;background:#f7f7f7;border:1px solid #ccc;border-radius:3px;box-shadow:0 1px 0 rgba(0,0,0,.2),inset 0 0 0 .1em #fff;margin:0 .15em;padding:.2em .5em;vertical-align:middle;position:relative;top:-.1em;white-space:nowrap}
+.keyseq kbd:first-child{margin-left:0}
+.keyseq kbd:last-child{margin-right:0}
+.menuseq,.menuref{color:#000}
+.menuseq b:not(.caret),.menuref{font-weight:inherit}
+.menuseq{word-spacing:-.02em}
+.menuseq b.caret{font-size:1.25em;line-height:.8}
+.menuseq i.caret{font-weight:bold;text-align:center;width:.45em}
+b.button::before,b.button::after{position:relative;top:-1px;font-weight:400}
+b.button::before{content:"[";padding:0 3px 0 2px}
+b.button::after{content:"]";padding:0 2px 0 3px}
+p a>code:hover{color:rgba(0,0,0,.9)}
+#header,#content,#footnotes,#footer{width:100%;margin:0 auto;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+#content{margin-top:1.25em}
+#content::before{content:none}
+#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:flex;flex-flow:row wrap}
+#header .details span:first-child{margin-left:-.125em}
+#header .details span.email a{color:rgba(0,0,0,.85)}
+#header .details br{display:none}
+#header .details br+span::before{content:"\00a0\2013\00a0"}
+#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+#header #revnumber{text-transform:capitalize}
+#header #revnumber::after{content:"\00a0"}
+#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+#toc>ul{margin-left:.125em}
+#toc ul.sectlevel0>li>a{font-style:italic}
+#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+#toc li{line-height:1.3334;margin-top:.3334em}
+#toc a{text-decoration:none}
+#toc a:active{text-decoration:underline}
+#toctitle{color:#7a2518;font-size:1.2em}
+@media screen and (min-width:768px){#toctitle{font-size:1.375em}
+body.toc2{padding-left:15em;padding-right:0}
+#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+body.toc2.toc-right{padding-left:0;padding-right:15em}
+body.toc2.toc-right #toc.toc2{border-right-width:0;border-left:1px solid #e7e7e9;left:auto;right:0}}
+@media screen and (min-width:1280px){body.toc2{padding-left:20em;padding-right:0}
+#toc.toc2{width:20em}
+#toc.toc2 #toctitle{font-size:1.375em}
+#toc.toc2>ul{font-size:.95em}
+#toc.toc2 ul ul{padding-left:1.25em}
+body.toc2.toc-right{padding-left:0;padding-right:20em}}
+#content #toc{border:1px solid #e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;border-radius:4px}
+#content #toc>:first-child{margin-top:0}
+#content #toc>:last-child{margin-bottom:0}
+#footer{max-width:none;background:rgba(0,0,0,.8);padding:1.25em}
+#footer-text{color:hsla(0,0%,100%,.8);line-height:1.44}
+#content{margin-bottom:.625em}
+.sect1{padding-bottom:.625em}
+@media screen and (min-width:768px){#content{margin-bottom:1.25em}
+.sect1{padding-bottom:1.25em}}
+.sect1:last-child{padding-bottom:0}
+.sect1+.sect1{border-top:1px solid #e7e7e9}
+#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+details,.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
+details{margin-left:1.25rem}
+details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;-webkit-tap-highlight-color:transparent}
+details>summary::before{content:"";border:solid transparent;border-left:solid;border-width:.3em 0 .3em .5em;position:absolute;top:.5em;left:-1.25rem;transform:translateX(15%)}
+details[open]>summary::before{border:solid transparent;border-top:solid;border-width:.5em .3em 0;transform:translateY(15%)}
+details>summary::after{content:"";width:1.25rem;height:1em;position:absolute;top:.3em;left:-1.25rem}
+.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{text-rendering:optimizeLegibility;text-align:left;font-family:"Noto Serif","DejaVu Serif",serif;font-size:1rem;font-style:italic}
+table.tableblock.fit-content>caption.title{white-space:nowrap;width:0}
+.paragraph.lead>p,#preamble>.sectionbody>[class=paragraph]:first-of-type p{font-size:1.21875em;line-height:1.6;color:rgba(0,0,0,.85)}
+.admonitionblock>table{border-collapse:separate;border:0;background:none;width:100%}
+.admonitionblock>table td.icon{text-align:center;width:80px}
+.admonitionblock>table td.icon img{max-width:none}
+.admonitionblock>table td.icon .title{font-weight:bold;font-family:"Open Sans","DejaVu Sans",sans-serif;text-transform:uppercase}
+.admonitionblock>table td.content{padding-left:1.125em;padding-right:1.25em;border-left:1px solid #dddddf;color:rgba(0,0,0,.6);word-wrap:anywhere}
+.admonitionblock>table td.content>:last-child>:last-child{margin-bottom:0}
+.exampleblock>.content{border:1px solid #e6e6e6;margin-bottom:1.25em;padding:1.25em;background:#fff;border-radius:4px}
+.exampleblock>.content>:first-child{margin-top:0}
+.exampleblock>.content>:last-child{margin-bottom:0}
+.sidebarblock{border:1px solid #dbdbd6;margin-bottom:1.25em;padding:1.25em;background:#f3f3f2;border-radius:4px}
+.sidebarblock>:first-child{margin-top:0}
+.sidebarblock>:last-child{margin-bottom:0}
+.sidebarblock>.content>.title{color:#7a2518;margin-top:0;text-align:center}
+.exampleblock>.content>:last-child>:last-child,.exampleblock>.content .olist>ol>li:last-child>:last-child,.exampleblock>.content .ulist>ul>li:last-child>:last-child,.exampleblock>.content .qlist>ol>li:last-child>:last-child,.sidebarblock>.content>:last-child>:last-child,.sidebarblock>.content .olist>ol>li:last-child>:last-child,.sidebarblock>.content .ulist>ul>li:last-child>:last-child,.sidebarblock>.content .qlist>ol>li:last-child>:last-child{margin-bottom:0}
+.literalblock pre,.listingblock>.content>pre{border-radius:4px;overflow-x:auto;padding:1em;font-size:.8125em}
+@media screen and (min-width:768px){.literalblock pre,.listingblock>.content>pre{font-size:.90625em}}
+@media screen and (min-width:1280px){.literalblock pre,.listingblock>.content>pre{font-size:1em}}
+.literalblock pre,.listingblock>.content>pre:not(.highlight),.listingblock>.content>pre[class=highlight],.listingblock>.content>pre[class^="highlight "]{background:#f7f7f8}
+.literalblock.output pre{color:#f7f7f8;background:rgba(0,0,0,.9)}
+.listingblock>.content{position:relative}
+.listingblock code[data-lang]::before{display:none;content:attr(data-lang);position:absolute;font-size:.75em;top:.425rem;right:.5rem;line-height:1;text-transform:uppercase;color:inherit;opacity:.5}
+.listingblock:hover code[data-lang]::before{display:block}
+.listingblock.terminal pre .command::before{content:attr(data-prompt);padding-right:.5em;color:inherit;opacity:.5}
+.listingblock.terminal pre .command:not([data-prompt])::before{content:"$"}
+.listingblock pre.highlightjs{padding:0}
+.listingblock pre.highlightjs>code{padding:1em;border-radius:4px}
+.listingblock pre.prettyprint{border-width:0}
+.prettyprint{background:#f7f7f8}
+pre.prettyprint .linenums{line-height:1.45;margin-left:2em}
+pre.prettyprint li{background:none;list-style-type:inherit;padding-left:0}
+pre.prettyprint li code[data-lang]::before{opacity:1}
+pre.prettyprint li:not(:first-child) code[data-lang]::before{display:none}
+table.linenotable{border-collapse:separate;border:0;margin-bottom:0;background:none}
+table.linenotable td[class]{color:inherit;vertical-align:top;padding:0;line-height:inherit;white-space:normal}
+table.linenotable td.code{padding-left:.75em}
+table.linenotable td.linenos{border-right:1px solid;opacity:.35;padding-right:.5em}
+pre.pygments .lineno{border-right:1px solid;opacity:.35;display:inline-block;margin-right:.75em}
+pre.pygments .lineno::before{content:"";margin-right:-.125em}
+.quoteblock{margin:0 1em 1.25em 1.5em;display:table}
+.quoteblock:not(.excerpt)>.title{margin-left:-1.5em;margin-bottom:.75em}
+.quoteblock blockquote,.quoteblock p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
+.quoteblock blockquote{margin:0;padding:0;border:0}
+.quoteblock blockquote::before{content:"\201c";float:left;font-size:2.75em;font-weight:bold;line-height:.6em;margin-left:-.6em;color:#7a2518;text-shadow:0 1px 2px rgba(0,0,0,.1)}
+.quoteblock blockquote>.paragraph:last-child p{margin-bottom:0}
+.quoteblock .attribution{margin-top:.75em;margin-right:.5ex;text-align:right}
+.verseblock{margin:0 1em 1.25em}
+.verseblock pre{font-family:"Open Sans","DejaVu Sans",sans-serif;font-size:1.15rem;color:rgba(0,0,0,.85);font-weight:300;text-rendering:optimizeLegibility}
+.verseblock pre strong{font-weight:400}
+.verseblock .attribution{margin-top:1.25rem;margin-left:.5ex}
+.quoteblock .attribution,.verseblock .attribution{font-size:.9375em;line-height:1.45;font-style:italic}
+.quoteblock .attribution br,.verseblock .attribution br{display:none}
+.quoteblock .attribution cite,.verseblock .attribution cite{display:block;letter-spacing:-.025em;color:rgba(0,0,0,.6)}
+.quoteblock.abstract blockquote::before,.quoteblock.excerpt blockquote::before,.quoteblock .quoteblock blockquote::before{display:none}
+.quoteblock.abstract blockquote,.quoteblock.abstract p,.quoteblock.excerpt blockquote,.quoteblock.excerpt p,.quoteblock .quoteblock blockquote,.quoteblock .quoteblock p{line-height:1.6;word-spacing:0}
+.quoteblock.abstract{margin:0 1em 1.25em;display:block}
+.quoteblock.abstract>.title{margin:0 0 .375em;font-size:1.15em;text-align:center}
+.quoteblock.excerpt>blockquote,.quoteblock .quoteblock{padding:0 0 .25em 1em;border-left:.25em solid #dddddf}
+.quoteblock.excerpt,.quoteblock .quoteblock{margin-left:0}
+.quoteblock.excerpt blockquote,.quoteblock.excerpt p,.quoteblock .quoteblock blockquote,.quoteblock .quoteblock p{color:inherit;font-size:1.0625rem}
+.quoteblock.excerpt .attribution,.quoteblock .quoteblock .attribution{color:inherit;font-size:.85rem;text-align:left;margin-right:0}
+p.tableblock:last-child{margin-bottom:0}
+td.tableblock>.content{margin-bottom:1.25em;word-wrap:anywhere}
+td.tableblock>.content>:last-child{margin-bottom:-1.25em}
+table.tableblock,th.tableblock,td.tableblock{border:0 solid #dedede}
+table.grid-all>*>tr>*{border-width:1px}
+table.grid-cols>*>tr>*{border-width:0 1px}
+table.grid-rows>*>tr>*{border-width:1px 0}
+table.frame-all{border-width:1px}
+table.frame-ends{border-width:1px 0}
+table.frame-sides{border-width:0 1px}
+table.frame-none>colgroup+*>:first-child>*,table.frame-sides>colgroup+*>:first-child>*{border-top-width:0}
+table.frame-none>:last-child>:last-child>*,table.frame-sides>:last-child>:last-child>*{border-bottom-width:0}
+table.frame-none>*>tr>:first-child,table.frame-ends>*>tr>:first-child{border-left-width:0}
+table.frame-none>*>tr>:last-child,table.frame-ends>*>tr>:last-child{border-right-width:0}
+table.stripes-all tr,table.stripes-odd tr:nth-of-type(odd),table.stripes-even tr:nth-of-type(even),table.stripes-hover tr:hover{background:#f8f8f7}
+th.halign-left,td.halign-left{text-align:left}
+th.halign-right,td.halign-right{text-align:right}
+th.halign-center,td.halign-center{text-align:center}
+th.valign-top,td.valign-top{vertical-align:top}
+th.valign-bottom,td.valign-bottom{vertical-align:bottom}
+th.valign-middle,td.valign-middle{vertical-align:middle}
+table thead th,table tfoot th{font-weight:bold}
+tbody tr th{background:#f7f8f7}
+tbody tr th,tbody tr th p,tfoot tr th,tfoot tr th p{color:rgba(0,0,0,.8);font-weight:bold}
+p.tableblock>code:only-child{background:none;padding:0}
+p.tableblock{font-size:1em}
+ol{margin-left:1.75em}
+ul li ol{margin-left:1.5em}
+dl dd{margin-left:1.125em}
+dl dd:last-child,dl dd:last-child>:last-child{margin-bottom:0}
+ol>li p,ul>li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
+ul.checklist,ul.none,ol.none,ul.no-bullet,ol.no-bullet,ol.unnumbered,ul.unstyled,ol.unstyled{list-style-type:none}
+ul.no-bullet,ol.no-bullet,ol.unnumbered{margin-left:.625em}
+ul.unstyled,ol.unstyled{margin-left:0}
+ul.checklist>li>p:first-child{margin-left:-1em}
+ul.checklist>li>p:first-child>.fa-square-o:first-child,ul.checklist>li>p:first-child>.fa-check-square-o:first-child{width:1.25em;font-size:.8em;position:relative;bottom:.125em}
+ul.checklist>li>p:first-child>input[type=checkbox]:first-child{margin-right:.25em}
+ul.inline{display:flex;flex-flow:row wrap;list-style:none;margin:0 0 .625em -1.25em}
+ul.inline>li{margin-left:1.25em}
+.unstyled dl dt{font-weight:400;font-style:normal}
+ol.arabic{list-style-type:decimal}
+ol.decimal{list-style-type:decimal-leading-zero}
+ol.loweralpha{list-style-type:lower-alpha}
+ol.upperalpha{list-style-type:upper-alpha}
+ol.lowerroman{list-style-type:lower-roman}
+ol.upperroman{list-style-type:upper-roman}
+ol.lowergreek{list-style-type:lower-greek}
+.hdlist>table,.colist>table{border:0;background:none}
+.hdlist>table>tbody>tr,.colist>table>tbody>tr{background:none}
+td.hdlist1,td.hdlist2{vertical-align:top;padding:0 .625em}
+td.hdlist1{font-weight:bold;padding-bottom:1.25em}
+td.hdlist2{word-wrap:anywhere}
+.literalblock+.colist,.listingblock+.colist{margin-top:-.5em}
+.colist td:not([class]):first-child{padding:.4em .75em 0;line-height:1;vertical-align:top}
+.colist td:not([class]):first-child img{max-width:none}
+.colist td:not([class]):last-child{padding:.25em 0}
+.thumb,.th{line-height:0;display:inline-block;border:4px solid #fff;box-shadow:0 0 0 1px #ddd}
+.imageblock.left{margin:.25em .625em 1.25em 0}
+.imageblock.right{margin:.25em 0 1.25em .625em}
+.imageblock>.title{margin-bottom:0}
+.imageblock.thumb,.imageblock.th{border-width:6px}
+.imageblock.thumb>.title,.imageblock.th>.title{padding:0 .125em}
+.image.left,.image.right{margin-top:.25em;margin-bottom:.25em;display:inline-block;line-height:0}
+.image.left{margin-right:.625em}
+.image.right{margin-left:.625em}
+a.image{text-decoration:none;display:inline-block}
+a.image object{pointer-events:none}
+sup.footnote,sup.footnoteref{font-size:.875em;position:static;vertical-align:super}
+sup.footnote a,sup.footnoteref a{text-decoration:none}
+sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
+#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+#footnotes .footnote:last-of-type{margin-bottom:0}
+#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+.gist .file-data>table{border:0;background:#fff;width:100%;margin-bottom:0}
+.gist .file-data>table td.line-data{width:99%}
+div.unbreakable{page-break-inside:avoid}
+.big{font-size:larger}
+.small{font-size:smaller}
+.underline{text-decoration:underline}
+.overline{text-decoration:overline}
+.line-through{text-decoration:line-through}
+.aqua{color:#00bfbf}
+.aqua-background{background:#00fafa}
+.black{color:#000}
+.black-background{background:#000}
+.blue{color:#0000bf}
+.blue-background{background:#0000fa}
+.fuchsia{color:#bf00bf}
+.fuchsia-background{background:#fa00fa}
+.gray{color:#606060}
+.gray-background{background:#7d7d7d}
+.green{color:#006000}
+.green-background{background:#007d00}
+.lime{color:#00bf00}
+.lime-background{background:#00fa00}
+.maroon{color:#600000}
+.maroon-background{background:#7d0000}
+.navy{color:#000060}
+.navy-background{background:#00007d}
+.olive{color:#606000}
+.olive-background{background:#7d7d00}
+.purple{color:#600060}
+.purple-background{background:#7d007d}
+.red{color:#bf0000}
+.red-background{background:#fa0000}
+.silver{color:#909090}
+.silver-background{background:#bcbcbc}
+.teal{color:#006060}
+.teal-background{background:#007d7d}
+.white{color:#bfbfbf}
+.white-background{background:#fafafa}
+.yellow{color:#bfbf00}
+.yellow-background{background:#fafa00}
+span.icon>.fa{cursor:default}
+a span.icon>.fa{cursor:inherit}
+.admonitionblock td.icon [class^="fa icon-"]{font-size:2.5em;text-shadow:1px 1px 2px rgba(0,0,0,.5);cursor:default}
+.admonitionblock td.icon .icon-note::before{content:"\f05a";color:#19407c}
+.admonitionblock td.icon .icon-tip::before{content:"\f0eb";text-shadow:1px 1px 2px rgba(155,155,0,.8);color:#111}
+.admonitionblock td.icon .icon-warning::before{content:"\f071";color:#bf6900}
+.admonitionblock td.icon .icon-caution::before{content:"\f06d";color:#bf3400}
+.admonitionblock td.icon .icon-important::before{content:"\f06a";color:#bf0000}
+.conum[data-value]{display:inline-block;color:#fff!important;background:rgba(0,0,0,.8);border-radius:50%;text-align:center;font-size:.75em;width:1.67em;height:1.67em;line-height:1.67em;font-family:"Open Sans","DejaVu Sans",sans-serif;font-style:normal;font-weight:bold}
+.conum[data-value] *{color:#fff!important}
+.conum[data-value]+b{display:none}
+.conum[data-value]::after{content:attr(data-value)}
+pre .conum[data-value]{position:relative;top:-.125em}
+b.conum *{color:inherit!important}
+.conum:not([data-value]):empty{display:none}
+dt,th.tableblock,td.content,div.footnote{text-rendering:optimizeLegibility}
+h1,h2,p,td.content,span.alt,summary{letter-spacing:-.01em}
+p strong,td.content strong,div.footnote strong{letter-spacing:-.005em}
+p,blockquote,dt,td.content,span.alt,summary{font-size:1.0625rem}
+p{margin-bottom:1.25rem}
+.sidebarblock p,.sidebarblock dt,.sidebarblock td.content,p.tableblock{font-size:1em}
+.exampleblock>.content{background:#fffef7;border-color:#e0e0dc;box-shadow:0 1px 4px #e0e0dc}
+.print-only{display:none!important}
+@page{margin:1.25cm .75cm}
+@media print{*{box-shadow:none!important;text-shadow:none!important}
+html{font-size:80%}
+a{color:inherit!important;text-decoration:underline!important}
+a.bare,a[href^="#"],a[href^="mailto:"]{text-decoration:none!important}
+a[href^="http:"]:not(.bare)::after,a[href^="https:"]:not(.bare)::after{content:"(" attr(href) ")";display:inline-block;font-size:.875em;padding-left:.25em}
+abbr[title]{border-bottom:1px dotted}
+abbr[title]::after{content:" (" attr(title) ")"}
+pre,blockquote,tr,img,object,svg{page-break-inside:avoid}
+thead{display:table-header-group}
+svg{max-width:100%}
+p,blockquote,dt,td.content{font-size:1em;orphans:3;widows:3}
+h2,h3,#toctitle,.sidebarblock>.content>.title{page-break-after:avoid}
+#header,#content,#footnotes,#footer{max-width:none}
+#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+body.book #header{text-align:center}
+body.book #header>h1:first-child{border:0!important;margin:2.5em 0 1em}
+body.book #header .details{border:0!important;display:block;padding:0!important}
+body.book #header .details span:first-child{margin-left:0!important}
+body.book #header .details br{display:block}
+body.book #header .details br+span::before{content:none!important}
+body.book #toc{border:0!important;text-align:left!important;padding:0!important;margin:0!important}
+body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-break-before:always}
+.listingblock code[data-lang]::before{display:block}
+#footer{padding:0 .9375em}
+.hide-on-print{display:none!important}
+.print-only{display:block!important}
+.hide-for-print{display:none!important}
+.show-for-print{display:inherit!important}}
+@media amzn-kf8,print{#header>h1:first-child{margin-top:1.25rem}
+.sect1{padding:0!important}
+.sect1+.sect1{border:0}
+#footer{background:none}
+#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+@media amzn-kf8{#header,#content,#footnotes,#footer{padding:0}}
+</style>
+</head>
+<body class="article">
+<div id="header">
+<h1>Degen - Trainingsbuch</h1>
+<div id="toc" class="toc">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_über_dieses_buch">Über dieses Buch</a></li>
+<li><a href="#_grundlagen_und_methodik">Grundlagen und Methodik</a>
+<ul class="sectlevel2">
+<li><a href="#_klassische_trainingsmethoden">Klassische Trainingsmethoden</a></li>
+<li><a href="#_probleme_und_widersprüche_der_klassischen_trainingslehre">Probleme und Widersprüche der klassischen Trainingslehre</a></li>
+<li><a href="#_individualität_der_bewegungen">Individualität der Bewegungen</a></li>
+<li><a href="#_differenzielle_lernmethode">Differenzielle Lernmethode</a></li>
+<li><a href="#_effektivität_und_effizienz_der_differenziellen_lehrmethoden">Effektivität und Effizienz der differenziellen Lehrmethoden</a></li>
+</ul>
+</li>
+<li><a href="#_die_rolle_des_trainers_in_differenziellen_lernen">Die Rolle des Trainers in differenziellen Lernen</a></li>
+<li><a href="#_umsetzungsprinzipien">Umsetzungsprinzipien</a>
+<ul class="sectlevel2">
+<li><a href="#_umsetzung_der_variation_in_der_sportart_fechten">Umsetzung der Variation in der Sportart Fechten</a></li>
+</ul>
+</li>
+<li><a href="#_technik_training">Technik-Training</a>
+<ul class="sectlevel2">
+<li><a href="#_training_der_körperbewegungen_im_fechtsport">Training der Körperbewegungen im Fechtsport</a></li>
+<li><a href="#_beinarbeit">Beinarbeit</a></li>
+<li><a href="#_stoß_und_treffbewegungen">Stoß- und Treffbewegungen</a></li>
+</ul>
+</li>
+<li><a href="#_technisches_lektionstraining">Technisches Lektionstraining</a></li>
+<li><a href="#_technische_partnerübungen">Technische Partnerübungen</a></li>
+<li><a href="#_taktiktraining">Taktiktraining</a></li>
+<li><a href="#_agilitätstraining">Agilitätstraining</a>
+<ul class="sectlevel2">
+<li><a href="#_definition_agilität">Definition "Agilität"</a></li>
+<li><a href="#_erfahrungen_in_anderen_kampfsportarten">Erfahrungen in anderen Kampfsportarten</a></li>
+<li><a href="#_agilität_im_kampfsport_näher_betrachtet">Agilität im Kampfsport, näher betrachtet</a></li>
+<li><a href="#_wie_unterscheiden_sich_top_athleten_von_durchschnittlichen">Wie unterscheiden sich Top-Athleten von durchschnittlichen?</a></li>
+<li><a href="#_agilität_in_kampfsportarten_trainieren">Agilität in Kampfsportarten trainieren</a></li>
+<li><a href="#_physische_fertigkeiten">Physische Fertigkeiten</a></li>
+<li><a href="#_plan_für_agilitätstraining_im_kampfsportart">Plan für Agilitätstraining im Kampfsportart</a></li>
+</ul>
+</li>
+<li><a href="#_literaturverzeichnis">Literaturverzeichnis</a></li>
+</ul>
+</div>
+</div>
+<div id="content">
+<div class="sect1">
+<h2 id="_über_dieses_buch">Über dieses Buch</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Das Fechten ist eine Sportart mit langer Tradition. Entsprechend werden auch Lehrbücher seit mehreren hundert Jahren verfasst.</p>
+</div>
+<div class="paragraph">
+<p>Dabei haben sich alle Aspekte des Fechtens gleich mehrfach fundamental gewandelt: Die Zielsetzung wandelte sich vom Kriegseinsatz über Duellsituationen bis zum modernen Sportfechten. Das Material änderte sich bezüglich Klingenlängen und -Geometrien genauso wie hinsichtlich der eingesetzten Materialien vielfach. Immer effektivere Schutzausrüstung ermöglicht inzwischen das gefahrlose Training nahezu jeder Kampfsituation. Entsprechend können im modernen Fechten Techniken und Taktiken eingesetzt werden, die sich früher verboten. Hinzu kommen durch neue Trainingsverfahren und neue Anthropometrie völlig andere körperliche Voraussetzungen.</p>
+</div>
+<div class="paragraph">
+<p>Deswegen müssen wir für jeden Aspekt des Degenfechtens hinterfragen, ob wir als Ziel tatsächlich Handlungsfähigkeit und Erfolg als maßgebliche Größen betrachten, oder ob wir nicht gelegentlich mehr einem historisch geprägten ästethischen Empfinden nacheifern.</p>
+</div>
+<div class="paragraph">
+<p>Ziel dieses Buches soll sein, in möglichst jedem Aspekt die effektivsten Taktiken, Techniken und Methoden zu identifizieren und einzusetzen.</p>
+</div>
+<div class="paragraph">
+<p>Gerade Jugendliche, die Jahre der Ausbildung auf sich nehmen, haben ein Recht darauf, ihre Zeit effizient einzusetzen. Gleichzeitig wollen wir es jedem Menschen ermöglichen, seine/ihre individuellen Vorteile und Möglichkeiten auszuschöpfen.</p>
+</div>
+<div class="paragraph">
+<p>In zweiter Linie wollen wir verstehen, warum Techniken oder Trainingsmethoden Erfolg zeigen und wir wollen das wissenschaftlich Begründen. Die Umsetzung neuer Erkenntnisse aus der Forschung erscheint uns ein geeigneter Weg, um unser Training stetig zu verbessern. Es soll immer gelten: Das Bessere ist der Feind des Guten.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_grundlagen_und_methodik">Grundlagen und Methodik</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Bei Kindern und Jugendlichen im Besonderen, aber auch bei jedem anderen Menschen, ist Körper und Geist stetiger Veränderung unterworfen. Hinzu kommt, dass jedes Gefecht und auch jedes Training immer unter neuen Bedingungen ausgetragen wird. Keine Situation ist mit irgendeiner vorherigen identisch.</p>
+</div>
+<div class="paragraph">
+<p>Wir dürfen daher nicht der Versuchung erliegen, im Hinblick auf Technik- und Taktik-Leitbilder allzu sehr zu verallgemeinern und zu sehr Gemeinsamkeiten zu suchen. Das Besondere jedes einzelnen Individuums fiele dabei sehr schnell durch das Raster (<a href="#JDZE">Kimmerle&#44; 2000</a>).</p>
+</div>
+<div class="paragraph">
+<p>Wir müssen vielmehr darauf abzielen, die Adaption an neue Voraussetzungen und Anforderungen als wichtigste Fähigkeit zu erkennen und zu schulen. Kernpunkt ist es, dass FechterInnen in jeder Situation, die immer eine neue, nie erlebte sein muss, zumindest handlungsfähig bleibt und die Möglichkeit aufrechterhält, schnell angemessene Änderungen vorzunehmen.</p>
+</div>
+<div class="sect2">
+<h3 id="_klassische_trainingsmethoden">Klassische Trainingsmethoden</h3>
+<div class="paragraph">
+<p>Grundlage für traditionelles Lehren und Lernen in Verein und Schule sind drei Modellarten: (1) Lernmodelle, (2) Lehrmodelle, (3) Bewegungsmodelle.</p>
+</div>
+<div class="paragraph">
+<p>Wesentliche Lernmodelle sind nach (<a href="#LuGed">Schermer&#44; 1991</a>):</p>
+</div>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>Lernen durch Kontiguität, bzw. klassische Konditionierung nach Pawlow und Guthrie.</p>
+</li>
+<li>
+<p>Lernen durch Verstärkung/ operante Konditionierung nach Thorndike, Hüll, Skinner</p>
+</li>
+<li>
+<p>Lernen durch Beobachtung (<a href="#SFTA">Bandura&#44; 1986</a>)</p>
+</li>
+<li>
+<p>Lernen durch Einsicht, Bewusstmachen von Bewegung (<a href="#IaA">Köhler&#44; 1917</a>)</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>Wesentliche Lehrmethoden sind nach (<a href="#AMdL">Fetz&#44; 1979</a>):</p>
+</div>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>Methodische Reihen (motorische, konditionelle, Spielreihen)</p>
+</li>
+<li>
+<p>Induktive – Deduktive Lehrkonzepte mit analytischen/synthetischen Realisierungsansätzen</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>Grundlegende Bewegungsmodelle sind nach (<a href="#SDLL">Schöllhorn&#44; 2005</a>):</p>
+</div>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>Open-Loop-Modell nach (<a href="#AMAEM">Lashley&#44; 1917</a>)</p>
+</li>
+<li>
+<p>Closed-Loop-Modell nach (<a href="#CLTML">Adams&#44; 1971</a>)</p>
+</li>
+<li>
+<p>schematheoretisches Modell nach (<a href="#STDMSL">Schmidt&#44; 1975</a>) und (<a href="#WVKF">Roth&#44; 1989</a>)</p>
+</li>
+</ol>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_probleme_und_widersprüche_der_klassischen_trainingslehre">Probleme und Widersprüche der klassischen Trainingslehre</h3>
+<div class="paragraph">
+<p>In den meisten uns bekannten Vereinen wird normalerweise nicht nach einem festen Modell gelehrt, sondern es kommt zu einer Vermischung. Intuitiv und auch mit Erfolg geben TrainerInnen in Anlehnung an das Lernen am Modell Ziel-Techniken vor und versuchen ihre SchülerInnen mit bedingter und operanter Konditionierung möglichst nahe an das eigene oder übernommene Technik-Leitbild anzunähern.</p>
+</div>
+<div class="paragraph">
+<p>Auch explorative Methoden ("Versuch und Irrtum") werden bisweilen als Methode eingesetzt. Allzu häufig aber mit dem Ziel, die erwartete Zieltechnik möge nun endlich gefunden und eingesetzt werden. SchülerInnen finden zwar gelegentlich eigene Techniken, die eventuell sogar für ihre Voraussetzungen besser geeignet sind; diese werden aber oft als Irrtum ignoriert.</p>
+</div>
+<div class="paragraph">
+<p>Dabei ist die vorgegebene Ideal-/Zieltechnik häufig problematisch: sie ist manchmal veraltet, oft in sich widersprüchlich und in jedem Fall nicht an die Individualität der SchülerInnen angepasst. Dennoch sollen die SchülerInnen sich nach dem Prinzip der Übereinstimmung <a href="#SOTP">Diatschkow&#44; 1972</a> iterativ den "korrekten" Lösungen annähern, die mich hoher Wiederholungszahl eingeschlossen werden sollen <a href="#HaTra">Martin et al.&#44; 1991</a>.</p>
+</div>
+<div class="paragraph">
+<p>Zu beachten ist, dass innovative Neuerungen im Sport normalerweise erfolgen, wenn sich Trainer und Athleten nicht daran orientieren, sondern Technik und Taktik in einem neuen Umfeld neu denken oder neu erproben.</p>
+</div>
+<div class="paragraph">
+<p>Die Problem mit Ideal-/Zieltechniken ist unter anderem die Nichtwiederholbarkeit identischer Bewegungen <a href="#MoVaDQO">Hatze&#44; 1986</a>: selbst die besten Athleten sind nicht in der Lage, sogar einfache Bewegungen exakt identisch auszuführen.</p>
+</div>
+<div class="paragraph">
+<p>Das Lernen einer Bewegungs-Fertigkeit bedeutet im Kern immer, dass eine Veränderung in der Steuerung der Muskulator notwendig ist, die im Gehirn vorgenommen wird und an mindestens einer der Stellen erstes Motorneuron (Upper Motor Neuron, UMN), zentraler Rhythmusgenerator (Central Pattern Generator, CPG) oder unteres Motorneuron (Lower Motor Neuron, LMN) eine Veränderung bewirkt. Diese Änderung ist bereits das erfolgte Lernen.</p>
+</div>
+<div class="paragraph">
+<p>Inzwischen ist gut erforscht, wie diese neuroplastischen Änderungen zustande kommen: Fehler. Ein Lernprozess besteht immer darauf, dass Lernende einen Fehler begehen, der über Feedback zu Anpassungen an der plastischen Struktur des Gehirns führt. Um es deutlich zu sagen: Ohne Fehler ist Lernen unmöglich (<a href="#LFEr">Metcalfe&#44; 2017</a>).</p>
+</div>
+<div class="paragraph">
+<p>Entsprechend gibt es neuere Lehr- und Lernmethoden, die Variabilität ins Zentrum stellen. Beispiele sind der systemdynamische Ansatz (Selbstorganisation nach (<a href="#MPTHHM">Haken et al.&#44; 1985</a>) und die Selbststabilisierung nach (<a href="#SNANF">Wagner &amp; Blickhan&#44; 1999</a>)). In beiden Fällen sind Fluktationen Bestandteil des Theorie.</p>
+</div>
+<div class="paragraph">
+<p>Weiteres Problem ist die Kopplung der Bewegung an das ausführende System, also die Individualität der Bewegungsausführung.</p>
+</div>
+<div class="paragraph">
+<p>In der Sportpraxis wird zwar immer wieder gesagt, dass Individualität als Abweichung von der Norm akzeptiert werden soll, konkret bedarf es aber der Intuition erfolgreicher Trainer und Athleten, um diese Toleranz auch umzusetzen.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_individualität_der_bewegungen">Individualität der Bewegungen</h3>
+<div class="paragraph">
+<p>Zusätzlich zum Unmöglichkeit, identische Bewegungen auszuführen (<a href="#SDLL">Schöllhorn&#44; 2005</a>) ist inzwischen bekannt, dass der Variationsbereich individueller Bewegungen in jedem Leistungsniveau erstaunlich hoch ist (<a href="#IIMSHP">Schöllhorn &amp; Bauer&#44; 1998</a>).</p>
+</div>
+<div class="paragraph">
+<p>Eine personen-übergreifende Idealtechnik ist als solche nicht mehr haltbar. Abzugrenzen ist, dass einige Variationen der Bewegungsausführung offensichtlich untauglich oder hoch problematisch sind. Solche Variationen werden Lernende aber ohnehin schnell eliminieren, wenn ihnen besser geeignete Variationen angeboten werden.</p>
+</div>
+<div class="paragraph">
+<p>Auch für TrainerInnen sind Idealtechnik und einschleifende Lehrverfahren riskant: Niemand kann alle Fehler und Abweichungen erkennen und die Konsequenz jeder individuellen Ausführung sicher abschätzen. Es besteht die Gefahr, unbewusst fehlerhafte Ausführungen einzuschleifen. Glücklicherweise ist ein Einschleifen am Ende ohnehin nicht möglich, weil jede Wiederholung zwangläufig neue Abweichungen aufweisen muss. Folge bleibt in jedem Fall eine deutlich erhöhte Lernzeit.</p>
+</div>
+<div class="paragraph">
+<p>Neuere Lernverfahren wie das differenzielle Lernen (siehe (<a href="#InVP">Schöllhorn&#44; 1999</a>)) gehen davon aus, dass eine Verstärkung der ohnehin auftretenden Fluktuationen im Lernprozess eine leistungssteigernde Wirkung besitzen.</p>
+</div>
+<div class="paragraph">
+<p>Wir wollen daher keine ideale Zieltechnik vorgeben, sondern mögliche (durchaus weite) Lösungsbereiche suchen, in denen das Training stattfindet. Wir gehen davon aus, dass die Interpolationsfähigkeit des Menschen es ermöglicht, das individuelle Ideal zwischen bekannten Werten zu ermitteln.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_differenzielle_lernmethode">Differenzielle Lernmethode</h3>
+<div class="paragraph">
+<p>Für dieses Training wird der Randbereich des Lösungsraums abgetastet, in dem der Athlet dann situationsbezogen interpoliert.</p>
+</div>
+<div class="paragraph">
+<p>Im gesamten Lernprozess wird keine Aufgabe unverändert wiederholt, sondern der Athlet stets mit neuen Aufgaben konfrontiert. Zentraler Ansatz ist es, den Athleten auf das Neue in verstärkter Form vorzubereiten, weil es ohnehin bei einfacher Wiederholung in abgeschwächter Form auftritt (siehe (<a href="#SDLL">Schöllhorn&#44; 2005</a>)). Es wird also die Anpassungsfähigkeit an neue Aufgaben betont.</p>
+</div>
+<div class="paragraph">
+<p>Ein Aspekt des einschleifenden Lernens ist die hohe Wiederholungszahl. Diese ist tatsächlich für den Lernprozess notwendig, denn nur viele Wiederholungen führen zu relevanten neuroplastischen Änderungen im Gehirn (CITE REQUIRED). Wir wollen unseren SchülerInnen eine für sie neue Technik nur kurz erläutern. Detaillierte Erklärungen und Demonstrationen sollen zugunsten einer hohen Wiederholungszahl und dem Abtasten eines großen Lösungsbereiches zurück stehen.</p>
+</div>
+<div class="paragraph">
+<p>Ständiges Konfrontieren mit neuen Aufgaben ist einer der Kerne der differenziellen Lehrmethode und erlaubt nicht nur die Interpolation und Adaption auf neue Situationen, sondern stellt auch sicher, dass die SchülerInnen ein hohes Maß an Fehlern begehen, die das notwendige Feedback für neuroplastische Adaptionen bereitstellen. Wir orientieren uns an Fehlerquoten &gt;75%.</p>
+</div>
+<div class="paragraph">
+<p>Stabilität im Ganzen wird dabei zum Nebenprodukt, dass durch Anpassungsfähigkeit im Kleinen geschult und erzielt wird.</p>
+</div>
+<div class="paragraph">
+<p>Ein zusätzlicher Vorteil wird beim Lehren von Kindern und Jugendlichen erzielt, die durch fortlaufend ändernde Einflussfaktoren (Wachstum, Änderung der Proportionen, …) ständiger Anpassungen ihrer Technik bedürfen, die zumindest in der Gruppe von einem Lehrenden nicht mehr geleistet werden kann (siehe (<a href="#DLPVSS">Dörner&#44; 2013</a>)).</p>
+</div>
+<div class="paragraph">
+<p>Wichtig dabei ist, dass bei der Umsetzung nicht nur die theoretisch optimale, konkrete Lösung durch Variation gegen andere Lösungen stabilisiert wird. Statt dessen wird ein Lösungsraum umkreist, um auf jeden Fall neue, situativ optimale Lösungen auszuführen.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_effektivität_und_effizienz_der_differenziellen_lehrmethoden">Effektivität und Effizienz der differenziellen Lehrmethoden</h3>
+<div class="paragraph">
+<p>In verschiedenen Sportarten wurde die differenzielle Lehrmethode mit Erfolg angewandt. Zu einer ganzen Reihe davon sind Studien veröffentlicht. So im Fußball (siehe (<a href="#DLiSc">Trockel&#44; 2003</a>)), Kugelstoßen (siehe (<a href="#DLiSP">Beckmann&#44; 2003</a>)), Golf (siehe (<a href="#MTSG">Winkler&#44; 2012</a>)), Tennis (siehe (<a href="#DLTTA">Wittmann&#44; 2010</a>)), Handball (siehe (<a href="#WHBAT">Grüblinger&#44; 2007</a>)), Volleyball (siehe (<a href="#DLeiVb">Schwab&#44; 2009</a>)), Radsport (siehe (<a href="#VBDTR">Bauer&#44; 2013</a>)), Ausdauertraining (siehe (<a href="#DAVNW">Auer&#44; 2007</a>))</p>
+</div>
+<div class="paragraph">
+<p>In allen untersuchten Fällen wurde die Vorhersage größerer Effektivität des differenziellen Lernansatzes durch Verstärkung des Rauschens bei Anfängern und Fortgeschrittenen bestätigt (signifikant bis hoch signifikant, p=0,02 bis 0,04).</p>
+</div>
+<div class="paragraph">
+<p>Schon am Ende der untersuchten Interventionen wird der Vorteil gegenüber anderen Ansätzen messbar. Bei Retentionstests ist nicht nur ein geringerer Leistungsrückgang zu messen, sondern im Gegensatz dazu sogar Leistungssteigerungen nachgewiesen.</p>
+</div>
+<div class="paragraph">
+<div class="title">Darstellung  der  Integration  aller  Lerntheorien  mit  Hilfe  des  Parameters  „Rauschen“ (aus cite:[SPAFESA])</div>
+<p><span class="image"><img src="int-lernm.png" alt="int lernm"></span></p>
+</div>
+<div class="paragraph">
+<p>Bei der Auswahl geeigneter Lernverfahren für Training im Verein ist die Anwendbarkeit in großeren Gruppen. Dabei ist davon auszugehen, dass jeder Lernende ganz eigene, unterschiedliche Voraussetzungen mitbringt, die jeweils zu unterschiedlichen Leistungsoptima führen muß.</p>
+</div>
+<div class="paragraph">
+<p>Hier kann differenzielles Lernen Vorteile bieten.</p>
+</div>
+<div class="paragraph">
+<p>Werden einer Gruppe 5 Übungen angeboten, ist die Wahrscheinlichkeit, die Voraussetzungen aller Gruppenmitglieder zu treffen deutlich geringer, als wenn 60 Übungen angeboten werden.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_die_rolle_des_trainers_in_differenziellen_lernen">Die Rolle des Trainers in differenziellen Lernen</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Eine der Grundlagen des differenziellen Lernens ist die Annahme, dass jeder Mensch die Fähigkeit mitbringt, funtionale Bewegungen selbständig zu erlernen und zu optimieren. Obwohl dieses Verständnis im Kern von den meisten Lehrenden geteilt wird, ist zu beobachten, werden darauf basierende Ansätze kaum in der Trainingspraxis angenommen.</p>
+</div>
+<div class="paragraph">
+<p>Viele Lehrende sind der Ansicht, dass mit selbstorganisierendem Lernen die Figur des Lehrenden überflüssig werde. Tatsächlich ist das Gegenteil der Fall.</p>
+</div>
+<div class="paragraph">
+<p>Zunächst ist wichtig zu Erwähnen, dass das „klassische“ programmtheoretische Lehren und Lernen gegenüber aus Sicht des differenziellen Lernens nicht falsch oder schlecht ist. Es basiert lediglich auf einem anderen Grundsatz und führt letztlich ebenfalls zum Erfolg. Zahlreiche jüngere Studien haben aber gezeigt, dass durch differenzielles Lernen schnellere und stabilere Erfolge erreicht werden, bei gleichzeitig höherer Motivation der Lernenden.</p>
+</div>
+<div class="paragraph">
+<p>Klassisch wird dem Trainer oft die Führungsrolle im Trainings- und Wettkampfprozess zugeschrieben. Er soll ebenfalls wichtigste Bezugsperson des Lernenden sein (siehe (<a href="#BBFTMG">Barth&#44; 2005</a>)). Auch dort soll, bereits beginnend im Nachwuchstraining, den Lernenden eine Mitwirkung und kritische Auseinandersetzung mit den Inhalten des Trainings nahegelegt werden. Sie ist Grundlage des sportlichen Erfolgs (ebenfalls aus (<a href="#BBFTMG">Barth&#44; 2005</a>)). Differenzielles Lernen verschiebt nun einen weiteren Teil des Lernwegs zum Lernenden, indem die genaue Vorgabe der Zieltechniken  hin zu einer Definition des Lösungsbereichs verschoben wird.</p>
+</div>
+<div class="paragraph">
+<p>Im Technikerwerb besteht für den Lehrenden die Herausforderung daraus, Bewegungsaufgaben auszuwählen, die ausreichende Differenzen aufweisen, aber weiterhin einen Bezug zur theoretisch optimalen Bewegungsausführung zu erhalten. Dabei sollen bewusst auch wohl bekannte Fehler integriert, um neuronale Plastizität zu provozieren.</p>
+</div>
+<div class="paragraph">
+<p>Damit verschiebt sich einige Aufgaben des Lehrenden und der Einsatz der genutzten Lehrmittel und -Methoden, einige bleiben aber auch erhalten:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Die Auswahl der zu Lernenden Inhalte nach Leistungsstand und Erfahrung der Lernenden bleibt erhalten. Es soll lediglich früher Neues eingeführt werden: Neue Elemente sollen bereits eingeführt werden, bevor Bekanntes sicher beherrscht wird (siehe (<a href="#LSmMR">Heymen&#44; 1986</a>)).</p>
+</li>
+<li>
+<p>Stellen von Bewegungsaufgaben löst die Vorgabe von Ziel-Techniken ab. Gewünschte Ziel-Techniken werden nicht mehr im Detail erklärt, sondern der übliche Lösungsraum skizziert und unter der Nutzung von Varianten möglichst ohne Korrekturen und Hilfestellungen abgetastet. Korrekturen sollen aber dann erfolgen, wenn die durch den Lernenden gewählte Lösung den Regeln des Sports widerspricht oder Verletzungsgefahr besteht.</p>
+</li>
+<li>
+<p>Korrekturen lösen Stress im Gehirn aus, vermindern dabei die Lernrate und reduzieren das Maximalkraftniveau deutlich. Es wird davon ausgegangen, dass der Lernende ausreichend Variationen angeboten bekommt, dass die für ihn optimale Bewegungsausführung angepasst an die Situation erlernt wird.</p>
+</li>
+<li>
+<p>Das Erkennen und Auflösen von physischen Defiziten, die die erfolgreiche Ausführung eines Technik-Elements verhindern, bleibt vollumfänglich erhalten.</p>
+</li>
+<li>
+<p>Die Zeitaufteilung im Techniktrainings verschiebt sich: im klassischen Training ist das Erklären, Erläutern und Korrigieren ein großer Block und macht oft gut die Hälfte der Trainingszeit aus. Es ist statt dessen anzustreben, dass die Lernenden den größten Teil der Zeit selbst aktiv sind. Die tatsächliche Bewegungsausführung im Lösungsbereich soll im Bereich von 90% der Zeit liegen. Dafür muss eine Ansprache gefunden werden, die eine effiziente Kommunikation von Erwartetem vom Lehrenden zu den Lernenden ermöglicht.</p>
+</li>
+<li>
+<p>Anreize zur Selbstoptimierung setzen und Verhindern, dass Lernende die Variabilität ihrer Bewegungsausführung zu stark vermindern.</p>
+</li>
+<li>
+<p>Begrenzung der sequenziellen Differenzen: Freie Bewegungen und einfaches „Trial-And-Error“ sind nicht ziele des differenziellen Lernens. Dieses Lernen hat im Einsteiger-Bereich Sinn und Berechtigung, reicht jedoch bei steigendem Niveau nicht mehr aus. Der Lehrende muss trotz aller Freiheitsgrade dafür sorgen, dass die Lernenden die Systematik einhalten.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_umsetzungsprinzipien">Umsetzungsprinzipien</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Die Methodik des differenziellen Lernens ist auf unterschiedlichste Bereiche erfolgreich anwendbar. Das reicht von den bereits erwähnten Studien in verschiedenen Einzel- und Mannschaftssportarten über Ausdauer- und Krafttraining bis hin zum Koordinationstraining ([TKFDL]).</p>
+</div>
+<div class="paragraph">
+<p>Die Umsetzung basiert auf dem Prinzip der Variation (nach [BWADLS]):</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Orientierung am individuellen Lösungsbereichs</p>
+</li>
+<li>
+<p>Stabilität durch Variabilität/Einmaligkeit</p>
+</li>
+<li>
+<p>Parameter-Variation, einschließlich Kontrastbildung im Bereich der „Invarianten“</p>
+</li>
+<li>
+<p>Fehler als notwendige Voraussetzung des Lernens</p>
+</li>
+<li>
+<p>Selbstoptimierung</p>
+</li>
+<li>
+<p>selbstorganisierender, nicht-linearer Lernvorgang</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Dabei wird auch der klassische Ansatz der Methodischen Reihen (z.B. nach [LSmMR]) aufgelöst: Im geblockten Ansatz wird jede Übung z.B. 10 Mal hintereinander ausgeführt, bevor zur nächsten fortgeschritten wird. Im systemdynamischen Ansatz wird die Reihenfolge zufällig geändert. Sind in klassisch geblockten Ansatz nur zu Beginn einer neuen Übung größere Anpassungen nötig, variiert dann die Anzahl und Größe der Anpassungen und führt zu einem schnelleren Erfassen und Lernen der Inhalte. Zusätzlich steigt die Abwechslung für die Lernenden und damit die Motivation zur Teilnahme.</p>
+</div>
+<div class="paragraph">
+<p>Schon [BBFTMG] verweist darauf, dass das „selbständige Üben“ das Grundverfahren beim Erlernen und Trainineren der (Technik-)Elemente darstellt. Mit differenzieller Lernmethode sollen in den Übungen die Variationen bewusst vergrößert und keine Wiederholungen mit identischen Parametern durchgeführt werden. Variiert werden können z.B. (wieder nach [BWADLS]):</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Bewegungsausführung</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Anfangs-, Endbedingungen</p>
+</li>
+<li>
+<p>räumliche Ausführung</p>
+</li>
+<li>
+<p>räumlich-zeitliche Ausführung (Geschwindigkeit)</p>
+</li>
+<li>
+<p>dynamische Ausführung (Beschleunigung)</p>
+</li>
+<li>
+<p>zeitliche Ausführung (Rhythmus)</p>
+</li>
+<li>
+<p>Umfang</p>
+</li>
+<li>
+<p>Dauer</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Sinneswahrnehmungen (Einschränkungen, Verstärkung)</p>
+</li>
+<li>
+<p>Materialien, Geräte</p>
+</li>
+<li>
+<p>Untergrund, Gelände</p>
+</li>
+<li>
+<p>Rahmenbedingungen, Regeln</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Dabei dürfen die Anpassungen bis in den Programmbereich hinein reichen, also die Technik selbst verändern, z.B. den Ausschluss eines Körperteils oder bewusst „falsche“ Technik.</p>
+</div>
+<div class="paragraph">
+<p>In der Gruppe sollen auch offene Spiel- und Übungsformen und forschendes Lernen eingesetzt werden (z.B. nach [DSSvV]).</p>
+</div>
+<div class="sect2">
+<h3 id="_umsetzung_der_variation_in_der_sportart_fechten">Umsetzung der Variation in der Sportart Fechten</h3>
+<div class="paragraph">
+<p>In der Sportart Fechten können alle Parameter variiert werden, solange sie sich innerhalb der vom Reglement erlaubten bewegen und nicht zu vermeidbaren Verletzungsrisiken führen. Bei Variationen außerhalb des Bereichs des Reglements ist darauf zu achten, dass eine prinzipielle Ähnlichkeit erhalten bleibt: Variationen weit außerhalb des möglichen Lösungsbereichs fallen weg.</p>
+</div>
+<div class="paragraph">
+<p>Prinzipiell bieten sich folgende Variationsmöglichkeiten im Techniktraining an:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Unterschiedliche Körperpositionen (normal, tief, geduckt, vor-/zurück geneigt, …)</p>
+</li>
+<li>
+<p>Unterschiedliche Hand- und Waffenhaltungen (Auslagen, Drehung der Hand, Griffart an der Waffe, Griffstärke, …)</p>
+</li>
+<li>
+<p>Unterschiedliche Ausgangs-Bewegungsart (stehend, im Vorrücken, im Zurückweichen, im Sprung, …)</p>
+</li>
+<li>
+<p>Unterschiedliche Geschwindigkeiten (langsam, schnell, submaximal, maximal, …)</p>
+</li>
+<li>
+<p>Unterschiedliche Beschleunigung (konstant, beschleunigt, verzögert, umkehrend, &#8230;&#8203;)</p>
+</li>
+<li>
+<p>Unterschiedliche Gelenkstellungen (gebeugt, gestreckt, getreckter Arm, angewinkelter Arm, …)</p>
+</li>
+<li>
+<p>Unterschiedliche Muskelspannung</p>
+</li>
+<li>
+<p>Unterschiedliche Fußstellung</p>
+</li>
+<li>
+<p>Unterschiedlicher Rhythmus, Schrittzahl, …</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>Um eine komplexe Technik zu erlernen, sollen pro Training nicht mehr als 60 Aktionen (jeweils unterschiedliche Variations-Kombinationen) bei 2 bis max. 3 Trainingseinheiten pro Woche absolviert werden. Spätestens dann soll die trainierte Bewegung gewechselt werden. Die Komplexität soll während einer Trainingseinheit gesteigert werden.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_technik_training">Technik-Training</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_training_der_körperbewegungen_im_fechtsport">Training der Körperbewegungen im Fechtsport</h3>
+<div class="paragraph">
+<p>Für das Training von Körperhaltung und Körperbewegung im Fechtsport ergeben sich eine Reihe von Problemen. Zum einen fällt auf, dass bereits die Grundstellung, wie sie klassisch bspw. In (<a href="#BBFTD">Kaspar&#44; 2005</a>) gelehrt wird, bei der Auswertung von Top-Athleten nicht vorzufinden ist.</p>
+</div>
+<div class="paragraph">
+<p>Verschiedene „Stile“ resultieren bei allen Fechtern in sehr unterschiedlichen Lösungen bezüglich Kraft, Geschwindigkeit, Beschleunigung, Haltung und Energieaufwand (siehe (<a href="#SFIPIP">Roi &amp; Bianchedi&#44; 2008</a>)). Diese sind nicht nur abhängig von Anthropometrie und Trainingsstand, sondern immer auch von konkreten fechterischen Situationen, die einer angepassten Lösung bedürfen.</p>
+</div>
+<div class="paragraph">
+<p>Besonders für Heranwachsende ist das Bewegungstraining einer Herausforderung, da sich ständig änderne Hebel, Proportionen und Kraftverhältnisse eine ständige Anpassung der notwendigen Technik bedingen.</p>
+</div>
+<div class="paragraph">
+<p>Ziel des Trainings der Körperbewegungen muss deswegen immer sein, dem Athleten Stabilität bei der Anpassung und Adaption seiner Bewegungen an neue Situationen zu ermöglichen.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_beinarbeit">Beinarbeit</h3>
+<div class="paragraph">
+<p>Klassische Beinarbeit „auf Ansage“ und ohne Variantenvorgaben, gezielt auf die Einhaltung einer Zieltechnik, erzielt schon nach kürzester Zeit keinen technischen Lerneffekt mehr und sollte höchstens untergeordnet eingesetzt werden (siehe (<a href="#ErlFe">Molter&#44; 2006</a>)), bspw. als Aufwärm- oder Stärkungsübung.</p>
+</div>
+<div class="paragraph">
+<p>Stattdessen können alle Methoden der Beinarbeit, bspw. aus (<a href="#ErlFe">Molter&#44; 2006</a>), Kap. 4.3 eingesetzt werden.</p>
+</div>
+<div class="paragraph">
+<p>Entsprechend dem differenziellen Lehren und Lernen sollen dabei aber:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Keine Korrekturen erfolgen, weder einzeln noch in die Gruppe.</p>
+</li>
+<li>
+<p>Jeweils eine Menge von Varianten vorgegeben werden (Körperposition, Geschwindigkeiten, …)</p>
+</li>
+<li>
+<p>Keine Übung ohne Änderung wiederholt werden.</p>
+</li>
+<li>
+<p>Spätestens nach wenigen Minuten eine komplett neue Bewegungsaufgabe in die Gruppe gegeben werden (dabei empfiehlt es sich aber auf Zeitgründen, evtl. eingesetzte Trainingsmittel nicht auszutauschen).</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Zur Selbstüberprüfung der eigenen Technik sollen den Lernenden gelegentlich spielerische Wettkampf-Formen angeboten werden. Diese sollen auf externe Qualitäten (Geschwindigkeit, erzielte Präzision beim Erreichen einer Position, Treffgenauigkeit aus der Bewegung, …) statt auf interne Qualitäten („schöne Bewegungsausführung“, „tiefe Position“, …).</p>
+</div>
+<div class="sect3">
+<h4 id="_der_ausfall">Der Ausfall</h4>
+<div class="paragraph">
+<p>Als eines der grundlegenden Elemente der fechterischen Bewegungen kommt dem Ausfall eine große Bedeutung zu. Er wird in unzähligen Veröffentlichungen im Details beschrieben, bspw. In  (<a href="#ErlFe">Molter&#44; 2006</a>). Die tatsächlich von Sportlern durchgeführte Bewegung weicht von der Beschreibung nahezu immer ab. Das betrifft sowohl die Ausgangsposition, bei der deutlich mehr Gewicht auf dem vorderen Fuß lastet (siehe (<a href="#KDSFL">Stewart &amp; Kopetka&#44; 2005</a>)), als auch die Fussbewegung, bei der in allen beobachteten Fällen die vordere Ferse zuerst den Boden verlässt (siehe (<a href="#KALFS">Gholipour et al.&#44; 2008</a>)).</p>
+</div>
+<div class="paragraph">
+<p>Der zu trainierende Lösungsbereich könnte so eingeschränkt werden:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Ausgangspunkt ist eine Fechtstellung im Rahmen der gültigen Parameter oder einer Position, die aus regelkonformen Aktionen erreicht werden kann.</p>
+</li>
+<li>
+<p>Ziel ist es, mit der Spitze der eigenen Waffe einen entfernten Punkt möglichst schnell zu treffen.</p>
+</li>
+<li>
+<p>Dabei soll der vordere Fuß explosionsartig weiter nach vorne gebracht werden.</p>
+</li>
+<li>
+<p>Dabei soll kein Überkreuzen der Füße erfolgen und die Bewegung soll danach beendet sein (Abgrenzung zum Fléche und zum Säbel-spezifischen „Flunge“).</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Alle anderen Parameter sollen teil der zu trainierenden Variationen sein. Das betrifft insbesondere, aber nicht ausschließlich: die Reihenfolge der Arm- und Beinbewegung; die Beschleunigung/Verzögerung bei der Ausführung; die Fußstellung vor, während und nach der Ausführung; die Arm- und Handlage während der Ausführung. Dabei ist besonders bei der Vorgabe der Fußstellung darauf zu achten, dass Verletzungs-treibende Vorgaben unterbleiben (bspw. darf das Knie nicht nach innen fallen).</p>
+</div>
+<div class="paragraph">
+<p>Der Ausfall kann auch mit Partnerübung trainiert werden. Dort ist auch die Reaktion auf gegnerische Störungen während des Ausfalls trainierbar.</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_stoß_und_treffbewegungen">Stoß- und Treffbewegungen</h3>
+<div class="paragraph">
+<p>Die maßgeblichen Einflussfaktoren, die über erfolgreiches Treffen gewünschter Zielregionen entscheiden, sind bislang größtenteils unerforscht. Es gibt nur wenige durch Studien gesicherte Ergebnisse.</p>
+</div>
+<div class="paragraph">
+<p>Beispielsweise ist bekannt, dass die Technik für Würfe nicht mit denen der Handführung bei Treffbewegungen im Fechten korrelieren (siehe (<a href="#KCLFEF">Bober et al.&#44; 2016</a>)). Weiter ist bekannt, dass selbst während eines Ausfalls oder Fléche die Zeit bis zum Aufkommen des Treffers (500-600ms, aus (<a href="#FLOFT">Borysiuk et al.&#44; 2019</a>)) ausreicht, um das Ziel zu erfolgreich zu ändern (200ms, aus (<a href="#ACOAEF">Zeuwts et al.&#44; 2018</a>)).</p>
+</div>
+<div class="paragraph">
+<p>Die reine Stoß- und Treffbewegung lässt sich durch variable Stoßübungen trainieren. Gerade dabei ist die Variabilität einer der wichtigsten Faktoren, denn Treffbewegungen müssen aus unterschiedlichsten Situationen und Körper-/Handhaltungen sicher und schnell erfolgen können.</p>
+</div>
+<div class="paragraph">
+<p>Für Stoßübungen bietet es sich an, die Übungen in kurzen Blücken durchzuführen: Es werden bezüglich einer Größe über mehrere Übungen mehrere Variationen ausgeführt (z.B. in Folge sechs verschiedene Treffer-Flächen; vier verschiedene Ausgangs-Klingenlagen). Dazu wird jeweils eine Kombination aus Variationen hineingegeben (z.B. Ausführung mit Schritt vor, Treffbewegung verlangsamend und ein Auge geschlossen).</p>
+</div>
+<div class="paragraph">
+<p>Als Hilfmittel können z.B. dienen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Markierungen auf dem Boden, mit dem unterschiedliche Fußpositionen erwürfelt werden können</p>
+</li>
+<li>
+<p>Unterschiedliche „Waffen“, z.B. Rohre, Holzstecken, Schlauchstücke</p>
+</li>
+<li>
+<p>bewegliche Ziele, z.B. schwingende Bälle, Stoß auf Tischtennisbälle, die in ein Tor befördert werden</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Eine Durchführung auf Zeit oder auf die meisten Treffer pro Versuch in Kleingruppen hat sich bewährt.</p>
+</div>
+<div class="paragraph">
+<p>Um wechselnde Ziele vorzugeben, können diese vorgeplant werden. Alternativ werden sie angezeigt, z.B. mittels Fencing Hit Target oder Laserpointer.</p>
+</div>
+<div class="paragraph">
+<p>Klingenaktionen können ebenfalls geübt werden, indem in Kleingruppen Gegner neben das Ziel postiert werden. Ein Stoßtraining mit Person als Ziel hat sich dagegen nicht bewährt, da die Abneigung, ggf. schmerzhaft zu treffen oder getroffen zu werden, kaum konzentriertes Training ermöglicht.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_technisches_lektionstraining">Technisches Lektionstraining</h2>
+<div class="sectionbody">
+
+</div>
+</div>
+<div class="sect1">
+<h2 id="_technische_partnerübungen">Technische Partnerübungen</h2>
+<div class="sectionbody">
+
+</div>
+</div>
+<div class="sect1">
+<h2 id="_taktiktraining">Taktiktraining</h2>
+<div class="sectionbody">
+
+</div>
+</div>
+<div class="sect1">
+<h2 id="_agilitätstraining">Agilitätstraining</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Kraft-, Kraft-Ausdauer und kardiovaskuläre Fitness sind verhältnismäßig einfach zu trainieren und eine Erhebung des Trainingsstands ist vergleichsweise einfach.</p>
+</div>
+<div class="paragraph">
+<p>Spezielles Agilitätstraining ist wesentlich komplizierter anzulegen, zum großen Teil, weil vergleichende Tests viel schwieriger durchzuführen sind.</p>
+</div>
+<div class="paragraph">
+<p>In Kampfsportarten wird Agilität zum größten Teil durch das Ausüben des Sports selbst trainiert. Dabei müssen wir die Geschwindigkeit und Qualität der Entscheidungsprozesse genauso verbessern wie physische Faktoren und die notwendigen Techniken.</p>
+</div>
+<div class="paragraph">
+<p>Kein noch so großer Anteil an Koordinationsleiter-Training wird die Sportler in ihrer Sportart agiler machen, auch wenn die so eingeübte Koordination und Beweglichkeit aus Sportart-übergreifender Sicht ein erstrebenswertes Ziel darstellt.</p>
+</div>
+<div class="paragraph">
+<p>Um Agilität im Kampfsport zu trainieren, ist zunächst zu verstehen, was genau Agilität in diesem Kontext bedeutet. Basierend auf dem, was in vielen Trainingsbüchern, Lehrgängen und Youtube-Videos vermittelt wird, scheinen nur wenige Lehrende und Athleten wirklich zu vestehen, was Agilität bedeutet.</p>
+</div>
+<div class="sect2">
+<h3 id="_definition_agilität">Definition "Agilität"</h3>
+<div class="paragraph">
+<p>In einem älteren Video, einem UFC Countdown, wurde berichtet, dass einer der Athleten einen Agilitätstrainer beschäftigte. Der ließ den Sportler Tennisbälle fangen, die von hinter seinem Rücken gegen eine Wand vor ihm geworfen wurden. Er musste Einheiten an der Agilitätsleiter bewältigen und an der Langhantel zwischen Ober- und Untergriff wechseln.</p>
+</div>
+<div class="paragraph">
+<p>Warum wird das als Agilität bezeichnet?</p>
+</div>
+<div class="paragraph">
+<p>Und natürlich haben wir alle Tausende von Videos gesehen, bei denen Leiter- und Hütchenparcours so schnell abgespult werden, als würden wir sie in doppelter Geschwindigkeit sehen.</p>
+</div>
+<div class="paragraph">
+<p>Warum diese Hindernis-Parcours?  „Schnelle Füße“ scheint keine ausreichende Erklärung zu sein.</p>
+</div>
+<div class="paragraph">
+<p>Um wirklich effektiv zu trainineren, müssen wir erklären, was Agilität im Bereich Kampfsport wirklich bedeutet.</p>
+</div>
+<div class="paragraph">
+<p>Agilität im Kampfsport ist die Fähigkeit, Kontrolle über die Körperposition und -Haltung zu behalten, wenn sich Geschwindigkeit oder Richtung der Bewegungen als Antwort auf einen Sport-spezifischen Reiz schnell verändert.</p>
+</div>
+<div class="paragraph">
+<p>Entscheidend dabei ist der „sportspezifische Reiz“ und das müssen wir für die folgenden Kapitel im Kopf behalten.</p>
+</div>
+<div class="paragraph">
+<p>Oft erwähnt ist der Begriff der „reaktiven Agilität“. Basierend auf der hier genutzten Definition ist aber alle Agilität immer reaktiv und deswegen im Zusammenhang mit Agilität redundant und kann entfallen.</p>
+</div>
+<div class="paragraph">
+<p>Agilität im Kampfsport kann offensiv oder defensiv gerichtet sein. Im Fechtsport könnte offensive Agilität es ermöglichen, erfolgreich Gegenangriffe durchzuführen. Defensive Agilität ermöglicht es, eine Abwehr zu Umgehen und den eigenen Angriff erfolgreich zu beenden.</p>
+</div>
+<div class="paragraph">
+<p>Es ist wichtig im Kopf zu behalten, dass Fechter – wie die meisten Kampfsportler – die meiste Zeit gleichzeitig Angriffs- und Verteidigungsverhalten zeigen müssen.</p>
+</div>
+<div class="paragraph">
+<p>Schon beim ersten Betrachten eines Gefechts ist offensichtlich, dass nichts davon aussieht wie das Fangen eines Tennisballs oder das Rennen durch eine Koordinationsleiter.</p>
+</div>
+<div class="paragraph">
+<p>Agilität kann offen oder geschlossen auftreten. Offen bezeichnet dabei, dass eine freie Antwort auf einen Umgebungsreiz erfolgte. Geschlossen bedeutet, dass das entsprechende Maneuver vorab geplant war.</p>
+</div>
+<div class="paragraph">
+<p>Die Beispiele am Anfang des Kapitels fallen in den Bereich der geschlossenen Agilität. Ärgerlicherweise sind sie nicht in Kampfsituationen übertragbar und helfen deswegen Sportart-spezifisch nicht weiter. Es gibt aber auch geschlossene Agilitätsübungen, die helfen.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_erfahrungen_in_anderen_kampfsportarten">Erfahrungen in anderen Kampfsportarten</h3>
+<div class="paragraph">
+<p>Sichten wir die Literatur zum Thema Agilität und &lt;beliebige Kampfsportart&gt;, dann sind nur wenige Veröffentlichungen zu finden, meistens im Bereich Tae-Kwon-Do und Karate. Sichtet man diese Fachartikel, dann wird schnell klar, dass es sich fast ausschließlich im geschlossene Agilitätstests handelt, bei denen auf Reize geantwortet wird, die nicht Sportart-spezifisch sind (<a href="#FARB">Sienkiewicz-Dianzenza &amp; Maszczyk&#44; 2019</a>), (<a href="#PTAGTA">Singh et al.&#44; 2015</a>).</p>
+</div>
+<div class="paragraph">
+<p>Tatsächlich vergleichen einige Artikel lediglich Athleten verschiedener Sportarten bezüglich ihrer Reaktionszeiten und erreichten Werte in vordefinierten Tests (<a href="#APADSS">Zemková &amp; Hamar&#44; 2014</a>), (<a href="#DCRTV">Zemková&#44; 2016</a>).</p>
+</div>
+<div class="paragraph">
+<p>Dabei erfahren wir zwar, wie schnell sich die Athleten bewegen können, aber wir erfahren wenig darüber, wie agil sie in ihrer jeweiligen Kampfsportart agieren.</p>
+</div>
+<div class="paragraph">
+<p>Um herauszufinden, warum das so ist, loht sich ein Blick in die Invasionssportarten (Fußball, Rugby, American Football, Basketball, …): Hier ist Agilität deutlich besser untersucht, weil hier in jedem Spiel hunderte von Agilitätsmaneuvern in den unterschiedlichsten Szenarion auftreten.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_agilität_im_kampfsport_näher_betrachtet">Agilität im Kampfsport, näher betrachtet</h3>
+<div class="paragraph">
+<p>Betrachtet man Agilitäts-Tests aus anderen Sportarten, dann wird dort tatsächlich die Geschwindigkeit der Richtungsänderungen gemessen (change of direction speed, CODS). Dabei weiß der Athlet, wo, wann und wie die entsprechende Änderung durchgeführt werden soll.</p>
+</div>
+<div class="paragraph">
+<p>Nun sind aber CODS und Agilität unterschiedliche Fertigkeiten. In (<a href="#ACIS">Young et al.&#44; 2015</a>) zeigt der Autor, einer der führenden Agilitäts-Experten, in einer Metastudie, dass CODS und Agilität nur zu 21% korreliert sind.</p>
+</div>
+<div class="paragraph">
+<p>Da die Korrelation unter 0.5 liegt, sind CODS und Agilität unabhängig voneinander. Oder anders ausgedrückt: Schnell zu sein und seine Geschwindigkeit und Richtung schnell ändern zu können, heißt nicht, auch erfolgreich und schnell auf Sportart-spezifische Reize reagieren zu können, um beispielsweise Angriffen ausweichen zu können.</p>
+</div>
+<div class="paragraph">
+<p>Wir wissen daher, dass Agilität mehr als nur ein physisches Können ist, sondern aus zwei Komponenten besteht:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Kognitive Faktoren</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Antizipation</p>
+</li>
+<li>
+<p>Visuelle Auswertung</p>
+</li>
+<li>
+<p>Wissen über die Situation</p>
+</li>
+<li>
+<p>Mustererkennung</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Physische Faktoren</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Techniken</p>
+</li>
+<li>
+<p>Reaktive Kraft</p>
+</li>
+<li>
+<p>Konzentrische Kraft</p>
+</li>
+<li>
+<p>Anthropometrie</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Oder einfacher: Kognitive Fertigkeiten bezeichnen die Fähigkeit, schnell die richtige Entscheidung zu treffen.</p>
+</div>
+<div class="paragraph">
+<p>Um ausgeprägte agile Fertigkeiten zu besitzen, müssen Entscheidungs-Geschwindigkeit und physische Fertigkeiten beide auf hohem Niveau beherrscht werden.</p>
+</div>
+<div class="paragraph">
+<p>Gerade erstes wird nicht trainiert, wenn wir lektionieren oder definierte Übungen durchführen, sondern nur dann, wenn wir schnell auf unbekannte gegnerische Aktionen antworten müssen.</p>
+</div>
+<div class="paragraph">
+<p>In den meisten Team-Sportarten ist fast immer klar, wer gerade Angreifer ist und wer Verteidiger. In Kampfsportarten hingegen ist jeder Athlet fast immer gleichzeitig beides. Deswegen sind die Denkprozesse zwischen den diesen Sportart-Gruppen nur sehr beschränkt übertragbar.</p>
+</div>
+<div class="paragraph">
+<p>Die richtige Antwort auf eine gegnerische Aktion zu finden, wird nur gelingen, wenn der Athlet ausreichend erfahren ist und genügend ähnliche Szenarios immer wieder erlebt hat und in der Lage war, sie irgendwann erfolgreich zu lösen.</p>
+</div>
+<div class="paragraph">
+<p>Das heißt, wenn die Athleten in der Lage sind, durch ihre Erfahrung ähnlicher Situationen zu antizipieren, was passieren wird, indem sie passende Muster wahrnehmen, die sie zu korrekten Lösungen führen.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_wie_unterscheiden_sich_top_athleten_von_durchschnittlichen">Wie unterscheiden sich Top-Athleten von durchschnittlichen?</h3>
+<div class="paragraph">
+<p>Um herauszufinden, ob wie wichtig eine Fertigkeit für eine Sportart ist, kann man durchschnittliche Athleten mit Top-Athleten der entsprechenden Sportart vergleichen. Wenn die Top-Athleten die Fertigkeit in Tests signifikant besser beherrschen, dann besteht eine hohe Wahrscheinlichkeit dafür, dass diese Fähigkeit wichtig ist.</p>
+</div>
+<div class="paragraph">
+<p>Leider konnte ich im Bereich der Kampfsportarten keine derartigen Vergleiche im Bereich der Agilität finden, so dass ein Rückgriff auf die Forschungen im Bereich der Team-Sportarten nötig wird.</p>
+</div>
+<div class="paragraph">
+<p>In Netball- und Rugby-Liegen hatten höherklassige Athleten deutlich höhere Entscheidungs-Geschwindigkeiten in Reaktion zu Sportart-spezifischen Reizen als durchschnittliche Athleten (siehe (<a href="#DTRAN">Farrow et al.&#44; 2005</a>), (<a href="#RARLP">Gabbett &amp; Benton&#44; 2008</a>)). Im Australischen Football sind professionelle Spieler deutlich schneller und präziser in der Entscheidungsfindung , wenn sie auf Richtungsänderungen der Angreifer reagieren (siehe (<a href="#APASA">“Association between Perceptual Agility Skill and Australian Football Performance.&#44;” 2013</a>)).</p>
+</div>
+<div class="paragraph">
+<p>Ähnliche Resultate wurden bei Fußballspielern gefunden: sie reagieren schneller und genauer, wenn sie Paßrichtungen in Eins-zu-Eins-Situationen antizipieren (siehe (<a href="#VSSAE">Williams &amp; Davids&#44; 1998</a>)).</p>
+</div>
+<div class="paragraph">
+<p>Höherklassige Athleten sind außerdem weniger anfällig für Finten (siehe (<a href="#EFRAP">Henry et al.&#44; 2012</a>), (<a href="#ASSDM">Jackson et al.&#44; 2006</a>)).</p>
+</div>
+<div class="paragraph">
+<p>Und auch insgesamt geht hervor: Top-Athleten sind nur dann signifikant besser, wenn es um die Antwort auf Sportart-spezifische Reize geht.</p>
+</div>
+<div class="paragraph">
+<p>Was heißt das für das Training? Reaktive Übungen, z.B. mit Tennisbällen, Koordinationsleitern, Lichtern, o.ä., sind zu allgemein gehalten, um auf die Agilität in der Kampfsportart selber übertragen zu werden. Daraus verweist auch Barth in (<a href="#BBFTMG">Barth&#44; 2005</a>) hin, indem er empfiehlt, bei Übungen auf nicht Sportart-spezifische Signale wie Kommandos, Pfiffe und dergleichen zu verzichten.</p>
+</div>
+<div class="paragraph">
+<p>Agilität muss als offene Fertigkeit mit Sportart-spezifischen Reizen trainiert werden, mit Unterstützung der spezifischen physischen Fertigkeiten.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_agilität_in_kampfsportarten_trainieren">Agilität in Kampfsportarten trainieren</h3>
+<div class="paragraph">
+<p>Wir teilen auf gemäß der oben angeführen Teilkomponenten, in kognitive und physische Fertigkeiten.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_physische_fertigkeiten">Physische Fertigkeiten</h3>
+<div class="sect3">
+<h4 id="_anthropometrie">Anthropometrie</h4>
+<div class="paragraph">
+<p>Ganz allgemein gilt: Je größer ein Athlet ist, desto langsamer bewegt er sich, speziell wenn der Anteil an Muskelmasse zu gering ist. Das Ziel ist es, überflüssiges Gewicht zu reduzieren und den Muskelanteil zu erhöhen.</p>
+</div>
+<div class="paragraph">
+<p>Körpergröße und Länge der Extremitäten sind weitere Faktoren. Es gilt aber auch: Je größer der Athlet ist, desto mehr Fläche ist zu verteidigen, insbesondere bei Ausweichmanövern. Es gibt hier allerdings wenig Möglichkeiten, Einfluss zu nehmen, aber es beeinflusst die Aktionsauswahl.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_reaktive_stärke">Reaktive Stärke</h4>
+<div class="paragraph">
+<p>Reaktive Stärke ist die Fähigkeit, Kraft in einem sehr kurzen Zeitintervall (&lt;250ms) bereitzustellen. Übungen dazu sind unter anderen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Seilspringen</p>
+</li>
+<li>
+<p>Fußgelenksarbeit (siehe (<a href="#SLAS">Schöllhorn&#44; n.d.</a>))</p>
+</li>
+<li>
+<p>Hürdenlauf</p>
+</li>
+<li>
+<p>Liniensprünge</p>
+</li>
+<li>
+<p>Schnelle Hüftwürfe mit dem Medizinball</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_konzentrische_stärke">Konzentrische Stärke</h4>
+<div class="paragraph">
+<p>Bezeichnet die Fähigkeit, Kraft bei hoher Geschwindigkeit auszuüben.</p>
+</div>
+<div class="paragraph">
+<p>Übungen dazu sind unter anderem:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Kastensprünge (auch aus dem Sitzen)</p>
+</li>
+<li>
+<p>Stand-Hochsprünge</p>
+</li>
+<li>
+<p>Sprünge aus der Hocke (auch: mit Zusatzgewicht, aus Schrittstellung)</p>
+</li>
+<li>
+<p>Medizinball-Würfe</p>
+</li>
+<li>
+<p>Laterale Sprünge</p>
+</li>
+<li>
+<p>schnelle Kniebeugen</p>
+</li>
+<li>
+<p>Kreuzheben</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_technik">Technik</h4>
+<div class="paragraph">
+<p>Technische Fertigkeiten sind vermutlich der wichtigste Teil der phyischen Komponente der Agilität. Ziel ist es, den Athleten ein möglichst reichhaltiges Repertoir an Möglichkeiten zu geben, um bei bei Agilitäts-Manövern auswählen zu können.</p>
+</div>
+<div class="paragraph">
+<p>Es ist wichtig, viele verschiedene Angriffs- und Verteidigungsaktionen zu kennen und zu beherrschen. Beherrscht der Athlet nur Paraden, weiß aber nicht, wie Evasionen durchgeführt werden, dann wird er auf viele Angriffe keine adäquate Antwort kennen.</p>
+</div>
+<div class="paragraph">
+<p>Kennt er hingegen auf Gegenangriffe, dann wird er Gelegenheit erkennen, die sonst verborgen bleiben.</p>
+</div>
+<div class="paragraph">
+<p>Das Einüben dieser Techniken kann in geschlossenen Übungen erfolgen, bei denen alles vorab geplant ist. Später, mit steigender Erfahrung, können diese Übungen in eingeschränkte oder freie Kämpfe überführt werden, die dann aber nicht bei 100% stattfinden sollen. Dort werden kognitive Fähigkeiten entwickelt.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_kognitive_fähigkeiten">Kognitive Fähigkeiten</h4>
+<div class="paragraph">
+<p>Agilität ist nicht nur die Geschwindigkeit, mit der Entscheidungen getroffen und umgesetzt werden. Entscheidend ist, dass die Entscheidungen überwiegend richtig getroffen werden. Man kann so schnell reagieren wie man will – wählt man die falsche Aktion, dann wird man getroffen.</p>
+</div>
+<div class="paragraph">
+<p>Die einzelnen Faktoren zur Entscheidungsfindung werden hier nicht einzeln herunter gebrochen, weil sie nicht isoliert trainierbar sind. Sie wirken zusammen, indem die Athleten möglichst unterschiedlichen Szenarien und Kampfsituationen ausgesetzt werden.</p>
+</div>
+<div class="paragraph">
+<p>Indem die Athleten immer wieder einem Kampfsituationen ausgesetzt werden und aus falsch getroffenen Entscheidungen lernen können, führt dazu, dass Muster erkannt, falsche Reaktionen gehemmt und richtige Reaktionen verstärkt werden. Nur so können offene agile Reaktionen trainiert werden.</p>
+</div>
+<div class="paragraph">
+<p>Diese Fertigkeit kann nicht in starren Lektionen vermittelt werden, sondern nur durch Übungskämpfe: leichte Übungskämpfe, aufgabenbezogene Kämpfe oder echte Kämpfe.</p>
+</div>
+<div class="paragraph">
+<p>Echte Kämpfe sind bei Fechtern einfacher möglich als in den meisten anderen Kampfsportarten, weil durch die effektive Schutzkleidung das Verletzungsrisiko minimal ist. Wenn hier die Variabilität der Kampfsituationen gering bleibt oder eine zu geringen Intensität erreicht wird, dann soll auf aufgabenbezogene Kämpfe ausgewichen werden.</p>
+</div>
+<div class="paragraph">
+<p>Aufgabenbezogene Kämpfe können auch eingesetzt werden, indem nur einer der Fechter eine Vorgabe erhält, so dass der andere Fechter die Möglichkeit erhält, unterschiedliche Reaktionen auf sehr ähnliche Aktionen zu erproben.</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_plan_für_agilitätstraining_im_kampfsportart">Plan für Agilitätstraining im Kampfsportart</h3>
+<div class="paragraph">
+<p>Wie klar geworden sein sollte, kann Agilität nicht durch generische Übungen mit einem „Agilitätstrainer“ erlangt werden. Statt dessen wird Agilität zum größten Teil durch das Ausüben des Kampfsports selbst erworben.</p>
+</div>
+<div class="paragraph">
+<p>Dennoch gibt es eine Reihe von Richtlinien, die den Erwerb fördern und beschleunigen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Reaktive und konzentrische Kraft trainieren, 1-2x pro Woche</p>
+</li>
+<li>
+<p>Das offensive und defensive Technik-Arsenal erweitern, in vorgeplanten Übungen (Partner oder Trainer)</p>
+</li>
+<li>
+<p>Soviele echte Kampfsituationen erleben wie möglich, mit einer möglichst großen Bandbreite an Aktionen, die erlebt und durchgeführt werden. Dabei versuchen, mit der eigenen Technik das Problem zu lösen und zu korrigieren, wenn es nicht gelingt.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_literaturverzeichnis">Literaturverzeichnis</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><a id="APASA"></a>Association between perceptual agility skill and Australian football performance. (2013). <em>Journal of Australian Strength and Conditioning</em>, <em>21</em>, 42–42.</p>
+</div>
+<div class="paragraph">
+<p><a id="CLTML"></a>Adams, J. A. (1971). <em>Closed-loop theory of motor learning</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="DAVNW"></a>Auer, M. (2007). <em>Differenzielles Ausdauertraining. Vergleich von klassischem Ausdauertraining mit Ausdauertraining nach systemdynamischen Ansatz im Nordic Walking</em>. school.</p>
+</div>
+<div class="paragraph">
+<p><a id="SFTA"></a>Bandura, A. (1986). <em>Social fondations of thought and action: A social cognitive theory</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="BBFTMG"></a>Barth, B. (2005). Methodische Grundlagen. In B. Barth &amp; E. Beck (Eds.), <em>Fechttraining</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="VBDTR"></a>Bauer, G. (2013). <em>Veränderung von physiologischen und biomechanischen Parametern durch den Einsatz eines differentiellen Techniktrainings im Radsport.</em> Universität Salzburg.</p>
+</div>
+<div class="paragraph">
+<p><a id="DLiSP"></a>Beckmann, H. (2003). Differenzielles Kugelstoßtraining. <em>Messplätze, Messplatztraining, Motorisches Lernen : Ausgewählte Beiträge ; 5. Gemeinsames Symposium Der Dvs-Sektionen Biomechanik, Sportmotorik Und Trainingswissenschaft ; Universität Leipzig, Sportwissenschaftliche Fakultät, 19. Bis 21. September 2002</em>, S. 108–112.</p>
+</div>
+<div class="paragraph">
+<p><a id="KCLFEF"></a>Bober, T., Rutkowska-Kucharska, A., Jaroszczuk, S., Barabasz, M., &amp; Woźnica, W. (2016). KINEMATIC CHARACTERISATION OF THE LUNGE AND THE FLECHE IN EPEE FENCING: TWO CASE STUDIES. <em>Polish Journal of Sport and Tourism</em>, <em>23</em>, 181–185. <a href="https://doi.org/10.1515/pjst-2016-0023" class="bare">https://doi.org/10.1515/pjst-2016-0023</a></p>
+</div>
+<div class="paragraph">
+<p><a id="FLOFT"></a>Borysiuk, Z., Markowska, N., Konieczny, M., Błaszczyszyn, M., Nikolaidis, P., Kręcisz, K., Knechtle, B., &amp; Pakosz, P. (2019). Flèche versus Lunge as the Optimal Footwork Technique in Fencing. <em>International Journal of Environmental Research and Public Health</em>, <em>16</em>. <a href="https://doi.org/10.3390/ijerph16132315" class="bare">https://doi.org/10.3390/ijerph16132315</a></p>
+</div>
+<div class="paragraph">
+<p><a id="SOTP"></a>Diatschkow, W. M. (1972). <em>Die Steuerung und Optimierung des Trainingsprozesses</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="DLPVSS"></a>Dörner, A. (2013). <em>Differentielles Lernen. (Praxis)</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="DTRAN"></a>Farrow, D., Young, W., &amp; Bruce, L. (2005). The Development of a Test of Reactive Agility for Netball: A New Methodology. <em>Journal of Science and Medicine in Sport / Sports Medicine Australia</em>, <em>8</em>, 52–60. <a href="https://doi.org/10.1016/S1440-2440(05)80024-6" class="bare">https://doi.org/10.1016/S1440-2440(05)80024-6</a></p>
+</div>
+<div class="paragraph">
+<p><a id="AMdL"></a>Fetz, F. (1979). <em>Allgemeine Methodik der Leibesübungen</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="RARLP"></a>Gabbett, T., &amp; Benton, D. (2008). Reactive agility of rugby league players. <em>Journal of Science and Medicine in Sport / Sports Medicine Australia</em>, <em>12</em>, 212–214. <a href="https://doi.org/10.1016/j.jsams.2007.08.011" class="bare">https://doi.org/10.1016/j.jsams.2007.08.011</a></p>
+</div>
+<div class="paragraph">
+<p><a id="KALFS"></a>Gholipour, M., Tabrizi, A., &amp; Farahmand, F. (2008). Kinematics analysis of lunge fencing using stereophotogrametry. <em>World Journal of Sport Sciences</em>, <em>1</em>, 32–37.</p>
+</div>
+<div class="paragraph">
+<p><a id="WHBAT"></a>Grüblinger, T. (2007). <em>Wurftraining im Handball. Die Bewegungsvariabilität durch Anwendung unterschiedlicher Trainingsmethoden</em>. school.</p>
+</div>
+<div class="paragraph">
+<p><a id="MPTHHM"></a>Haken, H., Kelso, J. A. S., &amp; Bunz, H. (1985). <em>A theoretical model of phase transitions in human hand movements</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="MoVaDQO"></a>Hatze, H. (1986). <em>Motion Variability - its Definition, Quantfication and Origin</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="EFRAP"></a>Henry, G., Dawson, B., Lay, B., &amp; Young, W. (2012). Effects of a feint on reactive agility performance. <em>Journal of Sports Sciences</em>, <em>30</em>, 787–795. <a href="https://doi.org/10.1080/02640414.2012.671527" class="bare">https://doi.org/10.1080/02640414.2012.671527</a></p>
+</div>
+<div class="paragraph">
+<p><a id="LSmMR"></a>Heymen, N. (1986). <em>Lernen im Sport mit methodischen Reihen. Analyse, Beurteilung und Empfehlung methodischer Reihen fuer den Schul- und Breitensport</em> (W. Leue, Ed.). Burgbücherei Schneider.</p>
+</div>
+<div class="paragraph">
+<p><a id="ASSDM"></a>Jackson, R., Warren, S., &amp; Abernethy, B. (2006). Anticipation skill and susceptibility to deceptive movement. <em>Acta Psychologica</em>, <em>123</em>, 355–371. <a href="https://doi.org/10.1016/j.actpsy.2006.02.002" class="bare">https://doi.org/10.1016/j.actpsy.2006.02.002</a></p>
+</div>
+<div class="paragraph">
+<p><a id="BBFTD"></a>Kaspar, M. (2005). Das Degenfechten. In B. Barth &amp; E. Beck (Eds.), <em>Fechttraining</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="JDZE"></a>Kimmerle, H. (2000). <em>Derrida - zur Einführung</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="IaA"></a>Köhler, W. (1917). <em>Intelligenzprüfung an Anthropoiden</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="AMAEM"></a>Lashley, K. S. (1917). <em>The accuracy of movement in the absence of excitation from the moving organ</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="HaTra"></a>Martin, D., Carl, K., &amp; Lehnertz, K. (1991). <em>Handbuch Trainingslehre</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="LFEr"></a>Metcalfe, J. (2017). Learning from Errors. <em>Annual Review of Psychology</em>, <em>68</em>, 465–444. <a href="https://doi.org/10.1146/annurev-psych-010416-044022" class="bare">https://doi.org/10.1146/annurev-psych-010416-044022</a></p>
+</div>
+<div class="paragraph">
+<p><a id="ErlFe"></a>Molter, P. (2006). <em>Erlebniswelt Fechten</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="SFIPIP"></a>Roi, G., &amp; Bianchedi, D. (2008). The science of fencing: implications for performance and injury prevention. <em>Sports Medicine (Auckland, N.Z.)</em>, <em>38</em>, 465–481.</p>
+</div>
+<div class="paragraph">
+<p><a id="WVKF"></a>Roth, K. (1989). <em>Wie verbessert man die koordinativen Fähigkeiten?</em></p>
+</div>
+<div class="paragraph">
+<p><a id="LuGed"></a>Schermer, F. J. (1991). <em>Lernen und Gedächtnis</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="STDMSL"></a>Schmidt, R. A. (1975). <em>A Schema theory of discrete motor skill learning</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="DLeiVb"></a>Schwab, R. (2009). <em>Differenzielles Lernen im Volleyball</em>. school.</p>
+</div>
+<div class="paragraph">
+<p><a id="SDLL"></a>Schöllhorn, W. (2005). <em>Differenzielles Lehren und Lernen von Bewegung</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="SLAS"></a>Schöllhorn, W. I. <em>2011</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="IIMSHP"></a>Schöllhorn, W. I., &amp; Bauer, H.-U. (1998). <em>Identifying individual movement styles in high Performance sports by means of self-organizing Kohonen maps</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="InVP"></a>Schöllhorn, W. (1999). Individualität - ein vernachlässigter Parameter? <em>Leistungssport</em>, <em>29</em>(2), S. 5–12. <a href="https://www.iat.uni-leipzig.de/datenbanken/iks/open_archive/ls/lsp99_02_04-12.pdf" class="bare">https://www.iat.uni-leipzig.de/datenbanken/iks/open_archive/ls/lsp99_02_04-12.pdf</a></p>
+</div>
+<div class="paragraph">
+<p><a id="FARB"></a>Sienkiewicz-Dianzenza, E., &amp; Maszczyk, Ł. (2019). The impact of fatigue on agility and responsiveness in boxing. <em>Biomedical Human Kinetics</em>, <em>11</em>, 131–135. <a href="https://doi.org/10.2478/bhk-2019-0018" class="bare">https://doi.org/10.2478/bhk-2019-0018</a></p>
+</div>
+<div class="paragraph">
+<p><a id="PTAGTA"></a>Singh, A., Boyat, A., &amp; Sandhu, J. (2015). Effect of a 6 Week Plyometric Training Program on Agility, Vertical Jump Height and Peak Torque Ratio of Indian Taekwondo Players. <em>Sports and Exercise Medicine - Open Journal</em>, <em>1</em>, 42–46. <a href="https://doi.org/10.17140/SEMOJ-1-107" class="bare">https://doi.org/10.17140/SEMOJ-1-107</a></p>
+</div>
+<div class="paragraph">
+<p><a id="KDSFL"></a>Stewart, S. L., &amp; Kopetka, B. (2005). The kinematic determinants of speed in the fencing lunge. <em>Journal of Sports Sciences</em>, <em>23(2)</em>, 105.</p>
+</div>
+<div class="paragraph">
+<p><a id="DLiSc"></a>Trockel, M. (2003). Differenzielles Torschusstraining im Fußball. <em>Messplätze, Messplatztraining, Motorisches Lernen : Ausgewählte Beiträge ; 5. Gemeinsames Symposium Der Dvs-Sektionen Biomechanik, Sportmotorik Und Trainingswissenschaft ; Universität Leipzig, Sportwissenschaftliche Fakultät, 19. Bis 21. September 2002</em>, S. 102–107.</p>
+</div>
+<div class="paragraph">
+<p><a id="SNANF"></a>Wagner, H., &amp; Blickhan, R. (1999). <em>Stabilizing function of antagonistic neuromusculoskeletal Systems - an analytical investigation</em>.</p>
+</div>
+<div class="paragraph">
+<p><a id="VSSAE"></a>Williams, A., &amp; Davids, K. (1998). Visual Search Strategy, Selective Attention, and Expertise in Soccer. <em>Research Quarterly for Exercise and Sport</em>, <em>69</em>, 111–128. <a href="https://doi.org/10.1080/02701367.1998.10607677" class="bare">https://doi.org/10.1080/02701367.1998.10607677</a></p>
+</div>
+<div class="paragraph">
+<p><a id="MTSG"></a>Winkler, B. (2012). <em>Vergleich unterschiedlicher Methoden im Techniktraining der Sportart Golf. Differenzielles Lernen vs. Gerätegestütztes Feedbacktraining</em>. school.</p>
+</div>
+<div class="paragraph">
+<p><a id="DLTTA"></a>Wittmann, G. (2010). <em>Differenzielles Lernen im Tennissport</em>. school.</p>
+</div>
+<div class="paragraph">
+<p><a id="ACIS"></a>Young, W., Dawson, B., &amp; Henry, G. (2015). Agility and Change-of-Direction Speed are Independent Skills: Implications for Training for Agility in Invasion Sports. <em>International Journal of Sports Science and Coaching</em>, <em>10</em>, 159–169. <a href="https://doi.org/10.1260/1747-9541.10.1.159" class="bare">https://doi.org/10.1260/1747-9541.10.1.159</a></p>
+</div>
+<div class="paragraph">
+<p><a id="DCRTV"></a>Zemková, E. (2016). Differential Contribution of Reaction Time and Movement Velocity to the Agility Performance Reflects Sport-Specific Demands. <em>Human Movement</em>, <em>17</em>, 94–101. <a href="https://doi.org/10.1515/humo-2016-0013" class="bare">https://doi.org/10.1515/humo-2016-0013</a></p>
+</div>
+<div class="paragraph">
+<p><a id="APADSS"></a>Zemková, E., &amp; Hamar, D. (2014). Agility performance in athletes of different sport specializations. <em>Acta Gymnica</em>, <em>44</em>, 133–140. <a href="https://doi.org/10.5507/ag.2014.013" class="bare">https://doi.org/10.5507/ag.2014.013</a></p>
+</div>
+<div class="paragraph">
+<p><a id="ACOAEF"></a>Zeuwts, L., Koppo, K., Cardon, G., &amp; Lenoir, M. (2018). The ability to correct an on-going action: Accuracy and correction time in elite fencing. <em>Archives of Budo</em>, <em>13</em>, 387–394.</p>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+Last updated 2021-11-16 20:33:12 UTC
+</div>
+</div>
+</body>
+</html>
