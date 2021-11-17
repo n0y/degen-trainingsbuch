@@ -8,6 +8,8 @@ Alle Texte hier sind unter dieser Lizenz veröffentlicht: xref:LICENSE.adoc[] (E
 
 Alle Autoren sind unter xref:AUTOREN.adoc[] einzusehen.
 
+Der jeweils https://n0y.github.io/degen-trainingsbuch/[aktuelle Stand ist auf unserer Github Page] veröffentlicht.
+
 == Mitarbeit
 
 Jede Art von Mitarbeit ist willkommen. Inhalte sind gut unter den Issues zu erstellen, wo eine Diskussion neuer Inhalte möglich ist.
