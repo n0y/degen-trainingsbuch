@@ -1,8 +1,8 @@
 == Umsetzungsprinzipien
 
-Die Methodik des differenziellen Lernens ist auf unterschiedlichste Bereiche erfolgreich anwendbar. Das reicht von den bereits erwähnten Studien in verschiedenen Einzel- und Mannschaftssportarten über Ausdauer- und Krafttraining bis hin zum Koordinationstraining ([TKFDL]).
+Die Methodik des differenziellen Lernens ist auf unterschiedlichste Bereiche erfolgreich anwendbar. Das reicht von den bereits erwähnten Studien in verschiedenen Einzel- und Mannschaftssportarten über Ausdauer- und Krafttraining bis hin zum Koordinationstraining cite:[TKFDL].
 
-Die Umsetzung basiert auf dem Prinzip der Variation (nach [BWADLS]):
+Die Umsetzung basiert auf dem Prinzip der Variation cite:[BWADLS]:
 
 * Orientierung am individuellen Lösungsbereichs
 * Stabilität durch Variabilität/Einmaligkeit
@@ -11,9 +11,9 @@ Die Umsetzung basiert auf dem Prinzip der Variation (nach [BWADLS]):
 * Selbstoptimierung
 * selbstorganisierender, nicht-linearer Lernvorgang
 
-Dabei wird auch der klassische Ansatz der Methodischen Reihen (z.B. nach [LSmMR]) aufgelöst: Im geblockten Ansatz wird jede Übung z.B. 10 Mal hintereinander ausgeführt, bevor zur nächsten fortgeschritten wird. Im systemdynamischen Ansatz wird die Reihenfolge zufällig geändert. Sind in klassisch geblockten Ansatz nur zu Beginn einer neuen Übung größere Anpassungen nötig, variiert dann die Anzahl und Größe der Anpassungen und führt zu einem schnelleren Erfassen und Lernen der Inhalte. Zusätzlich steigt die Abwechslung für die Lernenden und damit die Motivation zur Teilnahme.
+Dabei wird auch der klassische Ansatz der Methodischen Reihen (z.B. nach cite:[LSmMR]) aufgelöst: Im geblockten Ansatz wird jede Übung z.B. 10 Mal hintereinander ausgeführt, bevor zur nächsten fortgeschritten wird. Im systemdynamischen Ansatz wird die Reihenfolge zufällig geändert. Sind in klassisch geblockten Ansatz nur zu Beginn einer neuen Übung größere Anpassungen nötig, variiert dann die Anzahl und Größe der Anpassungen und führt zu einem schnelleren Erfassen und Lernen der Inhalte. Zusätzlich steigt die Abwechslung für die Lernenden und damit die Motivation zur Teilnahme.
 
-Schon [BBFTMG] verweist darauf, dass das „selbständige Üben“ das Grundverfahren beim Erlernen und Trainineren der (Technik-)Elemente darstellt. Mit differenzieller Lernmethode sollen in den Übungen die Variationen bewusst vergrößert und keine Wiederholungen mit identischen Parametern durchgeführt werden. Variiert werden können z.B. (wieder nach [BWADLS]):
+Schon cite:[BBFTMG] verweist darauf, dass das „selbständige Üben“ das Grundverfahren beim Erlernen und Trainineren der (Technik-)Elemente darstellt. Mit differenzieller Lernmethode sollen in den Übungen die Variationen bewusst vergrößert und keine Wiederholungen mit identischen Parametern durchgeführt werden. Variiert werden können z.B. (wieder nach cite:[BWADLS]):
 
 * Bewegungsausführung
 ** Anfangs-, Endbedingungen
@@ -30,7 +30,7 @@ Schon [BBFTMG] verweist darauf, dass das „selbständige Üben“ das Grundverf
 
 Dabei dürfen die Anpassungen bis in den Programmbereich hinein reichen, also die Technik selbst verändern, z.B. den Ausschluss eines Körperteils oder bewusst „falsche“ Technik.
 
-In der Gruppe sollen auch offene Spiel- und Übungsformen und forschendes Lernen eingesetzt werden (z.B. nach [DSSvV]).
+In der Gruppe sollen auch offene Spiel- und Übungsformen und forschendes Lernen eingesetzt werden (z.B. nach cite:[DSSvV]).
 
 === Umsetzung der Variation in der Sportart Fechten
 In der Sportart Fechten können alle Parameter variiert werden, solange sie sich innerhalb der vom Reglement erlaubten bewegen und nicht zu vermeidbaren Verletzungsrisiken führen. Bei Variationen außerhalb des Bereichs des Reglements ist darauf zu achten, dass eine prinzipielle Ähnlichkeit erhalten bleibt: Variationen weit außerhalb des möglichen Lösungsbereichs fallen weg.
