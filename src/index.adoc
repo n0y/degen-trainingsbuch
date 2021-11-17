@@ -19,6 +19,10 @@ Gerade Jugendliche, die Jahre der Ausbildung auf sich nehmen, haben ein Recht da
 
 In zweiter Linie wollen wir verstehen, warum Techniken oder Trainingsmethoden Erfolg zeigen und wir wollen das wissenschaftlich Begründen. Die Umsetzung neuer Erkenntnisse aus der Forschung erscheint uns ein geeigneter Weg, um unser Training stetig zu verbessern. Es soll immer gelten: Das Bessere ist der Feind des Guten.
 
+* Das Buch kannst Du https://github.com/n0y/degen-trainingsbuch/blob/main/LICENSE.adoc[unter unseren Lizenzbedingungen (CC-BY-SA)] verwenden.
+* Wenn Du Inhalte in Deinem Training verwenden möchtest, dann freuen wir uns, wenn Du auf die Quelle hinweist.
+* Über Hilfe, Beiträge und Mitarbeit freuen wir uns. Dafür kannst Du https://github.com/n0y/degen-trainingsbuch/[das Degen-Trainingsbuch auf Github] forken und Pull Requests erstellen. https://github.com/n0y/degen-trainingsbuch/blob/main/AUTOREN.adoc[Die Autoren] behalten sich aber vor, über die Aufnahme und Änderung von Inhalten zu entscheiden. Deswegen kann es sinnvoll sein, https://github.com/n0y/degen-trainingsbuch/discussions[eine Diskussion zu starten], bevor Du Dir die Arbeit machst.
+* Gerne kannst Du uns für Deine Anliegen, Vorschläge und Korrektur-Hinweise https://github.com/n0y/degen-trainingsbuch/issues[Issues erstellen].
 
 include::chapters/grundlagen/grundlagen.adoc[]
 
