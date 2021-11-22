@@ -12,7 +12,7 @@ Der jeweils https://n0y.github.io/degen-trainingsbuch/[aktuelle Stand ist auf un
 
 == Mitarbeit
 
-Jede Art von Mitarbeit ist willkommen. Inhalte sind gut unter den Issues zu erstellen, wo eine Diskussion neuer Inhalte möglich ist.
+Jede Art von Mitarbeit ist willkommen. Es ist gut neue Inhalte unter den Issues anzukündigen, wo bereits vorab eine Diskussion möglich ist.
 
 Jederzeit kannst Du gerne auch einen Pull-Request erstellen. Die Maintainer behalten sich eine Entscheidung über die Aufnahme von Beiträgen vor.
 
