@@ -1,3 +1,5 @@
 = Noch zu tun:
 
 * Flow
+* Cues (Hilfestellungen)
+* Psychische Aspekte
