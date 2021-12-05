@@ -2,7 +2,7 @@ name: Asciidoc CI
 
 on:
   push:
-    branches-ignore:
+    branches:
       - main
 
 jobs:
@@ -16,3 +16,8 @@ jobs:
           sudo gem install asciidoctor asciidoctor-bibtex
           mkdir public
           cd src && asciidoctor -r asciidoctor-bibtex -o ../public/index.html index.adoc
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
