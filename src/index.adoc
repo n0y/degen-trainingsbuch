@@ -32,6 +32,6 @@ include::chapters/taktiktraining/taktiktraining.adoc[]
 
 include::chapters/agilitaetstraining/agilitaetstraining.adoc[]
 
-include::chapters/fitnesstraining/fitnesstraining.adoc[]
+include::chapters/motoriktraining/motoriktraining.adoc[]
 
 include::chapters/literatur/literatur.adoc[]
