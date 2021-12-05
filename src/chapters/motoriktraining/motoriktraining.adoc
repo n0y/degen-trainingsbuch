@@ -29,6 +29,8 @@ Beim Intervalltraining unterscheiden wir zwischen
 
 include::motorisch-ausdauer-hiit.adoc[leveloffset=+3]
 
+include::motorisch-ausdauer-hiit-sit.adoc[leveloffset=+3]
+
 === Schnelligkeitstraining
 
 === Maximalkrafttraining
