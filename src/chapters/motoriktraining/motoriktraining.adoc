@@ -1,0 +1,38 @@
+== Training motorischer Fähigkeiten
+
+Motorische Fähigkeiten sind die Grundlage, auf der das spezifische Fechttraining aufsetzt:
+
+* Ausdauer
+* Schnelligkeit
+* (Maximal-) Kraft
+* Koordination
+* Beweglichkeit
+
+Diese motorischen Fähigkeiten sind generell für alle sportlichen Tätigkeiten relevant. Hier ist das Ziel in erster Linie, die Fähigkeiten so zu trainieren, wie sie für den Fechtsport notwendig sind.
+
+=== Ausdauertraining
+
+Modernes Sportfechten stellt nur grundlegende Anforderungen an die Ausdauerfähigkeit der AthletInnen. Die maximale Kampfzeit im Degen beträgt pro Gefecht nur 10 Minuten, in denen die meiste Zeit weit unterhalb der anaeroben Schwelle agiert wird.
+
+Da die Ausdauerfähigkeit aber auch die Grundlage ist, um eine schnelle Erholung zwischen den Gefechten (und auch zwischen den Gefechts-Phrasen) zu ermöglichen, kommt ihr dennoch eine gewisse Bedeutung zu und sollte in Maßen separat trainiert werden.
+
+Durch effizientes Ausdauer-Training kann außerdem die Laktattoleranz verbessert werden, sodass häufige Aktionen im Maximalkraft-Bereich besser toleriert werden können.
+
+Um effizient Ausdauer aufzubauen, ist das Intervalltraining der kontinuierlichen Methode überlegen. Die selben Leistungssteigerungen werden mit geringerem Zeiteinsatz erzielt (z.B. cite:[ESECIT]).
+
+Das betrifft nicht nur die maximale Sauerstoffaufnahme (VO~2~ max), sondern auch die anaerobe Kapazität. Nach cite:[EMEHIIT] kann durch vier Minuten Hochintensitäts-Intervall Training die VO~2~ max genauso gut verbessert werden wie durch 60 Minuten kontinuierliches Training.
+
+Beim Intervalltraining unterscheiden wir zwischen
+
+* *(Hoch-) Intensives Intervalltraining*: findet im anaeroben Bereich statt. Die Intervalle sind dementsprechend kurz.
+* *Extensives Intervalltraining*: findet im aeroben Bereich nahe der anaeroben Schwelle statt. Die Intervalle sind etwas länger, die Erholungspausen sollten ebenfalls deutlich oberhalb des Ruhepuls enden.
+
+include::motorisch-ausdauer-hiit.adoc[leveloffset=+3]
+
+=== Schnelligkeitstraining
+
+=== Maximalkrafttraining
+
+=== Koordinationstraining
+
+=== Beweglichkeitstraining
