@@ -1,0 +1,181 @@
+= Grundlagen der Fechttechnik
+
+In der klassichen Auffassung gibt es eine Reihe von "Fecht-Schulen" cite:[GTHOF], die für die unterschiedlichen Bereiche der Fechttechnik Vorgaben und Vorstellungen bündeln und oft gemeinsam gelehrt werden. Diese Vorgaben beziehen sich insbesondere auf:
+
+* Die Art, in der die verschiedenen Fecht-Elemente ausgeführt werden.
+* Die Art, in der die Fecht-Elemente miteinander kombiniert werden.
+* Die Reihenfolge, in der Fecht-Elemente beim Training eingeführt werden.
+* Das grundlegende strategische Ziel, das bei Gefechten erreicht werden soll.
+* Die Anteile, die die Bereiche Technik, Taktik, Schnelligkeit, Kraft und Koordination beim Training einnehmen sollen (im Training und in Gefechten).
+
+Es ist darauf zu achten, dass die entsprechenden "Fecht-Schulen" in ihren extremen Ausprägungen nicht vorkommen (abgesehen vom stark formalisierten System "Emil Beck"), sondern meist in Mischform und in verschiedenen Ausprägungen.
+
+Eine Betrachtung ist dennoch sinnvoll, um unterschiedliche Vorstellungen und Herangehensweisen kennenzulernen und ihre Auswirkungen und Eigenschaften abzuschätzen.
+
+
+
+== Das System "Emil Beck"
+
+[cols="1,2"]
+|===
+
+|*Taktisches Grundprinzip*
+|Kontrolle der gegnerischen Klinge +
+ Prinzip der Absicherung
+
+|*Kombination der Elemente*
+|Einfache Grundelemente, zu Phrasen kombiniert +
+ Kombinationen automatisiert
+
+|*Lehrprinzip*
+|vom Einfachen zum Schweren +
+ Häufiges vor Seltenem +
+ Automatisierung durch Einschleifen
+
+|*Trainingsschwerpunkte*
+|
+1. Technische Automatisierung +
+2. Ausführungsschnelligkeit +
+3. taktische Adaption (Aktionsauswahl)
+
+|*Haupt-Probleme*
+| geringe Lernrate, hohe Wiederholungszahlen, hoher Zeitaufwand +
+gegen Fechtstil mit Klingenentzug
+
+|===
+
+Das System "Emil Beck" war zunächst Resultat aus intensiver *Beobachtungen der Aktionen*, die im Fechtsport *tatsächlich erfolgreich angewendet* wurden. Die Lehr-Reihenfolge wird dadurch festgelegt, dass Lernende *häufige Aktionen zuerst lernen, seltene später*.
+
+Zunächst sollen Lernende so schnell wie möglich mit dem Grundrepertoire versorgt werden, der eine Teilnahme an Wettkämpfen ermöglicht und dadurch die Möglichkeit gibt, aus echten Gefechtssituationen zu lernen.
+
+Weitere Aktionen kommen später hinzu, sodass die Lernenden später eine *Vielzahl an möglichken Aktionen* bereits gesehen haben und in Wettkampf-Situationen schwer zu überraschen sind.
+
+Das System "Emil Beck" ist auf die *Kontrolle der gegnerischen Klinge ausgelegt*, die möglichst in allen Gefechtssituationen aufrechterhalten werden soll. Außerdem ist das System auf die Annahme ausgelegt, dass Fechter:innen *angegriffene Blößen verteidigen*. Daher wird eine *Folgeaktion immer zu einem neuen Ziel* geleitet.
+
+Das System "Emil Beck" besteht aus einer Reihe von Lektionen, die immer gleich aufgebaut sind:
+
+. Der Lernende führt einen Klingenschlag (oder eine Klingenbindung) aus und greift dann eine vorgelagerte Trefffläche (Hand oben/unten, Oberschenkel, Fuß) an.
+. Optional erfolgt eine Wiederholung der ersten Aktion.
+. Optional erfolgt eine Rimesse zu einer anderen Blöße.
+. Abschließend erfolgt eine Absicherung mit Klingenkontrolle zu einer anderen Blöße.
+
+Alle Lektionen werden mit allen unterschiedlichen Beinarbeiten durchgeführt: Im Stand, mit Schritt, mit Sprung, mit Doppelschritt, mit Ausfall, mit Schritt-Ausfall, mit Sprung-Ausfall, mit Fléche und mit Schritt zurück. Dabei wird jede Kombination aus Aktion und Beinarbeitsfolge nur einmal durchgeführt und nicht wiederholt.
+
+Es werden vier Stufen mit jeweils 2 oder 4 Lektionen trainiert. Die Lektionen sind so aufgebaut, dass sie *für die Trainer:innen einfach zu handhaben* sind und möglichst wenige Fertigkeiten erfordern. Durch den Aufbau und die Anforderungen sind sie in einem *großen Stab an Trainer:innen effektiv nutzbar*.
+
+Die Erfahrung zeigt jedoch, dass *sehr viele Lektionen notwendig* sind, um die Technik auf Wettkampf-Niveau zu vermitteln. Es wird davon ausgegangen, dass die Lernenden *zumindest jeden Tag lektionieren*. Durch den statischen Aufbau stellt sich zudem bald *ein Gefühl von Langeweile* ein, insbesondere bei jüngeren Lernenden, der die Lernraten negativ beeinflusst.
+
+Durch die *Fokussierung auf Klingenkontrolle* hat das System Probleme mit Gegner:innen, die mit *Klingenentzug* agieren.
+
+.Bewertung aus Sicht unserer link:../grundlagen/grundlagen-umsetzungsprinzipien.adoc#_umsetzungsprinzipien[Umsetzungsprinzipien]
+
+*Entspricht den Umsetzungsprinzipien*:
+
+* Einführung einer Vielzahl von Elementen und deren Kombination ein: Eine große Varianz innerhalb des Lösungsraums steht bereit und wird aktiv angeboten.
+* In einer Lektion wird jede Kombination nur einmal durchgeführt und nicht wiederholt: entspricht den Grundsätzen der  link:../grundlagen/grundlagen-training-differenziell.adoc#_differenzielle_lernmethode[differentiellen Lehrmethode].
+* Stellt hohe Wiederholungszahlen sicher: Schafft die Voraussetzungen für neuro-plastische Veränderungen.
+
+*Widerspricht den Umsetzungsprinzipien*:
+
+* Zielt auf ein starres Technik-Leitbild: berücksichtigt nicht die individuellen Eigenschaften der Lernenden und tastet nicht den Lösungsraum ab. Individuelle Lösungsfindung durch Varianz muss stattdessen in Wettkämpfen erworben werden.
+* Stellt auf schnelle Minimierung der Abweichung zum Technik-Zielbild ab; Aktionen "gelingen" schnell und werden dann optimiert: Für schnelle neuro-plastische Verändungen ist aber eine hohe Fehlerrate erforderlich.
+* Minimiert die Zeit, in der Lernende im "Frust-Stadium" sind: die im Frust-Stadium freigesetzten Botenstoffe sind für die Neuroplastizität notwendig.
+* Variiert nur einen Teil des möglichen Lösungsraums: Variiert räumlich-zeitliche und zeitliche Ausführung und Anfangs- und Endbedingungen (eingeschränkt). Variiert nicht: räumliche Ausführung, Umfang, Dauer, Sinneswahrnehmungen, Materialien, Geräte, Untergrund und Rahmenbedingungen.
+
+*Möglichkeiten zur Anpassung*
+
+Das System "Emil Beck" kann so verändert werden, dass es den Umsetzungsprinzipien besser entspricht:
+
+. Akzeptanz von Aktionen abseits des Technik-Leitbilds. Das Leitbild soll weiter verwendet werden, um Einsteiger:innen einen Startpunkt zu bieten. Sehr schnell muss aber auf die Effektivität der Aktionen abgestellt werden.
+. Sichtbarmachen der Auswirkungen von Änderungen im Bewegungsablauf: Entstehende Schwachstellen (Blößen, Balance-Probleme, ...) müssen sichtbar gemacht, Ausführungszeiten gemessen und dargestellt werden.
+. Erhöhen der Fehlerraten: Sobald eine Aktion in mehr als 25% der Fälle gelingt, müssen Zusatz-Aufgaben, Einschränkungen und angepasste Rahmenbedingungen eingeführt werden, die die hohe Fehlerrate aufrecht erhalten.
+. Frühes Einführen komplexer Aktionen und Auswahl-Aktionen: Das System "vom Einfachen zum Schweren" und geblockte Übungen müssen aufgebrochen werden, um höhere Lernraten zu erreichen.
+
+
+== Das System "Harmenberg"
+
+[cols="1,2"]
+|===
+
+|*Taktisches Grundprinzip*
+|Beschränkung möglicher Aktionen +
+ Dominanz durch körperliche Überlegenheit und Antizipation
+
+|*Kombination der Elemente*
+|Auswahl weniger, einfacher Aktionsfolgen pro Athlet:in +
+ Ausführung, sobald Voraussetzung passt
+
+|*Lehrprinzip*
+|Training der konkreten Kombinationsfolgen +
+ Automatisierung durch Einschleifen
+
+|*Trainingsschwerpunkte*
+|1. Fitness (Schnelligkeit) +
+2. technische Automatisierung
+
+|*Haupt-Probleme*
+|körperliche Überlegenheit im Spitzenbereich inzwischen schwer zu realisieren
+
+|===
+
+== Die italienische Schule
+
+[cols="1,2"]
+|===
+
+|*Taktisches Grundprinzip*
+|Überraschen des Gegners durch Technik- und Geschwindigkeitsauswahl
+
+|*Kombination der Elemente*
+|Hohe Varianz in der Aktionsauswahl +
+Integration unorthodoxer Bewegungen
+
+|*Lehrprinzip*
+|vom Einfachen zum Schweren +
+frühe Integration von Fechttaktik +
+wenige feste Bewegungsfolgen
+
+|*Trainingsschwerpunkte*
+|
+1. fechtspezifisches Techniktraining +
+2. Fitness (Schnelligkeit)
+3. Taktik-Training
+
+|*Haupt-Probleme*
+|Durch hohe Varianz geringere Reaktionsgeschwindigkeit +
+Zeitaufwändiges Training
+
+|===
+
+
+== Die ungarische Schule
+
+_Keiner der Autoren hat Erfahrung mit der ungarischen Schule. Beiträge sind erwünscht._
+
+== Die französische Schule
+
+[cols="1,2"]
+|===
+
+|*Taktisches Grundprinzip*
+|Aufrechterhalten der Handlungsfähigkeit +
+Herstellen technischer Überlegenheit
+
+|*Kombination der Elemente*
+|Aktionsfolgen mit minimalen Klingenbewegungen +
+Hohe Varianz einfacher Bewegungen
+
+|*Lehrprinzip*
+|vom Einfachen zum Schweren +
+Erhöhen der Bewegungsergonomie durch Einschleifen
+
+|*Trainingsschwerpunkte*
+|
+1. fechtspezifisches Techniktraining +
+2. taktische Adaption (Aktionsauswahl)
+
+|*Haupt-Probleme*
+|durch unübliche Gefechtsführung zu überraschen +
+Hoher Zeitaufwand im Training
+
+|===

@@ -16,9 +16,11 @@ Für dieses Training wird der Randbereich des Lösungsraums abgetastet, in dem d
 
 Im gesamten Lernprozess wird keine Aufgabe unverändert wiederholt, sondern der Athlet stets mit neuen Aufgaben konfrontiert. Zentraler Ansatz ist es, den Athleten auf das Neue in verstärkter Form vorzubereiten, weil es ohnehin bei einfacher Wiederholung in abgeschwächter Form auftritt (siehe cite:[SDLL]). Es wird also die Anpassungsfähigkeit an neue Aufgaben betont.
 
-Ein Aspekt des einschleifenden Lernens ist die hohe Wiederholungszahl. Diese ist tatsächlich für den Lernprozess notwendig, denn nur viele Wiederholungen führen zu relevanten neuroplastischen Änderungen im Gehirn (CITE REQUIRED). Wir wollen unseren SchülerInnen eine für sie neue Technik nur kurz erläutern. Detaillierte Erklärungen und Demonstrationen sollen zugunsten einer hohen Wiederholungszahl und dem Abtasten eines großen Lösungsbereiches zurück stehen.
+Ein Aspekt des einschleifenden Lernens ist die hohe Wiederholungszahl. Diese ist tatsächlich für den Lernprozess notwendig, denn nur viele Wiederholungen führen zu relevanten neuroplastischen Änderungen im Gehirn (CITE REQUIRED). Es ist allerdings darauf zu achten, dass weiterhin hohe Fehlerraten erreicht werden können: Werden Bewegungen nahezu fehlerfrei ausgeführt, dann kann kaum noch Lernen stattfinden.
 
-Ständiges Konfrontieren mit neuen Aufgaben ist einer der Kerne der differenziellen Lehrmethode und erlaubt nicht nur die Interpolation und Adaption auf neue Situationen, sondern stellt auch sicher, dass die SchülerInnen ein hohes Maß an Fehlern begehen, die das notwendige Feedback für neuroplastische Adaptionen bereitstellen. Wir orientieren uns an Fehlerquoten >75%.
+Wir wollen unseren Schüler:innen eine für sie neue Technik nur kurz erläutern. Detaillierte Erklärungen und Demonstrationen sollen zugunsten einer hohen Wiederholungszahl und dem Abtasten eines großen Lösungsbereiches zurückstehen.
+
+Ständiges Konfrontieren mit neuen Aufgaben ist einer der Kerne der differenziellen Lehrmethode und erlaubt nicht nur die Interpolation und Adaption auf neue Situationen, sondern stellt auch sicher, dass die SchülerInnen ein hohes Maß an Fehlern begehen, die das notwendige Feedback für neuroplastische Adaptionen bereitstellen.
 
 Stabilität im Ganzen wird dabei zum Nebenprodukt, dass durch Anpassungsfähigkeit im Kleinen geschult und erzielt wird.
 
