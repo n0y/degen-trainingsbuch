@@ -1,0 +1,21 @@
+= Stoß- und Treffbewegungen
+
+Die maßgeblichen Einflussfaktoren, die über erfolgreiches Treffen gewünschter Zielregionen entscheiden, sind bislang größtenteils unerforscht. Es gibt nur wenige durch Studien gesicherte Ergebnisse.
+
+Beispielsweise ist bekannt, dass die Technik für Würfe nicht mit denen der Handführung bei Treffbewegungen im Fechten korrelieren (siehe cite:[KCLFEF]). Weiter ist bekannt, dass selbst während eines Ausfalls oder Fléche die Zeit bis zum Aufkommen des Treffers (500-600ms, aus cite:[FLOFT]) ausreicht, um das Ziel zu erfolgreich zu ändern (200ms, aus cite:[ACOAEF]).
+
+Die reine Stoß- und Treffbewegung lässt sich durch variable Stoßübungen trainieren. Gerade dabei ist die Variabilität einer der wichtigsten Faktoren, denn Treffbewegungen müssen aus unterschiedlichsten Situationen und Körper-/Handhaltungen sicher und schnell erfolgen können.
+
+Für Stoßübungen bietet es sich an, die Übungen in kurzen Blücken durchzuführen: Es werden bezüglich einer Größe über mehrere Übungen mehrere Variationen ausgeführt (z.B. in Folge sechs verschiedene Treffer-Flächen; vier verschiedene Ausgangs-Klingenlagen). Dazu wird jeweils eine Kombination aus Variationen hineingegeben (z.B. Ausführung mit Schritt vor, Treffbewegung verlangsamend und ein Auge geschlossen).
+
+Als Hilfmittel können z.B. dienen:
+
+* Markierungen auf dem Boden, mit dem unterschiedliche Fußpositionen erwürfelt werden können
+* Unterschiedliche „Waffen“, z.B. Rohre, Holzstecken, Schlauchstücke
+* bewegliche Ziele, z.B. schwingende Bälle, Stoß auf Tischtennisbälle, die in ein Tor befördert werden
+
+Eine Durchführung auf Zeit oder auf die meisten Treffer pro Versuch in Kleingruppen hat sich bewährt.
+
+Um wechselnde Ziele vorzugeben, können diese vorgeplant werden. Alternativ werden sie angezeigt, z.B. mittels Fencing Hit Target oder Laserpointer.
+
+Klingenaktionen können ebenfalls geübt werden, indem in Kleingruppen Gegner neben das Ziel postiert werden. Ein Stoßtraining mit Person als Ziel hat sich dagegen nicht bewährt, da die Abneigung, ggf. schmerzhaft zu treffen oder getroffen zu werden, kaum konzentriertes Training ermöglicht.
