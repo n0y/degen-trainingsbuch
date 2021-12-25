@@ -1,7 +1,9 @@
+[[license-cc-sa-4]]
 = Creative Commons Namensnennung-Share Alike 4.0 International Public License
 
 Durch die Ausübung der lizenzierten Rechte (wie unten definiert) erklären Sie sich rechtsverbindlich mit den Bedingungen dieser Creative Commons Namensnennung – Share Alike 4.0 International Public License (“Public License”) einverstanden. Soweit die vorliegende Public License als Lizenzvertrag anzusehen ist, gewährt Ihnen der Lizenzgeber die in der Public License genannten lizenzierten Rechte im Gegenzug dafür, dass Sie die Lizenzbedingungen akzeptieren, und gewährt Ihnen die entsprechenden Rechte in Hinblick auf Vorteile, die der Lizenzgeber durch das Verfügbarmachen des lizenzierten Materials unter diesen Bedingungen hat.
 
+[discrete]
 == Abschnitt 1 – Definitionen
 
 [loweralpha]
@@ -19,6 +21,7 @@ Durch die Ausübung der lizenzierten Rechte (wie unten definiert) erklären Sie 
 . **Sui-generis Datenbankrechte** bezeichnet Rechte, die keine Urheberrechte sind, sondern gegründet sind auf die Richtlinie 96/9/EG des Europäischen Parlaments und des Rates vom 11. März 1996 über den rechtlichen Schutz von Datenbanken in der jeweils gültigen Fassung bzw. deren Nachfolgeregelungen, sowie andere im Wesentlichen funktionsgleiche Rechte anderswo auf der Welt.
 . **Sie** bezeichnet die natürliche oder juristische Person, die von lizenzierten Rechten unter der vorliegenden Public License Gebrauch macht. **Ihr bzw. Ihre** hat die entsprechende Bedeutung.
 
+[discrete]
 == Abschnitt 2 – Umfang
 
 [loweralpha]
@@ -43,6 +46,7 @@ Durch die Ausübung der lizenzierten Rechte (wie unten definiert) erklären Sie 
 .. Patent- und Kennzeichenrechte werden durch die vorliegende Public License nicht lizenziert.
 .. Soweit wie möglich verzichtet der Lizenzgeber auf Vergütung durch Sie für die Ausübung der lizenzierten Rechte, sowohl direkt als auch durch eine Verwertungsgesellschaft unter welchem freiwilligen oder abdingbaren gesetzlichen oder Pflichtlizenzmechanismus auch immer eingezogen. In allen übrigen Fällen behält sich der Lizenzgeber ausdrücklich jedes Recht vor, Vergütungen zu fordern.
 
+[discrete]
 == Abschnitt 3 – Lizenzbedingungen
 
 Ihre Ausübung der lizenzierten Rechte unterliegt ausdrücklich folgenden Bedingungen
@@ -70,6 +74,7 @@ Ihre Ausübung der lizenzierten Rechte unterliegt ausdrücklich folgenden Beding
 .. Sie müssen den Text oder einen URI oder Hyperlink auf die von Ihnen gewählte Abwandlungslizenz beifügen. Diese Bedingung dürfen Sie in jeder angemessenen Form erfüllen, je nach Medium, Mittel und Kontext in bzw. mit dem Sie abgewandeltes Material weitergeben.
 .. Sie dürfen keine zusätzlichen oder abweichenden Bedingungen anbieten oder das abgewandelte Material mit solchen belegen oder darauf wirksame technische Maßnahmen anwenden, sofern dadurch die Ausübung der Rechte am abgewandelten Material eingeschränkt wird, die Sie unter der Abwandlungslizenz gewähren.
 
+[discrete]
 == Abschnitt 4 – Sui-generis-Datenbankrechte
 
 Soweit die lizenzierten Rechte Sui-generis-Datenbankrechte beinhalten, die auf Ihre Nutzung des lizenzierten Materials Anwendung finden, gilt:
@@ -81,6 +86,7 @@ Soweit die lizenzierten Rechte Sui-generis-Datenbankrechte beinhalten, die auf I
 
 Es sei ferner klargestellt, dass dieser Abschnitt 4 Ihre Verpflichtungen aus der vorliegenden Public License nur ergänzt und nicht ersetzt, soweit die lizenzierten Rechte andere Urheberrechte oder ähnliche Rechte enthalten.
 
+[discrete]
 == **Abschnitt 5 – Gewährleistungsausschluss und Haftungsbeschränkung**
 
 [loweralpha]
@@ -88,6 +94,7 @@ Es sei ferner klargestellt, dass dieser Abschnitt 4 Ihre Verpflichtungen aus der
 . **Soweit wie möglich, haftet der Lizenzgeber Ihnen gegenüber nach keinem rechtlichen Konstrukt (einschließlich insbesondere Fahrlässigkeit) oder anderweitig für irgendwelche direkten, speziellen, indirekten, zufälligen, Folge-, Straf- exemplarischen oder anderen Verluste, Kosten, Aufwendungen oder Schäden, die sich aus der vorliegenden Public License oder der Nutzung des lizenzierten Materials ergeben, selbst wenn der Lizenzgeber auf die Möglichkeit solcher Verluste, Kosten, Aufwendungen oder Schäden hingewiesen wurde. Dort, wo Haftungsbeschränkungen ganz oder teilweise unzulässig sind, gilt die vorliegende Beschränkung möglicherweise für Sie nicht.**
 . Der Gewährleistungsausschluss und die Haftungsbeschränkung oben sollen so ausgelegt werden, dass sie soweit wie möglich einem absoluten Haftungs- und Gewährleistungsausschluss nahe kommen.
 
+[discrete]
 == Abschnitt 6 – Laufzeit und Beendigung
 
 [loweralpha]
@@ -100,12 +107,14 @@ Es sei ferner klargestellt, dass dieser Abschnitt 4 Ihre Verpflichtungen aus der
 . Es sei klargestellt, dass der Lizenzgeber das lizenzierte Material auch unter anderen Bedingungen anbieten oder den Vertrieb des lizenzierten Materials jederzeit einstellen darf; gleichwohl erlischt dadurch die vorliegende Public License nicht.
 . Die Abschnitte 1, 5, 6, 7 und 8 gelten auch nach Erlöschen der vorliegenden Public License fort.
 
+[discrete]
 == Abschnitt 7 – Sonstige Bedingungen
 
 [loweralpha]
 . Der Lizenzgeber ist nicht an durch Sie gestellte zusätzliche oder abweichende Bedingungen gebunden, wenn diese nicht ausdrücklich vereinbart wurden.
 . Jedwede das lizenzierte Material betreffenden und hier nicht genannten Umstände, Annahmen oder Vereinbarungen sind getrennt und unabhängig von den Bedingungen der vorliegenden Public License.
 
+[discrete]
 == Abschnitt 8 – Auslegung
 
 [loweralpha]
