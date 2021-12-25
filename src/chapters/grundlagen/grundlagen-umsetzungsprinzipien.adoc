@@ -1,3 +1,4 @@
+[[grundlagen-umsetzungsprinzipien]]
 == Umsetzungsprinzipien
 
 Die Methodik des differenziellen Lernens ist auf unterschiedlichste Bereiche erfolgreich anwendbar. Das reicht von den bereits erwähnten Studien in verschiedenen Einzel- und Mannschaftssportarten über Ausdauer- und Krafttraining bis hin zum Koordinationstraining cite:[TKFDL].

@@ -10,6 +10,7 @@ Neuere Lernverfahren wie das differenzielle Lernen (siehe cite:[InVP]) gehen dav
 
 Wir wollen daher keine ideale Zieltechnik vorgeben, sondern mögliche (durchaus weite) Lösungsbereiche suchen, in denen das Training stattfindet. Wir gehen davon aus, dass die Interpolationsfähigkeit des Menschen es ermöglicht, das individuelle Ideal zwischen bekannten Werten zu ermitteln.
 
+[[grundlagen-training-differenzielle-methode]]
 == Differenzielle Lernmethode
 
 Für dieses Training wird der Randbereich des Lösungsraums abgetastet, in dem der Athlet dann situationsbezogen interpoliert.

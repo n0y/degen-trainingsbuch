@@ -67,30 +67,30 @@ Die Erfahrung zeigt jedoch, dass *sehr viele Lektionen notwendig* sind, um die T
 
 Durch die *Fokussierung auf Klingenkontrolle* hat das System Probleme mit Gegner:innen, die mit *Klingenentzug* agieren.
 
-.Bewertung aus Sicht unserer link:../grundlagen/grundlagen-umsetzungsprinzipien.adoc#_umsetzungsprinzipien[Umsetzungsprinzipien]
+.Bewertung aus Sicht unserer <<grundlagen-umsetzungsprinzipien,Umsetzungsprinzipien>>
 
 *Entspricht den Umsetzungsprinzipien*:
 
-* Einführung einer Vielzahl von Elementen und deren Kombination ein: Eine große Varianz innerhalb des Lösungsraums steht bereit und wird aktiv angeboten.
-* In einer Lektion wird jede Kombination nur einmal durchgeführt und nicht wiederholt: entspricht den Grundsätzen der  link:../grundlagen/grundlagen-training-differenziell.adoc#_differenzielle_lernmethode[differentiellen Lehrmethode].
-* Stellt hohe Wiederholungszahlen sicher: Schafft die Voraussetzungen für neuro-plastische Veränderungen.
+* Einführung einer *Vielzahl von Elementen* und deren Kombination ein: Eine *große Varianz* innerhalb des Lösungsraums steht bereit und wird aktiv angeboten.
+* In einer Lektion wird jede *Kombination nur einmal* durchgeführt und nicht wiederholt: entspricht den Grundsätzen der  <<grundlagen-training-differenzielle-methode,differentiellen Lehrmethode>>.
+* Stellt *hohe Wiederholungszahlen* sicher: Schafft die Voraussetzungen für neuro-plastische Veränderungen.
+* Durch Auswahl und eigenständiges Zusammenstellen der Lektionen kann ein *nicht-linearer Lernvorgang* erreicht werden, der aber *nicht selbstorganisierend* ist.
 
 *Widerspricht den Umsetzungsprinzipien*:
 
-* Zielt auf ein starres Technik-Leitbild: berücksichtigt nicht die individuellen Eigenschaften der Lernenden und tastet nicht den Lösungsraum ab. Individuelle Lösungsfindung durch Varianz muss stattdessen in Wettkämpfen erworben werden.
-* Stellt auf schnelle Minimierung der Abweichung zum Technik-Zielbild ab; Aktionen "gelingen" schnell und werden dann optimiert: Für schnelle neuro-plastische Verändungen ist aber eine hohe Fehlerrate erforderlich.
+* Zielt auf ein *starres Technik-Leitbild*: berücksichtigt nicht die *individuellen Lösungsbereich* der Lernenden und tastet nicht den Lösungsraum ab. Individuelle Lösungsfindung durch Varianz muss *stattdessen in Wettkämpfen* erworben werden.
+* Stellt auf schnelle *Minimierung der Abweichung* zum Technik-Zielbild ab; Aktionen "gelingen" schnell und werden dann optimiert: Für schnelle neuro-plastische Verändungen ist aber die *Fehlerrate zu gering*.
 * Minimiert die Zeit, in der Lernende im "Frust-Stadium" sind: die im Frust-Stadium freigesetzten Botenstoffe sind für die Neuroplastizität notwendig.
-* Variiert nur einen Teil des möglichen Lösungsraums: Variiert räumlich-zeitliche und zeitliche Ausführung und Anfangs- und Endbedingungen (eingeschränkt). Variiert nicht: räumliche Ausführung, Umfang, Dauer, Sinneswahrnehmungen, Materialien, Geräte, Untergrund und Rahmenbedingungen.
+* Variiert nur *einen Teil des möglichen Lösungsraums*: Variiert räumlich-zeitliche und zeitliche Ausführung und Anfangs- und Endbedingungen (eingeschränkt). Variiert nicht: räumliche Ausführung, Umfang, Dauer, Sinneswahrnehmungen, Materialien, Geräte, Untergrund und Rahmenbedingungen.
 
 *Möglichkeiten zur Anpassung*
 
 Das System "Emil Beck" kann so verändert werden, dass es den Umsetzungsprinzipien besser entspricht:
 
-. Akzeptanz von Aktionen abseits des Technik-Leitbilds. Das Leitbild soll weiter verwendet werden, um Einsteiger:innen einen Startpunkt zu bieten. Sehr schnell muss aber auf die Effektivität der Aktionen abgestellt werden.
-. Sichtbarmachen der Auswirkungen von Änderungen im Bewegungsablauf: Entstehende Schwachstellen (Blößen, Balance-Probleme, ...) müssen sichtbar gemacht, Ausführungszeiten gemessen und dargestellt werden.
-. Erhöhen der Fehlerraten: Sobald eine Aktion in mehr als 25% der Fälle gelingt, müssen Zusatz-Aufgaben, Einschränkungen und angepasste Rahmenbedingungen eingeführt werden, die die hohe Fehlerrate aufrecht erhalten.
-. Frühes Einführen komplexer Aktionen und Auswahl-Aktionen: Das System "vom Einfachen zum Schweren" und geblockte Übungen müssen aufgebrochen werden, um höhere Lernraten zu erreichen.
-
+. Akzeptanz von Aktionen *abseits des Technik-Leitbilds*. Das Leitbild soll weiter verwendet werden, um Einsteiger:innen einen Startpunkt zu bieten. Sehr schnell muss aber auf die *Effektivität der Aktionen* abgestellt werden. Durch *Zusatz-Aufgaben* ist den Lernenden der *gesamte mögliche Lösungsbereich* anzubieten und auch fehlerhaft scheinende Umsetzungs-Varianten einzubinden.
+. Sichtbarmachen der *Auswirkungen von Änderungen im Bewegungsablauf*: Entstehende Schwachstellen (Blößen, Balance-Probleme, ...) müssen sichtbar gemacht, Ausführungszeiten gemessen und dargestellt werden.
+. Erhöhen der *Fehlerraten*: Sobald eine Aktion in mehr als 25% der Fälle gelingt, müssen *Zusatz-Aufgaben*, *Einschränkungen* und *angepasste Rahmenbedingungen* eingeführt werden, die die hohe Fehlerrate aufrecht erhalten.
+. Frühes Einführen komplexer Aktionen und Auswahl-Aktionen: Das System "vom Einfachen zum Schweren" und geblockte Übungen müssen aufgebrochen werden, um höhere Lernraten zu erreichen. Es soll auf *selbstorganisierendes Lernen* abgestellt werden.
 
 == Das System "Harmenberg"
 
