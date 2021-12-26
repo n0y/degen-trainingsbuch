@@ -8,7 +8,7 @@ Alle Texte hier sind unter dieser Lizenz veröffentlicht: xref:LICENSE.adoc[] (E
 
 Alle Autoren sind unter xref:AUTOREN.adoc[] einzusehen.
 
-Der jeweils https://n0y.github.io/degen-trainingsbuch/[aktuelle Stand ist auf unserer Github Page] veröffentlicht.
+Der jeweils https://www.fintenfisch.de/[aktuelle Stand ist auf unserer Github Page] veröffentlicht.
 
 == Mitarbeit
 
