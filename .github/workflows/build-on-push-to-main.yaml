@@ -15,7 +15,8 @@ jobs:
         run: |
           sudo gem install asciidoctor asciidoctor-bibtex
           mkdir public
-          cd src && asciidoctor -r asciidoctor-bibtex -o ../public/index.html index.adoc
+          cd src && asciidoctor -t -v -r asciidoctor-bibtex -o ../public/index.html index.adoc
+          find . -regextype egrep -regex '.*\.(png|jpg|svg)$' -print0 | xargs -0 echo cp -t ../public/
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
