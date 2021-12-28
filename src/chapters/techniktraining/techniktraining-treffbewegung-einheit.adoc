@@ -1,0 +1,100 @@
+= Trainingseinheit: Stossübungen
+
+.Material (es geht auch immer etwas ähnliches)
+
+* Weichbodenmatten (an der Wand), o.ä.
+* Tennisbälle, Styroporkugeln, o.ä. an einer Schnur
+* Klebeband (Maler-Krepp, o.ä.)
+* Kasten, Bank, o.ä.
+* Streichholzschachteln
+* Filzstift
+* 6-seitige Würfel
+* evtl. Laser-Pointer
+* evtl. unterschiedliche "Waffen"
+
+.Prinzip
+
+Stoßen auf unterschiedliche Ziele, die markiert werden. Die Ausgangslage und Stoss-Variante wird variiert. Die Lernenden bilden Kleingruppen, die sich Aufgaben stellen. Ideal sind zwei bis drei Personen.
+
+.Hinweise
+
+* Es soll insgesamt 5 Minuten pro Station geübt werden.
+* Es können unterschiedliche "Waffen" angeboten werden: Rohre, Holzstecken, ...
+* Es hat sich bewährt, Musik zur Übung zu spielen.
+* Es soll (wenn nicht anders angegeben) auf *hohe Ausführungsgeschwindigkeit* abgestellt werden. Diese ist wichtiger aus eine "saubere Ausführung". Werden die Übungen zu langsam ausgeführt, dann stimmt die propriozeptive Wahrnehmung nicht mit denen in echten Gefechtssituationen überein und führt auch im Gefecht zu langsamer Ausführung.
+* Ggf. kann gelegentlich die Durchführungszeit gemessen werden.
+
+.Stationen
+
+_Station 1: Weichbodenmatten_
+
+* Mit Klebeband werden fünf Ziele zwischen Kopf- und Fusshöhe markiert.
+* Vor der Matte werden sechs Stellen für die Füße markiert und nummeriert, in Abständen zwischen 1 und 3 Metern.
+
+Die Lernenden sind abwechselnd an der Reihe.
+
+. Fussstellung auswürfeln: 1-6 entsprechend der Bodenmarkierungen. Fälle zweimal die selbe Zahl, gilt für einen der Füße: in der Luft
+. Zusatzaufgabe würfeln (Alternativ: die Lernenden denken sich selber Aufgaben aus)
+[numeric]
+ .. so schnell wie möglich treffen.
+ .. Waffe vor jedem Treffer auf den Boden
+ .. beim Zustoßen die Augen schließen
+ .. mit Linie treffen, ganz langsam und vorsichtig
+ .. zwischen den Treffern jeweils einen Strecksprung machen
+ .. die waffenfreie Hand fasst den vorderen Knöchel
+. Stellung-Fertig-Los als Startsignal
+
+_Station 2: Schwingende Ziele_
+
+* die Bälle an einer Schnur werden hängend befestigt (z.B. an einem Handball-Tor).
+
+Die Lernenden sind abwechselnd an der Reihe. Auf ausreichend Abstand achten!
+
+. Startposition auswürfeln: 1-6 in Metern Abstand zwischen Spitze und Ball
+. Beinarbeit auswürfeln (ggf. muss erst mit Schritten zurück der Abstand korrigiert werden.)
+[numeric]
+.. mit Schritten
+.. mit Schritten und Ausfall
+.. mit Sprung und Ausfall
+.. mit Schritten, Schritt zurück, Ausfall
+.. mit Ausfall, Nachsetzen, Ausfall
+.. mit Fléche
+. Stellung-Fertig-Los als Startsignal
+
+_Station 3: Kasten_
+
+* die Streichholzschachteln werden an der Kante des Kastens aufrecht positioniert.
+* Vor der Station werden sechs Stellen für die Füße markiert.
+
+Die Lernenden müssen die Streichholzschachteln mit einem Stoß umwerfen.
+
+. Fussstellung auswürfeln: 1-6 entsprechend der Bodenmarkierungen. Fälle zweimal die selbe Zahl, gilt für einen der Füße: in der Luft
+. Zusatzaufgabe würfeln (Alternativ: die Lernenden denken sich selber Aufgaben aus)
+[numeric]
+.. so schnell wie möglich treffen.
+.. Waffe vor jedem Treffer auf den Boden
+.. beim Zustoßen die Augen schließen
+.. mit Linie treffen, ganz langsam und vorsichtig
+.. zwischen den Treffern jeweils einen Strecksprung machen
+.. die waffenfreie Hand fasst den vorderen Knöchel
+. Stellung-Fertig-Los als Startsignal
+
+_Station 4: Laser-Pointer_
+
+* eine Person erhält den Laser-Pointer
+* die andere Person startet so, dass sie während der Beinarbeit immer zwei Meter Abstand zum Ziel hat.
+
+. Beinarbeit auswürfeln:
+[numeric]
+.. Schritt vor, Schritt zurück
+.. Sprung vor, Schritt zurück
+.. Schritt vor - Sprung vor, zwei Schritte zurück
+.. Schritt vor - Ausfall, Schritt zurück
+.. Trippling auf der Stelle
+.. freie Beinarbeit
+. Stellung-Fertig-Los als Startsignal
+. nach 1-10 Sekunden wird ein Ziel auf der Wand angezeigt
+. Lernende:r muss dieses Ziel möglichst schnell mit Ausfall treffen und im Ausfall bleiben
+. direkt danach wird ein anderes Ziel angezeigt
+. Lernende:r muss mit Rimesse treffen
+. jeweils 5 Wiederholungen

@@ -19,3 +19,5 @@ Eine Durchführung auf Zeit oder auf die meisten Treffer pro Versuch in Kleingru
 Um wechselnde Ziele vorzugeben, können diese vorgeplant werden. Alternativ werden sie angezeigt, z.B. mittels Fencing Hit Target oder Laserpointer.
 
 Klingenaktionen können ebenfalls geübt werden, indem in Kleingruppen Gegner neben das Ziel postiert werden. Ein Stoßtraining mit Person als Ziel hat sich dagegen nicht bewährt, da die Abneigung, ggf. schmerzhaft zu treffen oder getroffen zu werden, kaum konzentriertes Training ermöglicht.
+
+include::techniktraining-treffbewegung-einheit.adoc[leveloffset=+1]
