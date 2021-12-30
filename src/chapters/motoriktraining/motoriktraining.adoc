@@ -10,30 +10,38 @@ Motorische Fähigkeiten sind die Grundlage, auf der das spezifische Fechttrainin
 
 Diese motorischen Fähigkeiten sind generell für alle sportlichen Tätigkeiten relevant. Hier ist das Ziel in erster Linie, die Fähigkeiten so zu trainieren, wie sie für den Fechtsport notwendig sind.
 
-=== Ausdauertraining
+Diese Fähigkeiten lassen sich jeweils separat trainieren. Allerdings steht in den meisten Trainingsplänen nicht genug Zeit dafür zur Verfügung, so dass das Training entweder separat durch die Athlet:innen erfolgt oder in das reguläre Training integriert werden muss. Dabei empfiehlt es sich, kombinierte Übungen anzubieten, in denen mehrere motorische Fähigkeiten gleichzeitig trainiert werden können.
 
-Modernes Sportfechten stellt nur grundlegende Anforderungen an die Ausdauerfähigkeit der AthletInnen. Die maximale Kampfzeit im Degen beträgt pro Gefecht nur 10 Minuten, in denen die meiste Zeit weit unterhalb der anaeroben Schwelle agiert wird.
+=== Motorische Anforderungen des Sportfechtens
 
-Da die Ausdauerfähigkeit aber auch die Grundlage ist, um eine schnelle Erholung zwischen den Gefechten (und auch zwischen den Gefechts-Phrasen) zu ermöglichen, kommt ihr dennoch eine gewisse Bedeutung zu und sollte in Maßen separat trainiert werden.
+Das Sportfechten ist in seiner Belastungsstruktur mit anderen olypmischen Kampfsportarten vergleichbar: Ähnlich wie das Taekwondo liegt der Schwerpunkt auf kurzen Runden hochintensiver Belastung. Neben technischen Anforderungen liegt der Schwerpunkt im anaeroben und neuromuskulären Bereich.
 
-Durch effizientes Ausdauer-Training kann außerdem die Laktattoleranz verbessert werden, sodass häufige Aktionen im Maximalkraft-Bereich besser toleriert werden können.
+Ähnlich zum Taekwondo lässt sich auch im Sportfechten die maximale aerobe Kapazität auf 60-65 stem:[(ml * kg) / min] schätzen.
 
-Um effizient Ausdauer aufzubauen, ist das Intervalltraining der kontinuierlichen Methode überlegen. Die selben Leistungssteigerungen werden mit geringerem Zeiteinsatz erzielt (z.B. cite:[ESECIT]).
+Grundlegend für hochintensive Belastungen ist eine große aerobe Kapazität (siehe cite:[HPNRHP]), und dabei insbesondere die Herzminutenleistung. Das trifft insbesondere auf Athlet:innen mit bereits hoher VO~2~max zu (siehe cite:[BoVO2].
+
+=== Training der Ausdauerfähigkeiten
+
+Um effizient Ausdauer aufzubauen, ist das Intervalltraining der kontinuierlichen Methode überlegen. Dieselben Leistungssteigerungen werden mit geringerem Zeiteinsatz erzielt (z.B. cite:[ESECIT]).
 
 Das betrifft nicht nur die maximale Sauerstoffaufnahme (VO~2~ max), sondern auch die anaerobe Kapazität. Nach cite:[EMEHIIT] kann durch vier Minuten Hochintensitäts-Intervall Training die VO~2~ max genauso gut verbessert werden wie durch 60 Minuten kontinuierliches Training.
 
-Beim Intervalltraining unterscheiden wir zwischen
+Für das körperliche Training übernehmen wir die Definitionen aus cite:[HICCA(8)]:
 
-* *(Hoch-) Intensives Intervalltraining*: findet im anaeroben Bereich statt. Die Intervalle sind dementsprechend kurz.
-* *Extensives Intervalltraining*: findet im aeroben Bereich nahe der anaeroben Schwelle statt. Die Intervalle sind etwas länger, die Erholungspausen sollten ebenfalls deutlich oberhalb des Ruhepuls enden.
+* Sprint Interval Training (*SIT*): <30sec maximale Belastung (RPE 10/10), z.B. 30sec maximaler Sprint
+* Speed Endurance Training (*SET*): 30-60sec bei https://www.crossfitwiesbaden.com/blog/rpe-training-was-bedeutet-das[RPE] 9/10, z.B: 8x 30sec mit 3min Pause
+* Muscle Buffer Training (*BUF*): Belastung mit Resultat von 8-10 stem:[mmol / l], bei RPE 8/10, z.B. 6x 2min mit 3min Pause
+* High-Intensitive Interval Training (*HIIT*): Intervalle von 2-20min bei RPE 9/10, 90% maximale Herzfrequenz oder 90-95% VO~2~max, z.B. 4x 8min mit 2min Pause
+
+Die Übergänge zwischen den Trainingsarten sind dabei allerdings fließend.
 
 include::motorisch-ausdauer-hiit.adoc[leveloffset=+3]
 
 include::motorisch-ausdauer-hiit-sit.adoc[leveloffset=+3]
 
-=== Schnelligkeitstraining
-
 === Maximalkrafttraining
+
+=== Schnelligkeitstraining
 
 === Koordinationstraining
 

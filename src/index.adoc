@@ -34,6 +34,8 @@ include::chapters/agilitaetstraining/agilitaetstraining.adoc[]
 
 include::chapters/motoriktraining/motoriktraining.adoc[]
 
+include::chapters/trainingsplanung/trainingsplanung.adoc[]
+
 include::chapters/literatur/literatur.adoc[]
 
 include::../LICENSE.adoc[leveloffset=+1]
