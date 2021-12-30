@@ -11,9 +11,15 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+      - uses: reitzig/actions-asciidoctor@v2.0.0
+        with:
+          version: 2.0.10
       - name: Build With Asciidoctor
         run: |
-          sudo gem install asciidoctor asciidoctor-bibtex
+          gem install asciidoctor-bibtex
           mkdir public
           cd src && asciidoctor -t -v -r asciidoctor-bibtex -o ../public/index.html index.adoc
           find . -regextype egrep -regex '.*\.(png|jpg|svg)$' -print0 | xargs -0 echo cp -t ../public/
