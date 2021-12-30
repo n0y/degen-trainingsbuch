@@ -13,8 +13,6 @@ jobs:
       - uses: actions/checkout@v2
       - name: Build With Asciidoctor
         run: |
-          sudo apt update
-          sudo apt install pango
           sudo gem install asciidoctor asciidoctor-bibtex
           mkdir public
           cd src && asciidoctor -t -v -r asciidoctor-bibtex -o ../public/index.html index.adoc
