@@ -2,19 +2,22 @@
 
 Für Aufbau und Integration der verschiedenen Trainingsbestandteile orientieren wir uns an cite:[HICCA(11)]. Dabei sind die Trainingsinhalte entsprechend der zur Verfügung stehenden Trainingsmittel und -zeiten anzupassen.
 
+Eine Trainingsplanung zielt immer auf einen Saison-Höhepunkt hin. Dieser kann pro Athlet:in unterschiedlich sein. Meistens liegen die Höhepunkte aber so nahe beieinander, dass trotzdem in der Gruppe trainiert werden kann. Dabei sind dann Kompromisse zu schließen.
+
+Trotz der Orientierung auf einen Saison-Höhepunkt sind in der Regel trotzdem Wettkämpfe zu bestreiten. Es ist dann darauf zu achten, dass in den letzten 3-4 Tagen vor dem Wettkampf kein intensives Kraft- oder Schnelligkeitstraining erfolgen soll. Zudem ist in den letzten drei Tagen vor einem Wettkampf auf kohlenhydratreiche Nahrung zu achten.
 
 
-|===
-|Woche |Inhalt|Beispiel-Trainingseinheit (120 Minuten)
+=== Woche 1-4: allgemeine Vorbereitung
 
-|1-4 +
-allgemeine Vorbereitung
-a|
+.Inhaltliche Schwerpunkte
+
 * Fechttechnik: Gruppenarbeit / Lektion
 * Sprint Interval Training (evtl. eigenständig)
 * Muskelaufbau (evtl. separat)
 * Kraftausdauer
-a|
+
+.Beispielhafte Trainingseinheit
+
 . 15min kurzes Aufwärmen
 . 15min Beinarbeit (3x3min, 1min Pause)
 . 30min Partner-Übung/Lektion: Eröffnung Handgelenk unten, TBB 1/4/1, 2/4/1, 2/4/2, 2/4/6 als Auswahlübung
@@ -24,16 +27,17 @@ a|
 
 SIT als zwei zusätzliche Wocheneinheiten selbständig nach Trainingsplan.
 
+=== Woche 5-8: spezifische Vorbereitung
 
+.Inhaltliche Schwerpunkte
 
-|5-8 +
-spezifische Vorbereitung
-a|
 * Fechttechnik: Gruppenarbeit / Lektion
 * High Intensity Interval Training, kurze Intervalle (evtl. eigenständig)
 * einfaches Krafttraining (evtl. separat)
 * Trainingsgefechte
-a|
+
+.Beispielhafte Trainingseinheit
+
 . 15min Aufwärmen
 . 5min intensive Beinarbeit (3x 1min, 1min Pause)
 . 30min Partnerübung/Lektion: Mensurarbeit und Präparationen, Sperrstöße, Meidhandlungen
@@ -42,15 +46,16 @@ a|
 
 Einfaches Krafttraining separat im Kraftraum (zwei Einheiten pro Woche).
 
+=== Woche 6-12: Wettkampf-Vorbereitung
 
-|9-12 +
-Wettkampf-Vorbereitung
-a|
+.Inhaltliche Schwerpunkte
+
 * Trainingsgefechte
 * Muscle Buffer Training (evtl. separat)
 * Fecht-Technik: Gruppenarbeit / Lektion
 * Schnelligkeitsausdauer (evtl. eigenständig)
-a|
+
+.Beispielhafte Trainingseinheit
 
 . 10min Aufwärmen
 . 30min Lauf-Bingo, Stafetten oder Koordinationsleiter mit Fokus Muscle Buffer Training 6x 2min, 3min Pause.
@@ -61,21 +66,22 @@ a|
 
 Leichtes Krafttraining separat im Kraftraum (1-2 Einheiten pro Woche).
 
-|13-16 +
-Wettkampfphase
-a|
+=== Woche 13-16: Wettkampfphase
+
+.Inhaltliche Schwerpunkte
+
 * Trainingsgefechte
 * Schnelligkeitsausdauer (evtl. eigenständig)
 * extensives Interval-Training (evtl. eigenständig)
 * einfaches Krafttraining (evtl. separat)
-a|
-* 10min Aufwärmen
-* 15min Beinarbeit mit Fokus Beweglichkeit und Reaktionsfähigkeit
-* 20min Krafttraining mit Langbänken (Zieh- und Hebe-Aufgaben)
-* 60min freie Gefechte mit Wettkampf-Charakter, Zusatzaufgaben
-* 15min Dehnen
+
+.Beispielhafte Trainingseinheit
+
+. 10min Aufwärmen
+. 15min Beinarbeit mit Fokus Beweglichkeit und Reaktionsfähigkeit
+. 20min Krafttraining mit Langbänken (Zieh- und Hebe-Aufgaben)
+. 60min freie Gefechte mit Wettkampf-Charakter, Zusatzaufgaben
+. 15min Dehnen
 
 Extensive Interalle als eigenständige Laufeinheiten nach Trainingsplan (2-3 Einheiten pro Woche).
-
-|===
 
