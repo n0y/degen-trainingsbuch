@@ -11,9 +11,17 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - name: Build With Asciidoctor
+
+      - name: Prepare
         run: |
-          sudo gem install asciidoctor asciidoctor-bibtex
+          if [ -d public ]; then rm -rf public; fi
           mkdir public
-          cd src && asciidoctor -t -v -r asciidoctor-bibtex -o ../public/index.html index.adoc
-          find . -regextype egrep -regex '.*\.(png|jpg|svg)$' -print0 | xargs -0 echo cp -t ../public/
+          (cd src && find . -regextype egrep -regex '.*\.(png|jpg|svg)$' -print0 | xargs -0 cp -t ../public/)
+      - name: Build With Asciidoctor
+        uses: docker://asciidoctor/docker-asciidoctor:1.16
+        with:
+          args: 'bash -c "cd src && asciidoctor -t -v -r asciidoctor-bibtex -r asciidoctor-mathematical -a mathematical-format=svg -o ../public/index.html index.adoc"'
+
+      - name: Display Build Results
+        run: |
+          find public

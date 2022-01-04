@@ -1,4 +1,5 @@
 == Training motorischer Fähigkeiten
+:stem:
 
 Motorische Fähigkeiten sind die Grundlage, auf der das spezifische Fechttraining aufsetzt:
 
@@ -16,7 +17,7 @@ Diese Fähigkeiten lassen sich jeweils separat trainieren. Allerdings steht in d
 
 Das Sportfechten ist in seiner Belastungsstruktur mit anderen olypmischen Kampfsportarten vergleichbar: Ähnlich wie das Taekwondo liegt der Schwerpunkt auf kurzen Runden hochintensiver Belastung. Neben technischen Anforderungen liegt der Schwerpunkt im anaeroben und neuromuskulären Bereich.
 
-Ähnlich zum Taekwondo lässt sich auch im Sportfechten die maximale aerobe Kapazität auf 60-65 stem:[(ml * kg) / min] schätzen.
+Ähnlich zum Taekwondo lässt sich auch im Sportfechten die maximale aerobe Kapazität auf 60-65 stem:[(ml * kg) / (min)] schätzen.
 
 Grundlegend für hochintensive Belastungen ist eine große aerobe Kapazität (siehe cite:[HPNRHP]), und dabei insbesondere die Herzminutenleistung. Das trifft insbesondere auf Athlet:innen mit bereits hoher VO~2~max zu (siehe cite:[BoVO2].
 
@@ -30,7 +31,7 @@ Für das körperliche Training übernehmen wir die Definitionen aus cite:[HICCA(
 
 * Sprint Interval Training (*SIT*): <30sec maximale Belastung (RPE 10/10), z.B. 30sec maximaler Sprint
 * Speed Endurance Training (*SET*): 30-60sec bei https://www.crossfitwiesbaden.com/blog/rpe-training-was-bedeutet-das[RPE] 9/10, z.B: 8x 30sec mit 3min Pause
-* Muscle Buffer Training (*BUF*): Belastung mit Resultat von 8-10 stem:[mmol / l], bei RPE 8/10, z.B. 6x 2min mit 3min Pause
+* Muscle Buffer Training (*BUF*): Belastung mit Resultat von 8-10 stem:[(mmol) / l], bei RPE 8/10, z.B. 6x 2min mit 3min Pause
 * High-Intensitive Interval Training (*HIIT*): Intervalle von 2-20min bei RPE 9/10, 90% maximale Herzfrequenz oder 90-95% VO~2~max, z.B. 4x 8min mit 2min Pause
 
 Die Übergänge zwischen den Trainingsarten sind dabei allerdings fließend.
