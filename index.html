@@ -1967,7 +1967,7 @@ Hoher Zeitaufwand im Training</p></td>
 <p>Das Sportfechten ist in seiner Belastungsstruktur mit anderen olypmischen Kampfsportarten vergleichbar: Ähnlich wie das Taekwondo liegt der Schwerpunkt auf kurzen Runden hochintensiver Belastung. Neben technischen Anforderungen liegt der Schwerpunkt im anaeroben und neuromuskulären Bereich.</p>
 </div>
 <div class="paragraph">
-<p>Ähnlich zum Taekwondo lässt sich auch im Sportfechten die maximale aerobe Kapazität auf 60-65 \$(ml * kg) / min\$ schätzen.</p>
+<p>Ähnlich zum Taekwondo lässt sich auch im Sportfechten die maximale aerobe Kapazität auf 60-65 \$(ml * kg) / (min)\$ schätzen.</p>
 </div>
 <div class="paragraph">
 <p>Grundlegend für hochintensive Belastungen ist eine große aerobe Kapazität (siehe (<a href="#HPNRHP">Haugen et al.&#44; 2017</a>)), und dabei insbesondere die Herzminutenleistung. Das trifft insbesondere auf Athlet:innen mit bereits hoher VO<sub>2</sub>max zu (siehe (<a href="#BoVO2">Lundby et al.&#44; 2016</a>).</p>
@@ -1993,7 +1993,7 @@ Hoher Zeitaufwand im Training</p></td>
 <p>Speed Endurance Training (<strong>SET</strong>): 30-60sec bei <a href="https://www.crossfitwiesbaden.com/blog/rpe-training-was-bedeutet-das">RPE</a> 9/10, z.B: 8x 30sec mit 3min Pause</p>
 </li>
 <li>
-<p>Muscle Buffer Training (<strong>BUF</strong>): Belastung mit Resultat von 8-10 \$mmol / l\$, bei RPE 8/10, z.B. 6x 2min mit 3min Pause</p>
+<p>Muscle Buffer Training (<strong>BUF</strong>): Belastung mit Resultat von 8-10 \$(mmol) / l\$, bei RPE 8/10, z.B. 6x 2min mit 3min Pause</p>
 </li>
 <li>
 <p>High-Intensitive Interval Training (<strong>HIIT</strong>): Intervalle von 2-20min bei RPE 9/10, 90% maximale Herzfrequenz oder 90-95% VO<sub>2</sub>max, z.B. 4x 8min mit 2min Pause</p>
@@ -3562,8 +3562,32 @@ Zusätzlich zu den Bedingungen in Abschnitt 3(a) gelten die folgenden Bedingunge
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2022-01-03 20:20:08 UTC
+Last updated 2022-01-04 08:38:39 UTC
 </div>
 </div>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  messageStyle: "none",
+  tex2jax: {
+    inlineMath: [["\\(", "\\)"]],
+    displayMath: [["\\[", "\\]"]],
+    ignoreClass: "nostem|nolatexmath"
+  },
+  asciimath2jax: {
+    delimiters: [["\\$", "\\$"]],
+    ignoreClass: "nostem|noasciimath"
+  },
+  TeX: { equationNumbers: { autoNumber: "none" } }
+})
+MathJax.Hub.Register.StartupHook("AsciiMath Jax Ready", function () {
+  MathJax.InputJax.AsciiMath.postfilterHooks.Add(function (data, node) {
+    if ((node = data.script.parentNode) && (node = node.parentNode) && node.classList.contains("stemblock")) {
+      data.math.root.display = "block"
+    }
+    return data
+  })
+})
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_HTMLorMML"></script>
 </body>
 </html>
