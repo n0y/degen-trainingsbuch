@@ -1,0 +1,98 @@
+=== Koordinationstraining
+
+Koordination bezeichnet nach cite:[KFuKiS] das geordnete Zusammenwirken von verschiedenen Teilen und Prozessen eines Systems auf ein intendiertes Ziel hin.
+
+Der wissenschaftliche Stand zu koordinativen Fertigkeiten ist derzeit lückenhaft. Es bestehen Forschungslücken und empirisch verifizierte alternative Ansätze cite:[KFuKiS].
+
+Dennoch sind einige koordinative Übungsformen sinnvoll und zeigen gute Resultate.
+
+==== Grundlagen des Koordinationstrainings
+
+Die separate Betrachtung der Koordinationsfähigkeiten ist deshalb problematisch, weil sie nicht direkt beobachtbare, hypothetische Konstrukte sind cite:[RfBDM] und immer auf ein spezifisches Gefüge aus mehreren Fähigkeiten unterschiedlicher Gewichtung zurückgegriffen wird cite:[WkFuB].
+
+Die Tragfähigkeit des Ansatzes der koordinativen Fähigkeiten wird zunehmend infrage gestellt. Das betrifft besonders das Konzept allgemeiner, übergreifender Koordinationsfähigkeiten. Die Erkenntnisse sprechen eher für eine hohe Fertigkeitsspezifität: Es besteht ein hoher Trainingseffekt auf Leistungen, die Teil des Trainings sind, aber die Effekte lassen sich kaum auf andere Aufgaben übertragen (siehe z.B. cite:[RbSBM] und cite:[HMSSvSe]).
+
+Dennoch wird oft allgemeines Koordinationstraining für sinnvoll erachtet mit den Zielen, außersportliche Handlungskompetenz zu erhalten, Trainingsmonotonie entgegenzuwirken und Handlungssicherheit in Problemsituationen zu erhalten.
+
+Als Anteile am Training werden in cite:[SSlTo] z.B. 5% für allgemeines und 10-15% für sportartspezifisches Koordinationstraining genannt.
+
+In cite:[KFuKiS] wird dargestellt, dass das Training allgemeiner Koordinationsfähigkeiten und fertigkeitsbezogenes Techniktraining die beiden Pole des selben Kontinuums sind. Techniktraining ist somit immer auch sportartspezifisches Koordinationstraining cite:[OMBGTwl].
+
+Die Haupttrainingsmethode im fähigkeitskonzeptionellen Koordinationstraining ist das variable Üben cite:[WkFuB].
+
+Die dort dargestellten Variationsmethoden des programm-, parameter- und bedingungsvariablen Übens zeigen eine deutliche Ähnlichkeit zum differenziellen Lernen.
+
+==== Spezifisches Koordinationstraining
+
+Es gilt die Maxime, dass die koordinativen Anforderungen im Training immer höher sein müssen als bei der späteren Reproduktion. Also schwierigere Übungen mit größerer Handlungsdichte als in der Realsituation.
+
+Für das Sportfechten bieten sich als Grundlage die normalen technischen Elemente an, die in Spielformen und Partnerübungen eingesetzt werden. Hinzu kommen dann immer variable Druckbedingungen, die für die Ausbildung der gewünschten, koordinativen Fähigkeiten sorgen.
+
+Es gilt nach cite:[WkFuB]:
+
+*Koordinationstraining = beherrschte Fähigkeit + sensorische Vielfalt + Druchbedingungen*
+
+|====
+|Druckbedingung|Dimensionen|Übungsbeispiel
+
+|Zeit
+a|* verfügbare Bewegungszeit
+* zu erreichende Geschwindigkeit
+a|* Parade-Riposte mit maximalem Tempo
+* Auswahlreaktion unter Zeitdruck
+
+|Präzision
+a|* Körperposition
+* Körperlage
+* Handlage
+* Klingenlage
+* Spitzenposition
+a|* Zielvorgaben beim Treffen
+* Beinarbeit auf einer Langbank
+* Sperrstöße mit Vorgabe des Berührungspunkts
+
+|Komplexität
+a|* simultane Bewegungsteile
+* sukzessive Bewegungsteile
+* einbezogene Körperteile
+a|* Fechten auf einer Hindernisbahn
+* Imitiation von Gefechtsphrasen
+* Gefecht gegen mehrere Gegner
+
+|Situation
+a|* Variabilität der Umgebung
+* Komplexität der Umgebung
+* Variabilität der Situation
+* Komplexität der Situation
+a|* Auswahlübungen mit mehreren Optionen
+* Übungsgefechte mit schnell wechselnden Gegnern
+
+|Belastung
+a|* physische Belastung
+* psychische Belastung
+a|* Übung nach konditioneller Vorbelastung
+* gleichzeitiges Lösen einer Kopfrechenaufgabe
+
+|====
+
+include::motoriktraining-koordinationstraining-bsp1.adoc[leveloffset+=3]
+
+==== Neuroathletik-Training
+
+Die Neuroathletik beschäftigt sich mit Prozessen des Gehirns und der Nerven bei der Entwicklung der Bewegungsprogramme, bevor es zu einer Handlung kommt.
+
+Schwerpunkt ist die Schulung der Wahrnehmung
+
+* des visuellen Systems (Sehen)
+* des vestibulären Systems (Gleichgewicht)
+* und des propriozeptiven Systems (Eigenwahrnehmung).
+
+Grundlage ist, dass die Qualität der Wahrnehmung und der Verarbeitung im Gehirn ausschlaggebend dafür ist, ob das Gesamtsystem Athlet die maximale Leistung zielgerichtet abrufen kann. Bei Problemen in der Wahrnehmung reagiert das Gehirn damit, die verfügbare Leistung zu reduzieren, um Verletzungsrisiken auszuschließen.
+
+Diese Verarbeitung läßt sich bei allen Athlet:innen optimieren. Oft lassen sich Defizite in diesem Bereich mit bloßem Auge identifizieren:
+
+* Die Bewegungen erscheinen ungelenk.
+* Aktionen werden zögerlich und vorsichtig durchgeführt.
+* Bewegungen erscheinen inkonsequent, werden unterbrochen oder abgebrochen.
+* Aktionen erfolgen vorsichtig, den Athlet:innen scheint das Vertrauen in die eigenen Fähigkeiten zu fehlen.
+* die Athlet:innen wenden sich ab (z.B. bei Paraden und Gegenangriffen), sinken zusammen, ziehen ein Bein oder den unbewaffneten Arm zur Körpermitte.
