@@ -24,11 +24,11 @@ Grundlegende Bewegungsmodelle sind nach cite:[SDLL]:
 
 == Probleme und Widersprüche der klassischen Trainingslehre
 
-In den meisten uns bekannten Vereinen wird normalerweise nicht nach einem festen Modell gelehrt, sondern es kommt zu einer Vermischung. Intuitiv und auch mit Erfolg geben TrainerInnen in Anlehnung an das Lernen am Modell Ziel-Techniken vor und versuchen ihre SchülerInnen mit bedingter und operanter Konditionierung möglichst nahe an das eigene oder übernommene Technik-Leitbild anzunähern.
+In den meisten uns bekannten Vereinen wird normalerweise nicht nach einem festen Modell gelehrt, sondern es kommt zu einer Vermischung. Intuitiv und auch mit Erfolg geben Trainer:innen in Anlehnung an das Lernen am Modell Ziel-Techniken vor und versuchen ihre SchülerInnen mit bedingter und operanter Konditionierung möglichst nahe an das eigene oder übernommene Technik-Leitbild anzunähern.
 
-Auch explorative Methoden ("Versuch und Irrtum") werden bisweilen als Methode eingesetzt. Allzu häufig aber mit dem Ziel, die erwartete Zieltechnik möge nun endlich gefunden und eingesetzt werden. SchülerInnen finden zwar gelegentlich eigene Techniken, die eventuell sogar für ihre Voraussetzungen besser geeignet sind; diese werden aber oft als Irrtum ignoriert.
+Auch explorative Methoden ("Versuch und Irrtum") werden bisweilen als Methode eingesetzt. Allzu häufig aber mit dem Ziel, die erwartete Zieltechnik möge nun endlich gefunden und eingesetzt werden. Schüler:innen finden zwar gelegentlich eigene Techniken, die eventuell sogar für ihre Voraussetzungen besser geeignet sind; diese werden aber oft als Irrtum ignoriert.
 
-Dabei ist die vorgegebene Ideal-/Zieltechnik häufig problematisch: sie ist manchmal veraltet, oft in sich widersprüchlich und in jedem Fall nicht an die Individualität der SchülerInnen angepasst. Dennoch sollen die SchülerInnen sich nach dem Prinzip der Übereinstimmung (cite:[SOTP]) iterativ den "korrekten" Lösungen annähern, die mich hoher Wiederholungszahl eingeschlossen werden sollen (cite:[HaTra]).
+Dabei ist die vorgegebene Ideal-/Zieltechnik häufig problematisch: sie ist manchmal veraltet, oft in sich widersprüchlich und in jedem Fall nicht an die Individualität der Schüler:innen angepasst. Dennoch sollen die SchülerInnen sich nach dem Prinzip der Übereinstimmung (cite:[SOTP]) iterativ den "korrekten" Lösungen annähern, die mich hoher Wiederholungszahl eingeschlossen werden sollen (cite:[HaTra]).
 
 Zu beachten ist, dass innovative Neuerungen im Sport normalerweise erfolgen, wenn sich Trainer und Athleten nicht daran orientieren, sondern Technik und Taktik in einem neuen Umfeld neu denken oder neu erproben.
 
