@@ -77,6 +77,8 @@ a|* Übung nach konditioneller Vorbelastung
 
 include::motoriktraining-koordinationstraining-bsp1.adoc[leveloffset+=3]
 
+include::motoriktraining-koordinationstraining-bsp2.adoc[leveloffset+=3]
+
 ==== Neuroathletik-Training
 
 Die Neuroathletik beschäftigt sich mit Prozessen des Gehirns und der Nerven bei der Entwicklung der Bewegungsprogramme, bevor es zu einer Handlung kommt.
