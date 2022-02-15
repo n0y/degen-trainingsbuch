@@ -5,6 +5,8 @@
 :bibtex-style: apa
 :bibtex-throw: true
 
+Zuletzt Aktualisiert: {localdate}
+
 == Über dieses Buch
 
 Das Fechten ist eine Sportart mit langer Tradition. Entsprechend werden auch Lehrbücher seit mehreren hundert Jahren verfasst.
@@ -37,5 +39,9 @@ include::chapters/motoriktraining/motoriktraining.adoc[]
 include::chapters/trainingsplanung/trainingsplanung.adoc[]
 
 include::chapters/literatur/literatur.adoc[]
+
+== Autoren
+
+include::../AUTOREN.adoc[tags=liste]
 
 include::../LICENSE.adoc[leveloffset=+1]
