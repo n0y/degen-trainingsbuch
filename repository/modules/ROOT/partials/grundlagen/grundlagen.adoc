@@ -1,5 +1,0 @@
-include::grundlagen-training.adoc[]
-
-include::grundlagen-trainerrolle.adoc[]
-
-include::grundlagen-umsetzungsprinzipien.adoc[]

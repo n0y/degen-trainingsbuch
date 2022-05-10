@@ -1,4 +1,0 @@
-[bibliography]
-== Literaturverzeichnis
-
-bibliography::[]

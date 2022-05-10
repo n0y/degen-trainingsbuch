@@ -1,15 +1,8 @@
-<<<<<<< HEAD
-//tag::liste[]
-Degen Trainingsbuch - Autor:innen in alphabetischer Reihenfolge:
-=======
 //tag::autoren[]
 Degen Trainingsbuch - AutorInnen in alphabetischer Reihenfolge:
->>>>>>> mit Antora neu aufgebaut
 
 Bertram Fey <bertram.fey@corelogics.de>
 //end::autoren[]
-
-//end::liste[]
 
 Indem Du Deinen Namen dieser Liste hinzufügst, gewährst Du dem Degen Trainingsbuch die Rechte auf Nutzung unter den Bedingungen unserer xref:LICENSE.adoc[Lizenz] und versicherst, dass Du die Urheberrechte besitzt und die Rechte an das Degen Trainingsbuch abtreten darfst, für alle Commits, die Du dem Degen Trainingsbuch hinzufügst.
 

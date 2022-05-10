@@ -12,8 +12,6 @@ include::partial$grundlagen/grundlagen-training-klassisch.adoc[]
 
 include::partial$grundlagen/grundlagen-training-differenziell.adoc[]
 
-include::partial$grundlagen/grundlagen-training.adoc[]
-
 include::partial$grundlagen/grundlagen-trainerrolle.adoc[]
 
 include::partial$grundlagen/grundlagen-umsetzungsprinzipien.adoc[]
