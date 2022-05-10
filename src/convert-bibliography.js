@@ -21,7 +21,7 @@ xref:bibliography.adoc#cite-${singleCitation.id}[${singleCite.format('citation')
 endif::[]
 //end::${singleCitation.id}[]
 ifdef::render-content[]
-${singleCite.get({format:'string', type:'string', style: 'citation-harvard1', lang: 'de-DE'})}endif::[]
+${singleCite.get({format:'string', type:'string', style: 'citation-apa', lang: 'de-DE'})}endif::[]
 `;
 }
 
