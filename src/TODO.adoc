@@ -1,6 +1,0 @@
-= Noch zu tun:
-
-* Flow
-* Cues (Hilfestellungen)
-* Psychische Aspekte
-* Umgang mit Fehlern - Fehler als notwendige Voraussetzung zum Lernen
