@@ -1,0 +1,19 @@
+= Grundlagen und Methodik
+
+Bei Kindern und Jugendlichen im Besonderen, aber auch bei jedem anderen Menschen, ist Körper und Geist stetiger Veränderung unterworfen. Hinzu kommt, dass jedes Gefecht und auch jedes Training immer unter neuen Bedingungen ausgetragen wird. Keine Situation ist mit irgendeiner vorherigen identisch.
+
+Wir dürfen daher nicht der Versuchung erliegen, im Hinblick auf Technik- und Taktik-Leitbilder allzu sehr zu verallgemeinern und zu sehr Gemeinsamkeiten zu suchen. Das Besondere jedes einzelnen Individuums fiele dabei sehr schnell durch das Raster:
+include::partial$gen/bibliography.adoc[tag=JDZE]
+.
+
+Wir müssen vielmehr darauf abzielen, die Adaption an neue Voraussetzungen und Anforderungen als wichtigste Fähigkeit zu erkennen und zu schulen. Kernpunkt ist es, dass FechterInnen in jeder Situation, die immer eine neue, nie erlebte sein muss, zumindest handlungsfähig bleibt und die Möglichkeit aufrechterhält, schnell angemessene Änderungen vorzunehmen.
+
+include::partial$grundlagen/grundlagen-training-klassisch.adoc[]
+
+include::partial$grundlagen/grundlagen-training-differenziell.adoc[]
+
+include::partial$grundlagen/grundlagen-training.adoc[]
+
+include::partial$grundlagen/grundlagen-trainerrolle.adoc[]
+
+include::partial$grundlagen/grundlagen-umsetzungsprinzipien.adoc[]

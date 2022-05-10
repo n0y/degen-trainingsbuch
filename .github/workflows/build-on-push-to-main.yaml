@@ -10,20 +10,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Prepare
-        run: |
-          if [ -d public ]; then rm -rf public; fi
-          mkdir public
-          (cd src && find . -regextype egrep -regex '.*\.(png|jpg|svg)$' -print0 | xargs -0 cp -t ../public/)
-      - name: Build With Asciidoctor
-        uses: docker://asciidoctor/docker-asciidoctor:1.16
+      - uses: actions/checkout@v2.3.1
+      - uses: actions/setup-node@v2
         with:
-          args: 'bash -c "cd src && asciidoctor -t -v -r asciidoctor-bibtex -r asciidoctor-mathematical -a mathematical-format=svg -o ../public/index.html index.adoc"'
+          node-version: '14'
+      - run: npm ci
+      - run: npm run build
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          branch: gh-pages
+          folder: build

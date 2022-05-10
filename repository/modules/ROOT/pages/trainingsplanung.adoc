@@ -1,0 +1,92 @@
+= Trainingsplanung
+
+Für Aufbau und Integration der verschiedenen Trainingsbestandteile orientieren wir uns an
+include::partial$gen/bibliography.adoc[tag=HICCA]
+, Seite 11. Dabei sind die Trainingsinhalte entsprechend der zur Verfügung stehenden Trainingsmittel und -zeiten anzupassen.
+
+Eine Trainingsplanung zielt immer auf einen Saison-Höhepunkt hin. Dieser kann pro Athlet:in unterschiedlich sein. Meistens liegen die Höhepunkte aber so nahe beieinander, dass trotzdem in der Gruppe trainiert werden kann. Dabei sind dann Kompromisse zu schließen.
+
+Trotz der Orientierung auf einen Saison-Höhepunkt sind in der Regel trotzdem Wettkämpfe zu bestreiten. Es ist dann darauf zu achten, dass in den letzten 3-4 Tagen vor dem Wettkampf kein intensives Kraft- oder Schnelligkeitstraining erfolgen soll. Zudem ist in den letzten drei Tagen vor einem Wettkampf auf kohlenhydratreiche Nahrung zu achten.
+
+
+== Woche 1-4: allgemeine Vorbereitung
+
+.Inhaltliche Schwerpunkte
+
+* Fechttechnik: Gruppenarbeit / Lektion
+* Sprint Interval Training (evtl. eigenständig)
+* Muskelaufbau (evtl. separat)
+* Kraftausdauer
+
+.Beispielhafte Trainingseinheit
+
+. 15min kurzes Aufwärmen
+. 15min Beinarbeit (3x3min, 1min Pause)
+. 30min Partner-Übung/Lektion: Eröffnung Handgelenk unten, TBB 1/4/1, 2/4/1, 2/4/2, 2/4/6 als Auswahlübung
+. 15min Krafttraining/Muskelaufbau nach
+include::partial$gen/bibliography.adoc[tag=ESTSCT]
+, Tabelle 1
+. 30min einfache Gefechte mit Aufgabe zur Erholung
+. 15min für Pausen
+
+SIT als zwei zusätzliche Wocheneinheiten selbständig nach Trainingsplan.
+
+== Woche 5-8: spezifische Vorbereitung
+
+.Inhaltliche Schwerpunkte
+
+* Fechttechnik: Gruppenarbeit / Lektion
+* High Intensity Interval Training, kurze Intervalle (evtl. eigenständig)
+* einfaches Krafttraining (evtl. separat)
+* Trainingsgefechte
+
+.Beispielhafte Trainingseinheit
+
+. 15min Aufwärmen
+. 5min intensive Beinarbeit (3x 1min, 1min Pause)
+. 30min Partnerübung/Lektion: Mensurarbeit und Präparationen, Sperrstöße, Meidhandlungen
+. 15min HIIT Workout, Nr. 86, Level I aus
+include::partial$gen/bibliography.adoc[tag=RHIITW]
+. 60min Trainingsgefechte mit Fechtaufgaben
+
+Einfaches Krafttraining separat im Kraftraum (zwei Einheiten pro Woche).
+
+== Woche 6-12: Wettkampf-Vorbereitung
+
+.Inhaltliche Schwerpunkte
+
+* Trainingsgefechte
+* Muscle Buffer Training (evtl. separat)
+* Fecht-Technik: Gruppenarbeit / Lektion
+* Schnelligkeitsausdauer (evtl. eigenständig)
+
+.Beispielhafte Trainingseinheit
+
+. 10min Aufwärmen
+. 30min Lauf-Bingo, Stafetten oder Koordinationsleiter mit Fokus Muscle Buffer Training 6x 2min, 3min Pause.
+. 10min leichtes Dehnen und Koordinationsübungen
+. 30min Fechten mit Fechtaufgabe
+. 15min Fechten mit Zeitvorgaben
+. 15min freie Trainingsgefechte
+
+Leichtes Krafttraining separat im Kraftraum (1-2 Einheiten pro Woche).
+
+== Woche 13-16: Wettkampfphase
+
+.Inhaltliche Schwerpunkte
+
+* Trainingsgefechte
+* Schnelligkeitsausdauer (evtl. eigenständig)
+* extensives Interval-Training (evtl. eigenständig)
+* einfaches Krafttraining (evtl. separat)
+
+.Beispielhafte Trainingseinheit
+
+. 10min Aufwärmen
+. 15min Beinarbeit mit Fokus Beweglichkeit und Reaktionsfähigkeit
+. 20min Krafttraining mit Langbänken (Zieh- und Hebe-Aufgaben)
+. 60min freie Gefechte mit Wettkampf-Charakter, Zusatzaufgaben
+. 15min Dehnen
+
+Extensive Interalle als eigenständige Laufeinheiten nach Trainingsplan (2-3 Einheiten pro Woche).
+

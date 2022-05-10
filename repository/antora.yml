@@ -1,0 +1,5 @@
+name: degen-trainingsbuch-main
+title: Degen Trainingsbuch
+version: HEAD
+nav:
+  - modules/ROOT/nav.adoc

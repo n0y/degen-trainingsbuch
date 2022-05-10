@@ -1,0 +1,12 @@
+= Technik-Training
+
+include::partial$techniktraining/techniktraining-grundlagen.adoc[leveloffset=+1]
+
+include::partial$techniktraining/techniktraining-koerperbewegungen.adoc[leveloffset=+1]
+
+include::partial$techniktraining/techniktraining-treffbewegung.adoc[leveloffset=+1]
+
+
+== Technisches Lektionstraining
+
+== Technische Partnerübungen

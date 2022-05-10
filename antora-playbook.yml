@@ -1,0 +1,21 @@
+site:
+  title: Degen-Trainingsbuch by Fintenfisch
+  start_page: degen-trainingsbuch-main::index.adoc
+  url: https://www.fintenfisch.de
+  robots: allow
+  keys:
+    repositoryUrl: https://github.com/n0y/degen-trainingsbuch
+content:
+  edit_url: '{web_url}/blob/{refname}/{path}'
+  sources:
+    - url: .
+      start_path: repository
+      branches: HEAD
+asciidoc:
+  attributes:
+    mathematical-format: svg
+    CI: true
+ui:
+  bundle:
+    url: src/ui-bundle
+    snapshot: true
