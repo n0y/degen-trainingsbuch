@@ -1,10 +1,10 @@
-== Technik-Training
+= Technik-Training
 
-include::techniktraining-grundlagen.adoc[leveloffset=+2]
+include::partial$techniktraining/techniktraining-grundlagen.adoc[leveloffset=+1]
 
-include::techniktraining-koerperbewegungen.adoc[leveloffset=+2]
+include::partial$techniktraining/techniktraining-koerperbewegungen.adoc[leveloffset=+1]
 
-include::techniktraining-treffbewegung.adoc[leveloffset=+2]
+include::partial$techniktraining/techniktraining-treffbewegung.adoc[leveloffset=+1]
 
 
 == Technisches Lektionstraining

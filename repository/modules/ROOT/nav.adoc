@@ -1,0 +1,7 @@
+* xref:grundlagen.adoc[]
+* xref:techniktraining.adoc[]
+* xref:agilitaetstraining.adoc[]
+* xref:motoriktraining.adoc[]
+* xref:trainingsplanung.adoc[]
+* xref:bibliography.adoc[]
+* xref:lizenz.adoc[]

@@ -2,7 +2,13 @@
 
 Die maßgeblichen Einflussfaktoren, die über erfolgreiches Treffen gewünschter Zielregionen entscheiden, sind bislang größtenteils unerforscht. Es gibt nur wenige durch Studien gesicherte Ergebnisse.
 
-Beispielsweise ist bekannt, dass die Technik für Würfe nicht mit denen der Handführung bei Treffbewegungen im Fechten korrelieren (siehe cite:[KCLFEF]). Weiter ist bekannt, dass selbst während eines Ausfalls oder Fléche die Zeit bis zum Aufkommen des Treffers (500-600ms, aus cite:[FLOFT]) ausreicht, um das Ziel zu erfolgreich zu ändern (200ms, aus cite:[ACOAEF]).
+Beispielsweise ist bekannt, dass die Technik für Würfe nicht mit denen der Handführung bei Treffbewegungen im Fechten korrelieren
+include::partial$gen/bibliography.adoc[tag=KCLFEF]
+. Weiter ist bekannt, dass selbst während eines Ausfalls oder Fléche die Zeit bis zum Aufkommen des Treffers (500-600ms, aus
+include::partial$gen/bibliography.adoc[tag=FLOFT]
+) ausreicht, um das Ziel zu erfolgreich zu ändern (200ms, aus
+include::partial$gen/bibliography.adoc[tag=ACOAEF]
+).
 
 Die reine Stoß- und Treffbewegung lässt sich durch variable Stoßübungen trainieren. Gerade dabei ist die Variabilität einer der wichtigsten Faktoren, denn Treffbewegungen müssen aus unterschiedlichsten Situationen und Körper-/Handhaltungen sicher und schnell erfolgen können.
 

@@ -1,13 +1,15 @@
-== Trainingsplanung
+= Trainingsplanung
 
-Für Aufbau und Integration der verschiedenen Trainingsbestandteile orientieren wir uns an cite:[HICCA(11)]. Dabei sind die Trainingsinhalte entsprechend der zur Verfügung stehenden Trainingsmittel und -zeiten anzupassen.
+Für Aufbau und Integration der verschiedenen Trainingsbestandteile orientieren wir uns an
+include::partial$gen/bibliography.adoc[tag=HICCA]
+, Seite 11. Dabei sind die Trainingsinhalte entsprechend der zur Verfügung stehenden Trainingsmittel und -zeiten anzupassen.
 
 Eine Trainingsplanung zielt immer auf einen Saison-Höhepunkt hin. Dieser kann pro Athlet:in unterschiedlich sein. Meistens liegen die Höhepunkte aber so nahe beieinander, dass trotzdem in der Gruppe trainiert werden kann. Dabei sind dann Kompromisse zu schließen.
 
 Trotz der Orientierung auf einen Saison-Höhepunkt sind in der Regel trotzdem Wettkämpfe zu bestreiten. Es ist dann darauf zu achten, dass in den letzten 3-4 Tagen vor dem Wettkampf kein intensives Kraft- oder Schnelligkeitstraining erfolgen soll. Zudem ist in den letzten drei Tagen vor einem Wettkampf auf kohlenhydratreiche Nahrung zu achten.
 
 
-=== Woche 1-4: allgemeine Vorbereitung
+== Woche 1-4: allgemeine Vorbereitung
 
 .Inhaltliche Schwerpunkte
 
@@ -21,13 +23,15 @@ Trotz der Orientierung auf einen Saison-Höhepunkt sind in der Regel trotzdem We
 . 15min kurzes Aufwärmen
 . 15min Beinarbeit (3x3min, 1min Pause)
 . 30min Partner-Übung/Lektion: Eröffnung Handgelenk unten, TBB 1/4/1, 2/4/1, 2/4/2, 2/4/6 als Auswahlübung
-. 15min Krafttraining/Muskelaufbau nach cite:[ESTSCT], Tabelle 1
+. 15min Krafttraining/Muskelaufbau nach
+include::partial$gen/bibliography.adoc[tag=ESTSCT]
+, Tabelle 1
 . 30min einfache Gefechte mit Aufgabe zur Erholung
 . 15min für Pausen
 
 SIT als zwei zusätzliche Wocheneinheiten selbständig nach Trainingsplan.
 
-=== Woche 5-8: spezifische Vorbereitung
+== Woche 5-8: spezifische Vorbereitung
 
 .Inhaltliche Schwerpunkte
 
@@ -41,12 +45,13 @@ SIT als zwei zusätzliche Wocheneinheiten selbständig nach Trainingsplan.
 . 15min Aufwärmen
 . 5min intensive Beinarbeit (3x 1min, 1min Pause)
 . 30min Partnerübung/Lektion: Mensurarbeit und Präparationen, Sperrstöße, Meidhandlungen
-. 15min HIIT Workout, Nr. 86, Level I aus cite:[RHIITW]
+. 15min HIIT Workout, Nr. 86, Level I aus
+include::partial$gen/bibliography.adoc[tag=RHIITW]
 . 60min Trainingsgefechte mit Fechtaufgaben
 
 Einfaches Krafttraining separat im Kraftraum (zwei Einheiten pro Woche).
 
-=== Woche 6-12: Wettkampf-Vorbereitung
+== Woche 6-12: Wettkampf-Vorbereitung
 
 .Inhaltliche Schwerpunkte
 
@@ -66,7 +71,7 @@ Einfaches Krafttraining separat im Kraftraum (zwei Einheiten pro Woche).
 
 Leichtes Krafttraining separat im Kraftraum (1-2 Einheiten pro Woche).
 
-=== Woche 13-16: Wettkampfphase
+== Woche 13-16: Wettkampfphase
 
 .Inhaltliche Schwerpunkte
 

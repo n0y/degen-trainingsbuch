@@ -1,24 +1,37 @@
 const fs = require('fs');
 const path = require('path');
-
 const Cite = require('citation-js');
-
-const cite = new Cite();
 const parse = Cite.parse.input.chain;
 
-const parsedBib = parse(fs.readFileSync(path.join('src', 'literatur.bib')).toString());
-/** @type {string} */
-const out = cite
-    .set(parsedBib)
-    .get({
-        format: 'string',
-        type: 'html',
-        style: 'citation-harvard1',
-        lang: 'de-DE'
-    })
-    .replaceAll(/ *<div data-csl-entry-id="([^"]*)"[^>]*>/g, '\n* [[[$1]]] ')
-    .replaceAll(/<\/?i>/g, '_')
-    .replaceAll(/<[^>]*>/g, '')
-    .replaceAll(/&#38;/g, '&');
-fs.writeFileSync(path.join('repository', 'modules', 'ROOT', 'partials', 'bibliography', 'gen-bibliography.adoc'),
-    '[bibliography]' + out);
+const targetDirectory = path.join(process.cwd(), 'repository', 'modules', 'ROOT', 'partials', 'gen');
+const fileContent = fs.readFileSync(path.join(process.cwd(), 'repository/modules/ROOT/literatur.bib'));
+const cite = new Cite().set(parse(fileContent.toString()));
+
+let cites = '\n';
+
+for (var singleCitation of cite) {
+    const singleCite = new Cite(singleCitation);
+
+    cites = cites +
+`
+[[cite-${singleCitation.id}]]
+//tag::${singleCitation.id}[]
+ifndef::render-content[]
+xref:bibliography.adoc#cite-${singleCitation.id}[${singleCite.format('citation')}]
+endif::[]
+//end::${singleCitation.id}[]
+ifdef::render-content[]
+${singleCite.get({format:'string', type:'string', style: 'citation-harvard1', lang: 'de-DE'})}endif::[]
+`;
+}
+
+if (!fs.existsSync(targetDirectory)) {
+    fs.mkdirSync(targetDirectory, {recursive: true});
+}
+
+
+fs.writeFileSync(
+    path.join(targetDirectory, 'bibliography.adoc'), cites);
+
+console.log('OK');
+

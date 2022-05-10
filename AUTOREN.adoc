@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 //tag::liste[]
 Degen Trainingsbuch - Autor:innen in alphabetischer Reihenfolge:
+=======
+//tag::autoren[]
+Degen Trainingsbuch - AutorInnen in alphabetischer Reihenfolge:
+>>>>>>> mit Antora neu aufgebaut
 
 Bertram Fey <bertram.fey@corelogics.de>
+//end::autoren[]
 
 //end::liste[]
 

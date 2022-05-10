@@ -4,7 +4,9 @@ Ziel der hier veröffentlichten Texte ist es, Grundlagen, Ziele, Inhalte und Tra
 
 Haupt-Augenmerk soll darauf liegen, neue Erkenntnisse zu Lernmethoden einzuarbeiten, um den Lernaufwand zu minimieren, die Motivation hoch zu halten und Spaß am Training zu vermitteln.
 
-Alle Texte hier sind unter dieser Lizenz veröffentlicht: xref:LICENSE.adoc[] (Englisch:xref:LICENSE.en.adoc[]).
+Das gesamte Projekt ist unter dieser Lizenz veröffentlicht: xref:LICENSE.adoc[] (Englisch:xref:LICENSE.en.adoc[]).
+
+Ausnahme ist das UI-Bundle (`src/ui-bundle`), das als angepasste Version der https://gitlab.com/antora/antora-ui-default[Antora Default UI] unter der xref:src/ui-bundle/LICENSE[Mozilla Public License Version 2.0] steht.
 
 Alle Autoren sind unter xref:AUTOREN.adoc[] einzusehen.
 

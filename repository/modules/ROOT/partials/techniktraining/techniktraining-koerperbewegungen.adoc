@@ -1,8 +1,12 @@
 = Training der Körperbewegungen im Fechtsport
 
-Für das Training von Körperhaltung und Körperbewegung im Fechtsport ergeben sich eine Reihe von Problemen. Zum einen fällt auf, dass bereits die Grundstellung, wie sie klassisch bspw. In cite:[BBFTD] gelehrt wird, bei der Auswertung von Top-Athleten nicht vorzufinden ist.
+Für das Training von Körperhaltung und Körperbewegung im Fechtsport ergeben sich eine Reihe von Problemen. Zum einen fällt auf, dass bereits die Grundstellung, wie sie klassisch bspw. in
+include::partial$gen/bibliography.adoc[tag=BBFTD]
+gelehrt wird, bei der Auswertung von Top-Athleten nicht vorzufinden ist.
 
-Verschiedene „Stile“ resultieren bei allen Fechtern in sehr unterschiedlichen Lösungen bezüglich Kraft, Geschwindigkeit, Beschleunigung, Haltung und Energieaufwand (siehe cite:[SFIPIP]). Diese sind nicht nur abhängig von Anthropometrie und Trainingsstand, sondern immer auch von konkreten fechterischen Situationen, die einer angepassten Lösung bedürfen.
+Verschiedene „Stile“ resultieren bei allen Fechtern in sehr unterschiedlichen Lösungen bezüglich Kraft, Geschwindigkeit, Beschleunigung, Haltung und Energieaufwand
+include::partial$gen/bibliography.adoc[tag=SFIPIP]
+. Diese sind nicht nur abhängig von Anthropometrie und Trainingsstand, sondern immer auch von konkreten fechterischen Situationen, die einer angepassten Lösung bedürfen.
 
 Besonders für Heranwachsende ist das Bewegungstraining einer Herausforderung, da sich ständig änderne Hebel, Proportionen und Kraftverhältnisse eine ständige Anpassung der notwendigen Technik bedingen.
 
@@ -10,9 +14,13 @@ Ziel des Trainings der Körperbewegungen muss deswegen immer sein, dem Athleten 
 
 == Beinarbeit
 
-Klassische Beinarbeit „auf Ansage“ und ohne Variantenvorgaben, gezielt auf die Einhaltung einer Zieltechnik, erzielt schon nach kürzester Zeit keinen technischen Lerneffekt mehr und sollte höchstens untergeordnet eingesetzt werden (siehe cite:[ErlFe]), bspw. als Aufwärm- oder Stärkungsübung.
+Klassische Beinarbeit „auf Ansage“ und ohne Variantenvorgaben, gezielt auf die Einhaltung einer Zieltechnik, erzielt schon nach kürzester Zeit keinen technischen Lerneffekt mehr und sollte höchstens untergeordnet eingesetzt werden
+include::partial$gen/bibliography.adoc[tag=ErlFe]
+, bspw. als Aufwärm- oder Stärkungsübung.
 
-Stattdessen können alle Methoden der Beinarbeit, bspw. aus cite:[ErlFe], Kap. 4.3 eingesetzt werden.
+Stattdessen können alle Methoden der Beinarbeit, bspw. aus
+include::partial$gen/bibliography.adoc[tag=ErlFe]
+, Kap. 4.3 eingesetzt werden.
 
 Entsprechend dem differenziellen Lehren und Lernen sollen dabei aber:
 
@@ -29,7 +37,12 @@ Zur Selbstüberprüfung der eigenen Technik sollen den Lernenden gelegentlich sp
 
 === Der Ausfall
 
-Als eines der grundlegenden Elemente der fechterischen Bewegungen kommt dem Ausfall eine große Bedeutung zu. Er wird in unzähligen Veröffentlichungen im Details beschrieben, bspw. In  cite:[ErlFe]. Die tatsächlich von Sportlern durchgeführte Bewegung weicht von der Beschreibung nahezu immer ab. Das betrifft sowohl die Ausgangsposition, bei der deutlich mehr Gewicht auf dem vorderen Fuß lastet cite:[KDSFL], als auch die Fussbewegung, bei der in allen beobachteten Fällen die vordere Ferse zuerst den Boden verlässt cite:[KALFS].
+Als eines der grundlegenden Elemente der fechterischen Bewegungen kommt dem Ausfall eine große Bedeutung zu. Er wird in unzähligen Veröffentlichungen im Details beschrieben, bspw. In
+include::partial$gen/bibliography.adoc[tag=ErlFe]
+. Die tatsächlich von Sportlern durchgeführte Bewegung weicht von der Beschreibung nahezu immer ab. Das betrifft sowohl die Ausgangsposition, bei der deutlich mehr Gewicht auf dem vorderen Fuß lastet
+include::partial$gen/bibliography.adoc[tag=KDSFL]
+, als auch die Fussbewegung, bei der in allen beobachteten Fällen die vordere Ferse zuerst den Boden verlässt
+include::partial$gen/bibliography.adoc[tag=KALFS].
 
 Der zu trainierende Lösungsbereich könnte so eingeschränkt werden:
 

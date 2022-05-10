@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == Grundlagen und Methodik
 
 Bei Kindern und Jugendlichen im Besonderen, aber auch bei jedem anderen Menschen, ist Körper und Geist stetiger Veränderung unterworfen. Hinzu kommt, dass jedes Gefecht und auch jedes Training immer unter neuen Bedingungen ausgetragen wird. Keine Situation ist mit irgendeiner vorherigen identisch.
@@ -9,3 +10,5 @@ Wir müssen vielmehr darauf abzielen, die Adaption an neue Voraussetzungen und A
 include::grundlagen-training-klassisch.adoc[leveloffset=+1]
 
 include::grundlagen-training-differenziell.adoc[leveloffset=+1]
+=======
+>>>>>>> mit Antora neu aufgebaut
