@@ -42,7 +42,8 @@ include::partial$gen/bibliography.adoc[tag=ErlFe]
 . Die tatsächlich von Sportlern durchgeführte Bewegung weicht von der Beschreibung nahezu immer ab. Das betrifft sowohl die Ausgangsposition, bei der deutlich mehr Gewicht auf dem vorderen Fuß lastet
 include::partial$gen/bibliography.adoc[tag=KDSFL]
 , als auch die Fussbewegung, bei der in allen beobachteten Fällen die vordere Ferse zuerst den Boden verlässt
-include::partial$gen/bibliography.adoc[tag=KALFS].
+include::partial$gen/bibliography.adoc[tag=KALFS]
+.
 
 Der zu trainierende Lösungsbereich könnte so eingeschränkt werden:
 
