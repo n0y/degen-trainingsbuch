@@ -10,7 +10,7 @@ In Kampfsportarten wird Agilität zum größten Teil durch das Ausüben des Spor
 
 Kein noch so großer Anteil an Koordinationsleiter-Training wird die Sportler in ihrer Sportart agiler machen, auch wenn die so eingeübte Koordination und Beweglichkeit aus Sportart-übergreifender Sicht ein erstrebenswertes Ziel darstellt.
 
-Um Agilität im Kampfsport zu trainieren, ist zunächst zu verstehen, was genau Agilität in diesem Kontext bedeutet. Basierend auf dem, was in vielen Trainingsbüchern, Lehrgängen und Youtube-Videos vermittelt wird, scheinen nur wenige Lehrende und Athleten wirklich zu vestehen, was Agilität bedeutet.
+Um Agilität im Kampfsport zu trainieren, ist zunächst zu verstehen, was genau Agilität in diesem Kontext bedeutet. Basierend auf dem, was in vielen Trainingsbüchern, Lehrgängen und Youtube-Videos vermittelt wird, scheinen nur wenige Lehrende und Athleten wirklich zu verstehen, was Agilität bedeutet.
 
 == Definition "Agilität"
 
@@ -22,7 +22,7 @@ Und natürlich haben wir alle Tausende von Videos gesehen, bei denen Leiter- und
 
 Warum diese Hindernis-Parcours?  „Schnelle Füße“ scheint keine ausreichende Erklärung zu sein.
 
-Um wirklich effektiv zu trainineren, müssen wir erklären, was Agilität im Bereich Kampfsport wirklich bedeutet.
+Um wirklich effektiv zu trainieren, müssen wir erklären, was Agilität im Bereich Kampfsport wirklich bedeutet.
 
 Agilität im Kampfsport ist die Fähigkeit, Kontrolle über die Körperposition und -Haltung zu behalten, wenn sich Geschwindigkeit oder Richtung der Bewegungen als Antwort auf einen Sport-spezifischen Reiz schnell verändert.
 
@@ -58,15 +58,15 @@ include::partial$gen/bibliography.adoc[tag=DCRTV]
 
 Dabei erfahren wir zwar, wie schnell sich die Athleten bewegen können, aber wir erfahren wenig darüber, wie agil sie in ihrer jeweiligen Kampfsportart agieren.
 
-Um herauszufinden, warum das so ist, loht sich ein Blick in die Invasionssportarten (Fußball, Rugby, American Football, Basketball, …): Hier ist Agilität deutlich besser untersucht, weil hier in jedem Spiel hunderte von Agilitätsmaneuvern in den unterschiedlichsten Szenarion auftreten.
+Um herauszufinden, warum das so ist, lohnt sich ein Blick in die Invasionssportarten (Fußball, Rugby, American Football, Basketball, …): Hier ist Agilität deutlich besser untersucht, weil hier in jedem Spiel hunderte von Agilitätsmaneuvern in den unterschiedlichsten Szenarien auftreten.
 
 == Agilität im Kampfsport, näher betrachtet
 
-Betrachtet man Agilitäts-Tests aus anderen Sportarten, dann wird dort tatsächlich die Geschwindigkeit der Richtungsänderungen gemessen (change of direction speed, CODS). Dabei weiß der Athlet, wo, wann und wie die entsprechende Änderung durchgeführt werden soll.
+Betrachtet man Agilitätstests aus anderen Sportarten, dann wird dort tatsächlich die Geschwindigkeit der Richtungsänderungen gemessen (change of direction speed, CODS). Dabei weiß der Athlet, wo, wann und wie die entsprechende Änderung durchgeführt werden soll.
 
 Nun sind aber CODS und Agilität unterschiedliche Fertigkeiten. In
 include::partial$gen/bibliography.adoc[tag=ACIS]
-zeigt der Autor, einer der führenden Agilitäts-Experten, in einer Metastudie, dass CODS und Agilität nur zu 21% korreliert sind.
+zeigt der Autor, einer der führenden Agilitätsexperten, in einer Metastudie, dass CODS und Agilität nur zu 21% korreliert sind.
 
 Da die Korrelation unter 0.5 liegt, sind CODS und Agilität unabhängig voneinander. Oder anders ausgedrückt: Schnell zu sein und seine Geschwindigkeit und Richtung schnell ändern zu können, heißt nicht, auch erfolgreich und schnell auf Sportart-spezifische Reize reagieren zu können, um beispielsweise Angriffen ausweichen zu können.
 
@@ -101,7 +101,7 @@ Um herauszufinden, ob wie wichtig eine Fertigkeit für eine Sportart ist, kann m
 
 Leider konnte ich im Bereich der Kampfsportarten keine derartigen Vergleiche im Bereich der Agilität finden, so dass ein Rückgriff auf die Forschungen im Bereich der Team-Sportarten nötig wird.
 
-In Netball- und Rugby-Liegen hatten höherklassige Athleten deutlich höhere Entscheidungs-Geschwindigkeiten in Reaktion zu Sportart-spezifischen Reizen als durchschnittliche Athleten (siehe
+In Netball- und Rugby-Liegen hatten höherklassige Athleten deutlich höhere Entscheidungsgeschwindigkeiten in Reaktion zu Sportart-spezifischen Reizen als durchschnittliche Athleten (siehe
 include::partial$gen/bibliography.adoc[tag=DTRAN]
 und
 include::partial$gen/bibliography.adoc[tag=RARLP]
@@ -109,7 +109,7 @@ include::partial$gen/bibliography.adoc[tag=RARLP]
 include::partial$gen/bibliography.adoc[tag=APASA]
 .
 
-Ähnliche Resultate wurden bei Fußballspielern gefunden: sie reagieren schneller und genauer, wenn sie Paßrichtungen in Eins-zu-Eins-Situationen antizipieren:
+Ähnliche Resultate wurden bei Fußballspielern gefunden: sie reagieren schneller und genauer, wenn sie Passrichtungen in Eins-zu-Eins-Situationen antizipieren:
 include::partial$gen/bibliography.adoc[tag=VSSAE]
 .
 
@@ -129,7 +129,7 @@ Agilität muss als offene Fertigkeit mit Sportart-spezifischen Reizen trainiert 
 
 == Agilität in Kampfsportarten trainieren
 
-Wir teilen auf gemäß der oben angeführen Teilkomponenten, in kognitive und physische Fertigkeiten.
+Wir teilen auf gemäß der oben angeführten Teilkomponenten, in kognitive und physische Fertigkeiten.
 
 == Physische Fertigkeiten
 
@@ -144,7 +144,7 @@ Körpergröße und Länge der Extremitäten sind weitere Faktoren. Es gilt aber 
 Reaktive Stärke ist die Fähigkeit, Kraft in einem sehr kurzen Zeitintervall (<250ms) bereitzustellen. Übungen dazu sind unter anderen:
 
 * Seilspringen
-* Fußgelenksarbeit: siehe
+* Fußgelenkarbeit: siehe
 include::partial$gen/bibliography.adoc[tag=SLAS]
 * Hürdenlauf
 * Liniensprünge
@@ -166,7 +166,7 @@ Bezeichnet die Fähigkeit, Kraft bei hoher Geschwindigkeit auszuüben.
 
 === Technik
 
-Technische Fertigkeiten sind vermutlich der wichtigste Teil der phyischen Komponente der Agilität. Ziel ist es, den Athleten ein möglichst reichhaltiges Repertoir an Möglichkeiten zu geben, um bei bei Agilitäts-Manövern auswählen zu können.
+Technische Fertigkeiten sind vermutlich der wichtigste Teil der physischen Komponente der Agilität. Ziel ist es, den Athleten ein möglichst reichhaltiges Repertoire an Möglichkeiten zu geben, um bei Agilitäts-Manövern auswählen zu können.
 
 Es ist wichtig, viele verschiedene Angriffs- und Verteidigungsaktionen zu kennen und zu beherrschen. Beherrscht der Athlet nur Paraden, weiß aber nicht, wie Evasionen durchgeführt werden, dann wird er auf viele Angriffe keine adäquate Antwort kennen.
 
@@ -196,4 +196,4 @@ Dennoch gibt es eine Reihe von Richtlinien, die den Erwerb fördern und beschleu
 
 * Reaktive und konzentrische Kraft trainieren, 1-2x pro Woche
 * Das offensive und defensive Technik-Arsenal erweitern, in vorgeplanten Übungen (Partner oder Trainer)
-* Soviele echte Kampfsituationen erleben wie möglich, mit einer möglichst großen Bandbreite an Aktionen, die erlebt und durchgeführt werden. Dabei versuchen, mit der eigenen Technik das Problem zu lösen und zu korrigieren, wenn es nicht gelingt.
+* So viele echte Kampfsituationen erleben wie möglich, mit einer möglichst großen Bandbreite an Aktionen, die erlebt und durchgeführt werden. Dabei versuchen, mit der eigenen Technik das Problem zu lösen und zu korrigieren, wenn es nicht gelingt.

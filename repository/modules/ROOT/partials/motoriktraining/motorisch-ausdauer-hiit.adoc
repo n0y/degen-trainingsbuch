@@ -1,4 +1,4 @@
-= Trainingsplan: Hochintensitäts-Ausdauertraining
+= Trainingsplan: hochintensives Ausdauertraining
 
 Folgender Trainingsplan, basierend auf
 include::partial$gen/bibliography.adoc[tag=EHIiS]

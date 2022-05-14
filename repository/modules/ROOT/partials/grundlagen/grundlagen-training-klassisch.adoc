@@ -52,7 +52,7 @@ Die Problem mit Ideal-/Zieltechniken ist unter anderem die Nichtwiederholbarkeit
 include::partial$gen/bibliography.adoc[tag=MoVaDQO]
 : selbst die besten Athleten sind nicht in der Lage, sogar einfache Bewegungen exakt identisch auszuführen.
 
-Das Lernen einer Bewegungs-Fertigkeit bedeutet im Kern immer, dass eine Veränderung in der Steuerung der Muskulator notwendig ist, die im Gehirn vorgenommen wird und an mindestens einer der Stellen erstes Motorneuron (Upper Motor Neuron, UMN), zentraler Rhythmusgenerator (Central Pattern Generator, CPG) oder unteres Motorneuron (Lower Motor Neuron, LMN) eine Veränderung bewirkt. Diese Änderung ist bereits das erfolgte Lernen.
+Das Lernen einer Bewegungsfertigkeit bedeutet im Kern immer, dass eine Veränderung in der Steuerung der Muskulatur notwendig ist, die im Gehirn vorgenommen wird und an mindestens einer der Stellen erstes Motorneuron (Upper Motor Neuron, UMN), zentraler Rhythmusgenerator (Central Pattern Generator, CPG) oder unteres Motorneuron (Lower Motor Neuron, LMN) eine Veränderung bewirkt. Diese Änderung ist bereits das erfolgte Lernen.
 
 Inzwischen ist gut erforscht, wie diese neuroplastischen Änderungen zustande kommen: Fehler. Ein Lernprozess besteht immer darauf, dass Lernende einen Fehler begehen, der über Feedback zu Anpassungen an der plastischen Struktur des Gehirns führt. Um es deutlich zu sagen: Ohne Fehler ist Lernen unmöglich
 include::partial$gen/bibliography.adoc[tag=LFEr]
@@ -62,7 +62,7 @@ Entsprechend gibt es neuere Lehr- und Lernmethoden, die Variabilität ins Zentru
 include::partial$gen/bibliography.adoc[tag=MPTHHM]
 ) und die Selbststabilisierung nach
 include::partial$gen/bibliography.adoc[tag=SNANF]
-. In beiden Fällen sind Fluktationen Bestandteil des Theorie.
+. In beiden Fällen sind Fluktuationen Bestandteil der Theorie.
 
 Weiteres Problem ist die Kopplung der Bewegung an das ausführende System, also die Individualität der Bewegungsausführung.
 

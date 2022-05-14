@@ -1,12 +1,12 @@
 = Grundlagen der Fechttechnik
 
-In der klassichen Auffassung gibt es eine Reihe von "Fecht-Schulen"
+In der klassischen Auffassung gibt es eine Reihe von "Fecht-Schulen"
 include::partial$gen/bibliography.adoc[tag=GTHOF]
 , die für die unterschiedlichen Bereiche der Fechttechnik Vorgaben und Vorstellungen bündeln und oft gemeinsam gelehrt werden. Diese Vorgaben beziehen sich insbesondere auf:
 
-* Die Art, in der die verschiedenen Fecht-Elemente ausgeführt werden.
-* Die Art, in der die Fecht-Elemente miteinander kombiniert werden.
-* Die Reihenfolge, in der Fecht-Elemente beim Training eingeführt werden.
+* Die Art, in der die verschiedenen Fechtelemente ausgeführt werden.
+* Die Art, in der die Fechtelemente miteinander kombiniert werden.
+* Die Reihenfolge, in der Fechtelemente beim Training eingeführt werden.
 * Das grundlegende strategische Ziel, das bei Gefechten erreicht werden soll.
 * Die Anteile, die die Bereiche Technik, Taktik, Schnelligkeit, Kraft und Koordination beim Training einnehmen sollen (im Training und in Gefechten).
 
@@ -50,7 +50,7 @@ Das System "Emil Beck" war zunächst Resultat aus intensiver *Beobachtungen der 
 
 Zunächst sollen Lernende so schnell wie möglich mit dem Grundrepertoire versorgt werden, der eine Teilnahme an Wettkämpfen ermöglicht und dadurch die Möglichkeit gibt, aus echten Gefechtssituationen zu lernen.
 
-Weitere Aktionen kommen später hinzu, sodass die Lernenden später eine *Vielzahl an möglichken Aktionen* bereits gesehen haben und in Wettkampf-Situationen schwer zu überraschen sind.
+Weitere Aktionen kommen später hinzu, sodass die Lernenden später eine *Vielzahl an möglichen Aktionen* bereits gesehen haben und in Wettkampf-Situationen schwer zu überraschen sind.
 
 Das System "Emil Beck" ist auf die *Kontrolle der gegnerischen Klinge ausgelegt*, die möglichst in allen Gefechtssituationen aufrechterhalten werden soll. Außerdem ist das System auf die Annahme ausgelegt, dass Fechter:innen *angegriffene Blößen verteidigen*. Daher wird eine *Folgeaktion immer zu einem neuen Ziel* geleitet.
 

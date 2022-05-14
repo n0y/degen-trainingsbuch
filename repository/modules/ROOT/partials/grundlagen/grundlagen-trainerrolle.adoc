@@ -1,6 +1,6 @@
 == Die Rolle des Trainers in differenziellen Lernen
 
-Eine der Grundlagen des differenziellen Lernens ist die Annahme, dass jeder Mensch die Fähigkeit mitbringt, funtionale Bewegungen selbständig zu erlernen und zu optimieren. Obwohl dieses Verständnis im Kern von den meisten Lehrenden geteilt wird, ist zu beobachten, werden darauf basierende Ansätze kaum in der Trainingspraxis angenommen.
+Eine der Grundlagen des differenziellen Lernens ist die Annahme, dass jeder Mensch die Fähigkeit mitbringt, funktionale Bewegungen selbständig zu erlernen und zu optimieren. Obwohl dieses Verständnis im Kern von den meisten Lehrenden geteilt wird, ist zu beobachten, werden darauf basierende Ansätze kaum in der Trainingspraxis angenommen.
 
 Viele Lehrende sind der Ansicht, dass mit selbstorganisierendem Lernen die Figur des Lehrenden überflüssig werde. Tatsächlich ist das Gegenteil der Fall.
 

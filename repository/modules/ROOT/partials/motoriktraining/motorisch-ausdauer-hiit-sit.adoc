@@ -2,7 +2,7 @@
 
 Folgender Trainingsplan, basierend auf
 include::partial$gen/bibliography.adoc[tag=RKNGW]
-(34), nutzt abwechselndes Hochintensitäts-Intervalltraining und Sprint-Intervalltraining.
+(34), nutzt abwechselndes hochintensives Intervalltraining und Sprint-Intervalltraining.
 
 Der "normale Lauf" (ohne Angabe) in der Einheit bezieht sich auf 95% der Geschwindigkeit eines 6-Minuten-Laufs, die am Anfang der Mehr-Wochen-Einheit ermittelt wird. Je nach Ausstattung kann dabei die Geschwindigkeit oder die (besser) die Herzfrequenz als Vorgabe dienen.
 
