@@ -32,6 +32,8 @@ Es gilt nach cite:[WkFuB]:
 
 *Koordinationstraining = beherrschte Fähigkeit + sensorische Vielfalt + Druchbedingungen*
 
+[[koordination-druchbedingungen]]
+.Druckbedingungen des Koordinationstrainings
 |====
 |Druckbedingung|Dimensionen|Übungsbeispiel
 
@@ -72,7 +74,6 @@ a|* physische Belastung
 * psychische Belastung
 a|* Übung nach konditioneller Vorbelastung
 * gleichzeitiges Lösen einer Kopfrechenaufgabe
-
 |====
 
 include::motoriktraining-koordinationstraining-bsp1.adoc[leveloffset+=3]

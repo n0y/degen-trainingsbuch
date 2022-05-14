@@ -1,0 +1,154 @@
+= Technisches Lektionstraining
+
+Lektionstraining im Fechten bezeichnet ein Training, bei dem ein:e Trainer:in mit einzelnen Athlet:innen jeweils separat trainiert.
+
+Nur selten tauchen Formen auf, bei denen mit mehreren Athlet:innen gleichzeitig lektioniert wird.
+
+_Technisches_ Lektionstraining konzentriert sich darauf, der Athlet:in einzelne technische Elemente oder einfache Kombinationen zu vermitteln. Die Zusammensetzung mehrerer Aktionen und der situativ angemessene Einsatz ist Bestandteil des xref:page$agilitaetstraining.adoc[].
+
+Die Auswahl der Techniken, die jeweils trainiert werden sollen, liegt primär bei der Trainer:in. Gerade Jugendlichen und Erwachsenen sollen diese bei der Auswahl einbezogen werden.
+
+Gerade beim Aufbau komplizierterer Techniken (z.B. Quart-Coupé, Wurfstoß Schulter) kommen oft methodische Reihen zum Einsatz, die einzelne Elemente unabhängig voneinander trainieren und erst später kombinieren.
+
+Gemäß der xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[Umsetzungsprinzipien] ist es besser, diesen geblockten Ansatz aufzulösen und die Reihenfolge des Erlernens zufällig zu variieren
+include::partial$gen/bibliography.adoc[tag=LSmMR]
+.
+
+Zusätzlich ist eine ausreichend hohe Fehlerrate anzustreben, damit die Voraussetzung für neuronale Plastizität gegeben ist. Diese Misserfolgsquote soll zwischen 60% und 80% liegen.
+
+== Zum Umgang mit den Lernenden
+
+Zum Umgang mit der Athlet:in sollen folgende Grundsätze beachtet werden:
+
+* Die Notwendigkeit hoher Fehlerraten sind der Athlet:in vorab zu erläutern, sodass eine Akzeptanz des häufigen Misserfolgs als notwendige Voraussetzung gegeben ist: "Wenn Du etwas zu gut kannst, mache ich die Übung schwerer. Das ist für das Lernen notwendig. Wenn ich es Dir schwerer mache, dann heißt das, dass Du die Übung schon zu gut kannst."
+
+* Ein:e Athlet:in wird nicht getadelt oder kritisiert. Die Rückmeldung über die Effektivität der gelernten Bewegung geschieht immer implizit über die Erfahrung von Erfolg und Misserfolg. Unerwartete Ausführungsvarianten sind durch Bewegungsaufgaben zu infrage zu stellen. Die Athlet:in wird sie korrigieren, wenn sie tatsächlich ineffektiv sind. Ansonsten darf die Variante beibehalten werden.
+
+* Jede erfolgreiche Ausführung muss die Athlet:in sich erarbeiten. In keinem Fall sorgt die Trainer:in dafür, dass eine Aktion erfolgreich ist. Die unverfälschte Rückmeldung effektiver Aktionen ist die Grundlage für das Bewegungslernen.
+
+* Lektionszeit ist Übungszeit. Die Athlet:in soll möglichst durchgehend selbst aktiv sein. Erläuterungen zu Theorie und Hintergründen sind Teil des Taktiktrainings oder können bei Interesse separat erfolgen. Die Methoden "Lernen durch Beobachtung", "Lernen durch Einsicht" und "Lernen durch Bewusstmachen von Bewegung" sind deutlich weniger effizient (siehe xref:page$grundlagen.adoc#grundlagen-klassische-trainingsmethoden[Klassische Trainingsmethoden]).
+
+== Prinzip der Lektionsarbeit
+
+Grundlegend sind technische Lektionen so aufgebaut, dass jeweils ein einzelnes Technik-Element herausgegriffen wird, dass dann in möglichst vielen Variationen ausgeführt wird.
+
+Zur Variation stehen die xref:page$grundlagen.adoc#umsetzungsprinzipien-variabilitaet[Variablen des differenziellen Trainings] und die xref:page$motoriktraining.adoc#koordination-druchbedingungen[Druckbedingungen des Koordinationstrainings] zur Verfügung.
+
+Gemäß der xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[] wird auch bei der Lektionsarbeit eine einzelne Übung (=Kombination aus Aktion und gewählter Variation) niemals wiederholt. Es geht immer mit der nächsten Kombination weiter.
+
+== Beispiele für technische Lektionen
+
+=== Direkter Angriff mit Beobachtung der Gegner:in
+
+Lektionslänge ca. 5 Minuten.
+
+.Zweck der Lektion
+
+* Sicherheit in Klingen- und Spitzenführung auch in Drucksituationen
+* Entkopplung Hand- und Beinführung
+* Beobachten der Gegner:in in Drucksituationen
+* Verbessern des Mensurgefühls
+* Anpassung an Veränderungen der Antropometrie (z.B. in Wachstumsphasen)
+
+.Aufgabenstellung
+
+Nähere Dich zügig aus 4m Entfernung. Triff direkt (ohne Klingenkontakt) und weiche mit dem Körper der gegnerischen Spitze aus.
+
+Wiederhole für folgende zu treffenden Blößen:
+* Körper oben innen
+* Körper oben außen
+* Flanke
+* Brust Mitte
+* Oberschenkel
+* Hand oben
+* Fuß
+* Maske
+
+.Zusatzaufgaben
+
+Zufällig aus diesen Aufgaben auswählen, bis Lektionslänge erreicht.
+
+* Variation Bewegungsausführung - Endbedingung:
+** Treffe mit langem Ausfall
+** Treffe mit halb gestrecktem Arm
+** Treffe im Laufen und laufe danach vorbei
+** Gehe bis Nahkampf-Entfernung, treffe mit Sprung zurück
+** ...
+* Variation Bewegungsausführung - Anfangsbedingung
+** Bleibe so lange in Quart/Sixt/Oktav/... wie möglich
+** Aus schneller Vorwärtsbewegung
+** ..
+* Variation räumliche Ausführung
+** Klingenlage Trainer:in: auf unterschiedliche Blößen gerichtet
+** Klinge der Trainer:in bewegt sich horizontal/vertikal/kreisförmig
+** Mache Dich möglichst klein/groß
+** Weite/Enge Fußstellung
+* Variation dynamische Ausführung
+** Nähere Dich langsam, triff schnell
+** Bewege den vorderen Fuß schnell, den hinteren langsam
+** Halte die Armstreckung kurz vor dem Treffer kurz an
+** ...
+* Variation Sinneswahrnehmungen
+** Schließe ein Auge
+** Fechte gegen die Sonne
+** ...
+* Variation Materialien/Geräte
+** Gegen sehr lange Waffe (Trainer:in)
+** Gegen zwei Waffen (Trainer:in)
+** Mit Mini-Degen, ...
+* Variation Untergrund, Gelände
+** Trainiere auf Sand, Tartanbahn
+** Aufwärts/Abwärts
+
+=== Gegenangriff mit Meidbewegung
+
+Lektionslänge ca. 5 Minuten.
+
+.Zweck der Lektion
+
+* Sicherheit in Klingen- und Spitzenführung auch in Drucksituationen
+* Bewusster Umgang mit Verteidigungsreflexen
+* Verbesserung des Umgangs mit verfügbarem Platz auf der Fechtbahn
+* Anpassung an Veränderungen der Antropometrie (z.B. in Wachstumsphasen)
+* Erfahren der Effektivität verschiedener Meidbewegungen
+
+.Aufgabenstellung
+
+Halte den Abstand mit Schritten. Trainer:in greift unterschiedliche Blößen an und gibt sie vorher bekannt. Athletin weicht der Spitze mit dem Körper aus und trifft selbst auf beliebige Blöße. Kein Klingenkontakt!
+
+Jeweils hintereinander Angriffe auf folgende Blößen:
+* Körper oben innen
+* Körper oben außen
+* Flanke
+* Brust Mitte
+* Oberschenkel
+* Hand oben
+* Fuß
+* Maske
+
+.Zusatzaufgaben
+
+Zufällig aus diesen Aufgaben auswählen, bis Lektionslänge erreicht.
+
+* Variation Bewegungsausführung - Endbedingung:
+** Treffe mit halb/ganz/nicht gestrecktem Arm
+** Stehe danach in Nahkampf-Enternung
+** Laufe selbst nach dem Treffer an der Trainer:in vorbei
+** ...
+* Variation Bewegungsausführung - Anfangsbedingung
+** Fechte in Quart/Sixt/Oktav/...-Bindung
+** Aus Vorwärts/Rückwärtsbewegung unterschiedlicher Geschwindigkeit (Trainer:in)
+** Auf der Endlinie stehend
+** ..
+* Variation räumlich-/zeitliche Ausführung
+** Gegen unterschiedliche Angriffstiefen
+** Gegen Angriff mit Sprung/Ausfall/Fléche
+* Variation räumliche Ausführung
+** Mache Dich möglichst klein/groß
+** Weite/Enge Fußstellung
+* Variation dynamische Ausführung
+** Triff möglichst schnell!
+** Weiche erst aus und triff dann
+** ...
+* Variation Materialien/Geräte
+** Unbewaffnet, treffe durch Berühren mit der Hand
