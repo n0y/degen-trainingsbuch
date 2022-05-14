@@ -27,7 +27,9 @@ Schon
 include::partial$gen/bibliography.adoc[tag=BBFTMG]
 verweist darauf, dass das „selbständige Üben“ das Grundverfahren beim Erlernen und Trainineren der (Technik-)Elemente darstellt. Mit differenzieller Lernmethode sollen in den Übungen die Variationen bewusst vergrößert und keine Wiederholungen mit identischen Parametern durchgeführt werden. Variiert werden können z.B. nach wieder
 include::partial$gen/bibliography.adoc[tag=BWADLS]
+.
 
+[[umsetzungsprinzipien-variabilitaet]]
 
 * Bewegungsausführung
 ** Anfangs-, Endbedingungen

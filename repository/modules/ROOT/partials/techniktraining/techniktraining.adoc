@@ -7,6 +7,6 @@ include::techniktraining-koerperbewegungen.adoc[leveloffset=+2]
 include::techniktraining-treffbewegung.adoc[leveloffset=+2]
 
 
-== Technisches Lektionstraining
+include::lektionstraining/lektionstraining.adoc[leveloffset+=2]
 
 == Technische Partnerübungen
