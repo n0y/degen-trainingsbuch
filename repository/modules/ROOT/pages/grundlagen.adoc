@@ -1,4 +1,6 @@
 = Grundlagen und Methodik
+:description: Trainingsmethoden für das Fechten verglichen: Klassische Ansätze gegenüber systemdynamischen Ansätzen
+:keywords: Fechten,Degen-Fechten,Training,Grundlagen,differenzielles Training
 
 Bei Kindern und Jugendlichen im Besonderen, aber auch bei jedem anderen Menschen, ist Körper und Geist stetiger Veränderung unterworfen. Hinzu kommt, dass jedes Gefecht und auch jedes Training immer unter neuen Bedingungen ausgetragen wird. Keine Situation ist mit irgendeiner vorherigen identisch.
 
