@@ -34,7 +34,7 @@ Grundlegend sind technische Lektionen so aufgebaut, dass jeweils ein einzelnes T
 
 Zur Variation stehen die xref:page$grundlagen.adoc#umsetzungsprinzipien-variabilitaet[Variablen des differenziellen Trainings] und die xref:page$motoriktraining.adoc#koordination-druchbedingungen[Druckbedingungen des Koordinationstrainings] zur Verfügung.
 
-Gemäß der xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[] wird auch bei der Lektionsarbeit eine einzelne Übung (=Kombination aus Aktion und gewählter Variation) niemals wiederholt. Es geht immer mit der nächsten Kombination weiter.
+Gemäß der xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[Umsetzungsprinzipien] wird auch bei der Lektionsarbeit eine einzelne Übung (=Kombination aus Aktion und gewählter Variation) niemals wiederholt. Es geht immer mit der nächsten Kombination weiter.
 
 == Beispiele für technische Lektionen
 
@@ -55,6 +55,7 @@ Lektionslänge ca. 5 Minuten.
 Nähere Dich zügig aus 4m Entfernung. Triff direkt (ohne Klingenkontakt) und weiche mit dem Körper der gegnerischen Spitze aus.
 
 Wiederhole für folgende zu treffenden Blößen:
+
 * Körper oben innen
 * Körper oben außen
 * Flanke
@@ -117,6 +118,7 @@ Lektionslänge ca. 5 Minuten.
 Halte den Abstand mit Schritten. Trainer:in greift unterschiedliche Blößen an und gibt sie vorher bekannt. Athletin weicht der Spitze mit dem Körper aus und trifft selbst auf beliebige Blöße. Kein Klingenkontakt!
 
 Jeweils hintereinander Angriffe auf folgende Blößen:
+
 * Körper oben innen
 * Körper oben außen
 * Flanke
