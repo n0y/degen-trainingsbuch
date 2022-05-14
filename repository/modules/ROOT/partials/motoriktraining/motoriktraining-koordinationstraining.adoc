@@ -30,7 +30,7 @@ Für das Sportfechten bieten sich als Grundlage die normalen technischen Element
 
 Es gilt nach cite:[WkFuB]:
 
-*Koordinationstraining = beherrschte Fähigkeit + sensorische Vielfalt + Druchbedingungen*
+*Koordinationstraining = beherrschte Fähigkeit + sensorische Vielfalt + Druckbedingungen*
 
 [[koordination-druchbedingungen]]
 .Druckbedingungen des Koordinationstrainings
@@ -58,7 +58,7 @@ a|* simultane Bewegungsteile
 * sukzessive Bewegungsteile
 * einbezogene Körperteile
 a|* Fechten auf einer Hindernisbahn
-* Imitiation von Gefechtsphrasen
+* Imitation von Gefechtsphrasen
 * Gefecht gegen mehrere Gegner
 
 |Situation
@@ -92,7 +92,7 @@ Schwerpunkt ist die Schulung der Wahrnehmung
 
 Grundlage ist, dass die Qualität der Wahrnehmung und der Verarbeitung im Gehirn ausschlaggebend dafür ist, ob das Gesamtsystem Athlet die maximale Leistung zielgerichtet abrufen kann. Bei Problemen in der Wahrnehmung reagiert das Gehirn damit, die verfügbare Leistung zu reduzieren, um Verletzungsrisiken auszuschließen.
 
-Diese Verarbeitung läßt sich bei allen Athlet:innen optimieren. Oft lassen sich Defizite in diesem Bereich mit bloßem Auge identifizieren:
+Diese Verarbeitung lässt sich bei allen Athlet:innen optimieren. Oft lassen sich Defizite in diesem Bereich mit bloßem Auge identifizieren:
 
 * Die Bewegungen erscheinen ungelenk.
 * Aktionen werden zögerlich und vorsichtig durchgeführt.

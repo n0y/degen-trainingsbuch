@@ -12,9 +12,9 @@ include::partial$gen/bibliography.adoc[tag=ACOAEF]
 
 Die reine Stoß- und Treffbewegung lässt sich durch variable Stoßübungen trainieren. Gerade dabei ist die Variabilität einer der wichtigsten Faktoren, denn Treffbewegungen müssen aus unterschiedlichsten Situationen und Körper-/Handhaltungen sicher und schnell erfolgen können.
 
-Für Stoßübungen bietet es sich an, die Übungen in kurzen Blücken durchzuführen: Es werden bezüglich einer Größe über mehrere Übungen mehrere Variationen ausgeführt (z.B. in Folge sechs verschiedene Treffer-Flächen; vier verschiedene Ausgangs-Klingenlagen). Dazu wird jeweils eine Kombination aus Variationen hineingegeben (z.B. Ausführung mit Schritt vor, Treffbewegung verlangsamend und ein Auge geschlossen).
+Für Stoßübungen bietet es sich an, die Übungen in kurzen Blöcken durchzuführen: Es werden bezüglich einer Größe über mehrere Übungen mehrere Variationen ausgeführt (z.B. in Folge sechs verschiedene Treffer-Flächen; vier verschiedene Ausgangs-Klingenlagen). Dazu wird jeweils eine Kombination aus Variationen hineingegeben (z.B. Ausführung mit Schritt vor, Treffbewegung verlangsamend und ein Auge geschlossen).
 
-Als Hilfmittel können z.B. dienen:
+Als Hilfsmittel können z.B. dienen:
 
 * Markierungen auf dem Boden, mit dem unterschiedliche Fußpositionen erwürfelt werden können
 * Unterschiedliche „Waffen“, z.B. Rohre, Holzstecken, Schlauchstücke

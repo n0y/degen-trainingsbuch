@@ -6,9 +6,9 @@ ist inzwischen bekannt, dass der Variationsbereich individueller Bewegungen in j
 include::partial$gen/bibliography.adoc[tag=IIMSHP]
 .
 
-Eine personen-übergreifende Idealtechnik ist als solche nicht mehr haltbar. Abzugrenzen ist, dass einige Variationen der Bewegungsausführung offensichtlich untauglich oder hoch problematisch sind. Solche Variationen werden Lernende aber ohnehin schnell eliminieren, wenn ihnen besser geeignete Variationen angeboten werden.
+Eine Personenübergreifende Idealtechnik ist als solche nicht mehr haltbar. Abzugrenzen ist, dass einige Variationen der Bewegungsausführung offensichtlich untauglich oder hoch problematisch sind. Solche Variationen werden Lernende aber ohnehin schnell eliminieren, wenn ihnen besser geeignete Variationen angeboten werden.
 
-Auch für Trainer:innen sind Idealtechnik und einschleifende Lehrverfahren riskant: Niemand kann alle Fehler und Abweichungen erkennen und die Konsequenz jeder individuellen Ausführung sicher abschätzen. Es besteht die Gefahr, unbewusst fehlerhafte Ausführungen einzuschleifen. Glücklicherweise ist ein Einschleifen am Ende ohnehin nicht möglich, weil jede Wiederholung zwangläufig neue Abweichungen aufweisen muss. Folge bleibt in jedem Fall eine deutlich erhöhte Lernzeit.
+Auch für Trainer:innen sind Idealtechnik und einschleifende Lehrverfahren riskant: Niemand kann alle Fehler und Abweichungen erkennen und die Konsequenz jeder individuellen Ausführung sicher abschätzen. Es besteht die Gefahr, unbewusst fehlerhafte Ausführungen einzuschleifen. Glücklicherweise ist ein Einschleifen am Ende ohnehin nicht möglich, weil jede Wiederholung zwangsläufig neue Abweichungen aufweisen muss. Folge bleibt in jedem Fall eine deutlich erhöhte Lernzeit.
 
 Neuere Lernverfahren wie das differenzielle Lernen
 include::partial$gen/bibliography.adoc[tag=InVP]
@@ -52,7 +52,8 @@ include::partial$gen/bibliography.adoc[tag=MTSG]
 include::partial$gen/bibliography.adoc[tag=DLTTA]
 , Handball
 include::partial$gen/bibliography.adoc[tag=WHBAT]
-, Volleyballinclude::partial$gen/bibliography.adoc[tag=DLeiVb]
+, Volleyball
+include::partial$gen/bibliography.adoc[tag=DLeiVb]
 , Radsport
 include::partial$gen/bibliography.adoc[tag=VBDTR]
 , Ausdauertraining
@@ -68,7 +69,7 @@ image::int-lernm.png[]
 aus
 include::partial$gen/bibliography.adoc[tag=SPAFESA]
 
-Bei der Auswahl geeigneter Lernverfahren für Training im Verein ist die Anwendbarkeit in großeren Gruppen. Dabei ist davon auszugehen, dass jeder Lernende ganz eigene, unterschiedliche Voraussetzungen mitbringt, die jeweils zu unterschiedlichen Leistungsoptima führen muß.
+Bei der Auswahl geeigneter Lernverfahren für Training im Verein ist die Anwendbarkeit in größeren Gruppen. Dabei ist davon auszugehen, dass jeder Lernende ganz eigene, unterschiedliche Voraussetzungen mitbringt, die jeweils zu unterschiedlichen Leistungsoptima führen muß.
 
 Hier kann differenzielles Lernen Vorteile bieten.
 

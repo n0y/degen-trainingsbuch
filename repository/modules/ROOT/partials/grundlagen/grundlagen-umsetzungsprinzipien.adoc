@@ -25,7 +25,7 @@ führt eine abschnittsweise Einführung einer komplexen Bewegung zu schlechteren
 
 Schon
 include::partial$gen/bibliography.adoc[tag=BBFTMG]
-verweist darauf, dass das „selbständige Üben“ das Grundverfahren beim Erlernen und Trainineren der (Technik-)Elemente darstellt. Mit differenzieller Lernmethode sollen in den Übungen die Variationen bewusst vergrößert und keine Wiederholungen mit identischen Parametern durchgeführt werden. Variiert werden können z.B. nach wieder
+verweist darauf, dass das „selbständige Üben“ das Grundverfahren beim Erlernen und Trainieren der (Technik-)Elemente darstellt. Mit differenzieller Lernmethode sollen in den Übungen die Variationen bewusst vergrößert und keine Wiederholungen mit identischen Parametern durchgeführt werden. Variiert werden können z.B. nach wieder
 include::partial$gen/bibliography.adoc[tag=BWADLS]
 .
 
@@ -63,7 +63,7 @@ Prinzipiell bieten sich folgende Variationsmöglichkeiten im Techniktraining an:
 . Unterschiedliche Ausgangs-Bewegungsart (stehend, im Vorrücken, im Zurückweichen, im Sprung, …)
 . Unterschiedliche Geschwindigkeiten (langsam, schnell, submaximal, maximal, …)
 . Unterschiedliche Beschleunigung (konstant, beschleunigt, verzögert, umkehrend, ...)
-. Unterschiedliche Gelenkstellungen (gebeugt, gestreckt, getreckter Arm, angewinkelter Arm, …)
+. Unterschiedliche Gelenkstellungen (gebeugt, gestreckt, gestreckter Arm, angewinkelter Arm, …)
 . Unterschiedliche Muskelspannung
 . Unterschiedliche Fußstellung
 . Unterschiedlicher Rhythmus, Schrittzahl, …

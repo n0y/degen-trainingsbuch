@@ -6,7 +6,7 @@ include::partial$gen/bibliography.adoc[tag=ESECIT]
 
 Das betrifft nicht nur die maximale Sauerstoffaufnahme (VO~2~ max), sondern auch die anaerobe Kapazität. Nach
 include::partial$gen/bibliography.adoc[tag=EMEHIIT]
-kann durch vier Minuten Hochintensitäts-Intervall Training die VO~2~ max genauso gut verbessert werden wie durch 60 Minuten kontinuierliches Training.
+kann durch vier Minuten hochintensives Intervall-Training die VO~2~ max genauso gut verbessert werden wie durch 60 Minuten kontinuierliches Training.
 
 Für das körperliche Training übernehmen wir die Definitionen aus
 include::partial$gen/bibliography.adoc[tag=HICCA]
