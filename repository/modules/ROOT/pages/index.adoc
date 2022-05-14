@@ -1,4 +1,6 @@
 = Degen - Trainingsbuch
+:description: Methodik, Hintergründe und Inhalte des Degen-Trainings. Für Trainer:innen und interessierte Athlet:innen. Auch für Florett und Degen-Fechten interessant.
+:keywords: Fechten,Degen-Fechten,Training,Strategie,Taktik
 
 Zuletzt Aktualisiert: {localdate}
 

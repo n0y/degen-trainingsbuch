@@ -1,4 +1,6 @@
 = Trainingsplanung
+:description: Simple Trainingsplanung für das Degen-Fechten mit mehreren Saison-Höhepunkten. Fertigkeiten und Beispiel-Pläne.
+:keywords: Fechten,Degen-Fechten,Training,Kampfsport,Trainingsplanung,Saisonplanung
 
 Für Aufbau und Integration der verschiedenen Trainingsbestandteile orientieren wir uns an
 include::partial$gen/bibliography.adoc[tag=HICCA]
