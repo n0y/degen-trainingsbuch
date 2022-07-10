@@ -9,6 +9,7 @@ Motorische Fähigkeiten sind die Grundlage, auf der das spezifische Fechttrainin
 * (Maximal-) Kraft
 * Koordination
 * Beweglichkeit
+* Reaktionsfähigkeit
 
 Diese motorischen Fähigkeiten sind generell für alle sportlichen Tätigkeiten relevant. Hier ist das Ziel in erster Linie, die Fähigkeiten so zu trainieren, wie sie für den Fechtsport notwendig sind.
 
@@ -26,13 +27,24 @@ include::partial$gen/bibliography.adoc[tag=HPNRHP]
 include::partial$gen/bibliography.adoc[tag=BoVO2]
 .
 
-include::partial$motoriktraining/motorisch-ausdauer.adoc[leveloffset=+1]
+//
+// Einzelne Kapitel ab hier
+//
 
-include::partial$motoriktraining/motoriktraining-koordinationstraining.adoc[]
+include::partial$motoriktraining/ausdauertraining/ausdauertraining.adoc[leveloffset=+1]
+
+include::partial$motoriktraining/koordinationstraining/koordinationstraining.adoc[leveloffset=+1]
+
+include::partial$motoriktraining/reaktionstraining/reaktionstraining.adoc[leveloffset=+1]
 
 == Maximalkrafttraining
 
+_TODO_
+
 == Schnelligkeitstraining
 
+_TODO_
 
 == Beweglichkeitstraining
+
+_TODO_

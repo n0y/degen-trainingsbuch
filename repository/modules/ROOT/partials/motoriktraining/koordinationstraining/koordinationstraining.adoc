@@ -1,4 +1,4 @@
-=== Koordinationstraining
+= Koordinationstraining
 
 Koordination bezeichnet nach cite:[KFuKiS] das geordnete Zusammenwirken von verschiedenen Teilen und Prozessen eines Systems auf ein intendiertes Ziel hin.
 
@@ -6,7 +6,7 @@ Der wissenschaftliche Stand zu koordinativen Fertigkeiten ist derzeit lückenhaf
 
 Dennoch sind einige koordinative Übungsformen sinnvoll und zeigen gute Resultate.
 
-==== Grundlagen des Koordinationstrainings
+== Grundlagen des Koordinationstrainings
 
 Die separate Betrachtung der Koordinationsfähigkeiten ist deshalb problematisch, weil sie nicht direkt beobachtbare, hypothetische Konstrukte sind cite:[RfBDM] und immer auf ein spezifisches Gefüge aus mehreren Fähigkeiten unterschiedlicher Gewichtung zurückgegriffen wird cite:[WkFuB].
 
@@ -22,7 +22,7 @@ Die Haupttrainingsmethode im fähigkeitskonzeptionellen Koordinationstraining is
 
 Die dort dargestellten Variationsmethoden des programm-, parameter- und bedingungsvariablen Übens zeigen eine deutliche Ähnlichkeit zum differenziellen Lernen.
 
-==== Spezifisches Koordinationstraining
+== Spezifisches Koordinationstraining
 
 Es gilt die Maxime, dass die koordinativen Anforderungen im Training immer höher sein müssen als bei der späteren Reproduktion. Also schwierigere Übungen mit größerer Handlungsdichte als in der Realsituation.
 
@@ -76,11 +76,11 @@ a|* Übung nach konditioneller Vorbelastung
 * gleichzeitiges Lösen einer Kopfrechenaufgabe
 |====
 
-include::motoriktraining-koordinationstraining-bsp1.adoc[leveloffset+=3]
+include::motoriktraining-koordinationstraining-bsp1.adoc[leveloffset=+2]
 
-include::motoriktraining-koordinationstraining-bsp2.adoc[leveloffset+=3]
+include::motoriktraining-koordinationstraining-bsp2.adoc[leveloffset=+2]
 
-==== Neuroathletik-Training
+== Neuroathletik-Training
 
 Die Neuroathletik beschäftigt sich mit Prozessen des Gehirns und der Nerven bei der Entwicklung der Bewegungsprogramme, bevor es zu einer Handlung kommt.
 
