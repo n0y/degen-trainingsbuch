@@ -1,4 +1,4 @@
-==== Übung: Koordinationsübung Parade/Riposte
+= Übung: Koordinationsübung Parade/Riposte
 
 .Ziel
 Parade-Riposte mit Präzisionsvorgabe: Körperlage
