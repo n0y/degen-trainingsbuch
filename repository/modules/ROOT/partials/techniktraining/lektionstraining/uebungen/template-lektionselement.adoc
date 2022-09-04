@@ -1,0 +1,26 @@
+= Titel
+
+Lektionslänge ca. x Minuten.
+
+.Zweck der Lektion
+
+* xyz
+
+.Aufgabenstellung
+
+.Zusatzaufgaben
+
+Zufällig aus diesen Aufgaben auswählen, bis Lektionslänge erreicht.
+
+* Bewegungsausführung
+** Anfangs-, Endbedingungen
+** räumliche Ausführung
+** räumlich-zeitliche Ausführung (Geschwindigkeit)
+** dynamische Ausführung (Beschleunigung)
+** zeitliche Ausführung (Rhythmus)
+** Umfang
+** Dauer
+* Sinneswahrnehmungen (Einschränkungen, Verstärkung)
+* Materialien, Geräte
+* Untergrund, Gelände
+* Rahmenbedingungen, Regeln
