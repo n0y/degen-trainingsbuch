@@ -38,119 +38,33 @@ Gemäß der xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[Umsetzungs
 
 == Beispiele für technische Lektionen
 
-=== Direkter Angriff mit Beobachtung der Gegner:in
+Die Beispiele sind gruppiert nach _Angriff_, _Parade_, _Gegenangriff_ und _Beschäftigung_. Es sei darauf hingewiesen, dass die Unterscheidung der Gruppen im Degenfechten sehr unscharf ist; speziell zwischen _Parade/Riposte_ und _Gegenangriff mit Klingenbeseitigung_.
 
-Lektionslänge ca. 5 Minuten.
+Wir verwenden die Begriffe wie folgt:
 
-.Zweck der Lektion
+* Die Gruppe _Angriffe_ geht davon aus, dass die Fechter:in eine Aktion zur Erzielung eines Treffers selbst initiiert.
+* Die Gruppe _Gegenangriff_ geht davon aus, dass die Trainer:in eine Aktion beginnt, auf die die Fechter:in reagiert in der Absicht, selbst einen Treffer zu erzielen und dabei optional den Gegentreffer vermeidet.
+* Die Gruppe _Parade_ geht davon aus, dass die Trainer:in eine Aktion beginnt ud die Fechter:in diesen vereitelt und dabei optional selbst einen Treffer setzt.
+* Die Gruppe _Beschäftigung_ geht davon aus, dass die Fechter:in versucht, die gegnerische Initiative zu unterdrücken und dabei optional selbst einen Treffer setzt.
 
-* Sicherheit in Klingen- und Spitzenführung auch in Drucksituationen
-* Entkopplung Hand- und Beinführung
-* Beobachten der Gegner:in in Drucksituationen
-* Verbessern des Mensurgefühls
-* Anpassung an Veränderungen der Anthropometrie (z.B. in Wachstumsphasen)
+Eine vollständige Lektion kann zwischen 15 Minuten und einer Stunde dauern. Die Dauer soll so gewählt werden, dass die Athlet:in die Konzentration aufrecht erhalten kann.
 
-.Aufgabenstellung
+Wir versuchen, bei einer Lektion mehrere Elemente zu trainieren. Ein Element soll (einschließlich aller trainierten Variationen) nicht länger als fünf Minuten am Stück trainiert werden. Danach soll zu einem anderen Element gewechselt werden. Dadurch soll ein Variationsdruck erzielt werden, der die Voraussetzungen für die Neuroplastizität erhöht.
 
-Nähere Dich zügig aus 4m Entfernung. Triff direkt (ohne Klingenkontakt) und weiche mit dem Körper der gegnerischen Spitze aus.
+== Lektionselemente zum Angriff
 
-Wiederhole für folgende zu treffenden Blößen:
+include::uebungen/technisch/angriff-direkt-beobachtung.adoc[leveloffset=+2]
 
-* Körper oben innen
-* Körper oben außen
-* Flanke
-* Brust Mitte
-* Oberschenkel
-* Hand oben
-* Fuß
-* Maske
+include::uebungen/technisch/angriff-kavation-als-reaktion.adoc[leveloffset=+2]
 
-.Zusatzaufgaben
+== Lektionselemente zum Gegenangriff
 
-Zufällig aus diesen Aufgaben auswählen, bis Lektionslänge erreicht.
+include::uebungen/technisch/gegenangriff-meidbewegung.adoc[leveloffset=+2]
 
-* Variation Bewegungsausführung - Endbedingung:
-** Treffe mit langem Ausfall
-** Treffe mit halb gestrecktem Arm
-** Treffe im Laufen und laufe danach vorbei
-** Gehe bis Nahkampf-Entfernung, treffe mit Sprung zurück
-** ...
-* Variation Bewegungsausführung - Anfangsbedingung
-** Bleibe so lange in Quart/Sixt/Oktav/... wie möglich
-** Aus schneller Vorwärtsbewegung
-** ..
-* Variation räumliche Ausführung
-** Klingenlage Trainer:in: auf unterschiedliche Blößen gerichtet
-** Klinge der Trainer:in bewegt sich horizontal/vertikal/kreisförmig
-** Mache Dich möglichst klein/groß
-** Weite/Enge Fußstellung
-* Variation dynamische Ausführung
-** Nähere Dich langsam, triff schnell
-** Bewege den vorderen Fuß schnell, den hinteren langsam
-** Halte die Armstreckung kurz vor dem Treffer kurz an
-** ...
-* Variation Sinneswahrnehmungen
-** Schließe ein Auge
-** Fechte gegen die Sonne
-** ...
-* Variation Materialien/Geräte
-** Gegen sehr lange Waffe (Trainer:in)
-** Gegen zwei Waffen (Trainer:in)
-** Mit Mini-Degen, ...
-* Variation Untergrund, Gelände
-** Trainiere auf Sand, Tartanbahn
-** Aufwärts/Abwärts
+== Lektionselemente zur Parade/ Riposte
 
-=== Gegenangriff mit Meidbewegung
+include::uebungen/technisch/parade-tief-wurfstoss.adoc[leveloffset=+2]
 
-Lektionslänge ca. 5 Minuten.
+== Lektionselemente zur Beschäftigung
 
-.Zweck der Lektion
 
-* Sicherheit in Klingen- und Spitzenführung auch in Drucksituationen
-* Bewusster Umgang mit Verteidigungsreflexen
-* Verbesserung des Umgangs mit verfügbarem Platz auf der Fechtbahn
-* Anpassung an Veränderungen der Anthropometrie (z.B. in Wachstumsphasen)
-* Erfahren der Effektivität verschiedener Meidbewegungen
-
-.Aufgabenstellung
-
-Halte den Abstand mit Schritten. Trainer:in greift unterschiedliche Blößen an und gibt sie vorher bekannt. Athletin weicht der Spitze mit dem Körper aus und trifft selbst auf beliebige Blöße. Kein Klingenkontakt!
-
-Jeweils hintereinander Angriffe auf folgende Blößen:
-
-* Körper oben innen
-* Körper oben außen
-* Flanke
-* Brust Mitte
-* Oberschenkel
-* Hand oben
-* Fuß
-* Maske
-
-.Zusatzaufgaben
-
-Zufällig aus diesen Aufgaben auswählen, bis Lektionslänge erreicht.
-
-* Variation Bewegungsausführung - Endbedingung:
-** Treffe mit halb/ganz/nicht gestrecktem Arm
-** Stehe danach in Nahkampf-Entfernung
-** Laufe selbst nach dem Treffer an der Trainer:in vorbei
-** ...
-* Variation Bewegungsausführung - Anfangsbedingung
-** Fechte in Quart/Sixt/Oktav/...-Bindung
-** Aus Vorwärts/Rückwärtsbewegung unterschiedlicher Geschwindigkeit (Trainer:in)
-** Auf der Endlinie stehend
-** ..
-* Variation räumlich-/zeitliche Ausführung
-** Gegen unterschiedliche Angriffstiefen
-** Gegen Angriff mit Sprung/Ausfall/Fléche
-* Variation räumliche Ausführung
-** Mache Dich möglichst klein/groß
-** Weite/Enge Fußstellung
-* Variation dynamische Ausführung
-** Triff möglichst schnell!
-** Weiche erst aus und triff dann
-** ...
-* Variation Materialien/Geräte
-** Unbewaffnet, treffe durch Berühren mit der Hand
