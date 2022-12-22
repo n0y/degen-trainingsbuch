@@ -4,7 +4,7 @@ Eine der Grundlagen des differenziellen Lernens ist die Annahme, dass jeder Mens
 
 Viele Lehrende sind der Ansicht, dass mit selbstorganisierendem Lernen die Figur des Lehrenden überflüssig werde. Tatsächlich ist das Gegenteil der Fall.
 
-Zunächst ist wichtig zu Erwähnen, dass das „klassische“ programmtheoretische Lehren und Lernen gegenüber aus Sicht des differenziellen Lernens nicht falsch oder schlecht ist. Es basiert lediglich auf einem anderen Grundsatz und führt letztlich ebenfalls zum Erfolg. Zahlreiche jüngere Studien haben aber gezeigt, dass durch differenzielles Lernen schnellere und stabilere Erfolge erreicht werden, bei gleichzeitig höherer Motivation der Lernenden.
+Zunächst ist wichtig zu erwähnen, dass das „klassische“ programmtheoretische Lehren und Lernen gegenüber aus Sicht des differenziellen Lernens nicht falsch oder schlecht ist. Es basiert lediglich auf einem anderen Grundsatz und führt letztlich ebenfalls zum Erfolg. Zahlreiche jüngere Studien haben aber gezeigt, dass durch differenzielles Lernen schnellere und stabilere Erfolge erreicht werden, bei gleichzeitig höherer Motivation der Lernenden.
 
 Klassisch wird dem Trainer oft die Führungsrolle im Trainings- und Wettkampfprozess zugeschrieben. Er soll ebenfalls wichtigste Bezugsperson des Lernenden sein
 include::partial$gen/bibliography.adoc[tag=BBFTMG]

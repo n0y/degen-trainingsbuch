@@ -1,24 +1,44 @@
 = Koordinationstraining
 
-Koordination bezeichnet nach cite:[KFuKiS] das geordnete Zusammenwirken von verschiedenen Teilen und Prozessen eines Systems auf ein intendiertes Ziel hin.
+Koordination bezeichnet nach
+include::partial$gen/bibliography.adoc[tag=KFuKiS]
+das geordnete Zusammenwirken von verschiedenen Teilen und Prozessen eines Systems auf ein intendiertes Ziel hin.
 
-Der wissenschaftliche Stand zu koordinativen Fertigkeiten ist derzeit lückenhaft. Es bestehen Forschungslücken und empirisch verifizierte alternative Ansätze cite:[KFuKiS].
+Der wissenschaftliche Stand zu koordinativen Fertigkeiten ist derzeit lückenhaft. Es bestehen Forschungslücken und empirisch verifizierte alternative Ansätze
+include::partial$gen/bibliography.adoc[tag=KFuKiS]
+.
 
 Dennoch sind einige koordinative Übungsformen sinnvoll und zeigen gute Resultate.
 
 == Grundlagen des Koordinationstrainings
 
-Die separate Betrachtung der Koordinationsfähigkeiten ist deshalb problematisch, weil sie nicht direkt beobachtbare, hypothetische Konstrukte sind cite:[RfBDM] und immer auf ein spezifisches Gefüge aus mehreren Fähigkeiten unterschiedlicher Gewichtung zurückgegriffen wird cite:[WkFuB].
+Die separate Betrachtung der Koordinationsfähigkeiten ist deshalb problematisch, weil sie nicht direkt beobachtbare, hypothetische Konstrukte sind
+include::partial$gen/bibliography.adoc[tag=RfBDM]
+und immer auf ein spezifisches Gefüge aus mehreren Fähigkeiten unterschiedlicher Gewichtung zurückgegriffen wird
+include::partial$gen/bibliography.adoc[tag=WkFuB]
+.
 
-Die Tragfähigkeit des Ansatzes der koordinativen Fähigkeiten wird zunehmend infrage gestellt. Das betrifft besonders das Konzept allgemeiner, übergreifender Koordinationsfähigkeiten. Die Erkenntnisse sprechen eher für eine hohe Fertigkeitsspezifität: Es besteht ein hoher Trainingseffekt auf Leistungen, die Teil des Trainings sind, aber die Effekte lassen sich kaum auf andere Aufgaben übertragen (siehe z.B. cite:[RbSBM] und cite:[HMSSvSe]).
+Die Tragfähigkeit des Ansatzes der koordinativen Fähigkeiten wird zunehmend infrage gestellt. Das betrifft besonders das Konzept allgemeiner, übergreifender Koordinationsfähigkeiten. Die Erkenntnisse sprechen eher für eine hohe Fertigkeits-Spezifität: Es besteht ein hoher Trainingseffekt auf Leistungen, die Teil des Trainings sind, aber die Effekte lassen sich kaum auf andere Aufgaben übertragen (siehe z.B.
+include::partial$gen/bibliography.adoc[tag=RbSBM]
+und
+include::partial$gen/bibliography.adoc[tag=HMSSvSe]
+).
 
 Dennoch wird oft allgemeines Koordinationstraining für sinnvoll erachtet mit den Zielen, außersportliche Handlungskompetenz zu erhalten, Trainingsmonotonie entgegenzuwirken und Handlungssicherheit in Problemsituationen zu erhalten.
 
-Als Anteile am Training werden in cite:[SSlTo] z.B. 5% für allgemeines und 10-15% für sportartspezifisches Koordinationstraining genannt.
+Als Anteile am Training werden in
+include::partial$gen/bibliography.adoc[tag=SSlTo]
+z.B. 5 % für allgemeines und 10-15 % für sportartspezifisches Koordinationstraining genannt.
 
-In cite:[KFuKiS] wird dargestellt, dass das Training allgemeiner Koordinationsfähigkeiten und fertigkeitsbezogenes Techniktraining die beiden Pole des selben Kontinuums sind. Techniktraining ist somit immer auch sportartspezifisches Koordinationstraining cite:[OMBGTwl].
+In
+include::partial$gen/bibliography.adoc[tag=KFuKiS]
+wird dargestellt, dass das Training allgemeiner Koordinationsfähigkeiten und fertigkeitsbezogenes Techniktraining die beiden Pole desselben Kontinuums sind. Techniktraining ist somit immer auch sportartspezifisches Koordinationstraining
+include::partial$gen/bibliography.adoc[tag=OMBGTwl]
+.
 
-Die Haupttrainingsmethode im fähigkeitskonzeptionellen Koordinationstraining ist das variable Üben cite:[WkFuB].
+Die Haupttrainingsmethode im fähigkeitskonzeptionellen Koordinationstraining ist das variable Üben
+include::partial$gen/bibliography.adoc[tag=WkFuB]
+.
 
 Die dort dargestellten Variationsmethoden des programm-, parameter- und bedingungsvariablen Übens zeigen eine deutliche Ähnlichkeit zum differenziellen Lernen.
 
@@ -28,7 +48,9 @@ Es gilt die Maxime, dass die koordinativen Anforderungen im Training immer höhe
 
 Für das Sportfechten bieten sich als Grundlage die normalen technischen Elemente an, die in Spielformen und Partnerübungen eingesetzt werden. Hinzu kommen dann immer variable Druckbedingungen, die für die Ausbildung der gewünschten, koordinativen Fähigkeiten sorgen.
 
-Es gilt nach cite:[WkFuB]:
+Es gilt nach
+include::partial$gen/bibliography.adoc[tag=WkFuB]
+:
 
 *Koordinationstraining = beherrschte Fähigkeit + sensorische Vielfalt + Druckbedingungen*
 
