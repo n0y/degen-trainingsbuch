@@ -18,7 +18,7 @@ und immer auf ein spezifisches Gefüge aus mehreren Fähigkeiten unterschiedlich
 include::partial$gen/bibliography.adoc[tag=WkFuB]
 .
 
-Die Tragfähigkeit des Ansatzes der koordinativen Fähigkeiten wird zunehmend infrage gestellt. Das betrifft besonders das Konzept allgemeiner, übergreifender Koordinationsfähigkeiten. Die Erkenntnisse sprechen eher für eine hohe Fertigkeitsspezifität: Es besteht ein hoher Trainingseffekt auf Leistungen, die Teil des Trainings sind, aber die Effekte lassen sich kaum auf andere Aufgaben übertragen (siehe z.B.
+Die Tragfähigkeit des Ansatzes der koordinativen Fähigkeiten wird zunehmend infrage gestellt. Das betrifft besonders das Konzept allgemeiner, übergreifender Koordinationsfähigkeiten. Die Erkenntnisse sprechen eher für eine hohe Fertigkeits-Spezifität: Es besteht ein hoher Trainingseffekt auf Leistungen, die Teil des Trainings sind, aber die Effekte lassen sich kaum auf andere Aufgaben übertragen (siehe z.B.
 include::partial$gen/bibliography.adoc[tag=RbSBM]
 und
 include::partial$gen/bibliography.adoc[tag=HMSSvSe]

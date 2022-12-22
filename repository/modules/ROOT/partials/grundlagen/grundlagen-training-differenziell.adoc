@@ -1,12 +1,12 @@
 == Individualität der Bewegungen
 
-Zusätzlich zum Unmöglichkeit, identische Bewegungen auszuführen
+Zusätzlich zur Unmöglichkeit, identische Bewegungen auszuführen
 include::partial$gen/bibliography.adoc[tag=SDLL]
 ist inzwischen bekannt, dass der Variationsbereich individueller Bewegungen in jedem Leistungsniveau erstaunlich hoch ist
 include::partial$gen/bibliography.adoc[tag=IIMSHP]
 .
 
-Eine Personenübergreifende Idealtechnik ist als solche nicht mehr haltbar. Abzugrenzen ist, dass einige Variationen der Bewegungsausführung offensichtlich untauglich oder hoch problematisch sind. Solche Variationen werden Lernende aber ohnehin schnell eliminieren, wenn ihnen besser geeignete Variationen angeboten werden.
+Eine Personenübergreifende Idealtechnik ist als solche nicht mehr haltbar. Abzugrenzen ist, dass einige Variationen der Bewegungsausführung offensichtlich untauglich oder hochproblematisch sind. Solche Variationen werden Lernende aber ohnehin schnell eliminieren, wenn ihnen besser geeignete Variationen angeboten werden.
 
 Auch für Trainer:innen sind Idealtechnik und einschleifende Lehrverfahren riskant: Niemand kann alle Fehler und Abweichungen erkennen und die Konsequenz jeder individuellen Ausführung sicher abschätzen. Es besteht die Gefahr, unbewusst fehlerhafte Ausführungen einzuschleifen. Glücklicherweise ist ein Einschleifen am Ende ohnehin nicht möglich, weil jede Wiederholung zwangsläufig neue Abweichungen aufweisen muss. Folge bleibt in jedem Fall eine deutlich erhöhte Lernzeit.
 
@@ -37,7 +37,7 @@ Ein zusätzlicher Vorteil wird beim Lehren von Kindern und Jugendlichen erzielt,
 include::partial$gen/bibliography.adoc[tag=DLPVSS]
 .
 
-Wichtig dabei ist, dass bei der Umsetzung nicht nur die theoretisch optimale, konkrete Lösung durch Variation gegen andere Lösungen stabilisiert wird. Statt dessen wird ein Lösungsraum umkreist, um auf jeden Fall neue, situativ optimale Lösungen auszuführen.
+Wichtig dabei ist, dass bei der Umsetzung nicht nur die theoretisch optimale, konkrete Lösung durch Variation gegen andere Lösungen stabilisiert wird. Stattdessen wird ein Lösungsraum umkreist, um auf jeden Fall neue, situativ optimale Lösungen auszuführen.
 
 
 == Effektivität und Effizienz der differenziellen Lehrmethoden
@@ -60,16 +60,16 @@ include::partial$gen/bibliography.adoc[tag=VBDTR]
 include::partial$gen/bibliography.adoc[tag=DAVNW]
 .
 
-In allen untersuchten Fällen wurde die Vorhersage größerer Effektivität des differenziellen Lernansatzes durch Verstärkung des Rauschens bei Anfängern und Fortgeschrittenen bestätigt (signifikant bis hoch signifikant, p=0,02 bis 0,04).
+In allen untersuchten Fällen wurde die Vorhersage größerer Effektivität des differenziellen Lernansatzes durch Verstärkung des Rauschens bei Anfängern und Fortgeschrittenen bestätigt (signifikant bis hochsignifikant, p=0,02 bis 0,04).
 
 Schon am Ende der untersuchten Interventionen wird der Vorteil gegenüber anderen Ansätzen messbar. Bei Retentionstests ist nicht nur ein geringerer Leistungsrückgang zu messen, sondern im Gegensatz dazu sogar Leistungssteigerungen nachgewiesen.
 
-.Darstellung  der  Integration  aller  Lerntheorien  mit  Hilfe  des  Parameters  „Rauschen“
+.Darstellung  der  Integration  aller  Lerntheorien  mithilfe  des  Parameters  „Rauschen“
 image::int-lernm.png[]
 aus
 include::partial$gen/bibliography.adoc[tag=SPAFESA]
 
-Bei der Auswahl geeigneter Lernverfahren für Training im Verein ist die Anwendbarkeit in größeren Gruppen. Dabei ist davon auszugehen, dass jeder Lernende ganz eigene, unterschiedliche Voraussetzungen mitbringt, die jeweils zu unterschiedlichen Leistungsoptima führen muß.
+Bei der Auswahl geeigneter Lernverfahren für Training im Verein ist die Anwendbarkeit in größeren Gruppen. Dabei ist davon auszugehen, dass jeder Lernende ganz eigene, unterschiedliche Voraussetzungen mitbringt, die jeweils zu unterschiedlichen Leistungsoptima führen muss.
 
 Hier kann differenzielles Lernen Vorteile bieten.
 

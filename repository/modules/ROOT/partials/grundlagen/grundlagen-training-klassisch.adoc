@@ -39,7 +39,7 @@ In den meisten uns bekannten Vereinen wird normalerweise nicht nach einem festen
 
 Auch explorative Methoden ("Versuch und Irrtum") werden bisweilen als Methode eingesetzt. Allzu häufig aber mit dem Ziel, die erwartete Zieltechnik möge nun endlich gefunden und eingesetzt werden. Schüler:innen finden zwar gelegentlich eigene Techniken, die eventuell sogar für ihre Voraussetzungen besser geeignet sind; diese werden aber oft als Irrtum ignoriert.
 
-Dabei ist die vorgegebene Ideal-/Zieltechnik häufig problematisch: sie ist manchmal veraltet, oft in sich widersprüchlich und in jedem Fall nicht an die Individualität der SchülerInnen angepasst. Dennoch sollen die SchülerInnen sich nach dem Prinzip der Übereinstimmung
+Dabei ist die vorgegebene Ideal-/Zieltechnik häufig problematisch: Sie ist manchmal veraltet, oft in sich widersprüchlich und in jedem Fall nicht an die Individualität der SchülerInnen angepasst. Dennoch sollen die SchülerInnen sich nach dem Prinzip der Übereinstimmung
 include::partial$gen/bibliography.adoc[tag=SOTP]
 )
 iterativ den "korrekten" Lösungen annähern, die mit hoher Wiederholungszahl eingeschlossen werden sollen
@@ -48,7 +48,7 @@ include::partial$gen/bibliography.adoc[tag=HaTra]
 
 Zu beachten ist, dass innovative Neuerungen im Sport normalerweise erfolgen, wenn sich Trainer und Athleten nicht daran orientieren, sondern Technik und Taktik in einem neuen Umfeld neu denken oder neu erproben.
 
-Die Problem mit Ideal-/Zieltechniken ist unter anderem die Nichtwiederholbarkeit identischer Bewegungen
+Das Problem mit Ideal-/Zieltechniken ist unter anderem die Nichtwiederholbarkeit identischer Bewegungen
 include::partial$gen/bibliography.adoc[tag=MoVaDQO]
 : selbst die besten Athleten sind nicht in der Lage, sogar einfache Bewegungen exakt identisch auszuführen.
 
