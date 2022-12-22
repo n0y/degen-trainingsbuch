@@ -19,8 +19,8 @@ include::partial$gen/bibliography.adoc[tag=HICCA]
 
 Die Übergänge zwischen den Trainingsarten sind dabei allerdings fließend.
 
-include::{docdir}/motorisch-ausdauer-hiit.adoc[leveloffset=+1]
+include::motorisch-ausdauer-hiit.adoc[leveloffset=+1]
 
-include::{docdir}/motorisch-ausdauer-hiit-sit.adoc[leveloffset=+1]
+include::motorisch-ausdauer-hiit-sit.adoc[leveloffset=+1]
 
-include::{docdir}/motorisch-ausdauer-vo2max.adoc[leveloffset=+1]
+include::motorisch-ausdauer-vo2max.adoc[leveloffset=+1]
