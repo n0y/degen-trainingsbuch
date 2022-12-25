@@ -1,4 +1,12 @@
 = Direkter Angriff mit Beobachtung der Gegner:in
+:keywords: uebung
+:uebung-group: Lektionen
+
+ifndef::ownpage[]
+
+xref:page$practices/techniktraining/lektionstraining/uebungen/technisch/angriff-direkt-beobachtung.adoc[Nur diese Übung]
+
+endif::[]
 
 Lektionslänge ca. 5 Minuten.
 

@@ -1,4 +1,13 @@
 = Trainingsplan: Erhöhung der VO~2~max
+:keywords: uebung
+:uebung-group: Ausdauertraining
+
+ifndef::ownpage[]
+
+xref:page$practices/motoriktraining/ausdauertraining/motorisch-ausdauer-vo2max.adoc[Nur diese Übung]
+
+endif::[]
+
 
 Für Ausdauerleistungen ist die maximale Sauerstoffaufnahme-Kapazität (VO~2~max) eine entscheidende Größe. Sie lässt sich zum Beispiel durch den _Cooper-Test_ messen; dort wird ein Lauf über 12 Minuten auf maximal erreichbare Distanz absolviert.
 
