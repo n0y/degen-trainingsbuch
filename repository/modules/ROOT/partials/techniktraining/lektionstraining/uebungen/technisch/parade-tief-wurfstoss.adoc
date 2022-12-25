@@ -1,4 +1,12 @@
 = Parade gegen Angriffe innen/unten, Riposte mit Wurfstoß
+:keywords: uebung
+:uebung-group: Lektionen
+
+ifndef::ownpage[]
+
+xref:page$practices/techniktraining/lektionstraining/uebungen/technisch/parade-tief-wurfstoss.adoc[Nur diese Übung]
+
+endif::[]
 
 .Zweck der Lektion
 

@@ -18,11 +18,12 @@
     "rimraf": "3.0.2"
   },
   "scripts": {
-    "build:generate-bibliography": "node src/convert-bibliography.js",
-    "build:copyProjectFiles": "node src/copy-project-files.js",
-    "build:clean": "rimraf build",
+    "build:clean": "rimraf build repository/modules/ROOT/pages/practices repository/modules/ROOT/partials/gen",
+    "build:generate:generate-bibliography": "node src/convert-bibliography.js",
+    "build:generate:copyProjectFiles": "node src/copy-project-files.js",
+    "build:generate:practice-pages": "node src/create-practice-pages.js",
     "build:antora": "antora antora-playbook.yml",
-    "build": "run-s build:*",
+    "build": "run-s build:clean build:generate:* build:antora",
     "watch": "onchange 'repository/**/*' 'src/**/*' 'antora-playbook.yml' --exclude-path .gitignore -i -- npm run build"
   },
   "repository": {

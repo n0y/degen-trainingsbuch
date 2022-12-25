@@ -1,4 +1,13 @@
 = Übung: Koordinationsübung Parade/Riposte
+:keywords: uebung
+:uebung-group: Koordination
+
+ifndef::ownpage[]
+
+xref:page$practices/motoriktraining/koordinationstraining/motoriktraining-koordinationstraining-bsp1.adoc[Nur diese Übung]
+
+endif::[]
+
 
 .Ziel
 Parade-Riposte mit Präzisionsvorgabe: Körperlage
@@ -26,7 +35,7 @@ A und B stehen einander in mittlerer Mensur gegenüber:
 * A verkürzt mit Schritt vor und bedroht B mit Klinge in Linie
 * B reagiert mit Parade-Riposte.
 
-Die Übung wird jeweils drei Mal durchgeführt mit Quart-, Sixt oder Oktav-Parade. Dann erfolgt Wechsel. Gelegentlich wird der Untergrund durch gewechselt.
+Die Übung wird jeweils dreimal durchgeführt mit Quart-, Sixt oder Oktav-Parade. Dann erfolgt Wechsel. Gelegentlich wird der Untergrund durch gewechselt.
 
 Die Trainer:in gibt vor jedem Satz eine neue Zusatzaufgabe für B ein, z.B.
 

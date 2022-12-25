@@ -3,5 +3,6 @@
 * xref:agilitaetstraining.adoc[]
 * xref:motoriktraining.adoc[]
 * xref:trainingsplanung.adoc[]
+* xref:uebungen.adoc[]
 * xref:bibliography.adoc[]
 * xref:lizenz.adoc[]

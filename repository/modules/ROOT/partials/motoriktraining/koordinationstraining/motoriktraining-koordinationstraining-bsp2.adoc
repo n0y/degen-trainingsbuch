@@ -1,4 +1,12 @@
 = Übung: Koordinationsübung freie Angriffe - Wettkampfform
+:keywords: uebung
+:uebung-group: Koordination
+
+ifndef::ownpage[]
+
+xref:page$practices/motoriktraining/koordinationstraining/motoriktraining-koordinationstraining-bsp2.adoc[Nur diese Übung]
+
+endif::[]
 
 .Ziel
 Freie Angriffe mit Druckvorgabe: Bewegungszeit
