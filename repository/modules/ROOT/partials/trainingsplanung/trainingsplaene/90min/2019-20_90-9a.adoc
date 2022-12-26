@@ -1,0 +1,129 @@
+= Trainingsplan Beinarbeit und Fechtaufgaben
+:keywords: uebung
+:uebung-group: Trainingspläne
+
+ifndef::ownpage[]
+
+xref:page$practices/trainingsplanung/trainingsplaene/90min/2019-20_90-9a.adoc[Nur diese Übung]
+
+endif::[]
+
+
+Dauer: 90 min
+
+Materialien: Langbänke, Tennisbälle, Rundholzstäbe
+
+[cols=".^8,.^1"]
+|===
+
+a|
+=== Aufwärmen
+|*20 min*
+
+a|
+==== Aufwärmen mit Bänken I
+
+Die Fechter stehen in zwei Gruppen ein halbes Volleyballfeld entfernt von der Sprossenwand.
+
+Vor ihnen (im Weg) zwei Bänke, die erste (nähere) umgedreht.
+
+Der jeweils erste hat eine Maske in der Hand.
+
+.Aufgabe:
+* Der ERSTE läuft los
+* unter der ersten Bank durch
+* über die zweite Bank drüber
+* und hängt die Maske auf die unterste Sprosse
+* Der ZWEITE genauso, hängt die Maska aber eine Sprosse höher
+
+Gewonnen hat das Team, bei dem die Maske als erstes ganz oben hängt.
+|8 Min
+
+a|
+==== Aufwärmen mit Bänken II
+
+Quelle:
+include::partial$gen/bibliography.adoc[tags=ErlFe]
+, S. 64
+
+Die Fechter stehen vor drei hintereinander gestellten Bänken in einer Reihe. Nach jedem Überwinden der Bänke laufen sie seitlich zurück und schließen sich in der Reihe wieder hinten an.
+
+Überwindungsmöglichkeiten können sein:
+
+* Krabbeln über die Bänke
+* Bankziehen in der Bauchlage
+* Beidbeinige Hocksprünge
+* Einbeiniges Überspringen (links stehen, hoch hüpfen, 2x nach vorne, rechts runter)
+|7 Min
+
+a|
+==== Trinken
+|5 Min
+
+a|
+=== Beinarbeit
+Immer folgende Schrittfolge durchführen:
+
+* Vorwärts:
+** drei Schritte vor
+** zwei zurück
+** zwei vor
+** Ausfall / Nachsetzen
+* Rückwärts:
+** drei Schritte zurück
+** zwei vor
+** zwei zurück
+** Ausfall / Stellung
+
+mit folgenden Varianten (jede nur 1x):
+
+* vorderen Fuß 90° nach innen gedreht (beide Füße parallel)
+* ganz tief unten, fast im Entengang
+* mit kreisenden Armen
+* schräg stehend (ganze Stellung 45° gedreht nach innen)
+* mit gestreckten Knien und Oberkörper weit nach hinten gelehnt
+* möglichst weit nach vorne gelehnt
+* mit dem vorderen Fuß möglichst lange in der Luft
+* ohne die Füße zu heben
+* mit schwankendem Oberkörper (hoch und runter) und Armen
+* mit Zickzack (Richtungswechsel bei jedem Schritt)
+* mit Gewicht auf dem vorderen Fuß und hinken mit dem hinteren
+* bei jedem zweiten Schritt in die Hocke und Arme über den Kopf halten
+* bei jeder Bewegung: abwechselnd vor und hinter dem Körper klatschen
+* in Schrittstellung (hinterer Fuß zeigt nach vorne) und komplett gedrehtem Oberkörper
+* Oberkörper geht zuerst, dann die Füße hinterher
+|*10 min*
+
+a|
+=== Trinken, Umziehen, Aufbauen
+|*15 Min*
+
+a|
+=== Fechten mit Fechtaufgabe
+
+Die Hallenseite ist Angreifer.
+
+.Aufgabe
+* Angreifer soll einen Treffer setzen
+* Verteidiger soll eine komische Aktion machen, z.B.:
+** wild nach rechts und links hüpfen
+** mit der Waffe wedeln
+** kurz vor dem Treffen wegrennen
+** in die Hocke gehen
+** dauernd auf die gegnerische Waffe schlagen
+** mit der Waffe über dem Kopf stehen
+** auf einem Bein hüpfen
+* Danach tauschen, bis jeder fünfmal angegriffen hat
+
+Sobald das jeder gegen zwei andere gemacht hat, wird ab dann normal frei gefochten.
+|*20 Min*
+
+a|
+=== Parallel: Einzellektionen
+|*20 Min*
+
+a|
+=== Abbauen
+| 10 Min
+
+|===
