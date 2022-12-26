@@ -1,0 +1,140 @@
+= Trainingsplan Stoß-Oberschenkel
+:keywords: uebung
+:uebung-group: Trainingspläne
+
+ifndef::ownpage[]
+
+xref:page$practices/trainingsplanung/trainingsplaene/90min/2019-20_90-7a.adoc[Nur diese Übung]
+
+endif::[]
+
+
+Dauer: 90 min
+
+Materialien: Langbänke o.ä.
+
+[cols="8,.^1"]
+|===
+
+a|
+=== Aufwärmen
+|*15 min*
+
+a|
+==== Borg-Fangen
+Quelle:
+include::partial$gen/bibliography.adoc[tags=GIFI]
+, S. 49
+
+.Beschreibung:
+(Benannt nach der kybernetischen Bedrohung aus der Star Trek-Serie).
+
+Eine Spieler:in beginnt als der _Borg_ und ist mit einem weichen Ball bewaffnet. Sie versucht, die anderen Spieler:innen zu markieren (Mitglieder der „Föderation“) und assimilieren sie in das Borg-Team.
+
+Dieses Spiel ist ein Kombination aus Tag und Völkerball.
+
+.Regeln
+Eine Spieler:in wird als Borg ausgewählt und erhält einen Schaumball/Softball.
+
+Borgs dürfen nur 5 Schritte machen, während sie den Ball halten (kein Dribbeln usw.).
+
+Die Nicht-Borg tragen einen Fechthandschuh, eine Mütze oder ein anderes einfaches Kleidungsstück, das sie identifiziert.
+
+Die Borg werfen den Ball, um die Nicht-Borg-Spieler zu assimilieren. Diejenigen, die markiert assimiliert sind, legen ihren Handschuh ab und treten Sie dem Borg-Team bei.
+
+Die Gewinner:in ist die letzte verbleibende Nicht-Borg.
+|10 Min
+
+a|
+==== Trinken
+|5 Min
+
+a|
+=== Partner-Übung
+|*20 min*
+
+a|
+==== Direkter Stoß Oberschenkel
+Organisation: Gasse
+
+A - Lehrer, B - Schüler +
+Hinweis: Trainer kommunizieren nur mit A
+
+1. Aufstellung: weite Mensur, beide in 6
+2. A bewegt sich gleichmäßig rückwärts, mittleres Tempo
+3. B folgt, holt auf
+4. B: Linie auf Körper innen, mittig
+5. B: Ausfall, dabei Änderung des Ziels: Treffer Oberschenkel
+6. B: Absicherung HK-6
+7. Danach Wechsel, jeder 10x
+
+.Varianten (nach jeder Wiederholung)
+Körperhaltung, Handhaltung, Ausführungsgeschwindigkeit
+
+Dabei darauf achten, dass die Änderung des Ziels erst während des Ausfalls erfolgt
+
+Augenmerk auf Geschwindigkeit, Genauigkeit kommt später.
+|*10 min*
+
+
+a|
+==== Stoß Oberschenkel als Kavation
+
+* 1 bis 4 wie oben
+* A: 4-Schlagparade, Riposte Körper
+* B: Gegen Parade: Kavation unten, Stoß Oberschenkel
+* B: Absicherung HK-6
+* Danach Wechsel, jeder 10x
+
+.Varianten (nach jeder Wiederholung)
+Beschleunigung, Schrittweite, Schlagstärke
+|10 Min
+
+a|
+=== Trinken, Umziehen, Aufbauen
+|*15 Min*
+
+a|
+=== Elektrische Übungsgefechte
+|*35 Min*
+
+a|
+==== Fechten mit Fechtaufgabe
+H: Fechter Hallenseite, W: Fechter Wandseite
+* Aufgabe Wandseite: Treffen mit Parade, Riposte Körper
+* Aufgabe Hallenseite: Treffen direkt oder mit Fintangriffen (egal welche)
+|5x 2 Min
+
+a|==== freie Übungsgefechte|25 Min
+
+a|
+==== Parallel: Lektionieren
+
+Verteidigung gegen schnelle Bindungsangriffe +
+Ziel: Umgehungs-Gegenangriff
+
+.Durchführung
+* Schnelle Angriffe mit verschiedenen Bindungen durchführen, Schüler verteidigt
+* 4-Bindung → Kreis-6, Stoß Körper oben/außen mit Opposition 6
+* 6-Bindung → Kreis-4, Stoß Körper oben/innen mit Oppositon 4
+* 5-Bindung → Kavation nach oben, Arrêt zum inneren Schulterblatt
+* 8-Bindung → wie oben
+* 1-Bindung → Kreis-1, Arrêt zum inneren Schulterblatt
+
+.Für Profis:
+* Bindung 5/Übertragung-6 → Abstreif-Coupé
+* Wurfstoß Oberarm
+* Absicherung Arrêt Körper
+
+
+|35 Min
+
+a|
+=== Abbauen
+| 10 Min
+
+a|
+=== Dehnen
+| 5 Min
+
+|===

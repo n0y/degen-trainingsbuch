@@ -1,0 +1,75 @@
+= Trainingsplan: Schritte und Sprünge
+:keywords: uebung
+:uebung-group: Trainingspläne
+
+ifndef::ownpage[]
+
+xref:page$practices/trainingsplanung/trainingsplaene/90min/2019-20_90-5a.adoc[Nur diese Übung]
+
+endif::[]
+
+Dauer: 90min
+
+Material: Kreppband 30m
+
+[cols=".^8,.^1"]
+|===
+
+a|
+=== Aufwärmen
+|*15 min*
+
+a|
+==== Rollball
+
+* Zwei Mannschaften spielen gegeneinander auf umgekippte Bänke oder Kastenteile.
+* Der Ball wird mit der Hand gespielt und darf nur gerollt werden (Bodenkontakt).
+* Wer den Ball hat, darf sich nicht bewegen.
+* Es ist ein Abstand von einem Schritt zum Ballträger einzuhalten.
+* Ein Punkt ist erzielt, wenn der Ball das gegnerische Tor trifft.
+|10 min
+
+a|==== Trinkpause |5 min
+
+
+a|
+=== Beinarbeit
+
+Beinarbeit mit Tennisbällen
+|*15 min*
+
+a|
+==== Jeder einen Tennisball
+
+* Tennisball (selbst) hochwerfen, Schritt vor, fangen
+* Tennisball (selbst) hochwerfen, 2 Schritte vor, fangen
+* Rückwärts: Tennisball hochwerfen, Schritt zurück, fangen
+* Schritt vor; mit dem AUFSETZEN des HINTEREN Fußes den Ball werfen; mit Ausfall fangen
+|7 Min
+
+a|
+==== Zu Zweit
+
+* A steht mit Ball hinter B +
+  A wirf den Ball in hohem Bogen über B, sodass B ihn mit ein oder zwei Schritten fangen kann +
+  B: Schritte vor, fangen
+* A steht mit Ball B gegenüber (3 Schritte Abstand); +
+  A wirft den Ball IN HOHEM BOGEN so, dass er den Körper von B treffen würde; +
+  B: Schritte zurück und Ball fangen
+|7 min
+
+a|
+=== Trinken, Umziehen, Aufbauen
+|*15 min*
+
+a|
+=== Fechten mit Aufgabe
+* Fechten ohne Ausfall
+* Treffen nur mit Schritten und Sprüngen;
+* Ziel: Treffen mit Sprung vor + Linie
+|*30 min*
+
+a|=== Abbauen|10 min
+a|=== Dehnen|5 min
+
+|===
