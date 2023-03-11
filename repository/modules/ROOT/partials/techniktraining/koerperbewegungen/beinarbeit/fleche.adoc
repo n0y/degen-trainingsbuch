@@ -1,0 +1,35 @@
+= Fléche
+
+Die Fléche (auch: Sturzangriff) ist speziell im Degen-Fechten eine grundlegende Aktion, die häufig angewendet wird. Sie wird detailliert bepsw. in
+include::partial$gen/bibliography.adoc[tag=ErlFe]
+beschrieben.
+
+Charakterisierend ist, dass die Balance zugunsten einer höheren Beschleunigung aufgegeben wird. Damit lässt sich eine Fléche nicht abbrechen.
+
+Entscheidend für den Erfolg der Fléche ist die korrekte Wahl von Mensur und eigener Klingenlage. Bei der häufigsten erfolgreichen Ausführung wird der eigene Treffer gesetzt, bevor der hintere Fuß wieder den Boden berührt; und damit auch, bevor das Gleichgewicht wieder hergestellt wird.
+
+Ein oft genutztes Element ist es, beim Auslaufen nach der Fléche der Gegner:in nach rechts oder links auszuweichen und vorbeizulaufen. Damit steht der Gegner:in zwar ein (direkter) Nachstoß nach hinten zu. Weitere Treffermöglichkeiten bestehen aber nicht.
+
+
+Das Auslaufen führt bisweilen zum seitlichen Verlassen der Bahn, noch bevor der Gegner passiert wird. Technisch gesehen ist das zwar zu Bewerten als "Verlassen der Bahn, um einem Treffer zu entgehen". Dieser Verstoß wird aber in der Praxis nur äußerst selten sanktioniert und kann deswegen meistens genutzt werden.
+
+Es ist erlaubt, direkt vor dem eigenen Treffer die Bahn mit einem Fuß seitlich zu verlassen, solange danach ohne weitere Klingenaktion oder Lageänderung getroffen wird. Dadurch lassen sich sehr steile Winkel zur gegnerischen Trefffläche realisieren, speziell wenn der Fléche dabei mit einem Winkelstoß kombiniert wird.
+
+Wir schränken den zu trainierenden Lösungsbereich deswegen so ein:
+
+* Ausgangspunkt ist eine Fechtstellung im Rahmen der gültigen Parameter. Dabei sind Auftaktbewegungen explizit erlaubt.
+* Ziel ist es, mit der Spitze der eigenen Waffe einen definierten Punkt an der Gegner:in möglichst schnell zu treffen.
+* Dabei soll der Körper so weit nach vorne gelehnt werden, dass der Schwerpunkt sich vor dem vorderen Fuß befindet.
+* Der Treffer soll spätestens dann gesetzt werden, wenn der hintere Fuß erneut den Boden berührt.
+
+Alle anderen Parameter sollen über Variationen abgedeckt werden. Das betrifft zum Beispiel (aber nicht ausschließlich):
+
+* Die Richtung, in der das Gleichgewicht aufgegeben wird: direkt vorwärts, schräg nach vorne innen/außen, ...
+* Die Höhe und Länge des ausgeführten Sprungs
+* Das Ziel, zu dem die Fléche führt: Hand, Arm, Körper
+* Die eigene Klingenlage absolut (hohe, tiefe Linie, ...) und relativ zur gegnerischen Klinge
+* Bewegung der hinteren Schulter: konstant, weiter nach vorne oder nach hinten, ...
+
+Die Fléche kann z.B. in Partnerübung oder mit Weichbodenmatten trainiert werden. Wichtig ist es, die Angst vor dem Verlust des Gleichgewichts zu nehmen, indem diese Aktion als Teil des normalen Bewegungsrepertoirs etabliert wird.
+
+include::partial$techniktraining/koerperbewegungen/beinarbeit/fleche/uebung-fleche-mit-matten.adoc[leveloffset=+1]
