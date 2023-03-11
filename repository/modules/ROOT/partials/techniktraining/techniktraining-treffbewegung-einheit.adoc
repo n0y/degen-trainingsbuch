@@ -1,4 +1,13 @@
 = Trainingseinheit: Stossübungen
+:keywords: uebung
+:uebung-group: Techniktraining
+
+ifndef::ownpage[]
+
+xref:page$practices/techniktraining/techniktraining-treffbewegung-einheit.adoc[Nur diese Übung]
+
+endif::[]
+
 
 .Material (es geht auch immer etwas ähnliches)
 

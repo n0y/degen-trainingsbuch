@@ -1,0 +1,72 @@
+= Übung: Fléche auf Weichbodenmatten
+:keywords: uebung
+:uebung-group: Techniktraining
+
+ifndef::ownpage[]
+
+xref:page$practices/techniktraining/koerperbewegungen/beinarbeit/fleche/uebung-fleche-mit-matten.adoc[Nur diese Übung]
+
+endif::[]
+
+.Achtung
+Gruppengröße bei jüngeren (<12 Jahre) bis sechs Personen
+
+.Übungslänge
+10-15 Minuten
+
+.Material
+* Weichbodenmatte (hochkant als Stoßziel)
+* ausklappbare Sprossenwand oder Volleyball-Pfosten (oder ähnliches zur Fixierung der Matte)
+* Klebeband (oder ähnliches zu Markierung der Stoßziele und Abstände)
+
+.Aufbau
+
+* Weichbodenmatte hochkant aufstellen und an Pfosten lehnen und befestigen (Klebeband, Seil, ...). Die Athlet:innen müssen an der Matte vorbeilaufen können
+* mit Klebeband Stoßziele markieren: in Schulterhöhe, in Bauchhöhe und an der schmalen Seite in Schulterhöhe und Bauchhöhe
+* Linien auf dem Boden zur Orientierung anbringen (Klebeband): 1m, 2m, 3m, 4m
+
+Die Übungen werden immer einzeln durchgeführt. Anstehschlange (deswegen !
+
+== Durchführung
+
+1. Athlet:in stellt sich mit Linie auf, so dass die Spitze das Ziel berührt.
+2. Athlet:in geht vier Schritte zurück in Fechtstellung
+3. Athlet:in führt Auftaktbewegung aus: kleiner Schritt vor, kleiner Sprung vor
+4. Athlet:in beschleunigt aus dem hinteren Fuß, kippt über den vorderen Fuß und springt ab
+5. Athlet:in trifft und läuft rechts/links an der Matte vorbei
+
+.Variationen
+
+* Bei jedem Durchgang soll die Athlet:in selbst (mit Hilfe der Bodenmarkierungen) den Abstand für sich optimieren.
+
+Zusätzlich werden nach den ersten zwei Durchgängen zum Beispiel folgende Variationen hineingegeben (maximal zwei gleichzeitig)
+
+* Ziele ändern:
+** zwischen den Zielen abwechseln
+** zwei Ziele in einer Fléche treffen
+* Auftaktbewegung:
+** zwei Schritte
+** zwei Sprünge
+** aus dem Stand
+** mit Kreuzschritt
+* nach der Auftaktbewegung:
+** in die Hocke
+** Sprung im Stand
+** kleiner Sprung zurück
+** mit der Spitze den Boden berühren
+** einmal um sich selbst drehen
+* für den Fléche
+** direkt mit Linie
+** kurz den Arm anziehen
+** Ziel wechseln (oben/unten, unten/oben)
+** Sprungrichtung: gerade, schräg zur Seite
+** Sprunghöhe: hoch, flach
+* Auslaufbewegung:
+** hinteren Fuß möglichst früh/spät aufsetzen
+** hinteren Fuß direkt vor den vorderen oder in weitem Abstand setzen
+** knapp an der Matte vorbei laufen oder schräg von der Matte weg
+** beim Vorbeilaufen drehen, sodass die Waffe immer auf die Matte zeigt
+* Zusatzaufgaben
+** mit dem hinteren Arm kreisen: vorwärts/rückwärts
+** nach jedem Element eine Sekunde Pause machen
+** Gewicht möglichst weit nach vorne oder hinten
