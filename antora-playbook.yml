@@ -11,6 +11,7 @@ content:
     - url: .
       start_path: repository
       branches: HEAD
+      edit_url: 'https://github.com/n0y/degen-trainingsbuch/blob/{refname}/{path}'
 asciidoc:
   attributes:
     mathematical-format: svg
