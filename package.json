@@ -15,7 +15,7 @@
     "citation-js": "0.6.7",
     "npm-run-all": "4.1.5",
     "onchange": "7.1.0",
-    "rimraf": "4.4.0"
+    "rimraf": "4.4.1"
   },
   "scripts": {
     "build:clean": "rimraf build repository/modules/ROOT/pages/practices repository/modules/ROOT/partials/gen",
