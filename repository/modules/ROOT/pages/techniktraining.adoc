@@ -10,6 +10,3 @@ include::partial$techniktraining/techniktraining-treffbewegung.adoc[leveloffset=
 
 
 include::partial$techniktraining/lektionstraining/lektionstraining.adoc[leveloffset=+1]
-
-
-== Technische Partnerübungen
