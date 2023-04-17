@@ -2,6 +2,7 @@
 * xref:techniktraining.adoc[]
 * xref:agilitaetstraining.adoc[]
 * xref:motoriktraining.adoc[]
+* xref:taktiktraining.adoc[]
 * xref:trainingsplanung.adoc[]
 * xref:uebungen.adoc[]
 * xref:bibliography.adoc[]
