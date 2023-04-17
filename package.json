@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "description": "= Degen - Trainingsbuch",
   "main": "index.js",
-  "dependencies": {
-  },
   "devDependencies": {
     "@antora/cli": "3.1.3",
     "@antora/site-generator": "3.1.3",
@@ -12,6 +10,7 @@
     "@citation-js/plugin-pubmed": "0.3.0",
     "@djencks/asciidoctor-mathjax": "0.0.8",
     "citation-js": "0.6.7",
+    "cpy-cli": "^4.2.0",
     "npm-run-all": "4.1.5",
     "onchange": "7.1.0",
     "rimraf": "5.0.0"
@@ -22,6 +21,7 @@
     }
   },
   "scripts": {
+    "manual:update-ui-bundle": "cd src/antora-ui-bundle && npm install && npx gulp build && cd .. && rimraf ui-bundle && cpy . ../../ui-bundle --cwd=antora-ui-bundle/build",
     "build:clean": "rimraf build repository/modules/ROOT/pages/practices repository/modules/ROOT/partials/gen",
     "build:generate:generate-bibliography": "node src/convert-bibliography.js",
     "build:generate:copyProjectFiles": "node src/copy-project-files.js",
