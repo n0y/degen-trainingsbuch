@@ -21,6 +21,7 @@
     }
   },
   "scripts": {
+    "manual:pull-ui-bundle-changes": "git subtree pull --prefix src/antora-ui-bundle https://gitlab.com/antora/antora-ui-default.git master --squash",
     "manual:update-ui-bundle": "cd src/antora-ui-bundle && npm install && npx gulp build && cd .. && rimraf ui-bundle && cpy . ../../ui-bundle --cwd=antora-ui-bundle/build",
     "build:clean": "rimraf build repository/modules/ROOT/pages/practices repository/modules/ROOT/partials/gen",
     "build:generate:generate-bibliography": "node src/convert-bibliography.js",
