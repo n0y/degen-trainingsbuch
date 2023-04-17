@@ -106,3 +106,7 @@ Folgende Trainingspläne haben die Autoren angewendet. Sie sollen als Ideen-Quel
 * xref:practices/trainingsplanung/trainingsplaene/90min/2019-20_90-6a.adoc[]
 * xref:practices/trainingsplanung/trainingsplaene/90min/2019-20_90-7a.adoc[]
 * xref:practices/trainingsplanung/trainingsplaene/90min/2019-20_90-9a.adoc[]
+
+.Dauer: 120 Minuten
+
+* xref:practices/trainingsplanung/trainingsplaene/120min/2022_2023_120_5a.adoc[]

@@ -1,3 +1,7 @@
 == Taktiktraining
 
 NOTE: Hier fehlt noch Text. Schreibe ihn gerne. :-)
+
+=== Partnerübungen
+
+include::partial$taktiktraining/partneruebung/taktische-preparation-1.adoc[leveloffset=+3]
