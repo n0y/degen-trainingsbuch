@@ -3,5 +3,4 @@
 gen
 /build/
 /node_modules/
-/package-lock.json
 /repository/modules/ROOT/pages/practices/

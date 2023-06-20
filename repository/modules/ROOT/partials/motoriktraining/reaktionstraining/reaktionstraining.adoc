@@ -34,7 +34,7 @@ Die Reaktionszeit hängt direkt von der Anzahl der Wahlmöglichkeiten ab. Aus
 include::partial$gen/bibliography.adoc[tag=DKVPS]
 :
 
-include::diag-auswahlreaktion.adoc[]
+include::partial$motoriktraining/reaktionstraining/diag-auswahlreaktion.adoc[]
 
 Ein Reaktionstraining mit zwei Auswahlmöglichkeiten steht Aufgrund der kleinen erzielbaren Verbesserung in keinem guten Verhältnis zum Trainingsaufwand. Auf der anderen Seite sind Angriffe in der Regel innerhalb von 500-600ms abgeschlossen
 include::partial$gen/bibliography.adoc[tag=FLOFT]

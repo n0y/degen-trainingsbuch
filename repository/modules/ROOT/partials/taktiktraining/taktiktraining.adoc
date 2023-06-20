@@ -5,3 +5,7 @@ NOTE: Hier fehlt noch Text. Schreibe ihn gerne. :-)
 === Partnerübungen
 
 include::partial$taktiktraining/partneruebung/taktische-preparation-1.adoc[leveloffset=+3]
+
+=== Wettkampfformen
+
+include::partial$taktiktraining/wettkampfformen/runde-mit-aufgaben.adoc[leveloffset=+3]

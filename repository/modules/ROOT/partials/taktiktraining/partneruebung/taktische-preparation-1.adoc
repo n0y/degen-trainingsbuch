@@ -9,7 +9,7 @@ xref:page$practices/taktiktraining/partneruebung/taktische-preparation-1.adoc[Nu
 endif::[]
 
 .Ziel
-Entwicklen taktische Preparation in der Klingenarbeit
+Entwicklen der taktischen Preparation in der Klingenarbeit
 
 .Aufstellung
 Partnerübung; Gasse; A und B stehen sich gegenüber
