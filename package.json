@@ -18,7 +18,7 @@
   },
   "overrides": {
     "vinyl-fs": {
-      "glob-stream": "~7.0"
+      "glob-stream": "~8.0.0"
     }
   },
   "scripts": {
