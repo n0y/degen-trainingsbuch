@@ -98,9 +98,9 @@ a|* Übung nach konditioneller Vorbelastung
 * gleichzeitiges Lösen einer Kopfrechenaufgabe
 |====
 
-include::motoriktraining-koordinationstraining-bsp1.adoc[leveloffset=+2]
+include::partial$motoriktraining/koordinationstraining/motoriktraining-koordinationstraining-bsp1.adoc[leveloffset=+2]
 
-include::motoriktraining-koordinationstraining-bsp2.adoc[leveloffset=+2]
+include::partial$motoriktraining/koordinationstraining/motoriktraining-koordinationstraining-bsp2.adoc[leveloffset=+2]
 
 == Neuroathletik-Training
 

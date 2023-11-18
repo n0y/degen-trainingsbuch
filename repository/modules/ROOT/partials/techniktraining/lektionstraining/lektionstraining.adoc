@@ -53,17 +53,17 @@ Wir versuchen, bei einer Lektion mehrere Elemente zu trainieren. Ein Element sol
 
 == Lektionselemente zum Angriff
 
-include::uebungen/technisch/angriff-direkt-beobachtung.adoc[leveloffset=+2]
+include::partial$techniktraining/lektionstraining/uebungen/technisch/angriff-direkt-beobachtung.adoc[leveloffset=+2]
 
-include::uebungen/technisch/angriff-kavation-als-reaktion.adoc[leveloffset=+2]
+include::partial$techniktraining/lektionstraining/uebungen/technisch/angriff-kavation-als-reaktion.adoc[leveloffset=+2]
 
 == Lektionselemente zum Gegenangriff
 
-include::uebungen/technisch/gegenangriff-meidbewegung.adoc[leveloffset=+2]
+include::partial$techniktraining/lektionstraining/uebungen/technisch/gegenangriff-meidbewegung.adoc[leveloffset=+2]
 
 == Lektionselemente zur Parade/ Riposte
 
-include::uebungen/technisch/parade-tief-wurfstoss.adoc[leveloffset=+2]
+include::partial$techniktraining/lektionstraining/uebungen/technisch/parade-tief-wurfstoss.adoc[leveloffset=+2]
 
 == Lektionselemente zur Beschäftigung
 

@@ -1,5 +1,7 @@
 = Stoß- und Treffbewegungen
 
+
+
 Die maßgeblichen Einflussfaktoren, die über erfolgreiches Treffen gewünschter Zielregionen entscheiden, sind bislang größtenteils unerforscht. Es gibt nur wenige durch Studien gesicherte Ergebnisse.
 
 Beispielsweise ist bekannt, dass die Technik für Würfe nicht mit denen der Handführung bei Treffbewegungen im Fechten korrelieren
@@ -26,4 +28,4 @@ Um wechselnde Ziele vorzugeben, können diese vorgeplant werden. Alternativ werd
 
 Klingenaktionen können ebenfalls geübt werden, indem in Kleingruppen Gegner neben das Ziel postiert werden. Ein Stoßtraining mit Person als Ziel hat sich dagegen nicht bewährt, da die Abneigung, ggf. schmerzhaft zu treffen oder getroffen zu werden, kaum konzentriertes Training ermöglicht.
 
-include::techniktraining-treffbewegung-einheit.adoc[leveloffset=+1]
+include::partial$techniktraining/techniktraining-treffbewegung-einheit.adoc[leveloffset=+1]

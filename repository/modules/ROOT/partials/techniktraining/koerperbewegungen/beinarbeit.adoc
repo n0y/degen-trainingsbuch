@@ -1,6 +1,6 @@
 = Beinarbeit
 
-Klassische Beinarbeit „auf Ansage“ und ohne Variantenvorgaben, gezielt auf die Einhaltung einer Zieltechnik, erzielt schon nach kürzester Zeit keinen technischen Lerneffekt mehr und sollte höchstens untergeordnet eingesetzt werden
+Klassische Beinarbeit „auf Ansage“ und ohne Vorgabe von Varianten, gezielt auf die Einhaltung einer Zieltechnik, erzielt schon nach kürzester Zeit keinen technischen Lerneffekt mehr und sollte höchstens untergeordnet eingesetzt werden
 include::partial$gen/bibliography.adoc[tag=ErlFe]
 , bspw. als Aufwärm- oder Stärkungsübung.
 
@@ -19,7 +19,9 @@ Durchgeführte Übungen müssen darauf fokussieren, auch bei den für die Beinar
 
 Zur Selbstüberprüfung der eigenen Technik sollen den Lernenden gelegentlich spielerische Wettkampf-Formen angeboten werden. Diese sollen auf externe Qualitäten (Geschwindigkeit, erzielte Präzision beim Erreichen einer Position, Treffgenauigkeit aus der Bewegung, …) statt auf interne Qualitäten („schöne Bewegungsausführung“, „tiefe Position“, …).
 
-== Einfache Schritte und Sprünge
+== Grundlegende Bewegungen
+
+include::partial$techniktraining/koerperbewegungen/beinarbeit/fechtstellung.adoc[leveloffset=+1]
 
 include::partial$techniktraining/koerperbewegungen/beinarbeit/ausfall.adoc[leveloffset=+1]
 include::partial$techniktraining/koerperbewegungen/beinarbeit/fleche.adoc[leveloffset=+1]
