@@ -1,6 +1,6 @@
-/.idea/
-/public/
+.idea
+public
 gen
-/build/
-/node_modules/
-/repository/modules/ROOT/pages/practices/
+build
+node_modules
+repository/modules/ROOT/pages/practices

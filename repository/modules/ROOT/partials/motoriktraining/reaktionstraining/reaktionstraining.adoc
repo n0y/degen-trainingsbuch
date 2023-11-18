@@ -22,7 +22,7 @@ include::partial$gen/bibliography.adoc[tag=TBCRTL]
 in zwei Arten auf:
 
 * als *Einfachreaktion* (_Simple Reaction_), bei der nur ein möglicher Reiz auftreten kann, der mit genau einer Reaktion zu beantworten ist.
-* als *Auswahlreaktion* (_Choice Reaction_), bei der es mehrere mögliche Reize gibt, die potentiell alle eine unterschiedliche Reaktion erfordern.
+* als *Auswahlreaktion* (_Choice Reaction_), bei der es mehrere mögliche Reize gibt, die potenziell alle eine unterschiedliche Reaktion erfordern.
 
 Die _Einfachreaktion_ ist durch Genetik, Körperaufbau und Anthropometrie vorgegeben und kann nicht signifikant verbessert werden
 include::partial$gen/bibliography.adoc[tag=BAPESRT]
@@ -36,7 +36,7 @@ include::partial$gen/bibliography.adoc[tag=DKVPS]
 
 include::partial$motoriktraining/reaktionstraining/diag-auswahlreaktion.adoc[]
 
-Ein Reaktionstraining mit zwei Auswahlmöglichkeiten steht Aufgrund der kleinen erzielbaren Verbesserung in keinem guten Verhältnis zum Trainingsaufwand. Auf der anderen Seite sind Angriffe in der Regel innerhalb von 500-600ms abgeschlossen
+Ein Reaktionstraining mit zwei Auswahlmöglichkeiten steht aufgrund der kleinen erzielbaren Verbesserung in keinem guten Verhältnis zum Trainingsaufwand. Auf der anderen Seite sind Angriffe in der Regel innerhalb von 500-600ms abgeschlossen
 include::partial$gen/bibliography.adoc[tag=FLOFT]
 , was die Zahl der möglichen Reaktionen auf vier bis fünf begrenzt.
 
@@ -46,12 +46,12 @@ Das Training von Auswahlreaktionen trainiert die _zentralen Vorgänge_ und ist d
 
 == Beispiel: Training 3er-Auswahlreaktion
 
-.Organisationform
+.Organisationsform
 Partnerübung; Aufstellung in Gassenform
 
 .Durchführung
 * A bewegt sich frei (Schritte, Sprünge) in Sixt, B folgt in mittlerer Mensur
-* Nach belieben (etwa 5 bis 15 Sekunden) führt B einen direkten Angriff durch, auf den A reagiert:
+* Nach Belieben (etwa 5 bis 15 Sekunden) führt B einen direkten Angriff durch, auf den A reagiert:
 ** Zur Hand: A zieht sich mit zwei schnellen Schritten zurück
 ** Zum Fuß oder zum Oberschenkel: A reagiert mit Arrêt/ Stoß zur Brust
 ** Zum Körper: A reagiert mit Quart-Parade/ Gleitstoß Brust

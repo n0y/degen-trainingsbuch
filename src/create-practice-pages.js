@@ -56,7 +56,7 @@ function writeIndex(groups = new Map()) {
         text.push(`\n== ${group}\n`);
         for (const {file, title} of groups.get(group)) {
             const relFile = relative(destDirectory, file);
-            text.push(`xref:${pagePrefix}/${relFile}[${title}]\n`);
+            text.push(`xref:${pagePrefix}/${relFile.split(path.sep).join("/")}[${title}]\n`);
         }
     }
     fs.writeFileSync(resolve(destDirectory, 'gen-practices.adoc'), text.join('\n'));
@@ -75,7 +75,7 @@ function writeIndex(groups = new Map()) {
             const dst = resolve(destDirectory, src);
             ensureDirExists(path.dirname(dst));
             console.log(`To ${dst}`);
-            fs.writeFileSync(dst, `:ownpage:\ninclude::partial$${src}[]\n`);
+            fs.writeFileSync(dst, `:ownpage:\ninclude::partial$${src.split(path.sep).join("/")}[]\n`);
             if (!groups.has(group)) {
                 groups.set(group, []);
             }
