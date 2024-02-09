@@ -18,3 +18,5 @@ Der zu trainierende Lösungsbereich könnte so eingeschränkt werden:
 Alle anderen Parameter sollen Teil der zu trainierenden Variationen sein. Das betrifft insbesondere, aber nicht ausschließlich: die Reihenfolge der Arm- und Beinbewegung; die Beschleunigung/Verzögerung bei der Ausführung; die Fußstellung vor, während und nach der Ausführung; die Arm- und Handlage während der Ausführung. Dabei ist besonders bei der Vorgabe der Fußstellung darauf zu achten, dass Verletzungs-treibende Vorgaben unterbleiben (bspw. darf das Knie nicht nach innen fallen).
 
 Der Ausfall kann auch mit Partnerübung trainiert werden. Dort ist auch die Reaktion auf gegnerische Störungen während des Ausfalls trainierbar.
+
+Details zur Koordination zwischen Arm und Bein beim Ausfall sind unter "Stoß- und Treffbewegung" zu finden.

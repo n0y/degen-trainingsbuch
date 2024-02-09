@@ -1,7 +1,5 @@
 = Stoß- und Treffbewegungen
 
-
-
 Die maßgeblichen Einflussfaktoren, die über erfolgreiches Treffen gewünschter Zielregionen entscheiden, sind bislang größtenteils unerforscht. Es gibt nur wenige durch Studien gesicherte Ergebnisse.
 
 Beispielsweise ist bekannt, dass die Technik für Würfe nicht mit denen der Handführung bei Treffbewegungen im Fechten korrelieren
@@ -11,6 +9,28 @@ include::partial$gen/bibliography.adoc[tag=FLOFT]
 ) ausreicht, um das Ziel zu erfolgreich zu ändern (200ms, aus
 include::partial$gen/bibliography.adoc[tag=ACOAEF]
 ).
+
+== Zur Regel "Arm vor Bein"
+
+Mit der Regel "Arm vor Bein" wird ausgedrückt, dass bei kombinierten Treffbewegungen, die Armstreckung und Körperbewegung beinhalten, zunächst die Armstreckung erfolgt, bevor die Beinbewegung begonnen wird
+include::partial$gen/bibliography.adoc[tag=GTHOF]
+. In der abgeschwächten Form wird die Beinbewegung schon kurz vor Abschluss der Armbewegung begonnen
+include::partial$gen/bibliography.adoc[tag=AKonDFB]
+.
+
+Eine Auswertung aller offensiven Treffer der Finalrunde des Weltcups in Doha 2024 ergab, dass kein einziger Angriff, der Arm- und Beinbewegung beinhaltete, auf diese Weise durchgeführt wurde. Angriffe erforderten entweder nur eine Armbewegung oder sie wurden mit dem Bein eingeleitet.
+
+Kein Angriff, der nur eine Armstreckung benötigte, wurde danach direkt fortgesetzt, sondern stets der Arm zurückgezogen.
+
+Die notwendigen 500-600ms, die für einen Angriff mit Ausfall oder Fléche notwendig sind, sind ausreichend für gleich mehrere Fechtaktionen. Deswegen ist es wichtig, den Waffenarm so lange wie möglich vor Gegenangriffen zu schützen und die Manövrierfähigkeit möglichst lange aufrechtzuerhalten. Beides benötigt einen mindestens halb angewinkelten Arm, wie in
+include::partial$gen/bibliography.adoc[tag=ErlFe]
+(zur Fechtstellung) erläutert.
+
+Es ist angeraten, erst im Moment des Auftreffens der Spitze die maximale Armstreckung zu erreichen. Da der einfache Ausfall etwa 500ms benötigt, die explosive Armstreckung dagegen weniger als 100ms
+include::partial$gen/bibliography.adoc[tag=AREKinSP]
+, sollte der Arm erst während der Angriffsbewegung gestreckt werden.
+
+== Training der Stoß- und Treffbewegung
 
 Die reine Stoß- und Treffbewegung lässt sich durch variable Stoßübungen trainieren. Gerade dabei ist die Variabilität einer der wichtigsten Faktoren, denn Treffbewegungen müssen aus unterschiedlichsten Situationen und Körper-/Handhaltungen sicher und schnell erfolgen können.
 
