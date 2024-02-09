@@ -23,6 +23,9 @@ Die wichtigsten Anpassungen, die bei vielen Fechtern im höheren Leistungsbereic
 * Der vordere Fuß wird nach vorne verschoben. Der dadurch entstehende Winkel zwischen Bein und Boden verbessert die Möglichkeit zur Bschleunigung nach hinten.
 * Der hintere Arm wird normalerweise neben dem Körper geführt und für die Kompensation von Rotationsbewegungen des Oberkörpers aktiv genutzt.
 * Die hintere Schulter wird oft weiter nach vorne geführt. Dadurch wird bereits im Stand eine höhere Hüftbeweglichkeit gefördert. Bei Angriffen kann die Schulter schnell beim Arrêt aus der Linie gedreht werden.
+* Der vordere Arm wird stärker angewinkelt, oft in einem Winkel von 90°. Da die explosive Armstreckung in unter 100ms erfolgt
+include::partial$gen/bibliography.adoc[tag=AREKinSP]
+  und die Muskulatur in stärkerer Expansion höhere Kräfte erreicht, kommt auch aus dieser Position ein Treffer nahezu gleichzeitig auf. Es lässt sich dadurch ohne Nachteile eine höhere Manövrierfähigkeit erreichen und die Hand ist vor Angriffen besser geschützt.
 * Mit der Wahl einer solchen Fechtstellung erfolgt meistens auch eine Umstellung der Beinarbeit. Die Gewichtsverteilung erlaubt keine einfachen Schritte mehr. Entweder wird die Fechtstellung für einfache Schritte aufgegeben (für Situationen ohne Druck in überweiter Mensur) oder es werden ausschließlich Sprünge durchgeführt, die dann meistens aus den Fußgelenken erfolgen.
 
 Es ist anzumerken, dass die genaue Fechtstellung sehr stark von der anwendenden Fechter:in abhängt und ein großer Varianzbereich sichtbar ist. In jedem Leistungsbereich sollen regelmäßig Varianten angeboten werden, um die Variabilität zu erhöhen und individuelle Lösungen zu fördern.
