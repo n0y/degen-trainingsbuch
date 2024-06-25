@@ -6,7 +6,7 @@
   "dependencies": {
   },
   "devDependencies": {
-    "@antora/cli": "3.1.7",
+    "@antora/cli": "3.1.8",
     "@antora/site-generator": "3.1.7",
     "@citation-js/plugin-isbn": "0.4.0",
     "@citation-js/plugin-pubmed": "0.3.0",
