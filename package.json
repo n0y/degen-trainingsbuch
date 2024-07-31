@@ -14,7 +14,7 @@
     "citation-js": "0.7.14",
     "npm-run-all2": "6.2.2",
     "onchange": "7.1.0",
-    "rimraf": "5.0.10"
+    "rimraf": "6.0.1"
   },
   "overrides": {
     "vinyl-fs": {
