@@ -11,7 +11,7 @@
     "@citation-js/plugin-isbn": "0.4.0",
     "@citation-js/plugin-pubmed": "0.3.0",
     "@djencks/asciidoctor-mathjax": "0.0.9",
-    "citation-js": "0.7.18",
+    "citation-js": "0.7.19",
     "npm-run-all2": "7.0.2",
     "onchange": "7.1.0",
     "rimraf": "6.0.1"
