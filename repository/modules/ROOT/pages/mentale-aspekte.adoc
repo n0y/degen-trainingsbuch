@@ -1,0 +1,402 @@
+= Mentale Aspekte im Fechtsport
+:description: Effizientes Training der grundlegenden motorischen Fähigkeiten für das Degen-Fechten.
+:keywords: Fechten,Degen-Fechten,Training,Kampfsport,Ausdauer,Schnelligkeit,Maximalkraft,Koordination,Beweglichkeit
+
+Mentale Aspekte spielen im Fechten eine große Rolle. Ansprache und Kommunikation bestimmt einen großen Teil des Trainings- und Wettkampferfolgt.
+
+NOTE: Das Kapitel ist noch ziemlich roh und unvollständig. Hilfe ist erwünscht.
+
+== Kommunikation von und mit AthletInnen
+
+Die Kommunikation zwischen Coaches und AthletIn spielt bei vielen Aspekten eine zentrale Rolle. Sie entscheidet mit über die Anwendbarkeit von Trainingsmitteln und deren Effizienz, über Selbstbild und Handlungsfähigkeit in Training und Wettkampf, und über Motivation und Leistungswillen generell.
+
+Sie wird maßgeblich von Trainerseite gestaltet und muss zielgerichtet und förderlich erfolgen.
+
+=== Grundlagen und Wirkungsweise
+
+NOTE: Ab hier müssen die Quellen noch verlinkt werden
+
+Sprache dient nicht nur der Kommunikation, sondern auch der Strukturierung von Erfahrung und hier speziell der Bewegungserfahrung. AthetInnen kodieren und erinnern Bewegungsaufgaben häufig sprachlich unterstützt ("Locker aus dem Fußgelenk springen"). Diese sprachlich codierten Einheiten sind Teil des motorischen Skripts, ähnlich wie bei Chunks in der Kognitionspsychologie. Die Art und Weise, wie Bewegungen beschrieben oder im mentalen Lexikon repräsentiert sind, beeinflusst, wie leicht sie vorgestellt, erinnert oder variiert werden können.
+
+Die Embodied Cognition-Forschung zeigt: Sprache und Bewegung sind eng verknüpft im Gehirn. Wenn du ein Wort wie „greifen“ hörst, wird auch der motorische Kortex teilaktiviert. Das bedeutet: Wenn ein Athlet die Worte „schnell abdrücken“ hört, kann das direkt eine sensorisch-motorische Vorstellung anregen. Studien zeigen, dass sprachliche Metaphern („Feder in den Beinen“) Bewegungslernen effektiv unterstützen können – wenn sie an bekannte Schemata im mentalen Lexikon andocken.
+
+Durch Sprache baut die AthletIn ihr mentales Lexikon auf: Es bezeichnet die mentale Repräsentation von Wörtern und ihrer Bedeutungen, Formen, grammatikalischen Eigenschaften und Beziehungen untereinander im Gehirn. Es ist kein "Wörterbuch" im klassischen Sinne, sondern ein dynamisch vernetztes System, das durch Gebrauch ständig verändert und erweitert wird. Beim Denken, Hören, Sehen und Bewegen wird ein Teil des Netzwerks aktiviert, und relevante Knoten („Wörter“) können mitaktiviert werden – das nennt man Spreading Activation.
+
+Das mentale Lexikon hat wesentlichen Einfluss auf die Bewertung ("machbar", "erstrebenswert", ...) und Durchführung einer Bewegungsaufgabe durch:
+
+* Assoziationen: Wenn z. B. „Strecksprung“ im Lexikon mit „Angst“, „Fehlversuch“, „Lehrer“ oder „Schwierigkeit“ verknüpft ist, sinkt die Bereitschaft zur Ausführung. Negative semantische Nachbarschaft bremst also Motivation und Handlung.
+* Konnotationen & Emotionen: Das mentale Lexikon enthält nicht nur neutrale Bedeutungen, sondern auch emotionale Bewertungen. Diese wirken unbewusst auf Entscheidungsprozesse.
+* Kognitive Leichtigkeit: Wenn eine Anweisung sprachlich bekannt, gut strukturiert und gut vernetzt ist, wird sie als einfacher und angenehmer empfunden. Das ist der Fluency-Effekt.
+
+Zusätzlich kann Sprache kompensierend und strukturierend wirken. Bekannt sind vor allem die Effekte der Metaphern und der Rhythmisierung. Aber auch das Chunking und die Nutzung von Begriffen als Anker für komplexe Bewegungsmuster spielt eine Rolle.
+
+=== Modell der Sprach- und Repräsentationsgestützten Bewegungsaquisition (SRBA-Modell)
+
+.Ausgangslage
+
+. Mentales Lexikon enthält
+.. Begriffe, Beschreibungen, Metaphern ("kraftvoller Abdruck", "Federung")
+.. Emotionale und soziale Bewertungen (z. B. „peinlich“, „cool“, „gefährlich“)
+.. Kontextuelle Kopplungen (z. B. „Wettkampf“, „Fehler“, „Erfolg“)
+. Bewegungsrepräsentationen:
+.. Motorischen Schemata (z. B. Absprungmuster, Gleichgewichtsstrategien)
+.. Körpergefühl und -bewusstsein
+.. Erinnerung an vergangene Erfahrungen (Vorerfahrungen)
+. Einflussfaktoren, die Einfluss auf diesen Zustand hatten:
+.. Individuelle Vorerfahrung
+.. Soziale Zuschreibungen (z. B. Lehrer-Kommentare wie „kein Bewegungstalent“)
+.. Sprache Dritter (Metaphern, Labels wie „Fail“, „Athlet“, „unsportlich“)
+.. Emotionale Marker (z. B. frühere Scham, Stolz, Angst, Gruppendruck)
+
+.Präsentation der Bewegungsaufgabe
+
+. Formen der Präsentation
+.. Sprache (Instruktionen, Metaphern, Verben, Analogien)
+.. Demonstration
+.. Visualisierung (Videos, Bilder)
+.. Kontextualisierung (Warum ist die Übung sinnvoll?)
+. Wechselwirkungen / neue Informationen stoßen auf vorhandene Strukturen
+.. Verankerung gelingt, wenn sprachliche Begriffe an bestehende Knoten andocken können.
+.. Verwirrung/Abwehr entsteht, wenn die Aufgabe unvereinbar mit bestehenden Schemata ist oder negativ konnotierte Begriffe enthält.
+
+.Erste Reaktion auf die Präsentation / Mentale Veränderung ohne Bewegung
+
+. Aufbau oder Modifikation semantischer Knoten:
+.. Z. B. das Wort „Strecksprung“ wird idealerweise von „unangenehm“ zu „kraftvoll“ umgedeutet.
+. Neue Bewegungsrepräsentation entsteht durch Vorstellung.
+. Aufbau mentaler Prototypen („So sieht das aus / fühlt sich an“).
+
+.Durchführung der Bewegung
+
+.Motorische Umsetzung
+.. Aktivierung vorhandener motorischer Schemata + Versuch der Anpassung.
+.. Feedbacksysteme (visuell, propriozeptiv, auditiv)
+. Bewertung (idealerweise intern, teilweise extern)
+.. Subjektives Gefühl: gelungen/misslungen, peinlich/stolz
+.. Soziale Rückmeldung: Lob, Kritik, Bewertung durch Peers oder Coaches
+
+.Veränderung durch Durchführung
+
+. Mentales Lexikon
+.. Neue Verknüpfungen (z. B. „Absprung“ = „leicht“ statt „kompliziert“)
+.. Umdeutung von Begriffen (z. B. „Rotation“ wird entängstigt)
+.. Neue sprachliche Etikettierungen (z. B. „funktioniert“, „mein Ding“, „ein Flow-Moment“)
+. Bewegungsrepräsentationen
+.. Verfeinerung: Bewegung wird klarer und differenzierter gespeichert
+.. Aufbau von Prozedurwissen (z. B. Gefühl für Timing, Kraftdosierung)
+.. Integration in bestehende motorische Muster (Transfer)
+
+
+**Miserfolge bei der Durchführung sind notwendiger Teil des Lernprozesses:**
+
+Damit Misserfolg und Fehler für positive Veränderungen sorgen können, sind verschiedene Bedingungen notwendig oder hilfreich, damit das mentale Modell positiv beeinflusst wird. Auf einer mentalen Ebene sind dies:
+
+* *Positive Sprachrahmung*: „Das war ein wertvoller Versuch“, „Interessanter Lösungsansatz“ → verhindert negative Kodierung
+* *Selbstwirksamkeitsfokus*: Betonung von Lernfortschritt statt Zielerreichung
+* *Erlaubnis zum Explorieren*: Scheitern wird als Spielraum erlebt, nicht als Versagen
+* *Explizite Reflexion / Nachfragen*: „Was hast du gespürt? Was war neu?“ stärkt semantische Tiefe
+* *Verfügbare Anker im Lexikon*: Wenn schon ähnliche Bewegungen oder Begriffe bekannt sind, kann die Bewegung trotz Fehler verstanden und eingebettet werden.
+
+NOTE: Eine Abbildung hier wäre hilfreich
+
+== Umgang mit destruktivem Feedback
+
+Gerade in Kampfsportarten sehen sich AthletInnen häufig destruktivem Feedback ausgesetzt. Als solches bezeichnen wir Rückmeldungen, die negativ und stark emotionalisiert sind.
+
+Die Quelle sind auf der einen Seite die Rückmeldungen von Trainern, die sich der destruktiven Wirkung nicht bewusst sind (z.B. auch, weil ein solches bis in die 1980er Jahre als leistungsförderlich angesehen wurde). Sie nutzen z.B. Herabwürdigungen ("Du machst das seit fünf Jahren, aber Du hast gar keine Ahnung davon") oder sogar starke Bilder ("Du hüpfst herum wie ein verrücktes Huhn").
+
+Die zweite Quelle sind Äußerungen von Gegnern, die das Mittel vor einer Begegnung bewusst einsetzen, um Verunsicherung und Zweifel hervorzurufen.
+
+=== Auswirkungen destruktiven Feedbacks
+
+Destruktives Feedback wirkt sich über mehrere Wege negativ auf bestehende Fertigkeiten und auf die Fähigkeit aus, effizient neue Fertigkeiten zu erlernen:
+
+.Wirkung auf das mentale Lexikon
+
+. *Neue negative Verknüpfungen*: +
+  Begriffe wie „Sprung“, „Technik“, „Bewegung“, „Training“ werden neu negativ konnotiert. z. B. erhält „Ausweichen“ eine Assoziation mit „Versagen“, „Bloßstellung“, „Nicht können“.
+. *Starke emotionale Marker*: +
+  Sprache wie „verrücktes Huhn“ wird emotional aufgeladen gespeichert.
+  Solche Begriffe können zu Triggerwörtern werden, die das ganze System in einen Zustand von Scham, Angst oder Rückzug versetzen.
+. *Schwächung positiver Knoten*: +
+  Bisher positiv bewertete Konzepte (z. B. „Entwicklung“, „Üben lohnt sich“) werden überschrieben oder verdrängt.
+
+.Wirkung auf Bewegungsrepräsentationen (Schicht: Körpererfahrung, motorische Schemata)
+
+. *Störung des Bewegungsgefühls*:
+  Negative Bewertung erzeugt Selbstzweifel: Die AthletIn zweifelt an der eigenen Wahrnehmung („Ich dachte, das fühlte sich gut an – offenbar war es schlecht“).
+  Dies schwächt die Kohärenz motorischer Repräsentationen.
+. *Fragmentierung*:
+  Statt sich auf Prozesse (Timing, Kraft, Rhythmus) zu konzentrieren, achtet der Athlet plötzlich auf Außenwirkung. Bewegungen werden dadurch unökonomisch, instabil und entfremdet vom Körperschema.
+
+.Wirkung auf Umsetzung neuer Bewegungsaufgaben
+
+. *Reduzierte Offenheit*:
+.. Neues wird als potenzielle Gefahr interpretiert („Wieder bloßgestellt werden?“)
+.. Exploration wird vermieden – wichtiger Bestandteil des motorischen Lernens blockiert.
+. *Engführung kognitiver Ressourcen*: +
+  Aufmerksamkeit verengt sich auf „Wie wirke ich?“ statt auf „Wie fühlt sich das an?“. Dadurch stehen weniger Ressourcen für implizites Lernen und motorische Anpassung zur Verfügung
+. *Verringertes Selbstwirksamkeitsempfinden*:
+.. Der zentrale Glaube: „Ich kann mich entwickeln“ wird untergraben.
+.. Neue Aufgaben werden eher mit Vermeidungsverhalten oder vorgeblich ironischer Distanz (Selbstschutz) begegnet.
+
+Negatives, bewertendes Feedback wirkt tief in das mentale Lexikon ein und kann langfristig Bewegungskompetenz lähmen, Bewegungsschemata destabilisieren und
+die Fähigkeit zu kreativem, explorativem Lernen einschränken.
+
+=== Destruktive Kritik zur Überwindung lokaler Minima und motorischer Stabilitätsschwellen
+
+Früher ging man davon aus, dass destruktives Feedback eine geeignete Strategie wäre, lokale Optima (wo kleine Änderungen die Leistung verschlechtern, obwohl es bessere Gesamtzustände gibt) zu verlassen und motorische Stabilitätsschwellen zu überwinden.
+
+Zwar kann Störung tatsächlich nötig sein, um ein System aufzubrechen, allerdings bringt destruktives Feedback zu viel emotionale Verunsicherungen mit sich (Scham, Bloßstellung), die hemmend wirkt.
+
+Erprobte Strategien an dieser Stelle sind stattdessen unter anderem:
+
+* Stören der Bewegung durch neue Kontexte („Mach die Bewegung mit geschlossenen Augen.“, „Stell dir vor, du bewegst dich unter Wasser.“)
+* Verfremdungstechniken (Bewegung verlangsamen/beschleunigen, auf ungewohntem Untergrund oder mit anderem Rhythmus ausführen)
+* Neue Metaphern (Statt „explosiv“ vielleicht „wie ein Ballon platzen“)
+* gezielte semantische Neuanreicherung ("Was wäre das Gegenteil von deiner Bewegung?")
+* Temporäre Regression mit Übertreibung ("Mach’s absichtlich viel zu schnell / zu weich / zu stark – fühl die Extreme").
+
+=== Gegenmaßnahmen
+
+Selbstverständlich ist destruktives Feedback generell zu verhindern. Die Erfahrung zeigt aber, dass es trotzdem immer wieder stattfindet, sei es, weil eine TrainerIn unwillkürlich und spontan selbst falsch handelt (und es im Optimalfall direkt selbst bemerkt), oder auch, weil es z.B. bei Lehrgängen, Camps oder auf Turnieren Kontakt mit ungeschulten TrainerInnen gibt, die destruktive Kritik fälschlich als Trainingsmittel einsetzen.
+
+Um negative Effekte abzupuffern, sind eine Reihe von Maßnahmen wirkungsvoll. Sie können sowohl im Vorfeld erlernt werden (Ausbildung von Resilienz), als auch im Nachhinein (Intervention) angewendet werden. Insbesondere wirksam sind:
+
+* *Reframing*: Die negativ belegten Begriffe müssen aktiv durch neue semantische Knoten ersetzt oder entwertet werden. +
+  z. B.: „Was als ‘verrücktes Huhn’ bezeichnet wurde, war vielleicht eine interessante Eigenlösung.“
+* *Vertrauensvolle soziale Kontexte*: Ein sicherer Raum mit unterstützender Sprache („Ich sehe, dass du dran bist“, „Schau mal, was sich verbessert hat“) kann beschädigte Knoten überlagern.
+* *Metaphorische Arbeit*: Neue positive Metaphern helfen beim Umbau des mentalen Lexikons: „Wie eine Katze landen“ statt „nicht wie ein Huhn zappeln“.
+* *Selbstreflexion fördern*: Durch Fragen wie „Was hast du gespürt?“, „Was hättest du anders gemacht?“ wird die Verbindung zum eigenen Körperschema gestärkt und ein  Gegengewicht zur äußeren Entwertung geschaffen.
+
+==== Sofort-Intervention (falls es doch mal passiert ist)
+
+Ziele:
+
+* Negatives Feedback + Emotion ≠ Realität
+* → Entkoppeln + Embodiment + neue semantische Knoten + Wiederholung
+
+.Phase 1: Nicht internalisieren lassen
+
+Direkt nach einer versehentlichen destruktiven Kritik ist es wichtig, den negativen Satz nicht internalisieren zu lassen.
+
+Ansprache (ruhig, klar, direkt):
+
+[quote,]
+____
+Lass uns das kurz löschen – das war ein schlechter Kommentar, aber du bist nicht verrückt / albern / ein Huhn.
+____
+
+oder humorvoll:
+
+[quote,]
+____
+Du bist kein Huhn. Höchstens ein Adler im Sturzflug, der noch justiert.
+____
+
+NOTE: Wirkt, weil die sofortige semantische Umcodierung die automatische Verankerung im mentalen Lexikon unterbricht. Die lässt Distanz zum Kommentar entstehen (Disidentifikation).
+
+.Phase 2: Körperliche Miniübung:
+
+Ziel: Emotion überschreiben durch Bewegung (Embodied Reframing)
+
+Beispiel-Übung: „Zurück in deine Kraft“
+
+* Stelle dich breit hin.
+* Arme locker schwingen lassen.
+* Einatmen – Arme nach oben.
+* Ausatmen – Arme mit Schwung fallen lassen.
+* Dann 3 Sekunden in starker Haltung stehen (z. B. „Power-Pose“: Brust raus, Kopf hoch).
+
+[quote,]
+____
+Spür mal, wie du jetzt im Körper bist. Das bist du – nicht der Spruch von außen.
+____
+
+.Phase 3: Mentale Neuverankerung (15-30 Sekunden)
+
+Ziel: Die ursprüngliche Bewegung neu rahmen mit einer neuen Bedeutung, nicht mit Korrektur.
+
+Ansprache: ruhig, zukunftsbezogen
+
+[quote]
+____
+Was du da gemacht hast, war ein mutiger Versuch, neue Energie reinzubringen – daran bauen wir an.
+____
+
+oder
+
+[quote]
+____
+Ich hab da gute Ansätze gesehen. Wenn wir’s gemeinsam justieren, wird da was richtig Gutes draus.
+____
+
+.Alternativ: *Sofortige* Handlungsalternative geben
+
+Ziel: Metaphorische Sprache überschreibt die negativ bewertete Bewegung
+
+[quote]
+____
+Mach sie nochmal – aber diesmal stell dir vor, du bewegst dich wie flüssiges Metall / ein elastischer Pfeil / ein Raubtier im Sprung.
+____
+
+.Nochmal kurz: Beispielhafte 30-Sekunden-Reaktion auf abwertenden Kommentar:
+
+. „Vergiss den Huhn-Spruch – das war unnötig.“
+. Übung: Arme hoch, ausatmen, Power-Pose +
+  „Spür mal: das ist deine Energie – bleib bei dir.“
+. „Dein Sprung hatte Mut – lass uns jetzt an Timing und Richtung drehen.“
+
+==== Intervention mit zeitlichem Abstand
+
+Anwendung, wenn das destruktive Feedback bereits länger (wenige Tage) zurückliegt. Es ist dann oft bereits verankert und vielleicht bereits emotional "weiter gewachsen". Eventuell hat sich bereits das Selbstbild verändert.
+
+Ziele:
+
+* Die innere Geschichte, die sich nach dem Feedback gebildet hat, auffangen oder umdeuten.
+* Die Bewegungslust und Offenheit wiederherstellen.
+* Der AthletIn das Gefühl geben, dass sie nicht falsch ist, sondern etwas in der Umgebung nicht gepasst hat.
+
+.Phase 1: Gesprächsöffner: Sicherheit + Einladung
+
+Ansprache: einladend, nicht drängen
+
+[quote]
+____
+Ich weiß, das Turnier / der Lehrgang war intensiv – manchmal bleibt was hängen, was sich nicht gut anfühlt. Möchtest du erzählen, wie’s dir damit geht?
+____
+
+Wenn die Person nichts erzählt, nicht bohren, sondern direkt weiter mit Phase 2.
+
+.Phase 2: Entkopplung durch Entwerten der Quelle
+
+
+Ziel: Auflösung der Verschmelzung zwischen Bewertung und Selbstbild, Kontrolle zurückgeben.
+
+Ansprache: ruhig, direkt, mit konkretem Details (falls bekannt)
+
+[quote]
+____
+Nicht jeder, der laut ist, hat recht. Und nicht jeder Kommentar trifft die Realität. Vielleicht sagt das, was du gehört hast, mehr über die Person als über dich.
+____
+
+.Phase 3: Bewegungs-Resonanz wieder aktivieren
+
+Ziel: neue Bewegungserfahrung, Fokus auf Selbstwirksamkeit
+
+Durchführen einer kleinen Übung, die kritisierte Elemente enthält (falls bekannt) oder (bei allgemeiner Kritik) die zentrale Stärke der AthletIn:
+
+[quote]
+____
+Lass uns mal die Ausweichbewegungen machen – aber so, wie sie sich für dich gut anfühlt. Nicht wie’s jemand sehen will. Ich beobachte nur das Timing, nicht den Stil.
+____
+
+Danach Rückmeldung zur Selbstwirksamkeit:
+
+[quote]
+____
+Dein Rhythmus ist da – und das ist der, auf dem wir aufbauen.
+____
+
+.Phase 4: Neuverankerung
+
+Ziel: nützliche Metapher ins mentale Lexikon bringen, Selbstbild positiv formen
+
+Ansprache: freudig, auffordernd
+
+[quote]
+____
+Was du machst, hat Sinn. Du baust Dir gerade neue Muster auf. Das braucht oft Mut – genau den sehe ich bei dir.
+____
+
+Oder falls die Kritik eine Metapher enthielt, kann man sie umdeuten:
+
+[quote]
+____
+Du bist kein Huhn. Eher ein Greifvogel beim Wenden – manchmal kurz wacklig, dann präzise. Aber in jedem Fall ein bisschen verrückt. Und das braucht's auch.
+____
+
+=== Kurzintervention: Destruktive Kritik aus der eigenen Peer Group
+
+Emotionaler Kritik aus der eigenen Trainingsgruppe (Spott, Beleidigung) wiegen meist viel schwerer als Feedback von außen. Sie bedrohen genauso das Selbstbild, aber zusätzlich die soziale Sicherheit - und damit die Lernbereitschaft. TrainerInnen sind aber anwesend und können direkt eingreifen.
+
+Ziele der Intervention:
+
+* Sofortige emotionale Entschärfung für die betroffene AthletIn
+* Deutliches, aber nicht demütigendes Grenzenziehen gegenüber der Gruppe
+* Wiederherstellung von Würde, Spielraum und Lernmotivation
+* Reintegration der Gruppe durch Umfokussierung – nicht durch Strafe
+
+.Phase 1: Sofort-Stopp und Haltung zeigen
+
+Ansprache: klare Körpersprache, ruhig (nicht laut), *Gruppe anschauen (nicht das Opfer*; signalisiert Schutz)
+
+[quote]
+____
+Stopp – das hier ist kein Platz für Spott.
+____
+
+oder
+
+[quote]
+____
+Sowas sagen wir hier nicht. Punkt.
+____
+
+.Phase 2: Sprachliches Reframing für alle
+
+Ziel: Bei allen Normen im mentalen Lexikon setzen - von "Leistung zählt" zu "Mut zählt"
+
+[quote]
+____
+Wisst ihr, Bewegung sieht bei jedem anders aus. Wer hier was wagt, verdient Respekt – nicht Kommentare
+____
+
+oder auch
+
+[quote]
+____
+Fehler zeigen Mut. Wer lacht, hat nicht verstanden, worum es hier geht.
+____
+
+.Phase 3: Re-Stabilisierung der Betroffenen
+
+Ansprache: kurz und ruhig, möglichst unter 4 Augen
+
+[quote]
+____
+Das war unfair. Du hast was riskiert – das ist stark. Ich will, dass du’s gleich nochmal machst. Und diesmal bist du für dich da, nicht für die anderen
+____
+
+Nach der Wiederholung hilft eine kurze, fokussierte Beobachtung ("Dein Timing war jetzt richtig mutig. Das zählt.")
+
+Alternative, falls wiederholung nicht möglich ist:
+
+Kurze Körperübung: fester Stand, zweimal bewusst atmen, Anspannen, Entspannen
+
+.Phase 4 (optional): Gruppendynamik einfangen
+
+Ziel:
+
+* Spott überschreiben
+* Niemand verliert das Gesicht
+* Reintegration der Betroffenen durch gemeinsame Bewegung
+
+Übung für alle öffnen und Fokussierung aus den jeweils eigenen Stil:
+
+[quote]
+____
+Okay – für alle nochmal dieselbe Aufgabe. Jeder hat einen Versuch, und jeder probiert’s auf seine Art, so wie's sonst keiner macht.
+____
+
+.Kurzübersicht (Cheat Sheet)
+
+[cols="h,e,"]
+|===
+|1. Sofort-Stopp | Gruppennorm unterbrechen | „Stopp. Kein Spott hier.“
+|2. Reframing für alle | Neue Bedeutung von Fehler & Mut | „Wer wagt, verdient Respekt.“
+|3. Stabilisieren | Opfer emotional absichern + bestärken | „Das war mutig – du machst das nochmal. Ich bin bei dir.“
+|4. Reintegrieren | Neue Übung für alle | „Alle machen’s – 3 Versuche, jeder auf seine Weise.“
+|===
+
+. *Sofort-Stopp*
