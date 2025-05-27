@@ -1,0 +1,76 @@
+= Kurzintervention: Destruktive Kritik bei zeitlichem Abstand
+:keywords: uebung
+:uebung-group: Training-Cards
+
+ifndef::ownpage[]
+
+xref:page$practices/mentale-aspekte/destruktive-kritik/cards/kurzintervention-tage-danach.adoc[als Coaching Card  ⤴]
+
+endif::[]
+
+Anwendung, wenn das destruktive Feedback bereits länger (wenige Tage) zurückliegt. Es ist dann oft bereits verankert und vielleicht bereits emotional "weiter gewachsen". Eventuell hat sich bereits das Selbstbild verändert.
+
+Ziele:
+
+* Die innere Geschichte, die sich nach dem Feedback gebildet hat, auffangen oder umdeuten.
+* Die Bewegungslust und Offenheit wiederherstellen.
+* Der AthletIn das Gefühl geben, dass sie nicht falsch ist, sondern etwas in der Umgebung nicht gepasst hat.
+
+.Phase 1: Gesprächsöffner: Sicherheit + Einladung
+
+Ansprache: einladend, nicht drängen
+
+[quote]
+____
+Ich weiß, das Turnier / der Lehrgang war intensiv – manchmal bleibt was hängen, was sich nicht gut anfühlt. Möchtest du erzählen, wie’s dir damit geht?
+____
+
+Wenn die Person nichts erzählt, nicht bohren, sondern direkt weiter mit Phase 2.
+
+.Phase 2: Entkopplung durch Entwerten der Quelle
+
+
+Ziel: Auflösung der Verschmelzung zwischen Bewertung und Selbstbild, Kontrolle zurückgeben.
+
+Ansprache: ruhig, direkt, mit konkretem Details (falls bekannt)
+
+[quote]
+____
+Nicht jeder, der laut ist, hat recht. Und nicht jeder Kommentar trifft die Realität. Vielleicht sagt das, was du gehört hast, mehr über die Person als über dich.
+____
+
+.Phase 3: Bewegungs-Resonanz wieder aktivieren
+
+Ziel: neue Bewegungserfahrung, Fokus auf Selbstwirksamkeit
+
+Durchführen einer kleinen Übung, die kritisierte Elemente enthält (falls bekannt) oder (bei allgemeiner Kritik) die zentrale Stärke der AthletIn:
+
+[quote]
+____
+Lass uns mal die Ausweichbewegungen machen – aber so, wie sie sich für dich gut anfühlt. Nicht wie’s jemand sehen will. Ich beobachte nur das Timing, nicht den Stil.
+____
+
+Danach Rückmeldung zur Selbstwirksamkeit:
+
+[quote]
+____
+Dein Rhythmus ist da – und das ist der, auf dem wir aufbauen.
+____
+
+.Phase 4: Neuverankerung
+
+Ziel: nützliche Metapher ins mentale Lexikon bringen, Selbstbild positiv formen
+
+Ansprache: freudig, auffordernd
+
+[quote]
+____
+Was du machst, hat Sinn. Du baust Dir gerade neue Muster auf. Das braucht oft Mut – genau den sehe ich bei dir.
+____
+
+Oder falls die Kritik eine Metapher enthielt, kann man sie umdeuten:
+
+[quote]
+____
+Du bist kein Huhn. Eher ein Greifvogel beim Wenden – manchmal kurz wacklig, dann präzise. Aber in jedem Fall ein bisschen verrückt. Und das braucht's auch.
+____

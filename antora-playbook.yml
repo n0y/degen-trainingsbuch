@@ -15,9 +15,11 @@ content:
 asciidoc:
   attributes:
     mathematical-format: svg
+    kroki-fetch-diagram: true
     CI: true
   extensions:
     - '@djencks/asciidoctor-mathjax'
+    - asciidoctor-kroki
 ui:
   bundle:
     url: src/ui-bundle
