@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "= Degen - Trainingsbuch",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "asciidoctor-kroki": "^0.18.1"
+  },
   "devDependencies": {
     "@antora/cli": "3.1.10",
     "@antora/site-generator": "3.1.10",

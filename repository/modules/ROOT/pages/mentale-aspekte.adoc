@@ -1,6 +1,7 @@
 = Mentale Aspekte im Fechtsport
 :description: Effizientes Training der grundlegenden motorischen Fähigkeiten für das Degen-Fechten.
 :keywords: Fechten,Degen-Fechten,Training,Kampfsport,Ausdauer,Schnelligkeit,Maximalkraft,Koordination,Beweglichkeit
+:kroki-default-options: inline
 
 Mentale Aspekte spielen im Fechten eine große Rolle. Ansprache und Kommunikation bestimmt einen großen Teil des Trainings- und Wettkampferfolgt.
 
@@ -8,27 +9,87 @@ NOTE: Das Kapitel ist noch ziemlich roh und unvollständig. Hilfe ist erwünscht
 
 == Kommunikation von und mit AthletInnen
 
-Die Kommunikation zwischen Coaches und AthletIn spielt bei vielen Aspekten eine zentrale Rolle. Sie entscheidet mit über die Anwendbarkeit von Trainingsmitteln und deren Effizienz, über Selbstbild und Handlungsfähigkeit in Training und Wettkampf, und über Motivation und Leistungswillen generell.
+Die Qualität der Kommunikation zwischen Coach und Athlet:in ist ein zentraler Einflussfaktor im Sporttraining. Sie beeinflusst unter anderem die Wahrnehmung und Anwendbarkeit von Trainingsinhalten, die Selbstwirksamkeitserwartung sowie die Handlungs- und Emotionsregulation in Training und Wettkampf. Auch Motivation und Zielbindung lassen sich über sprachliche Interaktion gezielt fördern oder hemmen
+include::partial$gen/bibliography.adoc[tags=Jowett2003Olympic]
+.
 
-Sie wird maßgeblich von Trainerseite gestaltet und muss zielgerichtet und förderlich erfolgen.
+Kommunikation im Coachingprozess ist jedoch nicht neutral oder zufällig: Sie wird *maßgeblich durch das Verhalten und die Haltung der Trainer:innen bestimmt* und wirkt – bewusst oder unbewusst – auf das mentale Modell der Athlet:innen ein. Daraus ergibt sich ein hoher Anspruch an die *Zielgerichtetheit und emotionale Qualität* von Trainerkommunikation
+include::partial$gen/bibliography.adoc[tags=Mageau2003coachathlete]
+.
+
+[ditaa, format="svg"]
+....
+                           +--------------------------+
+                           | Trainer:in-Kommunikation |
+                           +--------------------------+
+                                        |
+      +---------------------------------+---------------------+
+      |                                 |                     |
++-----------------------+  +--------------------+   +--------------------+
+| Verständnis & Nutzung |  | Selbstbild &       |   | Handlungs- &       |
+| von Trainingsmitteln  |  | Selbstwirksamkeit  |   | Emotionsregulation |
++-----------------------+  +--------------------+   +--------------------+
+                                        |
+                           +------------------------------------+
+                           | Motivation & Zielbindung           |
+                           +------------------------------------+
+                                        |
+                     +---------------------------------------------+
+                     | Grundbedürfnisse nach SDT:                  |
+                     | Autonomie, Kompetenz, Zugehörigkeit         |
+                     +---------------------------------------------+
+....
+
+Eine wirkungsvolle Kommunikation sollte nicht nur Informationen vermitteln, sondern auch psychologische Grundbedürfnisse wie Autonomie, Kompetenz und soziale Eingebundenheit ansprechen, um langfristige Motivation und Entwicklung zu ermöglichen
+include::partial$gen/bibliography.adoc[tags=Deci2000What]
+.
 
 === Grundlagen und Wirkungsweise
 
-NOTE: Ab hier müssen die Quellen noch verlinkt werden
+Sprache dient nicht nur der Kommunikation, sondern auch der Strukturierung von Erfahrung – insbesondere im Bewegungslernen. Athlet:innen kodieren und erinnern Bewegungsaufgaben häufig sprachlich unterstützt, etwa durch instruktive Phrasen wie _„locker aus dem Fußgelenk springen“_. Diese sprachlich codierten Einheiten können als Teil eines motorischen Skripts verstanden werden und weisen funktionale Parallelen zu den sogenannten Chunks in der Kognitionspsychologie auf
+include::partial$gen/bibliography.adoc[tags=Miller1956magical]
+.
 
-Sprache dient nicht nur der Kommunikation, sondern auch der Strukturierung von Erfahrung und hier speziell der Bewegungserfahrung. AthetInnen kodieren und erinnern Bewegungsaufgaben häufig sprachlich unterstützt ("Locker aus dem Fußgelenk springen"). Diese sprachlich codierten Einheiten sind Teil des motorischen Skripts, ähnlich wie bei Chunks in der Kognitionspsychologie. Die Art und Weise, wie Bewegungen beschrieben oder im mentalen Lexikon repräsentiert sind, beeinflusst, wie leicht sie vorgestellt, erinnert oder variiert werden können.
+Die Art und Weise, wie Bewegungen beschrieben oder im mentalen Lexikon gespeichert sind, beeinflusst maßgeblich, wie leicht sie vorgestellt, erinnert oder variiert werden können
+include::partial$gen/bibliography.adoc[tags=Schack2004cognitive]
+.
 
-Die Embodied Cognition-Forschung zeigt: Sprache und Bewegung sind eng verknüpft im Gehirn. Wenn du ein Wort wie „greifen“ hörst, wird auch der motorische Kortex teilaktiviert. Das bedeutet: Wenn ein Athlet die Worte „schnell abdrücken“ hört, kann das direkt eine sensorisch-motorische Vorstellung anregen. Studien zeigen, dass sprachliche Metaphern („Feder in den Beinen“) Bewegungslernen effektiv unterstützen können – wenn sie an bekannte Schemata im mentalen Lexikon andocken.
+Die Embodied Cognition-Forschung zeigt: Sprache und Bewegung sind im Gehirn eng miteinander verknüpft. Wenn ein Wort wie _„greifen“_ gehört oder gedacht wird, zeigt sich eine messbare Teilaktivierung motorischer Areale, insbesondere im prämotorischen Kortex
+include::partial$gen/bibliography.adoc[tags=Pulvermuller2005Brain]
+. Dies bedeutet: Wird z. B. der Ausdruck _„schnell abdrücken“_ verwendet, kann dies eine direkte *sensorisch-motorische Vorstellung* auslösen.
 
-Durch Sprache baut die AthletIn ihr mentales Lexikon auf: Es bezeichnet die mentale Repräsentation von Wörtern und ihrer Bedeutungen, Formen, grammatikalischen Eigenschaften und Beziehungen untereinander im Gehirn. Es ist kein "Wörterbuch" im klassischen Sinne, sondern ein dynamisch vernetztes System, das durch Gebrauch ständig verändert und erweitert wird. Beim Denken, Hören, Sehen und Bewegen wird ein Teil des Netzwerks aktiviert, und relevante Knoten („Wörter“) können mitaktiviert werden – das nennt man Spreading Activation.
+Sprachliche Metaphern – etwa _„Feder in den Beinen“_ – unterstützen das Bewegungslernen effektiv, sofern sie an bestehende semantische Schemata im mentalen Lexikon andocken
+include::partial$gen/bibliography.adoc[tags=Dervent2016Examination]
+.
 
-Das mentale Lexikon hat wesentlichen Einfluss auf die Bewertung ("machbar", "erstrebenswert", ...) und Durchführung einer Bewegungsaufgabe durch:
+Das sogenannte mentale Lexikon umfasst die im Gehirn gespeicherten Repräsentationen von Wörtern und ihren Bedeutungen, Formen, grammatikalischen Eigenschaften sowie ihren semantischen und emotionalen Verknüpfungen. Es ist kein statisches „Wörterbuch“, sondern ein dynamisch vernetztes, erfahrungsbasiertes System, das durch Gebrauch laufend reorganisiert wird
+include::partial$gen/bibliography.adoc[tags=Levelt1989Speaking]
+.
 
-* Assoziationen: Wenn z. B. „Strecksprung“ im Lexikon mit „Angst“, „Fehlversuch“, „Lehrer“ oder „Schwierigkeit“ verknüpft ist, sinkt die Bereitschaft zur Ausführung. Negative semantische Nachbarschaft bremst also Motivation und Handlung.
-* Konnotationen & Emotionen: Das mentale Lexikon enthält nicht nur neutrale Bedeutungen, sondern auch emotionale Bewertungen. Diese wirken unbewusst auf Entscheidungsprozesse.
-* Kognitive Leichtigkeit: Wenn eine Anweisung sprachlich bekannt, gut strukturiert und gut vernetzt ist, wird sie als einfacher und angenehmer empfunden. Das ist der Fluency-Effekt.
+Im Denk-, Sprach- und Bewegungsprozess wird jeweils ein Teil dieses Netzwerkes aktiviert. Durch Spreading Activation werden benachbarte oder assoziierte Knoten mitaktiviert, was Denkprozesse und Handlungen beeinflusst
+include::partial$gen/bibliography.adoc[tags=Collins1975spreading]
+.
 
-Zusätzlich kann Sprache kompensierend und strukturierend wirken. Bekannt sind vor allem die Effekte der Metaphern und der Rhythmisierung. Aber auch das Chunking und die Nutzung von Begriffen als Anker für komplexe Bewegungsmuster spielt eine Rolle.
+Das mentale Lexikon beeinflusst die Bewertung und Umsetzung von Bewegungsaufgaben über mehrere Mechanismen:
+
+* *Assoziative Prägung*: Wenn der Begriff _„Strecksprung“_ mit Begriffen wie _„Angst“_, _„Fehlversuch“_ oder _„Lehrer“_ assoziiert ist, sinkt die Bereitschaft zur Ausführung. Eine negative semantische Nachbarschaft kann Motivation und Handlungsausführung hemmen.
+
+* *Konnotationen & Emotionen*: Wörter im mentalen Lexikon tragen emotionale Bewertungen. Diese wirken häufig unbewusst auf Entscheidungsprozesse und die Ausführung motorischer Aufgaben
+include::partial$gen/bibliography.adoc[tags=CitBreFer2011]
+.
+
+* *Kognitive Leichtigkeit (Fluency)*: Wenn eine sprachliche Anweisung bekannt, klar strukturiert und gut vernetzt ist, wird sie als einfacher und angenehmer empfunden. Dies bezeichnet man als Fluency Effect
+include::partial$gen/bibliography.adoc[tags=Reber2004Processing]
+.
+
+Sprache kann aber nicht nur auslösen, sondern auch strukturierend und kompensatorisch wirken. Besonders wirkungsvoll sind:
+
+* *Metaphern*: Bildhafte Sprache erleichtert das Andocken an bestehende Schemata.
+* *Rhythmisierung*: Sprechrhythmus und Takt helfen bei Sequenzierung und Timing.
+* *Chunking*: Komplexe Bewegungsabfolgen werden in handhabbare Einheiten gegliedert.
+* *Verbalanker*: Einzelne Begriffe dienen als Trigger für ganze Bewegungsmuster.
+
+Diese Effekte machen Sprache zu einem hochwirksamen Werkzeug im motorischen Lernen – weit über die reine Instruktion hinaus.
 
 === Modell der Sprach- und Repräsentationsgestützten Bewegungsaquisition (SRBA-Modell)
 
@@ -107,6 +168,34 @@ Die Quelle sind auf der einen Seite die Rückmeldungen von Trainern, die sich de
 
 Die zweite Quelle sind Äußerungen von Gegnern, die das Mittel vor einer Begegnung bewusst einsetzen, um Verunsicherung und Zweifel hervorzurufen.
 
+
+Gerade in Kampfsportarten sehen sich Athlet:innen häufig destruktivem Feedback ausgesetzt. Als solches bezeichnen wir Rückmeldungen, die negativ, stark emotionalisiert und entwertend formuliert sind.
+
+Zwei Hauptquellen solcher Rückmeldungen sind identifizierbar:
+
+. Trainerfeedback ohne Bewusstsein für negative Effekte:
+  Insbesondere in Trainingskulturen, die auf autoritäre oder konfrontative Instruktionsformen zurückgreifen – wie sie bis in die 1980er Jahre in der Sportpädagogik verbreitet waren –, finden sich auch heute noch herabwürdigende Aussagen wie:
+  _„Du machst das seit fünf Jahren, aber du hast immer noch keine Ahnung.“_
+  oder metaphorische Demütigungen wie:
+  _„Du hüpfst herum wie ein verrücktes Huhn.“_ +
+  Solche Aussagen können das Selbstbild, die Motivation und die motorische Leistung erheblich beeinträchtigen
+include::partial$gen/bibliography.adoc[tags=Goleman1995Emotional]
+, sowie
+include::partial$gen/bibliography.adoc[tags=Jowett2003Olympic]
+.
+
+. *Psychologische Kriegsführung durch Gegner:innen* oder deren Team:
+In Wettkampfsportarten – insbesondere in Kampfsportarten mit direkter Konfrontation – wird destruktive Kommunikation gezielt als Mittel der Verunsicherung eingesetzt. Solche „Trash Talk“*-Taktiken sollen Zweifel, Wut oder Nervosität erzeugen, um die kognitive und motorische Leistungsfähigkeit zu untergraben.
+
+Solches Feedback aktiviert häufig das limbische System und kann zu einer emotionalen Blockade führen, die das Arbeitsgedächtnis beeinträchtigt und das Zugriffspotenzial auf gelernte motorische Programme reduziert
+include::partial$gen/bibliography.adoc[tags=Arnsten2009Stress]
+.
+
+Ein effektiver Umgang mit destruktivem Feedback setzt daher auf emotionale Regulation, metakognitive Strategien und sprachlich gestützte Resilienztechniken (z. B. Reframing, semantische Entkopplung oder Perspektivwechsel), um negative semantische Aktivierungen im mentalen Lexikon zu neutralisieren oder umzuleiten
+include::partial$gen/bibliography.adoc[tags=Gross2002Emotion]
+.
+
+
 === Auswirkungen destruktiven Feedbacks
 
 Destruktives Feedback wirkt sich über mehrere Wege negativ auf bestehende Fertigkeiten und auf die Fähigkeit aus, effizient neue Fertigkeiten zu erlernen:
@@ -145,17 +234,43 @@ die Fähigkeit zu kreativem, explorativem Lernen einschränken.
 
 === Destruktive Kritik zur Überwindung lokaler Minima und motorischer Stabilitätsschwellen
 
-Früher ging man davon aus, dass destruktives Feedback eine geeignete Strategie wäre, lokale Optima (wo kleine Änderungen die Leistung verschlechtern, obwohl es bessere Gesamtzustände gibt) zu verlassen und motorische Stabilitätsschwellen zu überwinden.
+In der älteren motorischen Lerntheorie wurde angenommen, dass destruktives Feedback ein geeignetes Mittel sei, um sogenannte lokale Optima zu überwinden – das sind stabile Bewegungsmuster, die kurzfristig effizient wirken, jedoch langfristig suboptimal sind. Hier war die Idee: Nur durch harte Kritik und Störung lasse sich der Athlet „herausschütteln“ und in neue, leistungsfähigere Muster zwingen
+include::partial$gen/bibliography.adoc[tags=Newell1991Motor]
+.
 
-Zwar kann Störung tatsächlich nötig sein, um ein System aufzubrechen, allerdings bringt destruktives Feedback zu viel emotionale Verunsicherungen mit sich (Scham, Bloßstellung), die hemmend wirkt.
+Diese Sicht ist heute weitgehend überholt. Zwar ist es richtig, dass gezielte Irritation des bestehenden motorischen Systems hilfreich sein kann, um Stabilitätsgrenzen zu überwinden. Jedoch erzeugt destruktives, negativ-emotionales Feedback häufig Scham, Verunsicherung oder das Gefühl der Bloßstellung – Faktoren, die die kognitive Verarbeitung und das motorische Explorationsverhalten nachweislich hemmen
+include::partial$gen/bibliography.adoc[tags=Baumeister2007How]
+.
 
-Erprobte Strategien an dieser Stelle sind stattdessen unter anderem:
+Folgende Strategien sind empirisch erprobt und fördern Variabilität, Exploration und Rekontextualisierung von Bewegungen – zentrale Prinzipien für die Überwindung lokaler Minima:
 
-* Stören der Bewegung durch neue Kontexte („Mach die Bewegung mit geschlossenen Augen.“, „Stell dir vor, du bewegst dich unter Wasser.“)
-* Verfremdungstechniken (Bewegung verlangsamen/beschleunigen, auf ungewohntem Untergrund oder mit anderem Rhythmus ausführen)
-* Neue Metaphern (Statt „explosiv“ vielleicht „wie ein Ballon platzen“)
-* gezielte semantische Neuanreicherung ("Was wäre das Gegenteil von deiner Bewegung?")
-* Temporäre Regression mit Übertreibung ("Mach’s absichtlich viel zu schnell / zu weich / zu stark – fühl die Extreme").
+* *Kontextveränderung*:
+Bewegungsanweisung in ungewohnten Rahmen setzen, z. B.
+_„Führe die Bewegung mit geschlossenen Augen aus.“_ oder
+_„Stell dir vor, du bewegst dich unter Wasser.“_ +
+Dies fördert sensorische Reorganisation und entkoppelt automatisierte Routinen
+include::partial$gen/bibliography.adoc[tags=DavKeBu07DynSkil]
+.
+
+* *Verfremdungstechniken*:
+Bewegung absichtlich verlangsamen, beschleunigen oder unter veränderten Umweltbedingungen ausführen (z. B. instabiler Untergrund, Taktwechsel). +
+Ziel: Öffnung des sensomotorischen Lösungsraums.
+
+* *Metaphernwechsel*:
+Beispiel: Statt „explosiv abdrücken“ → _„wie ein geplatzter Ballon aufspringen“_ +
+Neue semantische Bilder helfen, Bewegungsrepräsentationen neu zu verschalten und alternative motorische Lösungen zu aktivieren
+include::partial$gen/bibliography.adoc[tags=Schack2006Representation]
+.
+
+* *Semantische Neuanreicherung*:
+Z. B. Frage: _„Was wäre das Gegenteil deiner Bewegung?“_ +
+Aktiviert das mentale Lexikon und regt die kognitive Flexibilität an.
+
+* *Temporäre Übertreibung / Regression*:
+Z. B. _„Mach’s absichtlich viel zu schnell / zu weich / zu stark – fühl die Extreme.“_ +
+Hilft beim Wahrnehmen von Grenzbereichen der Bewegung und fördert Selbstorganisation.
+
+Diese Techniken kombinieren Störung ohne Schädigung und Variation ohne Bloßstellung – zwei zentrale Prinzipien moderner Trainingsdidaktik, die nachhaltiges motorisches Lernen fördern.
 
 === Gegenmaßnahmen
 
@@ -168,6 +283,42 @@ Um negative Effekte abzupuffern, sind eine Reihe von Maßnahmen wirkungsvoll. Si
 * *Vertrauensvolle soziale Kontexte*: Ein sicherer Raum mit unterstützender Sprache („Ich sehe, dass du dran bist“, „Schau mal, was sich verbessert hat“) kann beschädigte Knoten überlagern.
 * *Metaphorische Arbeit*: Neue positive Metaphern helfen beim Umbau des mentalen Lexikons: „Wie eine Katze landen“ statt „nicht wie ein Huhn zappeln“.
 * *Selbstreflexion fördern*: Durch Fragen wie „Was hast du gespürt?“, „Was hättest du anders gemacht?“ wird die Verbindung zum eigenen Körperschema gestärkt und ein  Gegengewicht zur äußeren Entwertung geschaffen.
+
+
+Destruktives Feedback ist grundsätzlich zu vermeiden. Es gilt als eine der häufigsten Ursachen für reduzierte Motivation, Selbstzweifel und Leistungsblockaden im Sport
+include::partial$gen/bibliography.adoc[tags=Galli2008Bouncing]
+. Dennoch zeigt die Praxis: Solche Rückmeldungen treten weiterhin auf – aus spontaner emotionaler Reaktion, aus ungeschulter Kommunikation oder durch Begegnung mit externen Trainer:innen (z. B. bei Lehrgängen, Turnieren), die destruktives Feedback fälschlich für leistungsförderlich halten.
+
+Um negative Effekte zu puffern oder gar umzukehren, haben sich mehrere kompensatorische Strategien bewährt. Diese können sowohl präventiv (durch Resilienzbildung) als auch reaktiv (als Intervention) eingesetzt werden:
+
+* *Reframing – semantische Umstrukturierung*:
+Negativ besetzte Begriffe werden durch neue Bedeutungsnetzwerke ersetzt oder entwertet. +
+Beispiel: Statt „verrücktes Huhn“ → _„eine ungewöhnliche, kreative Eigenlösung“_ +
+Ziel ist die Neucodierung im mentalen Lexikon, um die emotional-negative Verankerung zu lösen
+include::partial$gen/bibliography.adoc[tags=Schack2007Reprasentation]
+.
+
+* *Sozial sichere Kontexte schaffen*:
+Der Aufbau von Vertrauen durch eine empathische, validierende Sprache wie: +
+_„Ich sehe, dass du dran bleibst.“_ oder _„Deine Landung war schon deutlich stabiler.“_ +
+Solche Aussagen stärken das Selbstbild und wirken gegen dysfunktionale Knoten im semantischen Netz
+include::partial$gen/bibliography.adoc[tags=Ryan2000Self]
+.
+
+* *Metaphorische Rekodierung*:
+Positive, körpernahe Bilder helfen, beschädigte Bewegungsrepräsentationen zu überschreiben. +
+Beispiel: Statt _„nicht wie ein Huhn zappeln“_ → _„weich wie eine Katze landen“_ +
+Unterstützt mentale Umstrukturierung durch Embodied Semantics
+include::partial$gen/bibliography.adoc[tags=Lakoff1999Philosophy]
+.
+
+* *Selbstreflexion durch gezielte Fragen*:
+Fragen wie _„Was hast du gespürt?“_ oder _„Was hättest du anders machen können?“_ aktivieren das Körperschema und verschieben die Kontrolle zurück zum Athleten. +
+Ziel: Agency und Selbstwirksamkeit stärken, um äußere Bewertung zu relativieren
+include::partial$gen/bibliography.adoc[tags=Bandura1997Self]
+.
+
+Diese Strategien kombinieren sprachlich-semantische Neuorganisation mit emotionaler Re-Sicherung und fördern langfristig die Resilienz gegenüber ungünstigen Einflüssen auf das Bewegungslernen.
 
 ==== Sofort-Intervention (falls es doch mal passiert ist)
 
