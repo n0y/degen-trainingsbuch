@@ -1,0 +1,152 @@
+= Kommunikation von und mit AthletInnen
+
+Die Qualität der Kommunikation zwischen Coach und Athlet:in ist ein zentraler Einflussfaktor im Sporttraining. Sie beeinflusst unter anderem die Wahrnehmung und Anwendbarkeit von Trainingsinhalten, die Selbstwirksamkeitserwartung sowie die Handlungs- und Emotionsregulation in Training und Wettkampf. Auch Motivation und Zielbindung lassen sich über sprachliche Interaktion gezielt fördern oder hemmen
+include::partial$gen/bibliography.adoc[tags=Jowett2003Olympic]
+.
+
+Kommunikation im Coachingprozess ist jedoch nicht neutral oder zufällig: Sie wird *maßgeblich durch das Verhalten und die Haltung der Trainer:innen bestimmt* und wirkt – bewusst oder unbewusst – auf das mentale Modell der Athlet:innen ein. Daraus ergibt sich ein hoher Anspruch an die *Zielgerichtetheit und emotionale Qualität* von Trainerkommunikation
+include::partial$gen/bibliography.adoc[tags=Mageau2003coachathlete]
+.
+
+[ditaa, format="svg"]
+....
+                           +--------------------------+
+                           | Trainer:in-Kommunikation |
+                           +--------------------------+
+                                        |
+      +---------------------------------+---------------------+
+      |                                 |                     |
++-----------------------+  +--------------------+   +--------------------+
+| Verständnis & Nutzung |  | Selbstbild &       |   | Handlungs- &       |
+| von Trainingsmitteln  |  | Selbstwirksamkeit  |   | Emotionsregulation |
++-----------------------+  +--------------------+   +--------------------+
+                                        |
+                           +------------------------------------+
+                           | Motivation & Zielbindung           |
+                           +------------------------------------+
+                                        |
+                     +---------------------------------------------+
+                     | Grundbedürfnisse nach SDT:                  |
+                     | Autonomie, Kompetenz, Zugehörigkeit         |
+                     +---------------------------------------------+
+....
+
+Eine wirkungsvolle Kommunikation sollte nicht nur Informationen vermitteln, sondern auch psychologische Grundbedürfnisse wie Autonomie, Kompetenz und soziale Eingebundenheit ansprechen, um langfristige Motivation und Entwicklung zu ermöglichen
+include::partial$gen/bibliography.adoc[tags=Deci2000What]
+.
+
+== Grundlagen und Wirkungsweise
+
+Sprache dient nicht nur der Kommunikation, sondern auch der Strukturierung von Erfahrung – insbesondere im Bewegungslernen. Athlet:innen kodieren und erinnern Bewegungsaufgaben häufig sprachlich unterstützt, etwa durch instruktive Phrasen wie _„locker aus dem Fußgelenk springen“_. Diese sprachlich codierten Einheiten können als Teil eines motorischen Skripts verstanden werden und weisen funktionale Parallelen zu den sogenannten Chunks in der Kognitionspsychologie auf
+include::partial$gen/bibliography.adoc[tags=Miller1956magical]
+.
+
+Die Art und Weise, wie Bewegungen beschrieben oder im mentalen Lexikon gespeichert sind, beeinflusst maßgeblich, wie leicht sie vorgestellt, erinnert oder variiert werden können
+include::partial$gen/bibliography.adoc[tags=Schack2004cognitive]
+.
+
+Die Embodied Cognition-Forschung zeigt: Sprache und Bewegung sind im Gehirn eng miteinander verknüpft. Wenn ein Wort wie _„greifen“_ gehört oder gedacht wird, zeigt sich eine messbare Teilaktivierung motorischer Areale, insbesondere im prämotorischen Kortex
+include::partial$gen/bibliography.adoc[tags=Pulvermuller2005Brain]
+. Dies bedeutet: Wird z. B. der Ausdruck _„schnell abdrücken“_ verwendet, kann dies eine direkte *sensorisch-motorische Vorstellung* auslösen.
+
+Sprachliche Metaphern – etwa _„Feder in den Beinen“_ – unterstützen das Bewegungslernen effektiv, sofern sie an bestehende semantische Schemata im mentalen Lexikon andocken
+include::partial$gen/bibliography.adoc[tags=Dervent2016Examination]
+.
+
+Das sogenannte mentale Lexikon umfasst die im Gehirn gespeicherten Repräsentationen von Wörtern und ihren Bedeutungen, Formen, grammatikalischen Eigenschaften sowie ihren semantischen und emotionalen Verknüpfungen. Es ist kein statisches „Wörterbuch“, sondern ein dynamisch vernetztes, erfahrungsbasiertes System, das durch Gebrauch laufend reorganisiert wird
+include::partial$gen/bibliography.adoc[tags=Levelt1989Speaking]
+.
+
+Im Denk-, Sprach- und Bewegungsprozess wird jeweils ein Teil dieses Netzwerkes aktiviert. Durch Spreading Activation werden benachbarte oder assoziierte Knoten mitaktiviert, was Denkprozesse und Handlungen beeinflusst
+include::partial$gen/bibliography.adoc[tags=Collins1975spreading]
+.
+
+Das mentale Lexikon beeinflusst die Bewertung und Umsetzung von Bewegungsaufgaben über mehrere Mechanismen:
+
+* *Assoziative Prägung*: Wenn der Begriff _„Strecksprung“_ mit Begriffen wie _„Angst“_, _„Fehlversuch“_ oder _„Lehrer“_ assoziiert ist, sinkt die Bereitschaft zur Ausführung. Eine negative semantische Nachbarschaft kann Motivation und Handlungsausführung hemmen.
+
+* *Konnotationen & Emotionen*: Wörter im mentalen Lexikon tragen emotionale Bewertungen. Diese wirken häufig unbewusst auf Entscheidungsprozesse und die Ausführung motorischer Aufgaben
+include::partial$gen/bibliography.adoc[tags=CitBreFer2011]
+.
+
+* *Kognitive Leichtigkeit (Fluency)*: Wenn eine sprachliche Anweisung bekannt, klar strukturiert und gut vernetzt ist, wird sie als einfacher und angenehmer empfunden. Dies bezeichnet man als Fluency Effect
+include::partial$gen/bibliography.adoc[tags=Reber2004Processing]
+.
+
+Sprache kann aber nicht nur auslösen, sondern auch strukturierend und kompensatorisch wirken. Besonders wirkungsvoll sind:
+
+* *Metaphern*: Bildhafte Sprache erleichtert das Andocken an bestehende Schemata.
+* *Rhythmisierung*: Sprechrhythmus und Takt helfen bei Sequenzierung und Timing.
+* *Chunking*: Komplexe Bewegungsabfolgen werden in handhabbare Einheiten gegliedert.
+* *Verbalanker*: Einzelne Begriffe dienen als Trigger für ganze Bewegungsmuster.
+
+Diese Effekte machen Sprache zu einem hochwirksamen Werkzeug im motorischen Lernen – weit über die reine Instruktion hinaus.
+
+== Modell der Sprach- und Repräsentationsgestützten Bewegungsaquisition (SRBA-Modell)
+
+.Ausgangslage
+
+. Mentales Lexikon enthält
+.. Begriffe, Beschreibungen, Metaphern ("kraftvoller Abdruck", "Federung")
+.. Emotionale und soziale Bewertungen (z. B. „peinlich“, „cool“, „gefährlich“)
+.. Kontextuelle Kopplungen (z. B. „Wettkampf“, „Fehler“, „Erfolg“)
+. Bewegungsrepräsentationen:
+.. Motorischen Schemata (z. B. Absprungmuster, Gleichgewichtsstrategien)
+.. Körpergefühl und -bewusstsein
+.. Erinnerung an vergangene Erfahrungen (Vorerfahrungen)
+. Einflussfaktoren, die Einfluss auf diesen Zustand hatten:
+.. Individuelle Vorerfahrung
+.. Soziale Zuschreibungen (z. B. Lehrer-Kommentare wie „kein Bewegungstalent“)
+.. Sprache Dritter (Metaphern, Labels wie „Fail“, „Athlet“, „unsportlich“)
+.. Emotionale Marker (z. B. frühere Scham, Stolz, Angst, Gruppendruck)
+
+.Präsentation der Bewegungsaufgabe
+
+. Formen der Präsentation
+.. Sprache (Instruktionen, Metaphern, Verben, Analogien)
+.. Demonstration
+.. Visualisierung (Videos, Bilder)
+.. Kontextualisierung (Warum ist die Übung sinnvoll?)
+. Wechselwirkungen / neue Informationen stoßen auf vorhandene Strukturen
+.. Verankerung gelingt, wenn sprachliche Begriffe an bestehende Knoten andocken können.
+.. Verwirrung/Abwehr entsteht, wenn die Aufgabe unvereinbar mit bestehenden Schemata ist oder negativ konnotierte Begriffe enthält.
+
+.Erste Reaktion auf die Präsentation / Mentale Veränderung ohne Bewegung
+
+. Aufbau oder Modifikation semantischer Knoten:
+.. Z. B. das Wort „Strecksprung“ wird idealerweise von „unangenehm“ zu „kraftvoll“ umgedeutet.
+. Neue Bewegungsrepräsentation entsteht durch Vorstellung.
+. Aufbau mentaler Prototypen („So sieht das aus / fühlt sich an“).
+
+.Durchführung der Bewegung
+
+.Motorische Umsetzung
+.. Aktivierung vorhandener motorischer Schemata + Versuch der Anpassung.
+.. Feedbacksysteme (visuell, propriozeptiv, auditiv)
+. Bewertung (idealerweise intern, teilweise extern)
+.. Subjektives Gefühl: gelungen/misslungen, peinlich/stolz
+.. Soziale Rückmeldung: Lob, Kritik, Bewertung durch Peers oder Coaches
+
+.Veränderung durch Durchführung
+
+. Mentales Lexikon
+.. Neue Verknüpfungen (z. B. „Absprung“ = „leicht“ statt „kompliziert“)
+.. Umdeutung von Begriffen (z. B. „Rotation“ wird entängstigt)
+.. Neue sprachliche Etikettierungen (z. B. „funktioniert“, „mein Ding“, „ein Flow-Moment“)
+. Bewegungsrepräsentationen
+.. Verfeinerung: Bewegung wird klarer und differenzierter gespeichert
+.. Aufbau von Prozedurwissen (z. B. Gefühl für Timing, Kraftdosierung)
+.. Integration in bestehende motorische Muster (Transfer)
+
+
+**Miserfolge bei der Durchführung sind notwendiger Teil des Lernprozesses:**
+
+Damit Misserfolg und Fehler für positive Veränderungen sorgen können, sind verschiedene Bedingungen notwendig oder hilfreich, damit das mentale Modell positiv beeinflusst wird. Auf einer mentalen Ebene sind dies:
+
+* *Positive Sprachrahmung*: „Das war ein wertvoller Versuch“, „Interessanter Lösungsansatz“ → verhindert negative Kodierung
+* *Selbstwirksamkeitsfokus*: Betonung von Lernfortschritt statt Zielerreichung
+* *Erlaubnis zum Explorieren*: Scheitern wird als Spielraum erlebt, nicht als Versagen
+* *Explizite Reflexion / Nachfragen*: „Was hast du gespürt? Was war neu?“ stärkt semantische Tiefe
+* *Verfügbare Anker im Lexikon*: Wenn schon ähnliche Bewegungen oder Begriffe bekannt sind, kann die Bewegung trotz Fehler verstanden und eingebettet werden.
+
+NOTE: Eine Abbildung hier wäre hilfreich

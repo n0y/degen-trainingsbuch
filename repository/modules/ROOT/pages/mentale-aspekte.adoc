@@ -1,0 +1,9 @@
+= Mentale Aspekte
+:description: Effizientes Training der grundlegenden motorischen Fähigkeiten für das Degen-Fechten.
+:keywords: Fechten,Degen-Fechten,Training,Kampfsport,Ausdauer,Schnelligkeit,Maximalkraft,Koordination,Beweglichkeit
+
+Mentale Aspekte spielen im Fechten eine große Rolle. Ansprache und Kommunikation bestimmt einen großen Teil des Trainings- und Wettkampferfolgt.
+
+include::partial$mentale-aspekte/kommunikation-coach-athlet.adoc[leveloffset=+1]
+
+include::partial$mentale-aspekte/destruktive-kritik.adoc[leveloffset=+1]
