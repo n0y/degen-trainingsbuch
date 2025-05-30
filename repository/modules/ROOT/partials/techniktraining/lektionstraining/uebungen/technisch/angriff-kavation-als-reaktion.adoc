@@ -8,53 +8,55 @@ xref:page$practices/techniktraining/lektionstraining/uebungen/technisch/angriff-
 
 endif::[]
 
-Lektionslänge ca. x Minuten.
+Lektionslänge ca. 15 Minuten.
 
 .Zweck der Lektion
 
-* Mensurverhalten für zusammengesetzte Angriffe
-* Beobachtung möglicher gegnerischer Reaktionen
-* Situationsangemessene Ausführung der Kavation
+* Motorisch: Variabilität und Stabilität der Kavation in unterschiedlichen Kontexten.
+* Perzeptiv: Verbesserung der Antizipation gegnerischer Paraden (visuelle Auslösung).
+* Kognitiv: Situativ angemessene Entscheidung zwischen Kavation und Alternativaktionen.
+* Taktisch: Schulung der impliziten Mensurwahl für zusammengesetzte Angriffe
 
 .Aufgabenstellung
 
-. Athlet:in bewegt sich frei auf der Bahn, Trainer:in folgt und hält mittlere Mensur, beide in Oktav
-. Trainer:in öffnet die Mensur
-. sobald weite Mensur erreicht wird, beginnt die Athlet:in einen direkten Angriff zur Brust mit Sprung vor/ Ausfall
-. Trainer:in reagiert mit hoher Halbkreis-Terz-Parade/ Riposte
-. Athlet:in umgeht die Parade (Kavation) und trifft, bevor die Riposte ihr Ziel erreicht
+*Phase 1: Exploration (3 Min)*
 
-.Zusatzaufgaben
+. Athlet:in greift bei geöffneter Mensur mit Sprung-Ausfall an
+. Trainer:in reagiert mit variabler Parade (z. B. Terz, Sixt, Quart)
+. Athlet:in führt Kavation mit beliebiger Variation aus
+. Fokus: räumlich-zeitliche Differenzierung (hohe, weite, enge Kavationen)
 
-Zufällig aus diesen Aufgaben auswählen, bis Lektionslänge erreicht.
+Variation (wähle zwei aus)
 
-* Variation Bewegungsausführung / räumliche Ausführung
-** Unterschiedliche Paraden (mit Ansage), z.B. Sixt, Quart, Oktav, Prim
-** Auswahl der Paraden (Ansage der Möglichkeiten)
-** Treffen in neuer Blöße: z.B. Brust-Oberschenkel, Fuß-Brust, Hand-Maske
+* Geschwindigkeit (langsam/schnell)
+* Bewegungsdimension (tiefe Mensur, enge Mensur)
+* Zielkombination (Brust/Oberschenkel etc.)
+* Handschuh statt Waffe für Trainer:in zur Verdeutlichung der Bewegungsidee
 
-* Variation Bewegungsausführung: Geschwindigkeit
-** Ausführung besonders schnell, in Zeitlupe
+*Phase 2: Entscheidung & Adaptation (ca. 4 Min)*
 
-* Variation Bewegungsausführung: Beschleunigung
-** Steigern oder Verlangsamen der Bewegung
-** Warten auf die Parade
+Ziel: Wahrnehmung und Entscheidungsfähigkeit bei unklarer Trainerreaktion
 
-* Variation Sinneswahrnehmung
-** z.B. im Halbdunkel, mit hellem/ dunklen Hintergrund
+. Trainer:in öffnet gelegentlich die Mensur → nicht jede Öffnung ist eine Einladung zum Angriff
+. Athlet:in entscheidet selbstständig über den Start des Angriffs
+. Trainer:in reagiert unvorhersehbar (auch: kein Paradeversuch, nur Andeutung)
 
-* Variation Materialien
-** z.B. gegen unbewaffnete Trainer:in; mit Mini-Degen; mit Handschuh
+Variation (wähle ein bis zwei aus)
 
-* Bewegungsausführung
-** Anfangs-, Endbedingungen
-** räumliche Ausführung
-** räumlich-zeitliche Ausführung (Geschwindigkeit)
-** dynamische Ausführung (Beschleunigung)
-** zeitliche Ausführung (Rhythmus)
-** Umfang
-** Dauer
-* Sinneswahrnehmungen (Einschränkungen, Verstärkung)
-* Materialien, Geräte
-* Untergrund, Gelände
-* Rahmenbedingungen, Regeln
+* Zufallsbasierte Auswahl: Parade / keine Parade / Konterversuch
+* Sichtfeldeinschränkung (Maskenrand abkleben, dunkler Hintergrund)
+* Andere Zielzonen (Oberschenkel, Fuß, Maske)
+* Mini-Degen (Führung der Spitze)
+
+*Phase 3: Stabilisierung (ca. 3 Min)*
+
+Ziel: Flüssige Anwendung in komplexer, dynamischer Situation
+
+. Trainer:in stellt frei wählbare Widerstände (Tempo, Technik, Richtung)
+. Athlet:in reagiert situativ, jede Reaktion individuell anders
+
+Feedback:
+
+* Explizit keine direkte Korrektur, sondern Reflexion über Erfolg („Was war anders?“)
+* Trainer:in lobt mutige und kreative Lösungen, auch wenn nicht erfolgreich
+

@@ -1,38 +1,56 @@
 = Technisches Lektionstraining
 
-Lektionstraining im Fechten bezeichnet ein Training, bei dem ein:e Trainer:in mit einzelnen Athlet:innen jeweils separat trainiert.
+Lektionstraining im Fechten bezeichnet ein Training, bei dem eine TrainerIn mit einzelnen AthletInnen jeweils separat trainiert.
 
-Nur selten tauchen Formen auf, bei denen mit mehreren Athlet:innen gleichzeitig lektioniert wird.
+Nur selten tauchen Formen auf, bei denen mit mehreren AthletIinnen gleichzeitig lektioniert wird.
 
-_Technisches_ Lektionstraining konzentriert sich darauf, der Athlet:in einzelne technische Elemente oder einfache Kombinationen zu vermitteln. Die Zusammensetzung mehrerer Aktionen und der situativ angemessene Einsatz ist Bestandteil des xref:page$agilitaetstraining.adoc[].
+.Ziel und Aufbau
 
-Die Auswahl der Techniken, die jeweils trainiert werden sollen, liegt primär bei der Trainer:in. Gerade Jugendlichen und Erwachsenen sollen diese bei der Auswahl einbezogen werden.
+Das _technische Lektionstraining_ konzentriert sich auf die Entwicklung einzelner Bewegungsmuster oder kurzer Kombinationen, die als Grundlage für komplexere Handlungen dienen. Die Einbindung dieser Techniken in taktisch-situative Kontexte erfolgt im Rahmen des Entscheidungstrainings oder xref:page$agilitaetstraining.adoc[spielnahen Agilitätstrainings]. Diese Trennung ist jedoch nicht absolut – moderne Trainingsformen integrieren Technik, Wahrnehmung und Entscheidung zunehmend von Beginn an.
 
-Gerade beim Aufbau komplizierterer Techniken (z.B. Quart-Coupé, Wurfstoß Schulter) kommen oft methodische Reihen zum Einsatz, die einzelne Elemente unabhängig voneinander trainieren und erst später kombinieren.
+.Technikauswahl
 
-Gemäß der xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[Umsetzungsprinzipien] ist es besser, diesen geblockten Ansatz aufzulösen und die Reihenfolge des Erlernens zufällig zu variieren
-include::partial$gen/bibliography.adoc[tag=LSmMR]
-.
+Die Auswahl der zu trainierenden Techniken erfolgt in Abstimmung zwischen TrainerIn und AthletIn. Besonders bei Jugendlichen und Erwachsenen ist es sinnvoll, diese aktiv in den Planungsprozess einzubeziehen, um Selbstverantwortung und Motivation zu fördern.
 
-Zusätzlich ist eine ausreichend hohe Fehlerrate anzustreben, damit die Voraussetzung für neuronale Plastizität gegeben ist. Diese Misserfolgsquote soll zwischen 60% und 80% liegen.
+.Methodik
+
+Zur Erarbeitung komplexer Techniken (z. B. Quart-Coupé, Schulterstoß) werden häufig methodische Reihen verwendet, in denen Teilbewegungen isoliert erlernt und später zusammengeführt werden. Entsprechend aktueller motorischer Lernforschung
+include::partial$gen/bibliography.adoc[tags=WoSchDifLearn2019]
+,
+include::partial$gen/bibliography.adoc[tags=MagAndMotLearn2016]
+ist es jedoch sinnvoll, geblockte Wiederholungen durch variable Übungsfolgen zu ersetzen, die zu einer höheren kontextuellen Interferenz führen.
+
+Ein hoher Grad an Bewegungsvariation – auch mit bewusst eingebauten Störfaktoren – fördert die Entwicklung stabiler, flexibler Bewegungsmuster. Eine adaptive Fehlerrate zwischen 40 % und 70 % kann die nötige Herausforderung bieten, um Aufmerksamkeit, Motivation und neuroplastische Prozesse zu aktivieren.
+
+Ein hoher Grad an Bewegungsvariation – auch mit bewusst eingebauten Störfaktoren – fördert die Entwicklung stabiler, flexibler Bewegungsmuster. Eine adaptive Fehlerrate zwischen 40 % und 70 % kann die nötige Herausforderung bieten, um Aufmerksamkeit, Motivation und neuroplastische Prozesse zu aktivieren.
 
 == Zum Umgang mit den Lernenden
 
 Zum Umgang mit der Athlet:in sollen folgende Grundsätze beachtet werden:
 
-* Die Notwendigkeit hoher Fehlerraten sind der Athlet:in vorab zu erläutern, sodass eine Akzeptanz des häufigen Misserfolgs als notwendige Voraussetzung gegeben ist: "Wenn Du etwas zu gut kannst, mache ich die Übung schwerer. Das ist für das Lernen notwendig. Wenn ich es Dir schwerer mache, dann heißt das, dass Du die Übung schon zu gut kannst."
+* Die Athlet:in wird vorab über den Wert von Fehlern als Lernsignale informiert. Misserfolge werden nicht negativ sanktioniert, sondern als Zeichen für hohe Anforderung und als Chance zum Lernen dargestellt: +
+  „Wenn Du etwas zu gut kannst, mache ich es Dir schwerer. Nur so entsteht Lernen.“
 
-* Ein:e Athlet:in wird nicht getadelt oder kritisiert. Die Rückmeldung über die Effektivität der gelernten Bewegung geschieht immer implizit über die Erfahrung von Erfolg und Misserfolg. Unerwartete Ausführungsvarianten sind durch Bewegungsaufgaben zu infrage zu stellen. Die Athlet:in wird sie korrigieren, wenn sie tatsächlich ineffektiv sind. Ansonsten darf die Variante beibehalten werden.
+* Rückmeldungen erfolgen primär implizit über den Bewegungserfolg und die Reaktion der Umwelt (z. B. simuliertes Gegnerverhalten, Zieltreffer). Unerwartete Varianten werden durch gezielte Aufgabenstellungen infrage gestellt. +
+  Korrekturen erfolgen _niemals direktiv_, sondern durch Variation und Erkundung.
 
-* Jede erfolgreiche Ausführung muss die Athlet:in sich erarbeiten. In keinem Fall sorgt die Trainer:in dafür, dass eine Aktion erfolgreich ist. Die unverfälschte Rückmeldung effektiver Aktionen ist die Grundlage für das Bewegungslernen.
+* Unerwartete Ausführungsvarianten sind durch Bewegungsaufgaben zu infrage zu stellen. Die Athlet:in wird sie korrigieren, wenn sie tatsächlich ineffektiv sind. Ansonsten darf die Variante beibehalten werden.
 
-* Lektionszeit ist Übungszeit. Die Athlet:in soll möglichst durchgehend selbst aktiv sein. Erläuterungen zu Theorie und Hintergründen sind Teil des Taktiktrainings oder können bei Interesse separat erfolgen. Die Methoden "Lernen durch Beobachtung", "Lernen durch Einsicht" und "Lernen durch Bewusstmachen von Bewegung" sind deutlich weniger effizient (siehe xref:page$grundlagen.adoc#grundlagen-klassische-trainingsmethoden[Klassische Trainingsmethoden]).
+* Die Athlet:in ist für den Lernerfolg mitverantwortlich. Erfolgreiche Ausführungen werden nicht „hergestellt“ oder durch Hilfestellungen künstlich erleichtert, sondern selbst erarbeitet.
+
+* Die Trainingszeit ist maximal aktivitätsorientiert. Theoretische Inhalte, Reflexion und Meta-Wissen können bei Interesse oder in separaten Einheiten vermittelt werden.
+
+* Andere Lernwege wie Beobachtung, mentale Simulation oder Bewusstmachung von Bewegung können unterstützend genutzt werden, sollten jedoch nicht die Selbsttätigkeit ersetzen.
 
 == Prinzip der Lektionsarbeit
 
-Grundlegend sind technische Lektionen so aufgebaut, dass jeweils ein einzelnes Technik-Element herausgegriffen wird, dass dann in möglichst vielen Variationen ausgeführt wird.
+Technische Lektionen zielen darauf ab, einzelne Bewegungsmuster oder Elemente unter gezielter Variation zu vermitteln und zu stabilisieren. Statt durch Wiederholung identischer Abläufe zu arbeiten, wird in jeder Übung eine neue Kombination aus Aktion und Veränderungsbedingung gewählt. Dies folgt dem Prinzip des „Repetition without repetition“
+include::partial$gen/bibliography.adoc[tags=Nadin2015Variability]
+und fördert die Ausbildung robuster, anpassungsfähiger motorischer Programme.
 
 Zur Variation stehen die xref:page$grundlagen.adoc#umsetzungsprinzipien-variabilitaet[Variablen des differenziellen Trainings] und die xref:page$motoriktraining.adoc#koordination-druchbedingungen[Druckbedingungen des Koordinationstrainings] zur Verfügung.
+
+NOTE: Auch innerhalb einer Lektion wird die motorische Herausforderung schrittweise gesteigert, um eine ausreichend hohe kognitive und sensorische Aktivierung zu gewährleisten. Diese ist Voraussetzung für neuroplastische Prozesse – insbesondere die Freisetzung lernrelevanter Botenstoffe wie Dopamin und BDNF.
 
 Gemäß der xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[Umsetzungsprinzipien] wird auch bei der Lektionsarbeit eine einzelne Übung (=Kombination aus Aktion und gewählter Variation) niemals wiederholt. Es geht immer mit der nächsten Kombination weiter.
 
@@ -40,16 +58,20 @@ Gemäß der xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[Umsetzungs
 
 Die Beispiele sind gruppiert nach _Angriff_, _Parade_, _Gegenangriff_ und _Beschäftigung_. Es sei darauf hingewiesen, dass die Unterscheidung der Gruppen im Degenfechten sehr unscharf ist; speziell zwischen _Parade/Riposte_ und _Gegenangriff mit Klingenbeseitigung_.
 
-Wir verwenden die Begriffe wie folgt:
+Die exemplarischen Lektionen lassen sich funktional in vier Gruppen unterteilen. Die Begriffe werden dabei nicht streng technisch, sondern unter Berücksichtigung taktischer Absichten verwendet:
 
-* Die Gruppe _Angriffe_ geht davon aus, dass die Fechter:in eine Aktion zur Erzielung eines Treffers selbst initiiert.
-* Die Gruppe _Gegenangriff_ geht davon aus, dass die Trainer:in eine Aktion beginnt, auf die die Fechter:in reagiert in der Absicht, selbst einen Treffer zu erzielen und dabei optional den Gegentreffer vermeidet.
-* Die Gruppe _Parade_ geht davon aus, dass die Trainer:in eine Aktion beginnt ud die Fechter:in diesen vereitelt und dabei optional selbst einen Treffer setzt.
-* Die Gruppe _Beschäftigung_ geht davon aus, dass die Fechter:in versucht, die gegnerische Initiative zu unterdrücken und dabei optional selbst einen Treffer setzt.
+* Angriff: Die Athlet:in initiiert aktiv eine Handlung mit dem Ziel, einen Treffer zu erzielen.
+* Parade/Riposte: Die Trainer:in greift an, die Athlet:in unterbricht diesen Versuch gezielt und nutzt die Situation optional für einen Gegentreffer.
+* Gegenangriff: Die Trainer:in initiiert eine Handlung, die Athlet:in reagiert mit einer zeitlich überlappenden oder antizipativen Aktion, um selbst zu treffen (z. B. Stoppstoß).
+* Beschäftigung: Die Athlet:in agiert, um die Initiative des Gegenübers zu stören, zu verzögern oder umzulenken – ggf. verbunden mit einem eigenen Angriffsversuch.
 
-Eine vollständige Lektion kann zwischen 15 Minuten und einer Stunde dauern. Die Dauer soll so gewählt werden, dass die Athlet:in die Konzentration aufrecht erhalten kann.
+Diese Gruppen sind nicht strikt trennscharf, speziell im Degenfechten, in dem viele Handlungen situativ sowohl als Parade als auch als Gegenangriff interpretiert werden können.
 
-Wir versuchen, bei einer Lektion mehrere Elemente zu trainieren. Ein Element soll (einschließlich aller trainierten Variationen) nicht länger als fünf Minuten am Stück trainiert werden. Danach soll zu einem anderen Element gewechselt werden. Dadurch soll ein Variationsdruck erzielt werden, der die Voraussetzungen für die Neuroplastizität erhöht.
+Eine vollständige Lektion dauert typischerweise 15 bis 60 Minuten und umfasst mehrere Bewegungselemente. Die Zeit pro Element (inkl. Variation) sollte 5 Minuten nicht überschreiten, um kognitiven und motorischen Wechseldruck zu erzeugen. Dieser sogenannte „contextual switching“ erhöht die Gedächtnisbelastung und führt zu einer stärkeren Konsolidierung im Langzeitgedächtnis
+include::partial$gen/bibliography.adoc[tags=MagAndMotLearn2016]
+.
+
+Die Konzentrationsfähigkeit der Athlet:in ist ein zentrales Kriterium für die Dauer der Lektion. Ein Abbruch oder Wechsel sollte spätestens dann erfolgen, wenn die Aufmerksamkeit signifikant nachlässt.
 
 == Lektionselemente zum Angriff
 
