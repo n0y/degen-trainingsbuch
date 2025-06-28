@@ -32,15 +32,20 @@ Ein effektiver Umgang mit destruktivem Feedback setzt daher auf emotionale Regul
 include::partial$gen/bibliography.adoc[tags=Gross2002Emotion]
 .
 
-== Interventionen bei destruktiver Kritik
+== Umgang mit destruktiver Kritik
 
-Die folgenden Kurzinterventionen können eingesetzt werden, um die Auswirkungen von destruktiver Kritik aufzuheben oder zumindest zu begrenzen.
+Destruktive Kritik bezeichnet eine Form der Rückmeldung zu sportlicher Leistung, motorischem Verhalten oder Trainingsverhalten, die nicht auf eine konstruktive Verbesserung abzielt, sondern durch abwertende, unspezifische oder emotional herabsetzende Kommunikation die Motivation, das Selbstkonzept oder die Lernbereitschaft des Athleten negativ beeinflusst.
 
-include::partial$mentale-aspekte/destruktive-kritik/auswirkungen.adoc[leveloffset=+1]
+NOTE: Beispiele: +
+  "Andere schaffen das locker – du bist einfach zu langsam." +
+  "Das war peinlich, schäm dich!" +
+  "Lass es einfach, das hat keinen Sinn mit dir."
 
-include::partial$mentale-aspekte/destruktive-kritik/ueberwindung-lokaler-optima.adoc[leveloffset=+1]
+include::partial$mentale-aspekte/destruktive-kritik/auswirkungen.adoc[leveloffset=+2]
 
-include::partial$mentale-aspekte/destruktive-kritik/gegenmassnahmen.adoc[leveloffset=+1]
+include::partial$mentale-aspekte/destruktive-kritik/ueberwindung-lokaler-optima.adoc[leveloffset=+2]
+
+include::partial$mentale-aspekte/destruktive-kritik/gegenmassnahmen.adoc[leveloffset=+2]
 
 == Resilienzbildung gegen destruktive Kritik
 
