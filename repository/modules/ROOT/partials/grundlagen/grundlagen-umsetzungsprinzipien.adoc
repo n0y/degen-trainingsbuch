@@ -7,34 +7,39 @@ include::partial$gen/bibliography.adoc[tag=TKFDL]
 
 Die Umsetzung basiert auf dem Prinzip der Variation
 include::partial$gen/bibliography.adoc[tag=BWADLS]
+:
 
 * Orientierung am individuellen Lösungsbereichs
 * Stabilität durch Variabilität/Einmaligkeit
-* Parameter-Variation, einschließlich Kontrastbildung im Bereich der „Invarianten“
+* Parameter-Variation, einschließlich Kontrastbildung im Bereich der „Invarianten“ (z.B. Regeln, also auch "Angriff ohne Sicht", ...)
 * Fehler als notwendige Voraussetzung des Lernens
 * Selbstoptimierung
 * selbstorganisierender, nicht-linearer Lernvorgang
 
 Dabei wird auch der klassische Ansatz der methodischen Reihen, z.B. nach
 include::partial$gen/bibliography.adoc[tag=LSmMR]
-, aufgelöst: Im geblockten Ansatz wird jede Übung z.B. 10 Mal hintereinander ausgeführt, bevor zur nächsten fortgeschritten wird. Im systemdynamischen Ansatz wird die Reihenfolge zufällig geändert. Sind in klassisch geblockten Ansatz nur zu Beginn einer neuen Übung größere Anpassungen nötig, variiert dann die Anzahl und Größe der Anpassungen und führt zu einem schnelleren Erfassen und Lernen der Inhalte. Zusätzlich steigt die Abwechslung für die Lernenden und damit die Motivation zur Teilnahme.
+, aufgelöst: Im geblockten Ansatz wird jede Übung z.B. 10 Mal hintereinander ausgeführt, bevor zur nächsten fortgeschritten wird. Im systemdynamischen Ansatz wird die Reihenfolge zufällig geändert. Sind in klassisch geblockten Ansatz nur zu Beginn einer neuen Übung größere Anpassungen nötig, variiert dann die Anzahl und Größe der Anpassungen und führt zu einem schnelleren Erfassen und Lernen der Inhalte
+include::partial$gen/bibliography.adoc[tags=Lee1983locus]
+. Zusätzlich steigt die Abwechslung für die Lernenden und damit die Motivation zur Teilnahme.
 
 Soll ein Bewegungsmuster trainiert werden, dann ist anzustreben, dass möglichst schnell - am besten von Anfang an - das vollständige Bewegungsmuster trainiert werden soll, auch dann, wenn dieses Vorgehen zunächst sehr hohe Fehlerraten erzeugt. Nach
 include::partial$gen/bibliography.adoc[tag=TKREML]
-führt eine abschnittsweise Einführung einer komplexen Bewegung zu schlechteren Lern- und Retentionsraten. Es ist aber darauf zu achten, dass Fehler aus der Handlung der Lernenden resultieren und nicht etwa zufällig auftreten, weil nur diese Fehler das Lernen verbessern.
+führt eine abschnittsweise Einführung einer komplexen Bewegung zu schlechteren Lern- und Retentionsraten. Es ist aber darauf zu achten, dass Fehler aus der Handlung der Lernenden resultieren und nicht etwa zufällig auftreten, weil nur diese Fehler das Lernen verbessern. Komplexe Technik kann ganzheitlich, aber mit adaptivem Schwierigkeitsgrad geübt werden – z. B. mit reduzierter Gegnerdynamik, größerem Zielbereich etc.
 
 Schon
 include::partial$gen/bibliography.adoc[tag=BBFTMG]
-verweist darauf, dass das „selbständige Üben“ das Grundverfahren beim Erlernen und Trainieren der (Technik-)Elemente darstellt. Mit differenzieller Lernmethode sollen in den Übungen die Variationen bewusst vergrößert und keine Wiederholungen mit identischen Parametern durchgeführt werden. Variiert werden können z.B. nach wieder
+verweist darauf, dass das „selbständige Üben“ das Grundverfahren beim Erlernen und Trainieren der (Technik-)Elemente darstellt. Mit differenzieller Lernmethode sollen in den Übungen die Variationen bewusst vergrößert und keine Wiederholungen mit identischen Parametern durchgeführt werden.
+
+Variiert werden können beispielswiese
 include::partial$gen/bibliography.adoc[tag=BWADLS]
-.
+:
 
 [[umsetzungsprinzipien-variabilitaet]]
 
 * Bewegungsausführung
-** Anfangs-, Endbedingungen
-** räumliche Ausführung
-** räumlich-zeitliche Ausführung (Geschwindigkeit)
+** Anfangs-, Endbedingungen (z.B. "geduckte Fechtstellung")
+** räumliche Ausführung (z.B. Zielhöhen)
+** räumlich-zeitliche Ausführung, Geschwindigkeit (z.B. Ausfall aus dem Laufen)
 ** dynamische Ausführung (Beschleunigung)
 ** zeitliche Ausführung (Rhythmus)
 ** Umfang
@@ -42,19 +47,24 @@ include::partial$gen/bibliography.adoc[tag=BWADLS]
 * Sinneswahrnehmungen (Einschränkungen, Verstärkung)
 * Materialien, Geräte
 * Untergrund, Gelände
-* Rahmenbedingungen, Regeln
+* Rahmenbedingungen, Regeln (z.B. nur ein Angriff pro Minute)
 
 Dabei dürfen die Anpassungen bis in den Programmbereich hinein reichen, also die Technik selbst verändern, z.B. den Ausschluss eines Körperteils oder bewusst „falsche“ Technik.
 
+// TODO das ist ein abrupter Übergang, das sollte man mal besser einführen
 In der Gruppe sollen auch offene Spiel- und Übungsformen und forschendes Lernen eingesetzt werden, z.B. nach
 include::partial$gen/bibliography.adoc[tag=DSSvV]
 .
 
-Es sollen beim Bewegungslernen hohe Fehlerraten angestrebt werden. Wir streben an, dass über 75 % aller Bewegungen fehlerhaft ausgeführt werden, weil nur durch Abweichungen zum gewünschten Verhalten zu einer Anpassung in den Gehirnstrukturen führt. Das bedingt außerdem, dass Abweichungen und deren Konsequenz für die Lernenden sichtbar sein muss.
+Es sollen beim Bewegungslernen hohe Fehlerraten angestrebt werden. Wir streben an, dass über 75 % aller Bewegungen fehlerhaft ausgeführt werden, weil nur durch Abweichungen zum gewünschten Verhalten zu einer Anpassung in den Gehirnstrukturen führt. Das bedingt außerdem, dass Abweichungen und deren Konsequenz für die Lernenden sichtbar sein muss
+include::partial$gen/bibliography.adoc[tags=Metcalfe2017Learning]
+.
 
 === Umsetzung der Variation in der Sportart Fechten
 
 In der Sportart Fechten können alle Parameter variiert werden, solange sie sich innerhalb der vom Reglement erlaubten bewegen und nicht zu vermeidbaren Verletzungsrisiken führen. Bei Variationen außerhalb des Bereichs des Reglements ist darauf zu achten, dass eine prinzipielle Ähnlichkeit erhalten bleibt: Variationen weit außerhalb des möglichen Lösungsbereichs fallen weg.
+
+NOTE: Prinzipielle Ähnlichkeit meint: Das Bewegungsziel und die biomechanische Grundstruktur bleiben erhalten, auch wenn situative oder kinematische Parameter verändert werden.
 
 Prinzipiell bieten sich folgende Variationsmöglichkeiten im Techniktraining an:
 
@@ -68,4 +78,15 @@ Prinzipiell bieten sich folgende Variationsmöglichkeiten im Techniktraining an:
 . Unterschiedliche Fußstellung
 . Unterschiedlicher Rhythmus, Schrittzahl, …
 
-Um eine komplexe Technik zu erlernen, sollen pro Training nicht mehr als 60 Aktionen (jeweils unterschiedliche Variations-Kombinationen) bei 2 bis max. 3 Trainingseinheiten pro Woche absolviert werden. Spätestens dann soll die trainierte Bewegung gewechselt werden. Die Komplexität soll während einer Trainingseinheit gesteigert werden.
+Die Auswahl und Kombination der zu trainierenden Variationen erfolgt im einfachsten Fall zufällig. Die Alternative ist die Auswahl auf Basis des jeweiligen Trainingsziels, z.B.:
+
+|===
+|Ziel | primäre Variationsdimension
+
+|Timing verbessern   | Rhythmus, Beschleunigung
+|Technikrobustheit   | Ausgangsposition, Gelenkstellung
+|Situative Anpassung | Fußstellung, Gegnerentfernung
+|Reaktionsschulung   | Bewegungsart, Geschwindigkeit
+|===
+
+Um eine komplexe Technik zu erlernen, sollen pro Trainingseinheit nicht mehr als 60 Aktionen (jeweils unterschiedliche Variations-Kombinationen) bei 2 bis max. 3 Trainingseinheiten pro Woche absolviert werden. Spätestens dann soll die trainierte Bewegung gewechselt werden. Die Komplexität soll während einer Trainingseinheit gesteigert werden.
