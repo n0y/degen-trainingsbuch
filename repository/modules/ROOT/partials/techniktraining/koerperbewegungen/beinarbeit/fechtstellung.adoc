@@ -10,22 +10,38 @@ Für Ausweichbewegungen ist eine hohe Hüftbeweglichkeit von Vorteil.
 
 Im Vergleich zur traditionellen Fechtstellung, bspw. in
 include::partial$gen/bibliography.adoc[tag=ErlFe]
-, Kap 4.1, sind im modernen Degenfechten Anpassungen sichtbar.
+, Kap 4.1, ergeben sich mehrere Möglichkeiten zur Anpassung, um die spezifischen Anforderungen im modernen Degenfechten angemessen zu erfüllen. Dabei ergeben sich für jede Anpassung jeweils Vorteile und Nachteile.
 
 .Moderne Fechtstellung am Beispiel von https://en.wikipedia.org/wiki/Choi_In-jeong[Choi In-jeong]
 image::technik-fechtstellung.svg[Embedded,80%]
 
 Die wichtigsten Anpassungen, die bei vielen Fechtern im höheren Leistungsbereich sichtbar sind:
 
-* Der Fußabstand wird in vielen Fällen deutlich vergrößert. Zweieinhalb bis drei Fußlängen sind hier keine Seltenheit. Dieser Abstand verbessert den Winkel, mit dem der hintere Fuß Kraft auf den Boden überträgt. In Abhängigkeit vom Reibungskoeffizient zwischen Schuhsohle und Metallbahn liegt der optimale Winkel bei etwa 42°. Das ist in normalen Stellungen nicht ganz zu erreichen, sodass hier meist gilt: je mehr, desto besser.
-* Speziell beim hinteren Fuß wird häufig die Ferse vom Boden gehoben. Bei großen Bodenwinkeln ist eine entspannte Haltung anders auch nicht möglich, weil das Ziel ist, die Wadenmuskeln im optimalen Arbeitsbereich zu halten.
-* Der Oberkörper wird nach vorne geneigt, so dass der Körperschwerpunkt in einer Linie mit dem hinteren Bein liegt. Dadurch werden beim Beschleunigen vorwärts Torsionskräfte vermieden und eine exakte Spitzenführung vereinfacht. Zusätzlich wird der Körperschwerpunkt ein Stück weit nach vorne verschoben, um für Rückwärtsbewegungen die nötige Reibung auf dem vorderen Fuß erzeugen zu können.
-* Der vordere Fuß wird nach vorne verschoben. Der dadurch entstehende Winkel zwischen Bein und Boden verbessert die Möglichkeit zur Bschleunigung nach hinten.
-* Der hintere Arm wird normalerweise neben dem Körper geführt und für die Kompensation von Rotationsbewegungen des Oberkörpers aktiv genutzt.
-* Die hintere Schulter wird oft weiter nach vorne geführt. Dadurch wird bereits im Stand eine höhere Hüftbeweglichkeit gefördert. Bei Angriffen kann die Schulter schnell beim Arrêt aus der Linie gedreht werden.
+* Der Fußabstand wird in vielen Fällen deutlich vergrößert. Zweieinhalb bis drei Fußlängen sind hier keine Seltenheit. Dieser Abstand verbessert den Winkel, mit dem der hintere Fuß Kraft auf den Boden überträgt. In Abhängigkeit vom Reibungskoeffizient zwischen Schuhsohle und Metallbahn liegt der optimale Winkel bei etwa 42°. Das ist in normalen Stellungen nicht ganz zu erreichen, sodass hier meist gilt: je mehr, desto besser. +
+ _Vorteile:_ Bessere Kraftübertragung in beide Richtungen, höhere Standfestigkeit, bessere Balance +
+ _Nachteile_: schnellere Ermüdung, Halbschritte erschwert
+* Speziell beim hinteren Fuß wird häufig die Ferse vom Boden gehoben. Bei großen Bodenwinkeln ist eine entspannte Haltung anders auch nicht möglich, weil das Ziel ist, die Wadenmuskeln im optimalen Arbeitsbereich zu halten. +
+ _Vorteile:_ mehr Explosivität, einfachere Tempowechsel und taktische Täuschungen +
+ _Nachteile:_ schnellere Ermüdung, Belastung Achillessehne & Wade (im Training zu beachten)
+* Der Oberkörper wird nach vorne geneigt, so dass der Körperschwerpunkt in einer Linie mit dem hinteren Bein liegt. Dadurch werden beim Beschleunigen vorwärts Torsionskräfte vermieden und eine exakte Spitzenführung vereinfacht. Zusätzlich wird der Körperschwerpunkt ein Stück weit nach vorne verschoben, um für Rückwärtsbewegungen die nötige Reibung auf dem vorderen Fuß erzeugen zu können. +
+_Vorteile_: mehr Explosivität, Provokation verfrühter Aktionen, Verlängung der Reichweite +
+_Nachteile_: schnellere Ermüdung, Schulter schwieriger zu decken
+* Der vordere Fuß wird nach vorne verschoben. Der dadurch entstehende Winkel zwischen Bein und Boden verbessert die Möglichkeit zur Bschleunigung nach hinten. +
+_Vorteile_: schnellerer Rückzug, psychologischer Druck +
+_Nachteile_: Fuß schwerer zu verteidigen
+* Der hintere Arm wird normalerweise neben dem Körper geführt und für die Kompensation von Rotationsbewegungen des Oberkörpers aktiv genutzt. +
+_Vorteile_: bessere Balance, bessere Körperspannung, mehr taktische Flexibilität +
+_Nachteile_: größere Trefffläche, höheres Verletzungsrisiko
+* Die hintere Schulter wird oft weiter nach vorne geführt. Dadurch wird bereits im Stand eine höhere Hüftbeweglichkeit gefördert. Bei Angriffen kann die Schulter schnell beim Arrêt aus der Linie gedreht werden. +
+_Vorteile_: mehr Stoßdynamik, dominantere Körpersprache +
+_Nachteile_: größere Trefffläche, Handauslagen muss angepasst werden
 * Der vordere Arm wird stärker angewinkelt, oft in einem Winkel von 90°. Da die explosive Armstreckung in unter 100ms erfolgt
 include::partial$gen/bibliography.adoc[tag=AREKinSP]
-  und die Muskulatur in stärkerer Expansion höhere Kräfte erreicht, kommt auch aus dieser Position ein Treffer nahezu gleichzeitig auf. Es lässt sich dadurch ohne Nachteile eine höhere Manövrierfähigkeit erreichen und die Hand ist vor Angriffen besser geschützt.
-* Mit der Wahl einer solchen Fechtstellung erfolgt meistens auch eine Umstellung der Beinarbeit. Die Gewichtsverteilung erlaubt keine einfachen Schritte mehr. Entweder wird die Fechtstellung für einfache Schritte aufgegeben (für Situationen ohne Druck in überweiter Mensur) oder es werden ausschließlich Sprünge durchgeführt, die dann meistens aus den Fußgelenken erfolgen.
+  und die Muskulatur in stärkerer Expansion höhere Kräfte erreicht, kommt auch aus dieser Position ein Treffer nahezu gleichzeitig auf. Es lässt sich dadurch ohne Nachteile eine höhere Manövrierfähigkeit erreichen und die Hand ist vor Angriffen besser geschützt. +
+_Vorteile:_ Paraden näher am Körper, Arm besser zu verteidigen, einfachere Stoßtäuschungen +
+_Nachteile:_ Spontane Angriffe schwieriger
+* Mit der Wahl einer solchen Fechtstellung erfolgt meistens auch eine Umstellung der Beinarbeit. Die Gewichtsverteilung erlaubt keine einfachen Schritte mehr. Entweder wird die Fechtstellung für einfache Schritte aufgegeben (für Situationen ohne Druck in überweiter Mensur) oder es werden ausschließlich Sprünge durchgeführt, die dann meistens aus den Fußgelenken erfolgen. +
+_Vorteile:_ mehr Explosivität (durch Vorspannung), bessere Distanzkontrolle, strahlt Dominanz aus +
+_Nachteile:_ schnellere Ermüdung,
 
 Es ist anzumerken, dass die genaue Fechtstellung sehr stark von der anwendenden Fechter:in abhängt und ein großer Varianzbereich sichtbar ist. In jedem Leistungsbereich sollen regelmäßig Varianten angeboten werden, um die Variabilität zu erhöhen und individuelle Lösungen zu fördern.
