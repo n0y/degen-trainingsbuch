@@ -1,0 +1,56 @@
+= Gegenangriff mit Meidbewegung
+:keywords: uebung
+:uebung-group: Lektionen
+
+ifndef::ownpage[]
+
+xref:page$practices/techniktraining/lektionstraining/uebungen/technisch/gegenangriff-meidbewegung.adoc[Nur diese Übung]
+
+endif::[]
+
+Lektionslänge ca. 5 Minuten.
+
+.Zweck der Lektion
+* Sicherheit in Klingen- und Spitzenführung auch in Drucksituationen
+* Bewusster Umgang mit Verteidigungsreflexen
+* Verbesserung des Umgangs mit verfügbarem Platz auf der Fechtbahn
+* Anpassung an Veränderungen der Anthropometrie (z.B. in Wachstumsphasen)
+* Erfahren der Effektivität verschiedener Meidbewegungen
+
+Halte den Abstand mit Schritten. Trainer:in greift unterschiedliche Blößen an und gibt sie vorher bekannt. Athletin weicht der Spitze mit dem Körper aus und trifft selbst auf beliebige Blöße. Kein Klingenkontakt!
+
+Jeweils hintereinander Angriffe auf folgende Blößen:
+
+* Körper oben innen
+* Körper oben außen
+* Flanke
+* Brust Mitte
+* Oberschenkel
+* Hand oben
+* Fuß
+* Maske
+
+Zufällig aus diesen Aufgaben auswählen, bis Lektionslänge erreicht.
+
+* Variation Bewegungsausführung - Endbedingung:
+** Treffe mit halb/ganz/nicht gestrecktem Arm
+** Stehe danach in Nahkampf-Entfernung
+** Laufe selbst nach dem Treffer an der Trainer:in vorbei
+** ...
+* Variation Bewegungsausführung - Anfangsbedingung
+** Fechte in Quart/Sixt/Oktav/...-Bindung
+** Aus Vorwärts/Rückwärtsbewegung unterschiedlicher Geschwindigkeit (Trainer:in)
+** Auf der Endlinie stehend
+** ..
+* Variation räumlich-/zeitliche Ausführung
+** Gegen unterschiedliche Angriffstiefen
+** Gegen Angriff mit Sprung/Ausfall/Fléche
+* Variation räumliche Ausführung
+** Mache Dich möglichst klein/groß
+** Weite/Enge Fußstellung
+* Variation dynamische Ausführung
+** Triff möglichst schnell!
+** Weiche erst aus und triff dann
+** ...
+* Variation Materialien/Geräte
+** Unbewaffnet, treffe durch Berühren mit der Hand
