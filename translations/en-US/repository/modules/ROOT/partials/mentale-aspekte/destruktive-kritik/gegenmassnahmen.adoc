@@ -1,0 +1,50 @@
+== Gegenmaßnahmen
+
+Selbstverständlich ist destruktives Feedback generell zu verhindern. Die Erfahrung zeigt aber, dass es trotzdem immer wieder stattfindet, sei es, weil eine TrainerIn unwillkürlich und spontan selbst falsch handelt (und es im Optimalfall direkt selbst bemerkt), oder auch, weil es z.B. bei Lehrgängen, Camps oder auf Turnieren Kontakt mit ungeschulten TrainerInnen gibt, die destruktive Kritik fälschlich als Trainingsmittel einsetzen.
+
+Um negative Effekte abzupuffern, sind eine Reihe von Maßnahmen wirkungsvoll. Sie können sowohl im Vorfeld erlernt werden (Ausbildung von Resilienz), als auch im Nachhinein (Intervention) angewendet werden. Insbesondere wirksam sind:
+
+* *Reframing*: Die negativ belegten Begriffe müssen aktiv durch neue semantische Knoten ersetzt oder entwertet werden. +
+z. B.: „Was als ‘verrücktes Huhn’ bezeichnet wurde, war vielleicht eine interessante Eigenlösung.“
+* *Vertrauensvolle soziale Kontexte*: Ein sicherer Raum mit unterstützender Sprache („Ich sehe, dass du dran bist“, „Schau mal, was sich verbessert hat“) kann beschädigte Knoten überlagern.
+* *Metaphorische Arbeit*: Neue positive Metaphern helfen beim Umbau des mentalen Lexikons: „Wie eine Katze landen“ statt „nicht wie ein Huhn zappeln“.
+* *Selbstreflexion fördern*: Durch Fragen wie „Was hast du gespürt?“, „Was hättest du anders gemacht?“ wird die Verbindung zum eigenen Körperschema gestärkt und ein  Gegengewicht zur äußeren Entwertung geschaffen.
+
+Destruktives Feedback ist grundsätzlich zu vermeiden. Es gilt als eine der häufigsten Ursachen für reduzierte Motivation, Selbstzweifel und Leistungsblockaden im Sport
+
+include::partial$gen/bibliography.adoc[tags=Galli2008Bouncing]
+. Dennoch zeigt die Praxis: Solche Rückmeldungen treten weiterhin auf – aus spontaner emotionaler Reaktion, aus ungeschulter Kommunikation oder durch Begegnung mit externen Trainer:innen (z. B. bei Lehrgängen, Turnieren), die destruktives Feedback fälschlich für leistungsförderlich halten.
+
+Um negative Effekte zu puffern oder gar umzukehren, haben sich mehrere kompensatorische Strategien bewährt. Diese können sowohl präventiv (durch Resilienzbildung) als auch reaktiv (als Intervention) eingesetzt werden:
+
+* *Reframing – semantische Umstrukturierung*:
+Negativ besetzte Begriffe werden durch neue Bedeutungsnetzwerke ersetzt oder entwertet. +
+Beispiel: Statt „verrücktes Huhn“ → _„eine ungewöhnliche, kreative Eigenlösung“_ +
+Ziel ist die Neucodierung im mentalen Lexikon, um die emotional-negative Verankerung zu lösen
+include::partial$gen/bibliography.adoc[tags=Schack2007Reprasentation]
+.
+* *Sozial sichere Kontexte schaffen*:
+Der Aufbau von Vertrauen durch eine empathische, validierende Sprache wie: +
+_„Ich sehe, dass du dran bleibst.“_ oder _„Deine Landung war schon deutlich stabiler.“_ +
+Solche Aussagen stärken das Selbstbild und wirken gegen dysfunktionale Knoten im semantischen Netz
+include::partial$gen/bibliography.adoc[tags=Ryan2000Self]
+.
+* *Metaphorische Rekodierung*:
+Positive, körpernahe Bilder helfen, beschädigte Bewegungsrepräsentationen zu überschreiben. +
+Beispiel: Statt _„nicht wie ein Huhn zappeln“_ → _„weich wie eine Katze landen“_ +
+Unterstützt mentale Umstrukturierung durch Embodied Semantics
+include::partial$gen/bibliography.adoc[tags=Lakoff1999Philosophy]
+.
+* *Selbstreflexion durch gezielte Fragen*:
+Fragen wie _„Was hast du gespürt?“_ oder _„Was hättest du anders machen können?“_ aktivieren das Körperschema und verschieben die Kontrolle zurück zum Athleten. +
+Ziel: Agency und Selbstwirksamkeit stärken, um äußere Bewertung zu relativieren
+include::partial$gen/bibliography.adoc[tags=Bandura1997Self]
+.
+
+Diese Strategien kombinieren sprachlich-semantische Neuorganisation mit emotionaler Re-Sicherung und fördern langfristig die Resilienz gegenüber ungünstigen Einflüssen auf das Bewegungslernen.
+
+include::partial$mentale-aspekte/destruktive-kritik/cards/kurzintervention-sofort.adoc[leveloffset=+1]
+
+include::partial$mentale-aspekte/destruktive-kritik/cards/kurzintervention-tage-danach.adoc[leveloffset=+1]
+
+include::partial$mentale-aspekte/destruktive-kritik/cards/kurzintervention-eigene-peergroup.adoc[leveloffset=+1]
