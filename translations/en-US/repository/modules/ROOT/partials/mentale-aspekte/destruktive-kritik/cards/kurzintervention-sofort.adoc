@@ -1,0 +1,76 @@
+= Kurzintervention: Versehentliche eigene destruktive Kritik
+:keywords: uebung
+:uebung-group: Training-Cards
+
+ifndef::ownpage[]
+
+xref:page$practices/mentale-aspekte/destruktive-kritik/cards/kurzintervention-sofort.adoc[als Coaching Card  ⤴]
+
+endif::[]
+
+Ziele:
+
+* Negatives Feedback + Emotion ≠ Realität
+* → Entkoppeln + Embodiment + neue semantische Knoten + Wiederholung
+
+Direkt nach einer versehentlichen destruktiven Kritik ist es wichtig, den negativen Satz nicht internalisieren zu lassen.
+
+Ansprache (ruhig, klar, direkt):
+
+[quote]
+____
+Lass uns das kurz löschen – das war ein schlechter Kommentar, aber du bist nicht verrückt / albern / ein Huhn.
+____
+
+oder humorvoll:
+
+[quote]
+____
+Du bist kein Huhn. Höchstens ein Adler im Sturzflug, der noch justiert.
+____
+
+NOTE: Wirkt, weil die sofortige semantische Umcodierung die automatische Verankerung im mentalen Lexikon unterbricht. Die lässt Distanz zum Kommentar entstehen (Disidentifikation).
+
+Ziel: Emotion überschreiben durch Bewegung (Embodied Reframing)
+
+Beispiel-Übung: „Zurück in deine Kraft“
+
+* Stelle dich breit hin.
+* Arme locker schwingen lassen.
+* Einatmen – Arme nach oben.
+* Ausatmen – Arme mit Schwung fallen lassen.
+* Dann 3 Sekunden in starker Haltung stehen (z. B. „Power-Pose“: Brust raus, Kopf hoch).
+
+[quote]
+____
+Spür mal, wie du jetzt im Körper bist. Das bist du – nicht der Spruch von außen.
+____
+
+Ziel: Die ursprüngliche Bewegung neu rahmen mit einer neuen Bedeutung, nicht mit Korrektur.
+
+Ansprache: ruhig, zukunftsbezogen
+
+[quote]
+____
+Was du da gemacht hast, war ein mutiger Versuch, neue Energie reinzubringen – daran bauen wir an.
+____
+
+oder
+
+[quote]
+____
+Ich hab da gute Ansätze gesehen. Wenn wir’s gemeinsam justieren, wird da was richtig Gutes draus.
+____
+
+Ziel: Metaphorische Sprache überschreibt die negativ bewertete Bewegung
+
+[quote]
+____
+Mach sie nochmal – aber diesmal stell dir vor, du bewegst dich wie flüssiges Metall / ein elastischer Pfeil / ein Raubtier im Sprung.
+____
+
+.Nochmal kurz: Beispielhafte 30-Sekunden-Reaktion auf abwertenden Kommentar:
+. „Vergiss den Huhn-Spruch – das war unnötig.“
+. Übung: Arme hoch, ausatmen, Power-Pose +
+„Spür mal: das ist deine Energie – bleib bei dir.“
+. „Dein Sprung hatte Mut – lass uns jetzt an Timing und Richtung drehen.“
