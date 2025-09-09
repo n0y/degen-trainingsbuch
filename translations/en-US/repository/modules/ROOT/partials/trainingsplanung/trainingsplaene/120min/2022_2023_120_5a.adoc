@@ -1,0 +1,50 @@
+= Trainingsplan: Partnerübung und freies Fechten
+:keywords: uebung
+:uebung-group: Trainingspläne
+
+ifndef::ownpage[]
+
+xref:page$practices/trainingsplanung/trainingsplaene/120min/2022_2023_120_5a.adoc[Nur diese Übung]
+
+endif::[]
+:!ownpage:
+
+Dauer: 120min
+
+[cols=".^8,.^1"]
+|===
+a|=== Aufwärmen
+|*20{nbsp}min*
+
+a|==== Rebound-Ball
+|15{nbsp}min
+
+a|==== Trinkpause und Umziehen
+|5{nbsp}min
+
+a|=== Partnerübung
+
+In zwei Gruppen, beliebige Einteilung
+
+include::partial$taktiktraining/partneruebung/fokuskontrolle-treffflaeche.adoc[leveloffset=+3]
+
+include::partial$taktiktraining/partneruebung/taktische-preparation-1.adoc[leveloffset=+3]
+|*15{nbsp}min*
+
+a|=== Trinken, elektrische Bahnen aufbauen
+|*15{nbsp}min*
+
+a|=== Freies Fechten
+
+Es werden Dreier- und Viererrunden gefochten. Die Zuordnung erfolgt zufällig.
+
+Die Athlet:innen tragen die Gefechte selbst ein und werten das Tableau auf selbst aus.
+
+Danach Direktausscheidung auf 10 Treffer. Schlechter gesetzte Fechter:innen erhalten 3 Treffer Vorsprung.
+
+_Parallel: Lektionieren_
+|*60{nbsp}min*
+
+a|=== Abbauen
+|*10{nbsp}min*
+|===
