@@ -1,0 +1,29 @@
+= Taktische Preparation: Oktav-Schlag
+:keywords: uebung
+:uebung-group: Partnerübungen (taktisch)
+
+ifndef::ownpage[]
+
+xref:page$practices/taktiktraining/partneruebung/taktische-preparation-1.adoc[Nur diese Übung]
+
+endif::[]
+
+Entwicklen der taktischen Preparation in der Klingenarbeit
+
+Partnerübung; Gasse; A und B stehen sich gegenüber
+
+.Aufgabe
+* B bestimmt Abstand (in Sixt), A folgt in 2er-Mensur
+* B: Vorbereitung durch Oktav-Klingenschlag
+* A: beim vierten Schlag weicht A dem Klingenschlag aus (Kavation) und trifft zur Brust
+* B: Quart-Parade, Stoß Brust
+
+//-
+
+.Varianten
+* in (4): Statt Stoß Brust lieber Filo Flanke
+* in (4): Halbkreis-Sixt statt Quart
+* in (2): Vorbereitung durch Kreissixt-Schlag
+* A setzt Kavations-Angriff sobald A möchte
+* Durchführung sehr langsam, sehr schnell
+* in (4) mit Rückwärtsbewegung, mit Vorwärtsbewegung
