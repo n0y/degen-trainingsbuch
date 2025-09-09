@@ -1,0 +1,31 @@
+= Übung: Koordinationsübung freie Angriffe - Wettkampfform
+:keywords: uebung
+:uebung-group: Koordination
+
+ifndef::ownpage[]
+
+xref:page$practices/motoriktraining/koordinationstraining/motoriktraining-koordinationstraining-bsp2.adoc[Nur diese Übung]
+
+endif::[]
+
+Freie Angriffe mit Druckvorgabe: Bewegungszeit
+
+Hinweis: die Übung kann auch mit jeder anderen, einfachen Aktion durchgeführt werden.
+
+3er-Gruppen
+
+.Material
+* Fechtmelder, einer pro Gruppe
+* ggf. Startmarkierungen (Hütchen oder Klebeband)
+
+Pro Gruppe: Beide Rollen auf die gleiche Seite stellen. Melder so anschließen, dass Rechts/Links zu den Rollen passt.
+
+Startlinien markieren in zwei Meter Abstand. Endlinie 7m hinter der Startlinie.
+
+Es wird zwei gegen eins gefochten. Fechter:in A und B sind jeweils an die Rollen angeschlossen und starten nebeneinander. Fechter:in C (nicht angeschlossen) steht zwei Meter entfernt.
+
+Auf Signal von C (z.B. Ruf, Waffe heben, Schritt vor) dürfen A und B frei angreifen.
+
+Nach jedem Treffer (Doppeltreffer sind in Ordnung) wird neu aufgestellt.
+
+Es wird auf fünf Treffer gefochten und dann in der Gruppe rotiert. Danach neue Einteilung mit Gewinner:innen und den anderen.
