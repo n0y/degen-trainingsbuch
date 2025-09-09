@@ -1,0 +1,28 @@
+= Fokuskontrolle: Treffen statt Klinge
+:keywords: uebung
+:uebung-group: Partnerübungen (taktisch)
+
+ifndef::ownpage[]
+
+xref:page$practices/taktiktraining/partneruebung/fokuskontrolle-treffflaeche.adoc[Nur diese Übung]
+
+endif::[]
+
+Fokus aufs Treffer setzen, statt auf Klingenkontrolle
+
+Partnerübung, Gasse, A und B stehen sich gegenüber
+
+.Aufgabe
+* A bewegt sich frei und sucht Klingenkontakt und -Bindung
+* B: folgt in 2er-Mensur und versucht immer, die eigene Spitze vor der gegnerischen Trefffläche zu platzieren
+* A: rückt schnell näher
+* B: trifft nur mit Armstreckung in die gegnerische Vorwärtsbewegung
+
+//-
+
+.Varianten
+* Treffflächen-Vorgabe für B: Hand, Maske, Körper, Oberschenkel
+* A: schnelles Vorwärtsrücken auf Signal (Ruf)
+* Körperhaltung B: geduckt hinter eigener Glocke
+* Aktionsvorgabe A: Klinge von B immer nach außen drängen
+* Gegenaktion B: mit Klinge ausweichen, gegen Klinge drücken
