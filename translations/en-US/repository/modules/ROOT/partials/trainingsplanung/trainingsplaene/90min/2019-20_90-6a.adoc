@@ -1,0 +1,75 @@
+= Trainingsplan Rollstuhlfechten
+:keywords: uebung
+:uebung-group: Trainingspläne
+
+ifndef::ownpage[]
+
+xref:page$practices/trainingsplanung/trainingsplaene/90min/2019-20_90-6a.adoc[Nur diese Übung]
+
+endif::[]
+
+Dauer: 90 min
+
+Materialien: Langbänke o.ä.
+
+[cols=".^8,.^1"]
+|===
+a|=== Aufwärmen
+|*15 min*
+
+a|==== Schild-Fangen
+
+Quelle:
+
+include::partial$gen/bibliography.adoc[tags=GIFI]
+
+.Beschreibung:
+* Immer vier Spieler zusammen
+* Drei halten sich an den Hängen und bilden ein Dreieck.
+* Einer davon soll gefangen werden, jeder ist Reihum mal dran
+* Der vierte Spieler soll dieses Ziel fangen. Die anderen versuchen, sich so zu bewegen, dass das Ziel geschützt wird (durch rotieren!)
+* Wird das Ziel gefangen, dann wird der RECHTS neuer Fänger und der Links neues Ziel.
+* Spätestens nach einer Minute gibt es einen Wechsel (ANSAGEN!)
+
+//-
+
+.Darauf achten, dass:
+* der Fänger nur außen herum läuft, nicht in der Mitte durch (auch nicht durch greift): Verletzungsgefahr! +
+* die Leute sich nicht zu verausgaben. Insbesondere bei Gruppen mit unterschiedlich starken/ schnellen Personen
+|3x 3 min
+
+a|==== Trinken
+|5 Min
+
+a|=== Masken-Staffel
+
+Intensives Erwärmen des Oberkörpers und der Armmuskulatur, die beim Rollstuhlfechten besonders beansprucht wird.
+
+Etwa gleich starke Mannschaften, jeweils 4 bis 5 Personen und jeweils eine Maske
+
+Maske wird jeweils an den Nächststehenden übergeben. Der letzte läuft nach vorne und beginnt dort erneut (so gehts voran)
+
+Es beginnt die Mannschaft, die nachdem Minuten am weitesten vorne ist.
+
+* Seitliches übergeben
+* Über den Kopf übergeben
+|*10 min*
+
+a|=== Trinken, Umziehen, Aufbauen
+|*15 Min*
+
+a|=== Rollstuhlfechten
+
+* Mit Bänken zum absetzen
+* Melder daneben auf die Kisten
+* Abstand richtig einstellen: Waffe in Liniereicht bis zum Ellenbogen des Gegners (Innenseite)
+* Bei unterschiedliche Größen der Fechter entscheidet der kürzere über die Distanz
+* Jeweils auf fünf Treffer, ca. 5 Personen pro Runde
+* Immer mit einer Kampfrichter:in
+
+*Parallel: Einzellektionen*
+|*35 Min*
+
+a|=== Abbauen
+|10 Min
+|===
