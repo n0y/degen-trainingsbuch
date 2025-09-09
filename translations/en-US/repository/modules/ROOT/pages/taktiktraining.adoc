@@ -1,0 +1,5 @@
+= Taktik-Training
+:description: Effizientes Training technischen Fähigkeiten im Degen-Fechten. Grundlagen, Lektionen, Partnerübungen.
+:keywords: Fechten,Degen-Fechten,Training,Kampfsport,Technik,Lektionen,Partnerübungen,Taktik
+
+include::partial$taktiktraining/taktiktraining.adoc[]
