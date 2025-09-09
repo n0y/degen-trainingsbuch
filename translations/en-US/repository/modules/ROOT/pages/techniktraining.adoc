@@ -1,0 +1,11 @@
+= Technik-Training
+:description: Effizientes Training technischen Fähigkeiten im Degen-Fechten. Grundlagen, Lektionen, Partnerübungen.
+:keywords: Fechten,Degen-Fechten,Training,Kampfsport,Technik,Lektionen,Partnerübungen
+
+include::partial$techniktraining/techniktraining-grundlagen.adoc[leveloffset=+1]
+
+include::partial$techniktraining/techniktraining-koerperbewegungen.adoc[leveloffset=+1]
+
+include::partial$techniktraining/techniktraining-treffbewegung.adoc[leveloffset=+1]
+
+include::partial$techniktraining/lektionstraining/lektionstraining.adoc[leveloffset=+1]
