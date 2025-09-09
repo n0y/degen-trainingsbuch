@@ -1,0 +1,55 @@
+= Training motorischer Fähigkeiten
+
+:description: Effizientes Training der grundlegenden motorischen Fähigkeiten für das Degen-Fechten.
+:keywords: Fechten,Degen-Fechten,Training,Kampfsport,Ausdauer,Schnelligkeit,Maximalkraft,Koordination,Beweglichkeit
+
+Motorische Fähigkeiten sind die Grundlage, auf der das spezifische Fechttraining aufsetzt:
+
+* Ausdauer
+* Schnelligkeit
+* (Maximal-)Kraft
+* Koordination
+* Beweglichkeit
+* Reaktionsfähigkeit
+
+Diese motorischen Fähigkeiten sind generell für alle sportlichen Tätigkeiten relevant. Hier ist das Ziel in erster Linie, die Fähigkeiten so zu trainieren, wie sie für den Fechtsport notwendig sind.
+
+Diese Fähigkeiten lassen sich jeweils separat trainieren. Allerdings steht in den meisten Trainingsplänen nicht genug Zeit dafür zur Verfügung, sodass das Training entweder separat durch die Athlet:innen erfolgt oder in das reguläre Training integriert werden muss. Dabei empfiehlt es sich, kombinierte Übungen anzubieten, in denen mehrere motorische Fähigkeiten gleichzeitig trainiert werden können.
+
+== Motorische Anforderungen des Sportfechtens
+
+Das Sportfechten ist in seiner Belastungsstruktur mit anderen olympischen Kampfsportarten vergleichbar: Ähnlich wie das Taekwondo liegt der Schwerpunkt auf kurzen Runden hochintensiver Belastung. Neben technischen Anforderungen liegt der Schwerpunkt im anaeroben und neuromuskulären Bereich.
+
+Ähnlich zum Taekwondo lässt sich auch im Sportfechten die maximale aerobe Kapazität auf 60-65 stem:[(ml * kg) / min] schätzen.
+
+Grundlegend für hochintensive Belastungen ist eine große aerobe Kapazität
+
+include::partial$gen/bibliography.adoc[tag=HPNRHP]
+, und dabei insbesondere die Herzminutenleistung. Das trifft insbesondere auf Athlet:innen mit bereits hoher VO~2~max zu
+
+include::partial$gen/bibliography.adoc[tag=BoVO2]
+.
+
+//
+
+// Einzelne Kapitel ab hier
+
+//
+
+include::partial$motoriktraining/ausdauertraining/ausdauertraining.adoc[leveloffset=+1]
+
+include::partial$motoriktraining/koordinationstraining/koordinationstraining.adoc[leveloffset=+1]
+
+include::partial$motoriktraining/reaktionstraining/reaktionstraining.adoc[leveloffset=+1]
+
+== Maximalkrafttraining
+
+_TODO_
+
+== Schnelligkeitstraining
+
+_TODO_
+
+== Beweglichkeitstraining
+
+_TODO_
