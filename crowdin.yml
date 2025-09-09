@@ -1,0 +1,4 @@
+files:
+  - source: /repository/modules/ROOT
+    translation: /translations/%locale%/%original_path%/%original_file_name%
+    scheme: en-US
