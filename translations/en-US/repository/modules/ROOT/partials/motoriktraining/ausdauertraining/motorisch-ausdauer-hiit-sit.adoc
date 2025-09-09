@@ -1,0 +1,169 @@
+= Trainingsplan: Kombination HIIT/SIT
+:keywords: uebung
+:uebung-group: Ausdauertraining
+
+ifndef::ownpage[]
+
+xref:page$practices/motoriktraining/ausdauertraining/motorisch-ausdauer-hiit-sit.adoc[Nur diese Übung]
+
+endif::[]
+
+Folgender Trainingsplan, basierend auf
+
+include::partial$gen/bibliography.adoc[tag=RKNGW]
+(34), nutzt abwechselndes hochintensives Intervalltraining und Sprint-Intervalltraining.
+
+Der "normale Lauf" (ohne Angabe) in der Einheit bezieht sich auf 95% der Geschwindigkeit eines 6-Minuten-Laufs, die am Anfang der Mehr-Wochen-Einheit ermittelt wird. Je nach Ausstattung kann dabei die Geschwindigkeit oder die (besser) die Herzfrequenz als Vorgabe dienen.
+
+Die "Sprint"-Einheiten werden immer mit maximal möglicher Geschwindigkeit gelaufen.
+
+[cols="1,4,1,1"]
+|===
+|Einheit |Beschreibung |Art |Dauer
+
+|1
+|* 2 Wiederholungen:
+** 10 mal:
+*** 30 s Lauf
+*** 30 s Pause
+** Serienpause: 3:30 min
+|HIIT
+|22:30 min
+
+|2
+|* 4 Wiederholungen
+** 4 min Lauf
+** 3 min Pause
+|HIIT
+|24 min
+
+|3
+|* 2 Wiederholungen:
+** 8 mal:
+*** 8 s Sprint
+*** 15 s Pause
+** 3 min Serienpause
+|SIT
+|9:40 min
+
+|4
+|* 7 Wiederholungen:
+** 2 min Lauf
+** 2 min Pause
+|HIIT
+|26 min
+
+|5
+|* 3 Wiederholungen:
+** 10 mal:
+*** 30 s Lauf
+*** 20 s Pause
+** 3:30 min Serienpause
+|HIIT
+|27:50 min
+
+|6
+|* 4 Wiederholungen
+** 4 min Lauf
+** 3 min Pause
+|HIIT
+|24 min
+
+|7
+|* 2 Wiederholungen:
+** 8 mal:
+*** 8 s Sprint
+*** 15 s Pause
+** 3 min Serienpause
+|SIT
+|9:40 min
+
+|8
+|* 7 Wiederholungen:
+** 1 min Lauf
+** 1 min Pause +
+* 3 min Serienpause +
+* 6 Wiederholungen:
+** 30 s Lauf
+** 1 min Pause
+|HIT
+|25 min
+
+|
+|*4-6 Tage Pause*
+|
+|
+
+|9
+|* 4 Wiederholungen
+** 4 min Lauf
+** 3 min Pause
+|HIIT
+|24 min
+
+|10
+|* 2 Wiederholungen:
+** 8 mal:
+*** 8 s Sprint
+*** 15 s Pause
+** 3 min Serienpause
+|SIT
+|9:40 min
+
+|11
+|* 10 Wiederholungen:
+** 10 mal:
+*** 40 s Lauf
+*** 20 s Pause
+** 4 min Serienpause
+|HIIT
+|23:20 min
+
+|12
+|* 2 Wiederholungen:
+** 8 mal:
+*** 8 s Sprint
+*** 15 s Pause
+** 3 min Serienpause
+|SIT
+|9:40 min
+
+|13
+|* 4 Wiederholungen
+** 4 min Lauf
+** 3 min Pause
+|HIIT
+|24 min
+
+|14
+|* 2 Wiederholungen:
+** 8 mal:
+*** 8 s Sprint
+*** 15 s Pause
+** 3 min Serienpause
+|SIT
+|9:40 min
+
+|15
+|* 3 Wiederholungen:
+** 10 mal:
+*** 15 s Sprint
+*** 20 s Pause
+** 3 min Serienpause
+|HIIT
+|23 min
+
+|16
+|* 2 Wiederholungen:
+** 8 mal:
+*** 8 s Sprint
+*** 15 s Pause
+** 3 min Serienpause
+|SIT
+|9:40 min
+
+|
+|*3-5 Tage Pause*
+|
+|
+|===
