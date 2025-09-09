@@ -1,0 +1,42 @@
+= Parade gegen Angriffe innen/unten, Riposte mit Wurfstoß
+:keywords: uebung
+:uebung-group: Lektionen
+
+ifndef::ownpage[]
+
+xref:page$practices/techniktraining/lektionstraining/uebungen/technisch/parade-tief-wurfstoss.adoc[Nur diese Übung]
+
+endif::[]
+
+.Zweck der Lektion
+* Neutralisieren tiefer Angriffe
+* Mensurauswahl für Paraden
+* Situationsangemesene Paradebewegung
+* Technik des _Wurfstoß_ bei schließender Mensur
+
+//-
+
+.Aufgabenstellung
+. Trainer:in bewegt sich frei auf der Bahn in Auslage Sixt
+. Athlet:in folgt in mittlerer Mensur in Auslage Sixt
+. Trainer:in führt einen direkten Angriff unten/innen durch, nimmt den Oberkörper weit nach unten und bleibt dort
+. Athlet:in pariert angemessen mit Quart oder tiefer Quint.
+. Athlet:in ripostiert gegen die nur geschlossene Mensur mit Wurfstoß über die äußere Schulter zum Rücken
+. Trainer:in versucht Rimesse mit Opposition
+
+Wiederhole mit Vorgabe für die Daumenposition bei der Parade:
+
+* Rechtshänder: 1 Uhr, 11 Uhr, 9 Uhr, 7 Uhr
+* Linkshänder: 11 Uhr, 1 Uhr, 3 Uhr, 5 Uhr
+
+Zufällig aus diesen Aufgaben auswählen, bis Lektionslänge erreicht.
+
+* Bewegungsausführung: Anfangsbedingung
+** Vorgabe der Mensur, die gehalten werden soll: mehrere Varianten zwischen Nahkampf und weiter Mensur
+** Vorgabe der Klingenlagen: Auslage und ggf. gebunden/bindend
+** Körperbewegung bei der Parade: im Stand, mit Schritt zurück, mit Schritt vor, in die Knie gehend, mit Sprung nach oben
+* Bewegungsausführung: Endbedingung
+** Wurfstoß im Stand, mit Schritt vor (in den Nahkampf), mit Fléche und Vorbeilaufen
+* Bewegungsausführung: räumlich-zeitliche Ausführung
+** Parade so früh wie möglich, so spät wie möglich
+** Parade halten: nur Schlag (sanft, kräftig), kurz halten, bis zum Boden transportieren
