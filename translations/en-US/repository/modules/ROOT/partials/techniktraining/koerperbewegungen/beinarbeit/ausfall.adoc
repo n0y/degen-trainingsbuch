@@ -1,0 +1,25 @@
+= Der Ausfall
+
+Als eines der grundlegenden Elemente der fechterischen Bewegungen kommt dem Ausfall eine große Bedeutung zu. Er wird in unzähligen Veröffentlichungen im Details beschrieben, bspw. In
+
+include::partial$gen/bibliography.adoc[tag=ErlFe]
+. Die tatsächlich von Sportlern durchgeführte Bewegung weicht von der Beschreibung nahezu immer ab. Das betrifft sowohl die Ausgangsposition, bei der deutlich mehr Gewicht auf dem vorderen Fuß lastet
+
+include::partial$gen/bibliography.adoc[tag=KDSFL]
+, als auch die Fussbewegung, bei der in allen beobachteten Fällen die vordere Ferse zuerst den Boden verlässt
+
+include::partial$gen/bibliography.adoc[tag=KALFS]
+.
+
+Der zu trainierende Lösungsbereich könnte so eingeschränkt werden:
+
+* Ausgangspunkt ist eine Fechtstellung im Rahmen der gültigen Parameter oder einer Position, die aus regelkonformen Aktionen erreicht werden kann.
+* Ziel ist es, mit der Spitze der eigenen Waffe einen entfernten Punkt möglichst schnell zu treffen.
+* Dabei soll der vordere Fuß explosionsartig weiter nach vorne gebracht werden.
+* Dabei soll kein Überkreuzen der Füße erfolgen, und die Bewegung soll danach beendet sein. (Abgrenzung zum Fléche und zum Säbel-spezifischen „Flunge“)
+
+Alle anderen Parameter sollen Teil der zu trainierenden Variationen sein. Das betrifft insbesondere, aber nicht ausschließlich: die Reihenfolge der Arm- und Beinbewegung; die Beschleunigung/Verzögerung bei der Ausführung; die Fußstellung vor, während und nach der Ausführung; die Arm- und Handlage während der Ausführung. Dabei ist besonders bei der Vorgabe der Fußstellung darauf zu achten, dass Verletzungs-treibende Vorgaben unterbleiben (bspw. darf das Knie nicht nach innen fallen).
+
+Der Ausfall kann auch mit Partnerübung trainiert werden. Dort ist auch die Reaktion auf gegnerische Störungen während des Ausfalls trainierbar.
+
+Details zur Koordination zwischen Arm und Bein beim Ausfall sind unter "Stoß- und Treffbewegung" zu finden.
