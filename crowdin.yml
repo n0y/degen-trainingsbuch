@@ -1,6 +1,3 @@
 files:
-  - source: /repository/modules/ROOT/**/*
-    ignore:
-      - '*.bib'
+  - source: /repository/modules/ROOT/**/*.adoc
     translation: /translations/%locale%/%original_path%/%original_file_name%
-    scheme: en-US
