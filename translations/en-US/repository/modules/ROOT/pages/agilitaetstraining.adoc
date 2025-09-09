@@ -1,0 +1,213 @@
+= Agilitätstraining
+
+:description: Training für sportspezifische Agilität für das Fechten mit Schwerpunkt auf dem Degen-Fechten.
+:keywords: Fechten,Degen-Fechten,Training,Agilität,Kampfsport
+
+Kraft-, Kraft-Ausdauer und kardiovaskuläre Fitness sind verhältnismäßig einfach zu trainieren und eine Erhebung des Trainingsstands ist vergleichsweise einfach.
+
+Spezielles Agilitätstraining ist wesentlich komplizierter anzulegen, zum großen Teil, weil vergleichende Tests viel schwieriger durchzuführen sind.
+
+In Kampfsportarten wird Agilität zum größten Teil durch das Ausüben des Sports selbst trainiert. Dabei müssen wir die Geschwindigkeit und Qualität der Entscheidungsprozesse genauso verbessern wie physische Faktoren und die notwendigen Techniken.
+
+Kein noch so großer Anteil an Koordinationsleiter-Training wird die Sportler in ihrer Sportart agiler machen, auch wenn die so eingeübte Koordination und Beweglichkeit aus Sportart-übergreifender Sicht ein erstrebenswertes Ziel darstellt.
+
+Um Agilität im Kampfsport zu trainieren, ist zunächst zu verstehen, was genau Agilität in diesem Kontext bedeutet. Basierend auf dem, was in vielen Trainingsbüchern, Lehrgängen und Youtube-Videos vermittelt wird, scheinen nur wenige Lehrende und Athleten wirklich zu verstehen, was Agilität bedeutet.
+
+== Definition "Agilität"
+
+In einem älteren Video, einem UFC Countdown, wurde berichtet, dass einer der Athleten einen Agilitätstrainer beschäftigte. Der ließ den Sportler Tennisbälle fangen, die von hinter seinem Rücken gegen eine Wand vor ihm geworfen wurden. Er musste Einheiten an der Agilitätsleiter bewältigen und an der Langhantel zwischen Ober- und Untergriff wechseln.
+
+Warum wird das als Agilität bezeichnet?
+
+Und natürlich haben wir alle Tausende von Videos gesehen, bei denen Leiter- und Hütchenparcours so schnell abgespult werden, als würden wir sie in doppelter Geschwindigkeit sehen.
+
+Warum diese Hindernis-Parcours?  „Schnelle Füße“ scheint keine ausreichende Erklärung zu sein.
+
+Um wirklich effektiv zu trainieren, müssen wir erklären, was Agilität im Bereich Kampfsport wirklich bedeutet.
+
+Agilität im Kampfsport ist die Fähigkeit, Kontrolle über die Körperposition und -Haltung zu behalten, wenn sich Geschwindigkeit oder Richtung der Bewegungen als Antwort auf einen Sport-spezifischen Reiz schnell verändert.
+
+Entscheidend dabei ist der „sportspezifische Reiz“ und das müssen wir für die folgenden Kapitel im Kopf behalten.
+
+Oft erwähnt ist der Begriff der „reaktiven Agilität“. Basierend auf der hier genutzten Definition ist aber alle Agilität immer reaktiv und deswegen im Zusammenhang mit Agilität redundant und kann entfallen.
+
+Agilität im Kampfsport kann offensiv oder defensiv gerichtet sein. Im Fechtsport könnte offensive Agilität es ermöglichen, erfolgreich Gegenangriffe durchzuführen. Defensive Agilität ermöglicht es, eine Abwehr zu Umgehen und den eigenen Angriff erfolgreich zu beenden.
+
+Es ist wichtig im Kopf zu behalten, dass Fechter – wie die meisten Kampfsportler – die meiste Zeit gleichzeitig Angriffs- und Verteidigungsverhalten zeigen müssen.
+
+Schon beim ersten Betrachten eines Gefechts ist offensichtlich, dass nichts davon aussieht wie das Fangen eines Tennisballs oder das Rennen durch eine Koordinationsleiter.
+
+Agilität kann offen oder geschlossen auftreten. Offen bezeichnet dabei, dass eine freie Antwort auf einen Umgebungsreiz erfolgte. Geschlossen bedeutet, dass das entsprechende Maneuver vorab geplant war.
+
+Die Beispiele am Anfang des Kapitels fallen in den Bereich der geschlossenen Agilität. Ärgerlicherweise sind sie nicht in Kampfsituationen übertragbar und helfen deswegen Sportart-spezifisch nicht weiter. Es gibt aber auch geschlossene Agilitätsübungen, die helfen.
+
+== Erfahrungen in anderen Kampfsportarten
+
+Sichten wir die Literatur zum Thema Agilität und <beliebige Kampfsportart>, dann sind nur wenige Veröffentlichungen zu finden, meistens im Bereich Tae-Kwon-Do und Karate. Sichtet man diese Fachartikel, dann wird schnell klar, dass es sich fast ausschließlich im geschlossene Agilitätstests handelt, bei denen auf Reize geantwortet wird, die nicht Sportart-spezifisch sind:
+
+include::partial$gen/bibliography.adoc[tag=LuGed]
+,
+
+include::partial$gen/bibliography.adoc[tag=FARB]
+,
+
+include::partial$gen/bibliography.adoc[tag=PTAGTA]
+.
+
+Tatsächlich vergleichen einige Artikel lediglich Athleten verschiedener Sportarten bezüglich ihrer Reaktionszeiten und erreichten Werte in vordefinierten Tests:
+
+include::partial$gen/bibliography.adoc[tag=APADSS]
+,
+
+include::partial$gen/bibliography.adoc[tag=DCRTV]
+.
+
+Dabei erfahren wir zwar, wie schnell sich die Athleten bewegen können, aber wir erfahren wenig darüber, wie agil sie in ihrer jeweiligen Kampfsportart agieren.
+
+Um herauszufinden, warum das so ist, lohnt sich ein Blick in die Invasionssportarten (Fußball, Rugby, American Football, Basketball, …): Hier ist Agilität deutlich besser untersucht, weil hier in jedem Spiel hunderte von Agilitätsmaneuvern in den unterschiedlichsten Szenarien auftreten.
+
+== Agilität im Kampfsport, näher betrachtet
+
+Betrachtet man Agilitätstests aus anderen Sportarten, dann wird dort tatsächlich die Geschwindigkeit der Richtungsänderungen gemessen (change of direction speed, CODS). Dabei weiß der Athlet, wo, wann und wie die entsprechende Änderung durchgeführt werden soll.
+
+Nun sind aber CODS und Agilität unterschiedliche Fertigkeiten. In
+
+include::partial$gen/bibliography.adoc[tag=ACIS]
+zeigt der Autor, einer der führenden Agilitätsexperten, in einer Metastudie, dass CODS und Agilität nur zu 21 % korreliert sind.
+
+Da die Korrelation unter 0.5 liegt, sind CODS und Agilität unabhängig voneinander. Oder anders ausgedrückt: Schnell zu sein und seine Geschwindigkeit und Richtung schnell ändern zu können, heißt nicht, auch erfolgreich und schnell auf Sportart-spezifische Reize reagieren zu können, um beispielsweise Angriffen ausweichen zu können.
+
+Wir wissen daher, dass Agilität mehr als nur ein physisches Können ist, sondern aus zwei Komponenten besteht:
+
+* Kognitive Faktoren
+** Antizipation
+** Visuelle Auswertung
+** Wissen über die Situation
+** Mustererkennung
+* Physische Faktoren
+** Techniken
+** Reaktive Kraft
+** Konzentrische Kraft
+** Anthropometrie
+
+Oder einfacher: Kognitive Fertigkeiten bezeichnen die Fähigkeit, schnell die richtige Entscheidung zu treffen.
+
+Um ausgeprägte agile Fertigkeiten zu besitzen, müssen Entscheidungs-Geschwindigkeit und physische Fertigkeiten beide auf hohem Niveau beherrscht werden.
+
+Gerade erstes wird nicht trainiert, wenn wir lektionieren oder definierte Übungen durchführen, sondern nur dann, wenn wir schnell auf unbekannte gegnerische Aktionen antworten müssen.
+
+In den meisten Team-Sportarten ist fast immer klar, wer gerade Angreifer ist und wer Verteidiger. In Kampfsportarten hingegen ist jeder Athlet fast immer gleichzeitig beides. Deswegen sind die Denkprozesse zwischen den diesen Sportart-Gruppen nur sehr beschränkt übertragbar.
+
+Die richtige Antwort auf eine gegnerische Aktion zu finden, wird nur gelingen, wenn der Athlet ausreichend erfahren ist und genügend ähnliche Szenarios immer wieder erlebt hat und in der Lage war, sie irgendwann erfolgreich zu lösen.
+
+Das heißt, wenn die Athleten in der Lage sind, durch ihre Erfahrung ähnlicher Situationen zu antizipieren, was passieren wird, indem sie passende Muster wahrnehmen, die sie zu korrekten Lösungen führen.
+
+== Wie unterscheiden sich Top-Athleten von durchschnittlichen?
+
+Um herauszufinden, ob wie wichtig eine Fertigkeit für eine Sportart ist, kann man durchschnittliche Athleten mit Top-Athleten der entsprechenden Sportart vergleichen. Wenn die Top-Athleten die Fertigkeit in Tests signifikant besser beherrschen, dann besteht eine hohe Wahrscheinlichkeit dafür, dass diese Fähigkeit wichtig ist.
+
+Leider konnte ich im Bereich der Kampfsportarten keine derartigen Vergleiche im Bereich der Agilität finden, sodass ein Rückgriff auf die Forschungen im Bereich der Team-Sportarten nötig wird.
+
+In Netball- und Rugby-Liegen hatten höherklassige Athleten deutlich höhere Entscheidungsgeschwindigkeiten in Reaktion zu Sportart-spezifischen Reizen als durchschnittliche Athleten (siehe
+
+include::partial$gen/bibliography.adoc[tag=DTRAN]
+und
+
+include::partial$gen/bibliography.adoc[tag=RARLP]
+). Im Australischen Football sind professionelle Spieler deutlich schneller und präziser in der Entscheidungsfindung, wenn sie auf Richtungsänderungen der Angreifer reagieren:
+
+include::partial$gen/bibliography.adoc[tag=APASA]
+.
+
+Ähnliche Resultate wurden bei Fußballspielern gefunden: sie reagieren schneller und genauer, wenn sie Passrichtungen in Eins-zu-Eins-Situationen antizipieren:
+
+include::partial$gen/bibliography.adoc[tag=VSSAE]
+.
+
+Höherklassige Athleten sind außerdem weniger anfällig für Finten:
+
+include::partial$gen/bibliography.adoc[tag=EFRAP]
+,
+
+include::partial$gen/bibliography.adoc[tag=ASSDM]
+.
+
+Und auch insgesamt geht hervor: Top-Athleten sind nur dann signifikant besser, wenn es um die Antwort auf Sportart-spezifische Reize geht.
+
+Was heißt das für das Training? Reaktive Übungen, z.B. mit Tennisbällen, Koordinationsleitern, Lichtern, o.ä., sind zu allgemein gehalten, um auf die Agilität in der Kampfsportart selber übertragen zu werden. Daraus verweist auch Barth in
+
+include::partial$gen/bibliography.adoc[tag=BBFTMG]
+hin, indem er empfiehlt, bei Übungen auf nicht Sportart-spezifische Signale wie Kommandos, Pfiffe und dergleichen zu verzichten.
+
+Agilität muss als offene Fertigkeit mit Sportart-spezifischen Reizen trainiert werden, mit Unterstützung der spezifischen physischen Fertigkeiten.
+
+== Agilität in Kampfsportarten trainieren
+
+Wir teilen auf gemäß der oben angeführten Teilkomponenten, in kognitive und physische Fertigkeiten.
+
+== Physische Fertigkeiten
+
+=== Anthropometrie
+
+Ganz allgemein gilt: Je größer ein Athlet ist, desto langsamer bewegt er sich, speziell, wenn der Anteil an Muskelmasse zu gering ist. Das Ziel ist es, überflüssiges Gewicht zu reduzieren und den Muskelanteil zu erhöhen.
+
+Körpergröße und Länge der Extremitäten sind weitere Faktoren. Es gilt aber auch: Je größer der Athlet ist, desto mehr Fläche ist zu verteidigen, insbesondere bei Ausweichmanövern. Es gibt hier allerdings wenig Möglichkeiten, Einfluss zu nehmen, aber es beeinflusst die Aktionsauswahl.
+
+=== Reaktive Stärke
+
+Reaktive Stärke ist die Fähigkeit, Kraft in einem sehr kurzen Zeitintervall (<250ms) bereitzustellen. Übungen dazu sind unter anderen:
+
+* Seilspringen
+* Fußgelenkarbeit: siehe
+include::partial$gen/bibliography.adoc[tag=SLAS]
+* Hürdenlauf
+* Liniensprünge
+* Schnelle Hüftwürfe mit dem Medizinball
+
+=== Konzentrische Stärke
+
+Bezeichnet die Fähigkeit, Kraft bei hoher Geschwindigkeit auszuüben.
+
+Übungen dazu sind unter anderem:
+
+* Kastensprünge (auch aus dem Sitzen)
+* Stand-Hochsprünge
+* Sprünge aus der Hocke (auch: mit Zusatzgewicht, aus Schrittstellung)
+* Medizinball-Würfe
+* Laterale Sprünge
+* schnelle Kniebeugen
+* Kreuzheben
+
+=== Technik
+
+Technische Fertigkeiten sind vermutlich der wichtigste Teil der physischen Komponente der Agilität. Ziel ist es, den Athleten ein möglichst reichhaltiges Repertoire an Möglichkeiten zu geben, um bei Agilitäts-Manövern auswählen zu können.
+
+Es ist wichtig, viele verschiedene Angriffs- und Verteidigungsaktionen zu kennen und zu beherrschen. Beherrscht der Athlet nur Paraden, weiß aber nicht, wie Evasionen durchgeführt werden, dann wird er auf viele Angriffe keine adäquate Antwort kennen.
+
+Kennt er hingegen auf Gegenangriffe, dann wird er Gelegenheit erkennen, die sonst verborgen bleiben.
+
+Das Einüben dieser Techniken kann in geschlossenen Übungen erfolgen, bei denen alles vorab geplant ist. Später, mit steigender Erfahrung, können diese Übungen in eingeschränkte oder freie Kämpfe überführt werden, die dann aber nicht bei 100 % stattfinden sollen. Dort werden kognitive Fähigkeiten entwickelt.
+
+=== Kognitive Fähigkeiten
+
+Agilität ist nicht nur die Geschwindigkeit, mit der Entscheidungen getroffen und umgesetzt werden. Entscheidend ist, dass die Entscheidungen überwiegend richtig getroffen werden. Man kann so schnell reagieren wie man will – wählt man die falsche Aktion, dann wird man getroffen.
+
+Die einzelnen Faktoren zur Entscheidungsfindung werden hier nicht einzeln heruntergebrochen, weil sie nicht isoliert trainierbar sind. Sie wirken zusammen, indem die Athleten möglichst unterschiedlichen Szenarien und Kampfsituationen ausgesetzt werden.
+
+Indem die Athlet:innen immer wieder einer Kampfsituation ausgesetzt werden und aus falsch getroffenen Entscheidungen lernen können, führt dazu, dass Muster erkannt, falsche Reaktionen gehemmt und richtige Reaktionen verstärkt werden. Nur so können offene agile Reaktionen trainiert werden.
+
+Diese Fertigkeit kann nicht in starren Lektionen vermittelt werden, sondern nur durch Übungskämpfe: leichte Übungskämpfe, aufgabenbezogene Kämpfe oder echte Kämpfe.
+
+Echte Kämpfe sind bei Fechtern einfacher möglich als in den meisten anderen Kampfsportarten, weil durch die effektive Schutzkleidung das Verletzungsrisiko minimal ist. Wenn hier die Variabilität der Kampfsituationen gering bleibt oder eine zu geringen Intensität erreicht wird, dann soll auf aufgabenbezogene Kämpfe ausgewichen werden.
+
+Aufgabenbezogene Kämpfe können auch eingesetzt werden, indem nur einer der Fechter eine Vorgabe erhält, sodass der andere Fechter die Möglichkeit erhält, unterschiedliche Reaktionen auf sehr ähnliche Aktionen zu erproben.
+
+== Plan für Agilitätstraining im Kampfsportart
+
+Wie klar geworden sein sollte, kann Agilität nicht durch generische Übungen mit einem „Agilitätstrainer“ erlangt werden. Stattdessen wird Agilität zum größten Teil durch das Ausüben des Kampfsports selbst erworben.
+
+Dennoch gibt es eine Reihe von Richtlinien, die den Erwerb fördern und beschleunigen:
+
+* Reaktive und konzentrische Kraft trainieren, 1-2x pro Woche
+* Das offensive und defensive Technik-Arsenal erweitern, in vorgeplanten Übungen (Partner oder Trainer)
+* So viele echte Kampfsituationen erleben wie möglich, mit einer möglichst großen Bandbreite an Aktionen, die erlebt und durchgeführt werden. Dabei versuchen, mit der eigenen Technik das Problem zu lösen und zu korrigieren, wenn es nicht gelingt.
