@@ -1,0 +1,82 @@
+= Umgang mit destruktivem Feedback
+
+Gerade in Kampfsportarten sehen sich AthletInnen häufig destruktivem Feedback ausgesetzt. Als solches bezeichnen wir Rückmeldungen, die negativ und stark emotionalisiert sind.
+
+Die Quelle sind auf der einen Seite die Rückmeldungen von Trainern, die sich der destruktiven Wirkung nicht bewusst sind (z.B. auch, weil ein solches bis in die 1980er Jahre als leistungsförderlich angesehen wurde). Sie nutzen z.B. Herabwürdigungen ("Du machst das seit fünf Jahren, aber Du hast gar keine Ahnung davon") oder sogar starke Bilder ("Du hüpfst herum wie ein verrücktes Huhn").
+
+Die zweite Quelle sind Äußerungen von Gegnern, die das Mittel vor einer Begegnung bewusst einsetzen, um Verunsicherung und Zweifel hervorzurufen.
+
+Gerade in Kampfsportarten sehen sich Athlet:innen häufig destruktivem Feedback ausgesetzt. Als solches bezeichnen wir Rückmeldungen, die negativ, stark emotionalisiert und entwertend formuliert sind.
+
+Zwei Hauptquellen solcher Rückmeldungen sind identifizierbar:
+
+. *Trainerfeedback ohne Bewusstsein für negative Effekte*:
+Insbesondere in Trainingskulturen, die auf autoritäre oder konfrontative Instruktionsformen zurückgreifen – wie sie bis in die 1980er Jahre in der Sportpädagogik verbreitet waren –, finden sich auch heute noch herabwürdigende Aussagen wie:
+_„Du machst das seit fünf Jahren, aber du hast immer noch keine Ahnung.“_
+oder metaphorische Demütigungen wie:
+_„Du hüpfst herum wie ein verrücktes Huhn.“_ +
+Solche Aussagen können das Selbstbild, die Motivation und die motorische Leistung erheblich beeinträchtigen
+include::partial$gen/bibliography.adoc[tags=Goleman1995Emotional]
+, sowie
+include::partial$gen/bibliography.adoc[tags=Jowett2003Olympic]
+.
+. *Psychologische Kriegsführung durch Gegner:innen* oder deren Team:
+In Wettkampfsportarten – insbesondere in Kampfsportarten mit direkter Konfrontation – wird destruktive Kommunikation gezielt als Mittel der Verunsicherung eingesetzt. Solche „Trash Talk“*-Taktiken sollen Zweifel, Wut oder Nervosität erzeugen, um die kognitive und motorische Leistungsfähigkeit zu untergraben.
+
+Solches Feedback aktiviert häufig das limbische System und kann zu einer emotionalen Blockade führen, die das Arbeitsgedächtnis beeinträchtigt und das Zugriffspotenzial auf gelernte motorische Programme reduziert
+
+include::partial$gen/bibliography.adoc[tags=Arnsten2009Stress]
+.
+
+Ein effektiver Umgang mit destruktivem Feedback setzt daher auf emotionale Regulation, metakognitive Strategien und sprachlich gestützte Resilienztechniken (z. B. Reframing, semantische Entkopplung oder Perspektivwechsel), um negative semantische Aktivierungen im mentalen Lexikon zu neutralisieren oder umzuleiten
+
+include::partial$gen/bibliography.adoc[tags=Gross2002Emotion]
+.
+
+== Umgang mit destruktiver Kritik
+
+Destruktive Kritik bezeichnet eine Form der Rückmeldung zu sportlicher Leistung, motorischem Verhalten oder Trainingsverhalten, die nicht auf eine konstruktive Verbesserung abzielt, sondern durch abwertende, unspezifische oder emotional herabsetzende Kommunikation die Motivation, das Selbstkonzept oder die Lernbereitschaft des Athleten negativ beeinflusst.
+
+NOTE: Beispiele: +
+  "Andere schaffen das locker – du bist einfach zu langsam." +
+  "Das war peinlich, schäm dich!" +
+  "Lass es einfach, das hat keinen Sinn mit dir."
+
+include::partial$mentale-aspekte/destruktive-kritik/auswirkungen.adoc[leveloffset=+2]
+
+include::partial$mentale-aspekte/destruktive-kritik/ueberwindung-lokaler-optima.adoc[leveloffset=+2]
+
+include::partial$mentale-aspekte/destruktive-kritik/gegenmassnahmen.adoc[leveloffset=+2]
+
+== Resilienzbildung gegen destruktive Kritik
+
+Die gezielte Ausbildung von psychologischer Widerstandsfähigkeit (Resilienz) zählt zu den wirksamsten Maßnahmen, um Athlet:innen langfristig vor den negativen Effekten destruktiven Feedbacks zu schützen. Resiliente Sportler:innen sind besser in der Lage, emotionale Kränkungen, äußere Herabsetzung oder überzogene Kritik zu verarbeiten, ohne dass ihr Selbstbild oder motorisches Lernen negativ beeinflusst wird
+
+include::partial$gen/bibliography.adoc[tags=Fletcher2012grounded]
+.
+
+Zur praktischen Resilienzbildung haben sich folgende Methoden bewährt:
+
+. *Rollenspiele mit "fiesen Coaches"*
+In kurzen szenischen Übungen geben Trainer:innen gezielt überzeichnet negatives Feedback. Die Sportler:innen lernen, eine körperlich-mentale Haltung zu bewahren und gezielte Reaktionen einzuüben, z. B. durch innere Selbstansprache oder bewusst gesetzte Gestik. +
+Ziel: Aufbau kognitiver Immunität durch emotionale Antizipation
+include::partial$gen/bibliography.adoc[tags=Gross1998Emerging]
+.
+. *„Was denkst du gerade?“ – Kognitive Umleitung trainieren*
+Direkt nach echtem, aber konstruktivem Feedback werden Athlet:innen gefragt: +
+_„Was ging dir gerade durch den Kopf?“_ +
+So wird trainiert, automatische Gedanken wahrzunehmen und ggf. umzuleiten (Reattribution) und bewusst mit externem Feedback umzugehen +
+Beispiel: Statt „Ich kann das nie!“ lieber „Das war ein Hinweis auf mein Timing.“ +
+Ziel: Aufbau metakognitiver Kontrolle über spontane Selbstbewertungen
+include::partial$gen/bibliography.adoc[tags=Beck1979Cognitive]
+.
+. *Bewegungsrituale nach Rückschlägen*
+Kleine Routinen wie das Ausschütteln der Arme, bewusstes Atmen oder ein symbolischer „Reset-Gestus“ helfen, Misserfolge körperlich-emotional zu verarbeiten. +
+Beispiel: *„Shake-it-Off“-Ritual* nach einem Fehlversuch: „Ich lasse los – nächster Versuch.“ +
+Ziel: Embodied Recovery, also körpergestützte Selbstregulation nach negativem Reiz
+include::partial$gen/bibliography.adoc[tags=Fustos2012On]
+.
+
+Außerdem empfiehlt es sich, nach einem Gruppengespräch mit den AthletInnen, bei dem die relevanten Punkte angesprochen werden, zustätzlich eine Trainingskarte auszuhändigen, die die Athleten stets zur Hand haben können.
+
+include::partial$mentale-aspekte/destruktive-kritik/cards/trainingskarte-destruktive-kritik.adoc[leveloffset=+2]
