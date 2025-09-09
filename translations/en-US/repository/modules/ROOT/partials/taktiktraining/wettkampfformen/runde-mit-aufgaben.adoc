@@ -1,0 +1,26 @@
+= Rundengefechte mit selbst gewählten Aufgaben
+:keywords: uebung
+:uebung-group: Übungsgefechte
+
+ifndef::ownpage[]
+
+xref:page$practices/taktiktraining/wettkampfformen/runde-mit-aufgaben.adoc[Nur diese Übung]
+
+endif::[]
+
+.Ziele
+* Umsetzung taktischer Aufgaben im Wettkampfgefecht
+* Einschätzung der Fähigkeiten und Möglichkeiten der Gegner:in
+* Nutzen von Eigenschaften und Schwächen des Gegenübers
+
+Runde mit maximal sieben Teilnehmern. Jede:r ficht zweimal gegen jede:n.
+
+.Vorbereitung
+* Die Trainer:in gibt eine Reihe möglicher Zusatzaufgaben vor - nach Möglichkeit mehr Aufgaben als Fechter:innen in der Runde.
+* Tableau mit möglichen Aufgaben zum Ausfüllen vorbereiten
+
+Hier eine xref:attachment$tableau-mit-aufgaben.pdf[Tableau-Vorlage mit Ausfüllmöglichkeit und vorbereiteten Zusatzaufgaben] zum Download.
+
+Jeweils einer der Fechter sucht für seine Gegnerin eine Zusatzaufgabe aus. Es wird auf fünf Treffer gefochten.
+
+Sind alle durch, dann wird eine Rückrunde gefochten.
