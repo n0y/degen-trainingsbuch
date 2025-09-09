@@ -1,0 +1,31 @@
+:stem:
+
+= Training der Ausdauerfähigkeiten
+
+Um effizient Ausdauer aufzubauen, ist das Intervalltraining der kontinuierlichen Methode überlegen. Dieselben Leistungssteigerungen werden mit geringerem Zeiteinsatz erzielt (z.B.
+
+include::partial$gen/bibliography.adoc[tag=ESECIT]
+).
+
+Das betrifft nicht nur die maximale Sauerstoffaufnahme (VO~2~ max), sondern auch die anaerobe Kapazität. Nach
+
+include::partial$gen/bibliography.adoc[tag=EMEHIIT]
+kann durch vier Minuten hochintensives Intervall-Training die VO~2~ max genauso gut verbessert werden wie durch 60 Minuten kontinuierliches Training.
+
+Für das körperliche Training übernehmen wir die Definitionen aus
+
+include::partial$gen/bibliography.adoc[tag=HICCA]
+, Seite 8.
+
+* Sprint Interval Training (*SIT*): <30sec maximale Belastung (RPE 10/10), z.B. 30sec maximaler Sprint
+* Speed Endurance Training (*SET*): 30-60sec bei https://www.crossfitwiesbaden.com/blog/rpe-training-was-bedeutet-das[RPE] 9/10, z.B: 8x 30sec mit 3min Pause
+* Muscle Buffer Training (*BUF*): Belastung mit Resultat von 8 bis 10stem:[ (mmol) / l], bei RPE 8/10, z.B. 6x 2min mit 3min Pause
+* High-Intensitive Interval Training (*HIIT*): Intervalle von 2-20min bei RPE 9/10, 90% maximale Herzfrequenz oder 90-95% VO~2~max, z.B. 4x 8min mit 2min Pause
+
+Die Übergänge zwischen den Trainingsarten sind dabei allerdings fließend.
+
+include::partial$motoriktraining/ausdauertraining/motorisch-ausdauer-hiit.adoc[leveloffset=+1]
+
+include::partial$motoriktraining/ausdauertraining/motorisch-ausdauer-hiit-sit.adoc[leveloffset=+1]
+
+include::partial$motoriktraining/ausdauertraining/motorisch-ausdauer-vo2max.adoc[leveloffset=+1]
