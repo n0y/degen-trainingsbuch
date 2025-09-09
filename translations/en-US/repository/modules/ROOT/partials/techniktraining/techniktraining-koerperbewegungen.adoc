@@ -1,0 +1,21 @@
+= Training der Körperbewegungen im Fechtsport
+
+Für das Training von Körperhaltung und Körperbewegung im Fechtsport ergeben sich eine Reihe von Problemen. Zum einen fällt auf, dass bereits die Grundstellung, wie sie klassisch bspw. in
+
+include::partial$gen/bibliography.adoc[tag=BBFTD]
+gelehrt wird, bei der Auswertung von Top-Athleten nicht vorzufinden ist.
+
+Verschiedene „Stile“ resultieren bei allen Fechtern in sehr unterschiedlichen Lösungen bezüglich Kraft, Geschwindigkeit, Beschleunigung, Haltung und Energieaufwand
+
+include::partial$gen/bibliography.adoc[tag=SFIPIP]
+. Diese sind nicht nur abhängig von Anthropometrie und Trainingsstand, sondern immer auch von konkreten fechterischen Situationen, die einer angepassten Lösung bedürfen.
+
+Besonders für Heranwachsende ist das Bewegungstraining einer Herausforderung, da sich ständig änderne Hebel, Proportionen und Kraftverhältnisse eine ständige Anpassung der notwendigen Technik bedingen.
+
+Ziel des Trainings der Körperbewegungen muss deswegen immer sein, dem Athleten Stabilität bei der Anpassung und Adaption seiner Bewegungen an neue Situationen zu ermöglichen.
+
+include::partial$techniktraining/koerperbewegungen/beinarbeit.adoc[leveloffset=+1]
+
+== Meidbewegungen
+
+== Körpertäuschungen
