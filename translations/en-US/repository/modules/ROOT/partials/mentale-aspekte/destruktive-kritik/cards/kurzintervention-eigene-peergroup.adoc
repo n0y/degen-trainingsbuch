@@ -1,0 +1,83 @@
+= Kurzintervention: Destruktive Kritik aus der eigenen Peer Group
+:keywords: uebung
+:uebung-group: Training-Cards
+
+ifndef::ownpage[]
+
+xref:page$practices/mentale-aspekte/destruktive-kritik/cards/kurzintervention-eigene-peergroup.adoc[als Coaching Card ⤴]
+
+endif::[]
+
+Emotionaler Kritik aus der eigenen Trainingsgruppe (Spott, Beleidigung) wiegen meist viel schwerer als Feedback von außen. Sie bedrohen genauso das Selbstbild, aber zusätzlich die soziale Sicherheit - und damit die Lernbereitschaft. TrainerInnen sind aber anwesend und können direkt eingreifen.
+
+Ziele der Intervention:
+
+* Sofortige emotionale Entschärfung für die betroffene AthletIn
+* Deutliches, aber nicht demütigendes Grenzenziehen gegenüber der Gruppe
+* Wiederherstellung von Würde, Spielraum und Lernmotivation
+* Reintegration der Gruppe durch Umfokussierung – nicht durch Strafe
+
+Ansprache: klare Körpersprache, ruhig (nicht laut), *Gruppe anschauen (nicht das Opfer*; signalisiert Schutz)
+
+[quote]
+____
+Stopp – das hier ist kein Platz für Spott.
+____
+
+oder
+
+[quote]
+____
+Sowas sagen wir hier nicht. Punkt.
+____
+
+Ziel: Bei allen Normen im mentalen Lexikon setzen - von "Leistung zählt" zu "Mut zählt"
+
+[quote]
+____
+Wisst ihr, Bewegung sieht bei jedem anders aus. Wer hier was wagt, verdient Respekt – nicht Kommentare
+____
+
+oder auch
+
+[quote]
+____
+Fehler zeigen Mut. Wer lacht, hat nicht verstanden, worum es hier geht.
+____
+
+Ansprache: kurz und ruhig, möglichst unter 4 Augen
+
+[quote]
+____
+Das war unfair. Du hast was riskiert – das ist stark. Ich will, dass du’s gleich nochmal machst. Und diesmal bist du für dich da, nicht für die anderen
+____
+
+Nach der Wiederholung hilft eine kurze, fokussierte Beobachtung ("Dein Timing war jetzt richtig mutig. Das zählt.")
+
+Alternative, falls wiederholung nicht möglich ist:
+
+Kurze Körperübung: fester Stand, zweimal bewusst atmen, Anspannen, Entspannen
+
+Ziel:
+
+* Spott überschreiben
+* Niemand verliert das Gesicht
+* Reintegration der Betroffenen durch gemeinsame Bewegung
+
+Übung für alle öffnen und Fokussierung aus den jeweils eigenen Stil:
+
+[quote]
+____
+Okay – für alle nochmal dieselbe Aufgabe. Jeder hat einen Versuch, und jeder probiert’s auf seine Art, so wie's sonst keiner macht.
+____
+
+[cols="h,e,"]
+|===
+|1. Sofort-Stopp |Gruppennorm unterbrechen |„Stopp. Kein Spott hier.“
+
+|2. Reframing für alle |Neue Bedeutung von Fehler & Mut |„Wer wagt, verdient Respekt.“
+
+|3. Stabilisieren |Opfer emotional absichern + bestärken |„Das war mutig – du machst das nochmal. Ich bin bei dir.“
+
+|4. Reintegrieren |Neue Übung für alle |„Alle machen’s – 3 Versuche, jeder auf seine Weise.“
+|===
