@@ -1,0 +1,60 @@
+= Trainingsplan: Erhöhung der VO~2~max
+:keywords: uebung
+:uebung-group: Ausdauertraining
+
+ifndef::ownpage[]
+
+xref:page$practices/motoriktraining/ausdauertraining/motorisch-ausdauer-vo2max.adoc[Nur diese Übung]
+
+endif::[]
+
+Für Ausdauerleistungen ist die maximale Sauerstoffaufnahme-Kapazität (VO~2~max) eine entscheidende Größe. Sie lässt sich zum Beispiel durch den _Cooper-Test_ messen; dort wird ein Lauf über 12 Minuten auf maximal erreichbare Distanz absolviert.
+
+Mit diesem Trainingsplan lässt sich aus einem bereits guten Fitness-Stand die VO~2~max in 12 Wochen um etwa 10% erhöhen. Ist der Fitness-Stand noch nicht so gut, dann kann die Steigerung auch prozentual höher ausfallen.
+
+Zuerst ist die aktuelle Leistungsfähigkeit zu ermitteln. Dazu führt die Athlet:in einen maximalen 12-Minuten-Lauf durch und misst die Distanz: für dieses Beispiel 3000m.
+
+Aus den gemessenen Werten werden folgende vier Trainings-Sessions abgeleitet:
+
+[cols="1,3,2"]
+|===
+|Session |Berechnung |Beispiel 3000m
+
+|Sonntag
+|(gemessene Distanz * 4) in 56min
+|12km in 56 Minuten
+
+|Dienstag
+|gemessene Rundenzeit = 400m * 720s / gemessene Distanz +
+Zeitvorgabe = gemessene Rundenzeit / 2  + 8s +
+ +
+Laufe 200m innerhalb der Zeitvorgabe, dann 90s Pause +
+Wiederholen mit Pausenzeiten 75s, 60s, 45s, 30s, 15s +
+ +
+Alle wiederholen solange bis Zeitvorgabe nicht eingehalten werden kann
+a|gem. Rundenzeit = 400m*720s / 3000m = 96s +
+Zeitvorgabe = 96s/2 + 8s = 56s +
+
+1. 200m in 56s + 90s Pause
+1. 200m in 56s + 75s Pause
+1. 200m in 56s + 60s Pause
+1. 200m in 56s + 45s Pause
+1. 200m in 56s + 30s Pause
+1. 200m in 56s + 15s Pause
+1. 200m in 56s + 90s Pause
+1. 200m in 56s + 75s Pause
+1. 200m in 56s + 60s Pause
+1. 200m in 56s + 45s Pause
+1. 200m in 56s + 30s Pause
+1. 200m in 1:05min - Ende
+
+|Donnerstag
+|(gemessene Distanz * 2) in 27 Minuten
+|1x 6000m in 27 Minuten
+
+|Samstag
+|4x (gemessene Distanz / 2) in 6 Minuten, 60 Sekunden Pause
+|4x 1500m mit 60s Pause
+|===
+
+Dieser Trainingsplan wird immer für 8 bis 12 Wochen gelaufen. Er soll sich dann mit Trainingsplänen für das Sprint-Intervall-Training (oder das HIIT) abwechseln.
