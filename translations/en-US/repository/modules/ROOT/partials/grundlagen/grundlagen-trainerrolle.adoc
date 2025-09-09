@@ -1,0 +1,38 @@
+== Die Rolle des Trainers in differenziellen Lernen
+
+Eine der Grundlagen des differenziellen Lernens ist die Annahme, dass jeder Mensch die Fähigkeit mitbringt, funktionale Bewegungen selbständig zu erlernen und zu optimieren. Obwohl dieses Verständnis im Kern von den meisten Lehrenden geteilt wird, ist zu beobachten, werden darauf basierende Ansätze kaum in der Trainingspraxis angenommen.
+
+Viele Lehrende sind der Ansicht, dass mit selbstorganisierendem Lernen die Figur des Lehrenden überflüssig werde. Das Missverständnis beruht auf einer Gleichsetzung von Steuerung mit Kontrolle – differenzielles Lernen verlangt jedoch eine Steuerung durch Gestaltung, nicht durch Direktiven. Trainer:innen bleiben wichtig, aber ihre Aufgaben verändern sich.
+
+Zunächst ist wichtig zu erwähnen, dass das „klassische“ programmtheoretische Lehren und Lernen gegenüber aus Sicht des differenziellen Lernens nicht falsch oder schlecht ist. Es basiert lediglich auf einem anderen Grundsatz und führt letztlich ebenfalls zum Erfolg. Zahlreiche jüngere Studien haben aber gezeigt, dass durch differenzielles Lernen schnellere und stabilere Erfolge erreicht werden, bei gleichzeitig höherer Motivation der Lernenden
+
+include::partial$gen/bibliography.adoc[tags=Ryan2000Self]
+.
+
+Klassisch wird dem Trainer oft die Führungsrolle im Trainings- und Wettkampfprozess zugeschrieben. Er soll ebenfalls wichtigste Bezugsperson des Lernenden sein
+
+include::partial$gen/bibliography.adoc[tag=BBFTMG]
+. Auch dort soll, bereits beginnend im Nachwuchstraining, den Lernenden eine Mitwirkung und kritische Auseinandersetzung mit den Inhalten des Trainings nahegelegt werden. Sie ist Grundlage des sportlichen Erfolgs (ebenfalls aus
+
+include::partial$gen/bibliography.adoc[tag=BBFTMG]
+). Differenzielles Lernen verschiebt nun einen weiteren Teil des Lernwegs zum Lernenden, indem die genaue Vorgabe der Zieltechniken hin zu einer Definition des Lösungsbereichs verschoben wird.
+
+NOTE: Lernende erhalten z. B. Reflexionsaufträge: "Welche Bewegung war für dich effektiver – warum?"
+
+Im Technikerwerb besteht für den Lehrenden die Herausforderung daraus, Bewegungsaufgaben auszuwählen, die ausreichende Differenzen aufweisen, aber weiterhin einen Bezug zur theoretisch optimalen Bewegungsausführung zu erhalten. Dabei sollen bewusst auch wohlbekannte Fehler integriert, um neuronale Plastizität zu provozieren.
+
+Damit verschiebt sich einige Aufgaben des Lehrenden und der Einsatz der genutzten Lehrmittel und -Methoden, einige bleiben aber auch erhalten:
+
+* Die Auswahl der zu Lernenden Inhalte nach Leistungsstand und Erfahrung der Lernenden bleibt erhalten. Es soll lediglich früher Neues eingeführt werden: Neue Elemente sollen bereits eingeführt werden, bevor Bekanntes sicher beherrscht wird
+include::partial$gen/bibliography.adoc[tag=LSmMR]
+.
++
+// TODO: Einarbeiten: challenge point hypothesis (Guadagnoli & Lee, 2004)
+* Stellen von Bewegungsaufgaben löst die Vorgabe von Ziel-Techniken ab. Gewünschte Ziel-Techniken werden nicht mehr im Detail erklärt, sondern der übliche Lösungsraum skizziert und unter der Nutzung von Varianten möglichst ohne Korrekturen und Hilfestellungen abgetastet. Korrekturen sollen aber dann erfolgen, wenn die durch den Lernenden gewählte Lösung den Regeln des Sports widerspricht oder Verletzungsgefahr besteht.
+* Korrekturen lösen Stress im Gehirn aus, vermindern dabei die Lernrate und reduzieren das Maximalkraftniveau deutlich
+include::partial$gen/bibliography.adoc[tags=Beilock2010]
+`.` Es wird davon ausgegangen, dass der Lernende ausreichend Variationen angeboten bekommt, dass die für ihn optimale Bewegungsausführung angepasst an die Situation erlernt wird.
+* Das Erkennen und Auflösen von physischen Defiziten, die die erfolgreiche Ausführung eines Technik-Elements verhindern, bleibt vollumfänglich erhalten.
+* Die Zeitaufteilung im Techniktrainings verschiebt sich: im klassischen Training ist das Erklären, Erläutern und Korrigieren ein großer Block und macht oft gut die Hälfte der Trainingszeit aus. Es ist statt dessen anzustreben, dass die Lernenden den größten Teil der Zeit selbst aktiv sind. Die tatsächliche Bewegungsausführung im Lösungsbereich soll im Bereich von 90 % der Zeit liegen. Dafür muss eine Ansprache gefunden werden, die eine effiziente Kommunikation von Erwartetem vom Lehrenden zu den Lernenden ermöglicht.
+* Anreize zur Selbstoptimierung setzen und Verhindern, dass Lernende die Variabilität ihrer Bewegungsausführung zu stark vermindern, beispielsweise durch kreative Bewegungen als Aufgabe oder das Einfordern von positivem Feedback aus der Peer-Gruppe für unübliche Lösungen.
+* Begrenzung der sequenziellen Differenzen: Freie Bewegungen und einfaches „Trial-And-Error“ sind nicht ziele des differenziellen Lernens. Dieses Lernen hat im Einsteiger-Bereich Sinn und Berechtigung, reicht jedoch bei steigendem Niveau nicht mehr aus. Der Lehrende muss trotz aller Freiheitsgrade dafür sorgen, dass die Lernenden die Systematik einhalten.
