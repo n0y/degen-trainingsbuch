@@ -1,67 +1,67 @@
-= Trainingsplan: Schritte und Sprünge
-:keywords: uebung
-:uebung-group: Trainingspläne
+= Training plan: Steps and jumps
+:keywords: exercise
+:uebung-group: training plans
 
 ifndef::ownpage[]
 
-xref:page$practices/trainingsplanung/trainingsplaene/90min/2019-20_90-5a.adoc[Nur diese Übung]
+xref:page$practices/training-planning/training-plans/90min/2019-20_90-5a.adoc[Only this exercise]
 
 endif::[]
 
-Dauer: 90min
+Duration: 90 min
 
-Material: Kreppband 30m
+Material: Masking tape, 30 m
 
 [cols=".^8,.^1"]
 |===
-a|=== Aufwärmen
+a|=== warm up
 |*15 min*
 
-a|==== Rollball
+a|==== rollerball
 
-* Zwei Mannschaften spielen gegeneinander auf umgekippte Bänke oder Kastenteile.
-* Der Ball wird mit der Hand gespielt und darf nur gerollt werden (Bodenkontakt).
-* Wer den Ball hat, darf sich nicht bewegen.
-* Es ist ein Abstand von einem Schritt zum Ballträger einzuhalten.
-* Ein Punkt ist erzielt, wenn der Ball das gegnerische Tor trifft.
+* Two teams play against each other on overturned benches or box parts.
+* The ball is played with the hand and may only be rolled (ground contact).
+* Whoever has the ball is not allowed to move.
+* A distance of one step must be maintained from the ball carrier.
+* A point is scored when the ball hits the opponent's goal.
 |10 min
 
-a|==== Trinkpause |5 min
+a|==== drink break |5 min
 
-a|=== Beinarbeit
+a|=== footwork
 
-Beinarbeit mit Tennisbällen
+Footwork with tennis balls
 |*15 min*
 
-a|==== Jeder einen Tennisball
+a|==== Everyone gets a tennis ball
 
-* Tennisball (selbst) hochwerfen, Schritt vor, fangen
-* Tennisball (selbst) hochwerfen, 2 Schritte vor, fangen
-* Rückwärts: Tennisball hochwerfen, Schritt zurück, fangen
-* Schritt vor; mit dem AUFSETZEN des HINTEREN Fußes den Ball werfen; mit Ausfall fangen
-|7 Min
-
-a|==== Zu Zweit
-
-* A steht mit Ball hinter B +
-A wirf den Ball in hohem Bogen über B, sodass B ihn mit ein oder zwei Schritten fangen kann +
-B: Schritte vor, fangen
-* A steht mit Ball B gegenüber (3 Schritte Abstand); +
-A wirft den Ball IN HOHEM BOGEN so, dass er den Körper von B treffen würde; +
-B: Schritte zurück und Ball fangen
+* Toss a tennis ball (by yourself), step forward, catch it.
+* Toss a tennis ball (by yourself), take two steps forward, catch it.
+* Backwards: Throw a tennis ball up in the air, take a step back, catch it.
+* Step forward; throw the ball as you place your back foot down; catch with a lunge.
 |7 min
 
-a|=== Trinken, Umziehen, Aufbauen
+a|==== As a couple
+
+* A stands behind B with the ball +
+A throws the ball in a high arc over B so that B can catch it with one or two steps +
+B: steps forward, catches
+* A stands opposite Ball B (3 steps away); +
+A throws the ball IN A HIGH ARC so that it would hit B's body; +
+B: Steps back and catches the ball.
+|7 min
+
+a|=== Drink, change clothes, set up
 |*15 min*
 
-a|=== Fechten mit Aufgabe
+a|=== Fencing with task
 
-* Fechten ohne Ausfall
-* Treffen nur mit Schritten und Sprüngen;
-* Ziel: Treffen mit Sprung vor + Linie
+* Fencing without lunging
+* Meet only with steps and jumps;
+* Goal: Hit with a jump forward + line
 |*30 min*
 
-a|=== Abbauen |10 min
+a|=== Dismantling |10 min
 
-a|=== Dehnen |5 min
+a|=== Stretching |5 min
 |===
