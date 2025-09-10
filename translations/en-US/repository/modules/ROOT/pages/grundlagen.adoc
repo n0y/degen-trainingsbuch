@@ -1,20 +1,20 @@
-= Grundlagen und Methodik
-:description: Trainingsmethoden für das Fechten verglichen: klassische Ansätze gegenüber systemdynamischen Ansätzen
-:keywords: Fechten,Degen-Fechten,Training,Grundlagen,differenzielles Training
+= Fundamentals and methodology
+:description: Training methods for fencing compared: classical approaches versus system dynamics approaches
+:keywords: Fencing, épée fencing, training, basics, differential training
 
-Bei Kindern und Jugendlichen im Besonderen, aber auch bei jedem anderen Menschen, ist Körper und Geist stetiger Veränderung unterworfen. Hinzu kommt, dass jedes Gefecht und auch jedes Training immer unter neuen Bedingungen ausgetragen wird. Keine Situation ist mit irgendeiner vorherigen identisch.
+In children and adolescents in particular, but also in every other human being, the body and mind are subject to constant change. In addition, every battle and every training session is always conducted under new conditions. No situation is identical to any previous one.
 
-Wir dürfen daher nicht der Versuchung erliegen, im Hinblick auf Technik- und Taktik-Leitbilder allzu sehr zu verallgemeinern und zu sehr Gemeinsamkeiten zu suchen. Das Besondere jedes einzelnen Individuums fiele dabei sehr schnell durch das Raster:
+We must therefore resist the temptation to generalize too much and seek too many commonalities in terms of technical and tactical models. The unique characteristics of each individual would quickly fall through the cracks:
 
 include::partial$gen/bibliography.adoc[tag=JDZE]
 .
 
-Wir müssen vielmehr darauf abzielen, die Adaption an neue Voraussetzungen und Anforderungen als wichtigste Fähigkeit zu erkennen und zu schulen. Kernpunkt ist es, dass FechterInnen in jeder Situation, die immer eine neue, nie erlebte sein muss, zumindest handlungsfähig bleibt und die Möglichkeit aufrechterhält, schnell angemessene Änderungen vorzunehmen.
+Instead, we must aim to recognize adaptation to new conditions and requirements as the most important skill and train it accordingly. The key point is that fencers must remain capable of acting in every situation, which must always be new and unprecedented, and maintain the ability to make appropriate changes quickly.
 
-include::partial$grundlagen/grundlagen-training-klassisch.adoc[]
+include::partial$grundlagen/basics-classical-training.adoc[]
 
-include::partial$grundlagen/grundlagen-training-differenziell.adoc[]
+include::partial$grundlagen/basics-training-differential.adoc[]
 
 include::partial$grundlagen/grundlagen-trainerrolle.adoc[]
 
-include::partial$grundlagen/grundlagen-umsetzungsprinzipien.adoc[]
+include::partial$grundlagen/fundamentals-implementation-principles.adoc[]
