@@ -1,37 +1,37 @@
-= Destruktive Kritik zur Überwindung lokaler Minima und motorischer Stabilitätsschwellen
+= Destructive criticism to overcome local minima and motor stability thresholds
 
-In der älteren motorischen Lerntheorie wurde angenommen, dass destruktives Feedback ein geeignetes Mittel sei, um sogenannte lokale Optima zu überwinden – das sind stabile Bewegungsmuster, die kurzfristig effizient wirken, jedoch langfristig suboptimal sind. Hier war die Idee: Nur durch harte Kritik und Störung lasse sich der Athlet „herausschütteln“ und in neue, leistungsfähigere Muster zwingen
+In older motor learning theory, it was assumed that destructive feedback was a suitable means of overcoming so-called local optima—stable movement patterns that are efficient in the short term but suboptimal in the long term. The idea here was that only through harsh criticism and disruption could the athlete be "shaken out" and forced into new, more effective patterns.
 
 include::partial$gen/bibliography.adoc[tags=Newell1991Motor]
 .
 
-Diese Sicht ist heute weitgehend überholt. Zwar ist es richtig, dass gezielte Irritation des bestehenden motorischen Systems hilfreich sein kann, um Stabilitätsgrenzen zu überwinden. Jedoch erzeugt destruktives, negativ-emotionales Feedback häufig Scham, Verunsicherung oder das Gefühl der Bloßstellung – Faktoren, die die kognitive Verarbeitung und das motorische Explorationsverhalten nachweislich hemmen
+This view is now largely outdated. It is true that targeted irritation of the existing motor system can be helpful in overcoming stability limits. However, destructive, negative emotional feedback often causes shame, insecurity, or feelings of embarrassment—factors that have been shown to inhibit cognitive processing and motor exploration behavior.
 
 include::partial$gen/bibliography.adoc[tags=Baumeister2007How]
 .
 
-Folgende Strategien sind empirisch erprobt und fördern Variabilität, Exploration und Rekontextualisierung von Bewegungen – zentrale Prinzipien für die Überwindung lokaler Minima:
+The following strategies have been empirically tested and promote variability, exploration, and recontextualization of movements—key principles for overcoming local minima:
 
-* *Kontextveränderung*:
-Bewegungsanweisung in ungewohnten Rahmen setzen, z. B.
-_„Führe die Bewegung mit geschlossenen Augen aus.“_ oder
-_„Stell dir vor, du bewegst dich unter Wasser.“_ +
-Dies fördert sensorische Reorganisation und entkoppelt automatisierte Routinen
+* *Context change*:
+Place movement instructions in unfamiliar settings, e.g.
+_"Perform the movement with your eyes closed."_ or
+_"Imagine you are moving underwater."_ +
+This promotes sensory reorganization and decouples automated routines.
 include::partial$gen/bibliography.adoc[tags=DavKeBu07DynSkil]
 .
-* *Verfremdungstechniken*:
-Bewegung absichtlich verlangsamen, beschleunigen oder unter veränderten Umweltbedingungen ausführen (z. B. instabiler Untergrund, Taktwechsel). +
-Ziel: Öffnung des sensomotorischen Lösungsraums.
-* *Metaphernwechsel*:
-Beispiel: Statt „explosiv abdrücken“ → _„wie ein geplatzter Ballon aufspringen“_ +
-Neue semantische Bilder helfen, Bewegungsrepräsentationen neu zu verschalten und alternative motorische Lösungen zu aktivieren
+* *Alienation techniques*:
+Intentionally slowing down or speeding up movement, or performing it under altered environmental conditions (e.g. unstable ground, change of rhythm). 
+Goal: Opening up the sensorimotor solution space.
+* *Metaphor change*:
+Example: Instead of "explosive push-off" → "popping like a burst balloon" +
+New semantic images help to reconnect movement representations and activate alternative motor solutions.
 include::partial$gen/bibliography.adoc[tags=Schack2006Representation]
 .
-* *Semantische Neuanreicherung*:
-Z. B. Frage: _„Was wäre das Gegenteil deiner Bewegung?“_ +
-Aktiviert das mentale Lexikon und regt die kognitive Flexibilität an.
-* *Temporäre Übertreibung / Regression*:
-Z. B. _„Mach’s absichtlich viel zu schnell / zu weich / zu stark – fühl die Extreme.“_ +
-Hilft beim Wahrnehmen von Grenzbereichen der Bewegung und fördert Selbstorganisation.
+* *Semantic enrichment*:
+For example. Question: "What would be the opposite of your movement?" +
+Activates the mental lexicon and stimulates cognitive flexibility.
+* *Temporary exaggeration/regression*:
+For example. "Deliberately do it much too fast / too softly / too strongly – feel the extremes." +
+Helps to perceive the limits of movement and promotes self-organization.
 
-Diese Techniken kombinieren Störung ohne Schädigung und Variation ohne Bloßstellung – zwei zentrale Prinzipien moderner Trainingsdidaktik, die nachhaltiges motorisches Lernen fördern.
+These techniques combine disruption without damage and variation without embarrassment—two central principles of modern training didactics that promote sustainable motor learning.
