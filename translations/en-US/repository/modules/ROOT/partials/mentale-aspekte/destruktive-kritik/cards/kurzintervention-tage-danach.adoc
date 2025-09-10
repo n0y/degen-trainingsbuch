@@ -1,67 +1,67 @@
-= Kurzintervention: Destruktive Kritik bei zeitlichem Abstand
-:keywords: uebung
-:uebung-group: Training-Cards
+= Brief intervention: Destructive criticism with a time lag
+:keywords: exercise
+:uebung-group: Training Cards
 
 ifndef::ownpage[]
 
-xref:page$practices/mentale-aspekte/destruktive-kritik/cards/kurzintervention-tage-danach.adoc[als Coaching Card  ⤴]
+xref:page$practices/mental-aspects/destructive-criticism/cards/short-intervention-the-day-after.adoc[as Coaching Card  ⤴]
 
 endif::[]
 
-Anwendung, wenn das destruktive Feedback bereits länger (wenige Tage) zurückliegt. Es ist dann oft bereits verankert und vielleicht bereits emotional "weiter gewachsen". Eventuell hat sich bereits das Selbstbild verändert.
+Use when the destructive feedback occurred some time ago (a few days). It is then often already firmly established and may have already "grown" emotionally. Perhaps your self-image has already changed.
 
-Ziele:
+Goals:
 
-* Die innere Geschichte, die sich nach dem Feedback gebildet hat, auffangen oder umdeuten.
-* Die Bewegungslust und Offenheit wiederherstellen.
-* Der AthletIn das Gefühl geben, dass sie nicht falsch ist, sondern etwas in der Umgebung nicht gepasst hat.
+* Capture or reinterpret the inner story that has formed after the feedback.
+* Restoring the desire to move and openness.
+* Make the athlete feel that they are not wrong, but that something in the environment was not right.
 
-Ansprache: einladend, nicht drängen
-
-[quote]
-____
-Ich weiß, das Turnier / der Lehrgang war intensiv – manchmal bleibt was hängen, was sich nicht gut anfühlt. Möchtest du erzählen, wie’s dir damit geht?
-____
-
-Wenn die Person nichts erzählt, nicht bohren, sondern direkt weiter mit Phase 2.
-
-Ziel: Auflösung der Verschmelzung zwischen Bewertung und Selbstbild, Kontrolle zurückgeben.
-
-Ansprache: ruhig, direkt, mit konkretem Details (falls bekannt)
+Approach: inviting, not pushy
 
 [quote]
 ____
-Nicht jeder, der laut ist, hat recht. Und nicht jeder Kommentar trifft die Realität. Vielleicht sagt das, was du gehört hast, mehr über die Person als über dich.
+I know the tournament/training course was intense—sometimes things stick with you that don't feel good. Would you like to tell us how you feel about it?
 ____
 
-Ziel: neue Bewegungserfahrung, Fokus auf Selbstwirksamkeit
+If the person doesn't say anything, don't probe, but move straight on to phase 2.
 
-Durchführen einer kleinen Übung, die kritisierte Elemente enthält (falls bekannt) oder (bei allgemeiner Kritik) die zentrale Stärke der AthletIn:
+Goal: Dissolve the fusion between evaluation and self-image, restore control.
+
+Address: calm, direct, with specific details (if known)
 
 [quote]
 ____
-Lass uns mal die Ausweichbewegungen machen – aber so, wie sie sich für dich gut anfühlt. Nicht wie’s jemand sehen will. Ich beobachte nur das Timing, nicht den Stil.
+Not everyone who is loud is right. And not every comment reflects reality. Perhaps what you heard says more about that person than it does about you.
 ____
 
-Danach Rückmeldung zur Selbstwirksamkeit:
+Goal: new movement experience, focus on self-efficacy
+
+Perform a short exercise that includes criticized elements (if known) or (in the case of general criticism) the athlete's key strength:
 
 [quote]
 ____
-Dein Rhythmus ist da – und das ist der, auf dem wir aufbauen.
+Let's do the evasive maneuvers—but in a way that feels good for you. Not how someone wants to see it. I only observe the timing, not the style.
 ____
 
-Ziel: nützliche Metapher ins mentale Lexikon bringen, Selbstbild positiv formen
-
-Ansprache: freudig, auffordernd
+Followed by feedback on self-efficacy:
 
 [quote]
 ____
-Was du machst, hat Sinn. Du baust Dir gerade neue Muster auf. Das braucht oft Mut – genau den sehe ich bei dir.
+Your rhythm is there—and that's what we'll build on.
 ____
 
-Oder falls die Kritik eine Metapher enthielt, kann man sie umdeuten:
+Goal: Add useful metaphors to your mental lexicon, shape a positive self-image
+
+Address: cheerful, inviting
 
 [quote]
 ____
-Du bist kein Huhn. Eher ein Greifvogel beim Wenden – manchmal kurz wacklig, dann präzise. Aber in jedem Fall ein bisschen verrückt. Und das braucht's auch.
+What you do makes sense. You are currently developing new patterns. That often takes courage—and that's exactly what I see in you.
+____
+
+Or if the criticism contained a metaphor, it can be reinterpreted:
+
+[quote]
+____
+You're not a chicken. More like a bird of prey turning—sometimes a little shaky, then precise. But a little crazy in any case. And that's what it takes.
 ____
