@@ -1,75 +1,75 @@
-= Trainingsplan Rollstuhlfechten
-:keywords: uebung
-:uebung-group: Trainingspläne
+= Wheelchair fencing training plan
+:keywords: exercise
+:uebung-group: training plans
 
 ifndef::ownpage[]
 
-xref:page$practices/trainingsplanung/trainingsplaene/90min/2019-20_90-6a.adoc[Nur diese Übung]
+xref:page$practices/training-planning/training-plans/90min/2019-20_90-6a.adoc[Only this exercise]
 
 endif::[]
 
-Dauer: 90 min
+Duration: 90 min
 
-Materialien: Langbänke o.ä.
+Materials: Long benches or similar
 
 [cols=".^8,.^1"]
 |===
-a|=== Aufwärmen
+a|=== warm up
 |*15 min*
 
-a|==== Schild-Fangen
+a|==== tag
 
-Quelle:
+Source:
 
 include::partial$gen/bibliography.adoc[tags=GIFI]
 
-.Beschreibung:
-* Immer vier Spieler zusammen
-* Drei halten sich an den Hängen und bilden ein Dreieck.
-* Einer davon soll gefangen werden, jeder ist Reihum mal dran
-* Der vierte Spieler soll dieses Ziel fangen. Die anderen versuchen, sich so zu bewegen, dass das Ziel geschützt wird (durch rotieren!)
-* Wird das Ziel gefangen, dann wird der RECHTS neuer Fänger und der Links neues Ziel.
-* Spätestens nach einer Minute gibt es einen Wechsel (ANSAGEN!)
+.Description:
+* Always four players together
+* Three hold onto the slopes and form a triangle.
+* One of them must be caught, everyone takes turns
+* The fourth player should catch this target. The others try to move in such a way that the target is protected (by rotating!).
+* If the target is caught, then the RIGHT becomes the new catcher and the left becomes the new target.
+* After one minute at the latest, there will be a change (ANNOUNCEMENT!).
 
 //-
 
-.Darauf achten, dass:
-* der Fänger nur außen herum läuft, nicht in der Mitte durch (auch nicht durch greift): Verletzungsgefahr! +
-* die Leute sich nicht zu verausgaben. Insbesondere bei Gruppen mit unterschiedlich starken/ schnellen Personen
-|3x 3 min
+.Ensure that:
+* The catcher only runs around the outside, not through the middle (and does not reach through): Risk of injury! +
+* people not to overexert themselves. Especially for groups with people of varying strengths/speeds
+|3 times 3 minutes
 
-a|==== Trinken
-|5 Min
+a|==== Drinking
+|5 min
 
-a|=== Masken-Staffel
+a|=== mask relay
 
-Intensives Erwärmen des Oberkörpers und der Armmuskulatur, die beim Rollstuhlfechten besonders beansprucht wird.
+Intensive warming up of the upper body and arm muscles, which are particularly strained during wheelchair fencing.
 
-Etwa gleich starke Mannschaften, jeweils 4 bis 5 Personen und jeweils eine Maske
+Teams of roughly equal strength, each with 4 to 5 people and one mask each
 
-Maske wird jeweils an den Nächststehenden übergeben. Der letzte läuft nach vorne und beginnt dort erneut (so gehts voran)
+The mask is passed on to the next person in line. The last one runs to the front and starts again there (that's how it works).
 
-Es beginnt die Mannschaft, die nachdem Minuten am weitesten vorne ist.
+The team that is furthest ahead after minutes starts.
 
-* Seitliches übergeben
-* Über den Kopf übergeben
+* Sideways transfer
+* Throw up over your head
 |*10 min*
 
-a|=== Trinken, Umziehen, Aufbauen
-|*15 Min*
+a|=== Drink, change clothes, set up
+|*15 min*
 
-a|=== Rollstuhlfechten
+a|=== wheelchair fencing
 
-* Mit Bänken zum absetzen
-* Melder daneben auf die Kisten
-* Abstand richtig einstellen: Waffe in Liniereicht bis zum Ellenbogen des Gegners (Innenseite)
-* Bei unterschiedliche Größen der Fechter entscheidet der kürzere über die Distanz
-* Jeweils auf fünf Treffer, ca. 5 Personen pro Runde
-* Immer mit einer Kampfrichter:in
+* With benches to sit down on
+* Detectors next to the boxes
+* Set the distance correctly: hold the weapon in a straight line up to your opponent's elbow (inside).
+* If the fencers are of different heights, the shorter one decides the distance.
+* Five hits each, approx. 5 people per round
+* Always with a referee
 
-*Parallel: Einzellektionen*
-|*35 Min*
+*Parallel: Individual lessons*
+|*35 min*
 
-a|=== Abbauen
-|10 Min
+a|=== Dismantling
+|10 min
 |===
