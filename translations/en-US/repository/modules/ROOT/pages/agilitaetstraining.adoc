@@ -1,60 +1,60 @@
-= Agilitätstraining
+= agility training
 
-:description: Training für sportspezifische Agilität für das Fechten mit Schwerpunkt auf dem Degen-Fechten.
-:keywords: Fechten,Degen-Fechten,Training,Agilität,Kampfsport
+:description: Training for sport-specific agility for fencing, with a focus on épée fencing.
+:keywords: Fencing, épée fencing, training, agility, martial arts
 
-Kraft-, Kraft-Ausdauer und kardiovaskuläre Fitness sind verhältnismäßig einfach zu trainieren und eine Erhebung des Trainingsstands ist vergleichsweise einfach.
+Strength, strength endurance, and cardiovascular fitness are relatively easy to train, and assessing training levels is comparatively simple.
 
-Spezielles Agilitätstraining ist wesentlich komplizierter anzulegen, zum großen Teil, weil vergleichende Tests viel schwieriger durchzuführen sind.
+Special agility training is much more complicated to set up, largely because comparative tests are much more difficult to perform.
 
-In Kampfsportarten wird Agilität zum größten Teil durch das Ausüben des Sports selbst trainiert. Dabei müssen wir die Geschwindigkeit und Qualität der Entscheidungsprozesse genauso verbessern wie physische Faktoren und die notwendigen Techniken.
+In martial arts, agility is largely trained through practicing the sport itself. In doing so, we must improve the speed and quality of decision-making processes as well as physical factors and the necessary technologies.
 
-Kein noch so großer Anteil an Koordinationsleiter-Training wird die Sportler in ihrer Sportart agiler machen, auch wenn die so eingeübte Koordination und Beweglichkeit aus Sportart-übergreifender Sicht ein erstrebenswertes Ziel darstellt.
+No amount of coordination ladder training will make athletes more agile in their sport, even if the coordination and agility practiced in this way is a desirable goal from a cross-sport perspective.
 
-Um Agilität im Kampfsport zu trainieren, ist zunächst zu verstehen, was genau Agilität in diesem Kontext bedeutet. Basierend auf dem, was in vielen Trainingsbüchern, Lehrgängen und Youtube-Videos vermittelt wird, scheinen nur wenige Lehrende und Athleten wirklich zu verstehen, was Agilität bedeutet.
+In order to train agility in martial arts, it is first necessary to understand what exactly agility means in this context. Based on what is taught in many training manuals, courses, and YouTube videos, it seems that few instructors and athletes truly understand what agility means.
 
-== Definition "Agilität"
+== Definition of "agility"
 
-In einem älteren Video, einem UFC Countdown, wurde berichtet, dass einer der Athleten einen Agilitätstrainer beschäftigte. Der ließ den Sportler Tennisbälle fangen, die von hinter seinem Rücken gegen eine Wand vor ihm geworfen wurden. Er musste Einheiten an der Agilitätsleiter bewältigen und an der Langhantel zwischen Ober- und Untergriff wechseln.
+In an older video, a UFC Countdown, it was reported that one of the athletes employed an agility trainer. He had the athlete catch tennis balls that were thrown from behind his back against a wall in front of him. He had to complete exercises on the agility ladder and switch between an overhand and underhand grip on the barbell.
 
-Warum wird das als Agilität bezeichnet?
+Why is this called agility?
 
-Und natürlich haben wir alle Tausende von Videos gesehen, bei denen Leiter- und Hütchenparcours so schnell abgespult werden, als würden wir sie in doppelter Geschwindigkeit sehen.
+And, of course, we've all seen thousands of videos where ladder and cone drills are performed so quickly that it looks like we're watching them in double speed.
 
-Warum diese Hindernis-Parcours?  „Schnelle Füße“ scheint keine ausreichende Erklärung zu sein.
+Why these obstacle courses?  "Fast feet" does not seem to be a sufficient explanation.
 
-Um wirklich effektiv zu trainieren, müssen wir erklären, was Agilität im Bereich Kampfsport wirklich bedeutet.
+In order to train effectively, we need to explain what agility really means in martial arts.
 
-Agilität im Kampfsport ist die Fähigkeit, Kontrolle über die Körperposition und -Haltung zu behalten, wenn sich Geschwindigkeit oder Richtung der Bewegungen als Antwort auf einen Sport-spezifischen Reiz schnell verändert.
+Agility in martial arts is the ability to maintain control over body position and posture when the speed or direction of movement changes rapidly in response to a sport-specific stimulus.
 
-Entscheidend dabei ist der „sportspezifische Reiz“ und das müssen wir für die folgenden Kapitel im Kopf behalten.
+The decisive factor here is the "sport-specific stimulus," and we must keep this in mind for the following chapters.
 
-Oft erwähnt ist der Begriff der „reaktiven Agilität“. Basierend auf der hier genutzten Definition ist aber alle Agilität immer reaktiv und deswegen im Zusammenhang mit Agilität redundant und kann entfallen.
+The term "reactive agility" is often mentioned. However, based on the definition used here, all agility is always reactive and therefore redundant in the context of agility and can be omitted.
 
-Agilität im Kampfsport kann offensiv oder defensiv gerichtet sein. Im Fechtsport könnte offensive Agilität es ermöglichen, erfolgreich Gegenangriffe durchzuführen. Defensive Agilität ermöglicht es, eine Abwehr zu Umgehen und den eigenen Angriff erfolgreich zu beenden.
+Agility in martial arts can be offensive or defensive. In fencing, offensive agility could enable successful counterattacks. Defensive agility makes it possible to bypass a defense and successfully complete your own attack.
 
-Es ist wichtig im Kopf zu behalten, dass Fechter – wie die meisten Kampfsportler – die meiste Zeit gleichzeitig Angriffs- und Verteidigungsverhalten zeigen müssen.
+It is important to keep in mind that fencers—like most martial artists—must demonstrate offensive and defensive behavior simultaneously most of the time.
 
-Schon beim ersten Betrachten eines Gefechts ist offensichtlich, dass nichts davon aussieht wie das Fangen eines Tennisballs oder das Rennen durch eine Koordinationsleiter.
+Even when watching a battle for the first time, it is obvious that none of it looks like catching a tennis ball or running through a coordination ladder.
 
-Agilität kann offen oder geschlossen auftreten. Offen bezeichnet dabei, dass eine freie Antwort auf einen Umgebungsreiz erfolgte. Geschlossen bedeutet, dass das entsprechende Maneuver vorab geplant war.
+Agility can be open or closed. Open refers to a free response to an environmental stimulus. Closed means that the corresponding maneuver was planned in advance.
 
-Die Beispiele am Anfang des Kapitels fallen in den Bereich der geschlossenen Agilität. Ärgerlicherweise sind sie nicht in Kampfsituationen übertragbar und helfen deswegen Sportart-spezifisch nicht weiter. Es gibt aber auch geschlossene Agilitätsübungen, die helfen.
+The examples at the beginning of the chapter fall within the realm of closed agility. Annoyingly, they cannot be transferred to combat situations and are therefore of no help in specific sports. However, there are also closed agility exercises that can help.
 
-== Erfahrungen in anderen Kampfsportarten
+== Experience in other martial arts
 
-Sichten wir die Literatur zum Thema Agilität und <beliebige Kampfsportart>, dann sind nur wenige Veröffentlichungen zu finden, meistens im Bereich Tae-Kwon-Do und Karate. Sichtet man diese Fachartikel, dann wird schnell klar, dass es sich fast ausschließlich im geschlossene Agilitätstests handelt, bei denen auf Reize geantwortet wird, die nicht Sportart-spezifisch sind:
+If we look at the literature on agility and <beliebige Kampfsportart>, we find only a few publications, mostly in the field of tae kwon do and karate. Looking at these specialist articles, it quickly becomes clear that they almost exclusively deal with closed agility tests in which responses are given to stimuli that are not specific to a particular sport:
 
 include::partial$gen/bibliography.adoc[tag=LuGed]
 ,
 
-include::partial$gen/bibliography.adoc[tag=FARB]
+include::partial$gen/bibliography.adoc[tag=COLOR]
 ,
 
 include::partial$gen/bibliography.adoc[tag=PTAGTA]
 .
 
-Tatsächlich vergleichen einige Artikel lediglich Athleten verschiedener Sportarten bezüglich ihrer Reaktionszeiten und erreichten Werte in vordefinierten Tests:
+In fact, some articles merely compare athletes from different sports in terms of their reaction times and scores achieved in predefined tests:
 
 include::partial$gen/bibliography.adoc[tag=APADSS]
 ,
@@ -62,69 +62,69 @@ include::partial$gen/bibliography.adoc[tag=APADSS]
 include::partial$gen/bibliography.adoc[tag=DCRTV]
 .
 
-Dabei erfahren wir zwar, wie schnell sich die Athleten bewegen können, aber wir erfahren wenig darüber, wie agil sie in ihrer jeweiligen Kampfsportart agieren.
+This tells us how fast the athletes can move, but it tells us little about how agile they are in their respective martial arts.
 
-Um herauszufinden, warum das so ist, lohnt sich ein Blick in die Invasionssportarten (Fußball, Rugby, American Football, Basketball, …): Hier ist Agilität deutlich besser untersucht, weil hier in jedem Spiel hunderte von Agilitätsmaneuvern in den unterschiedlichsten Szenarien auftreten.
+To find out why this is the case, it is worth taking a look at invasion sports (soccer, rugby, American football, basketball, …): agility is much better researched in these sports because hundreds of agility maneuvers occur in a wide variety of scenarios in every game.
 
-== Agilität im Kampfsport, näher betrachtet
+== Agility in martial arts, a closer look
 
-Betrachtet man Agilitätstests aus anderen Sportarten, dann wird dort tatsächlich die Geschwindigkeit der Richtungsänderungen gemessen (change of direction speed, CODS). Dabei weiß der Athlet, wo, wann und wie die entsprechende Änderung durchgeführt werden soll.
+If we look at agility tests from other sports, we see that they actually measure the speed of changes of direction (change of direction speed, CODS). The athlete knows where, when, and how the corresponding change should be made.
 
-Nun sind aber CODS und Agilität unterschiedliche Fertigkeiten. In
+However, CODS and agility are different skills. In
 
 include::partial$gen/bibliography.adoc[tag=ACIS]
-zeigt der Autor, einer der führenden Agilitätsexperten, in einer Metastudie, dass CODS und Agilität nur zu 21 % korreliert sind.
+In a meta-study, the author, one of the leading agility experts, shows that CODS and agility are only 21% correlated.
 
-Da die Korrelation unter 0.5 liegt, sind CODS und Agilität unabhängig voneinander. Oder anders ausgedrückt: Schnell zu sein und seine Geschwindigkeit und Richtung schnell ändern zu können, heißt nicht, auch erfolgreich und schnell auf Sportart-spezifische Reize reagieren zu können, um beispielsweise Angriffen ausweichen zu können.
+Since the correlation is below 0.5, CODS and agility are independent of each other. In other words, being fast and being able to change speed and direction quickly does not necessarily mean being able to react successfully and quickly to sport-specific stimuli, for example, to evade attacks.
 
-Wir wissen daher, dass Agilität mehr als nur ein physisches Können ist, sondern aus zwei Komponenten besteht:
+We therefore know that agility is more than just physical ability; it consists of two components:
 
-* Kognitive Faktoren
-** Antizipation
-** Visuelle Auswertung
-** Wissen über die Situation
-** Mustererkennung
-* Physische Faktoren
-** Techniken
-** Reaktive Kraft
-** Konzentrische Kraft
-** Anthropometrie
+* Cognitive factors
+** anticipation
+** Visual evaluation
+** Knowledge about the situation
+** pattern recognition
+* Physical factors
+** techniques
+** Reactive force
+** Concentric force
+** anthropometry
 
-Oder einfacher: Kognitive Fertigkeiten bezeichnen die Fähigkeit, schnell die richtige Entscheidung zu treffen.
+Or more simply: Cognitive skills refer to the ability to make the right decision quickly.
 
-Um ausgeprägte agile Fertigkeiten zu besitzen, müssen Entscheidungs-Geschwindigkeit und physische Fertigkeiten beide auf hohem Niveau beherrscht werden.
+In order to possess strong agile skills, decision-making speed and physical skills must both be mastered at a high level.
 
-Gerade erstes wird nicht trainiert, wenn wir lektionieren oder definierte Übungen durchführen, sondern nur dann, wenn wir schnell auf unbekannte gegnerische Aktionen antworten müssen.
+The first point in particular is not trained when we give lessons or perform defined exercises, but only when we have to respond quickly to unknown actions by our opponents.
 
-In den meisten Team-Sportarten ist fast immer klar, wer gerade Angreifer ist und wer Verteidiger. In Kampfsportarten hingegen ist jeder Athlet fast immer gleichzeitig beides. Deswegen sind die Denkprozesse zwischen den diesen Sportart-Gruppen nur sehr beschränkt übertragbar.
+In most team sports, it is almost always clear who is the attacker and who is the defender. In martial arts, on the other hand, every athlete is almost always both at the same time. For this reason, the thought processes between these sports groups are only transferable to a very limited extent.
 
-Die richtige Antwort auf eine gegnerische Aktion zu finden, wird nur gelingen, wenn der Athlet ausreichend erfahren ist und genügend ähnliche Szenarios immer wieder erlebt hat und in der Lage war, sie irgendwann erfolgreich zu lösen.
+Finding the right response to an opponent's action will only be successful if the athlete is sufficiently experienced, has encountered similar scenarios many times before, and has been able to resolve them successfully at some point.
 
-Das heißt, wenn die Athleten in der Lage sind, durch ihre Erfahrung ähnlicher Situationen zu antizipieren, was passieren wird, indem sie passende Muster wahrnehmen, die sie zu korrekten Lösungen führen.
+This means that athletes are able to anticipate what will happen based on their experience of similar situations by recognizing appropriate patterns that lead them to the correct solutions.
 
-== Wie unterscheiden sich Top-Athleten von durchschnittlichen?
+== How do top athletes differ from average athletes?
 
-Um herauszufinden, ob wie wichtig eine Fertigkeit für eine Sportart ist, kann man durchschnittliche Athleten mit Top-Athleten der entsprechenden Sportart vergleichen. Wenn die Top-Athleten die Fertigkeit in Tests signifikant besser beherrschen, dann besteht eine hohe Wahrscheinlichkeit dafür, dass diese Fähigkeit wichtig ist.
+To find out how important a skill is for a sport, you can compare average athletes with top athletes in that sport. If top athletes demonstrate significantly better mastery of the skill in tests, then there is a high probability that this skill is important.
 
-Leider konnte ich im Bereich der Kampfsportarten keine derartigen Vergleiche im Bereich der Agilität finden, sodass ein Rückgriff auf die Forschungen im Bereich der Team-Sportarten nötig wird.
+Unfortunately, I was unable to find any such comparisons in the field of martial arts in terms of agility, so it is necessary to refer to research in the field of team sports.
 
-In Netball- und Rugby-Liegen hatten höherklassige Athleten deutlich höhere Entscheidungsgeschwindigkeiten in Reaktion zu Sportart-spezifischen Reizen als durchschnittliche Athleten (siehe
+In netball and rugby trials, higher-level athletes had significantly faster decision-making speeds in response to sport-specific stimuli than average athletes (see
 
 include::partial$gen/bibliography.adoc[tag=DTRAN]
-und
+and
 
 include::partial$gen/bibliography.adoc[tag=RARLP]
-). Im Australischen Football sind professionelle Spieler deutlich schneller und präziser in der Entscheidungsfindung, wenn sie auf Richtungsänderungen der Angreifer reagieren:
+). In Australian football, professional players are significantly faster and more precise in their decision-making when reacting to changes in direction by attackers:
 
 include::partial$gen/bibliography.adoc[tag=APASA]
 .
 
-Ähnliche Resultate wurden bei Fußballspielern gefunden: sie reagieren schneller und genauer, wenn sie Passrichtungen in Eins-zu-Eins-Situationen antizipieren:
+Similar results were found in soccer players: they react faster and more accurately when they anticipate passing directions in one-on-one situations:
 
 include::partial$gen/bibliography.adoc[tag=VSSAE]
 .
 
-Höherklassige Athleten sind außerdem weniger anfällig für Finten:
+Higher-level athletes are also less susceptible to feints:
 
 include::partial$gen/bibliography.adoc[tag=EFRAP]
 ,
@@ -132,82 +132,82 @@ include::partial$gen/bibliography.adoc[tag=EFRAP]
 include::partial$gen/bibliography.adoc[tag=ASSDM]
 .
 
-Und auch insgesamt geht hervor: Top-Athleten sind nur dann signifikant besser, wenn es um die Antwort auf Sportart-spezifische Reize geht.
+Overall, it is also clear that top athletes are only significantly better when it comes to responding to sport-specific stimuli.
 
-Was heißt das für das Training? Reaktive Übungen, z.B. mit Tennisbällen, Koordinationsleitern, Lichtern, o.ä., sind zu allgemein gehalten, um auf die Agilität in der Kampfsportart selber übertragen zu werden. Daraus verweist auch Barth in
+What does this mean for training? Reactive exercises, e.g., with tennis balls, coordination ladders, lights, etc., are too general to be transferred to agility in the martial art itself. Barth also refers to this in
 
 include::partial$gen/bibliography.adoc[tag=BBFTMG]
-hin, indem er empfiehlt, bei Übungen auf nicht Sportart-spezifische Signale wie Kommandos, Pfiffe und dergleichen zu verzichten.
+by recommending that non-sport-specific signals such as commands, whistles, and the like be avoided during exercises.
 
-Agilität muss als offene Fertigkeit mit Sportart-spezifischen Reizen trainiert werden, mit Unterstützung der spezifischen physischen Fertigkeiten.
+Agility must be trained as an open skill with sport-specific stimuli, supported by specific physical skills.
 
-== Agilität in Kampfsportarten trainieren
+== Training agility in martial arts
 
-Wir teilen auf gemäß der oben angeführten Teilkomponenten, in kognitive und physische Fertigkeiten.
+We divide them into cognitive and physical skills according to the subcomponents listed above.
 
-== Physische Fertigkeiten
+== Physical skills
 
-=== Anthropometrie
+=== anthropometry
 
-Ganz allgemein gilt: Je größer ein Athlet ist, desto langsamer bewegt er sich, speziell, wenn der Anteil an Muskelmasse zu gering ist. Das Ziel ist es, überflüssiges Gewicht zu reduzieren und den Muskelanteil zu erhöhen.
+In general, the larger an athlete is, the slower they move, especially if they have too little muscle mass. The goal is to reduce excess weight and increase muscle mass.
 
-Körpergröße und Länge der Extremitäten sind weitere Faktoren. Es gilt aber auch: Je größer der Athlet ist, desto mehr Fläche ist zu verteidigen, insbesondere bei Ausweichmanövern. Es gibt hier allerdings wenig Möglichkeiten, Einfluss zu nehmen, aber es beeinflusst die Aktionsauswahl.
+Body size and limb length are additional factors. However, the following also applies: the larger the athlete, the more surface area there is to defend, especially when performing evasive maneuvers. However, there are few opportunities to exert influence here, but it does influence the choice of actions.
 
-=== Reaktive Stärke
+=== Reactive starch
 
-Reaktive Stärke ist die Fähigkeit, Kraft in einem sehr kurzen Zeitintervall (<250ms) bereitzustellen. Übungen dazu sind unter anderen:
+Reactive strength is the ability to exert force in a very short period of time (<250 ms). Exercises for this include:
 
-* Seilspringen
-* Fußgelenkarbeit: siehe
+* jumping rope
+* Ankle work: see
 include::partial$gen/bibliography.adoc[tag=SLAS]
-* Hürdenlauf
-* Liniensprünge
-* Schnelle Hüftwürfe mit dem Medizinball
+* hurdle race
+* line breaks
+* Quick hip throws with the medicine ball
 
-=== Konzentrische Stärke
+=== Concentric strength
 
-Bezeichnet die Fähigkeit, Kraft bei hoher Geschwindigkeit auszuüben.
+Refers to the ability to exert force at high speed.
 
-Übungen dazu sind unter anderem:
+Exercises for this include:
 
-* Kastensprünge (auch aus dem Sitzen)
-* Stand-Hochsprünge
-* Sprünge aus der Hocke (auch: mit Zusatzgewicht, aus Schrittstellung)
-* Medizinball-Würfe
-* Laterale Sprünge
-* schnelle Kniebeugen
-* Kreuzheben
+* Box jumps (also from a seated position)
+* Standing high jumps
+* Jumps from a squatting position (also: with additional weight, from a standing position)
+* Medicine ball throws
+* Lateral jumps
+* quick squats
+* deadlift
 
-=== Technik
+=== technology
 
-Technische Fertigkeiten sind vermutlich der wichtigste Teil der physischen Komponente der Agilität. Ziel ist es, den Athleten ein möglichst reichhaltiges Repertoire an Möglichkeiten zu geben, um bei Agilitäts-Manövern auswählen zu können.
+Technical skills are probably the most important part of the physical component of agility. The aim is to give athletes as wide a repertoire of options as possible to choose from when performing agility maneuvers.
 
-Es ist wichtig, viele verschiedene Angriffs- und Verteidigungsaktionen zu kennen und zu beherrschen. Beherrscht der Athlet nur Paraden, weiß aber nicht, wie Evasionen durchgeführt werden, dann wird er auf viele Angriffe keine adäquate Antwort kennen.
+It is important to know and master many different offensive and defensive actions. If the athlete only knows how to parry but does not know how to evade, then he will not know how to respond adequately to many attacks.
 
-Kennt er hingegen auf Gegenangriffe, dann wird er Gelegenheit erkennen, die sonst verborgen bleiben.
+If, on the other hand, he knows how to counterattack, he will recognize opportunities that would otherwise remain hidden.
 
-Das Einüben dieser Techniken kann in geschlossenen Übungen erfolgen, bei denen alles vorab geplant ist. Später, mit steigender Erfahrung, können diese Übungen in eingeschränkte oder freie Kämpfe überführt werden, die dann aber nicht bei 100 % stattfinden sollen. Dort werden kognitive Fähigkeiten entwickelt.
+These techniques can be practiced in closed exercises where everything is planned in advance. Later, with increasing experience, these exercises can be transferred to restricted or free fights, which should not, however, take place at 100% intensity. Cognitive abilities are developed there.
 
-=== Kognitive Fähigkeiten
+=== Cognitive abilities
 
-Agilität ist nicht nur die Geschwindigkeit, mit der Entscheidungen getroffen und umgesetzt werden. Entscheidend ist, dass die Entscheidungen überwiegend richtig getroffen werden. Man kann so schnell reagieren wie man will – wählt man die falsche Aktion, dann wird man getroffen.
+Agility is not just the speed at which decisions are made and implemented. The crucial thing is that the decisions are mostly correct. You can react as quickly as you want—if you choose the wrong action, you'll get hit.
 
-Die einzelnen Faktoren zur Entscheidungsfindung werden hier nicht einzeln heruntergebrochen, weil sie nicht isoliert trainierbar sind. Sie wirken zusammen, indem die Athleten möglichst unterschiedlichen Szenarien und Kampfsituationen ausgesetzt werden.
+The individual factors involved in decision-making are not broken down individually here because they cannot be trained in isolation. They work together by exposing athletes to as many different scenarios and combat situations as possible.
 
-Indem die Athlet:innen immer wieder einer Kampfsituation ausgesetzt werden und aus falsch getroffenen Entscheidungen lernen können, führt dazu, dass Muster erkannt, falsche Reaktionen gehemmt und richtige Reaktionen verstärkt werden. Nur so können offene agile Reaktionen trainiert werden.
+By repeatedly exposing athletes to combat situations and allowing them to learn from wrong decisions, patterns are recognized, wrong reactions are inhibited, and correct reactions are reinforced. This is the only way to train open, agile responses.
 
-Diese Fertigkeit kann nicht in starren Lektionen vermittelt werden, sondern nur durch Übungskämpfe: leichte Übungskämpfe, aufgabenbezogene Kämpfe oder echte Kämpfe.
+This skill cannot be taught in rigid lessons, but only through practice fights: easy practice fights, task-related fights, or real fights.
 
-Echte Kämpfe sind bei Fechtern einfacher möglich als in den meisten anderen Kampfsportarten, weil durch die effektive Schutzkleidung das Verletzungsrisiko minimal ist. Wenn hier die Variabilität der Kampfsituationen gering bleibt oder eine zu geringen Intensität erreicht wird, dann soll auf aufgabenbezogene Kämpfe ausgewichen werden.
+Real fights are easier to stage in fencing than in most other martial arts because the risk of injury is minimal thanks to effective protective clothing. If the variability of combat situations remains low or the intensity is too low, then task-related combat should be used instead.
 
-Aufgabenbezogene Kämpfe können auch eingesetzt werden, indem nur einer der Fechter eine Vorgabe erhält, sodass der andere Fechter die Möglichkeit erhält, unterschiedliche Reaktionen auf sehr ähnliche Aktionen zu erproben.
+Task-based fights can also be used by giving only one of the fencers a specific task, allowing the other fencer to try out different responses to very similar actions.
 
-== Plan für Agilitätstraining im Kampfsportart
+== Plan for agility training in martial arts
 
-Wie klar geworden sein sollte, kann Agilität nicht durch generische Übungen mit einem „Agilitätstrainer“ erlangt werden. Stattdessen wird Agilität zum größten Teil durch das Ausüben des Kampfsports selbst erworben.
+As should be clear by now, agility cannot be achieved through generic exercises with an "agility trainer." Instead, agility is largely acquired through practicing the martial art itself.
 
-Dennoch gibt es eine Reihe von Richtlinien, die den Erwerb fördern und beschleunigen:
+Nevertheless, there are a number of guidelines that promote and accelerate the acquisition:
 
-* Reaktive und konzentrische Kraft trainieren, 1-2x pro Woche
-* Das offensive und defensive Technik-Arsenal erweitern, in vorgeplanten Übungen (Partner oder Trainer)
-* So viele echte Kampfsituationen erleben wie möglich, mit einer möglichst großen Bandbreite an Aktionen, die erlebt und durchgeführt werden. Dabei versuchen, mit der eigenen Technik das Problem zu lösen und zu korrigieren, wenn es nicht gelingt.
+* Train reactive and concentric strength, 1-2 times per week
+* Expand your offensive and defensive technical arsenal in pre-planned exercises (partner or trainer)
+* Experience as many real combat situations as possible, with the widest possible range of actions being experienced and performed. Try to solve the problem using your own technology and correct it if it does not work.
