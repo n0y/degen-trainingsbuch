@@ -1,56 +1,56 @@
-= Gegenangriff mit Meidbewegung
-:keywords: uebung
-:uebung-group: Lektionen
+= Counterattack with evasive movement
+:keywords: exercise
+:uebung-group: lessons
 
 ifndef::ownpage[]
 
-xref:page$practices/techniktraining/lektionstraining/uebungen/technisch/gegenangriff-meidbewegung.adoc[Nur diese Übung]
+xref:page$practices/technical-training/lesson-training/exercises/technical/counterattack-evasive-movement.adoc[Only this exercise]
 
 endif::[]
 
-Lektionslänge ca. 5 Minuten.
+Lesson length approx. 5 minutes.
 
-.Zweck der Lektion
-* Sicherheit in Klingen- und Spitzenführung auch in Drucksituationen
-* Bewusster Umgang mit Verteidigungsreflexen
-* Verbesserung des Umgangs mit verfügbarem Platz auf der Fechtbahn
-* Anpassung an Veränderungen der Anthropometrie (z.B. in Wachstumsphasen)
-* Erfahren der Effektivität verschiedener Meidbewegungen
+.Purpose of the lesson
+* Safety in blade and tip guidance, even in high-pressure situations
+* Conscious handling of defense reflexes
+* Improving the use of available space on the fencing piste
+* Adaptation to changes in anthropometry (e.g., during growth phases)
+* Experiencing the effectiveness of various avoidance movements
 
-Halte den Abstand mit Schritten. Trainer:in greift unterschiedliche Blößen an und gibt sie vorher bekannt. Athletin weicht der Spitze mit dem Körper aus und trifft selbst auf beliebige Blöße. Kein Klingenkontakt!
+Keep your distance with steps. The trainer addresses various weaknesses and announces them in advance. The athlete dodges the tip with her body and hits any exposed area herself. No blade contact!
 
-Jeweils hintereinander Angriffe auf folgende Blößen:
+Attacks on the following flanks, one after the other:
 
-* Körper oben innen
-* Körper oben außen
-* Flanke
-* Brust Mitte
-* Oberschenkel
-* Hand oben
-* Fuß
-* Maske
+* Upper body inside
+* Upper outer body
+* cross
+* Center of chest
+* thigh
+* Hand up
+* foot
+* mask
 
-Zufällig aus diesen Aufgaben auswählen, bis Lektionslänge erreicht.
+Select randomly from these tasks until the lesson length is reached.
 
-* Variation Bewegungsausführung - Endbedingung:
-** Treffe mit halb/ganz/nicht gestrecktem Arm
-** Stehe danach in Nahkampf-Entfernung
-** Laufe selbst nach dem Treffer an der Trainer:in vorbei
+* Variation in movement execution - End condition:
+** Hit with arm half/fully/not extended
+** Then stand within melee range.
+** Run past the coach yourself after scoring the goal.
 ** ...
-* Variation Bewegungsausführung - Anfangsbedingung
-** Fechte in Quart/Sixt/Oktav/...-Bindung
-** Aus Vorwärts/Rückwärtsbewegung unterschiedlicher Geschwindigkeit (Trainer:in)
-** Auf der Endlinie stehend
+* Variation in movement execution - Initial condition
+** Fencing in quart/sixth/octave/... binding
+** Forward/backward movement at different speeds (trainer)
+** Standing on the finish line
 ** ..
-* Variation räumlich-/zeitliche Ausführung
-** Gegen unterschiedliche Angriffstiefen
-** Gegen Angriff mit Sprung/Ausfall/Fléche
-* Variation räumliche Ausführung
-** Mache Dich möglichst klein/groß
-** Weite/Enge Fußstellung
-* Variation dynamische Ausführung
-** Triff möglichst schnell!
-** Weiche erst aus und triff dann
+* Variation in spatial/temporal execution
+** Against different attack depths
+** Against attacks with jump/lunge/flèche
+* Variation in spatial design
+** Make yourself as small/big as possible
+** Wide/narrow foot position
+* Variation dynamic design
+** Hit as fast as you can!
+** First dodge, then strike
 ** ...
-* Variation Materialien/Geräte
-** Unbewaffnet, treffe durch Berühren mit der Hand
+* Variation Materials/Equipment
+** Unarmed, strike by touching with your hand
