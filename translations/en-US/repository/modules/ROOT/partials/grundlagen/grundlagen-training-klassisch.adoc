@@ -1,87 +1,87 @@
 [[grundlagen-klassische-trainingsmethoden]]
-== Klassische Trainingsmethoden
+== Traditional training methods
 
-Grundlage für traditionelles Lehren und Lernen in Verein und Schule sind drei Modellarten: (1) Lernmodelle, (2) Lehrmodelle, (3) Bewegungsmodelle.
+Traditional teaching and learning in clubs and schools is based on three types of models: (1) learning models, (2) teaching models, (3) movement models.
 
-Wesentliche Lernmodelle sind nach
+According to
 
 include::partial$gen/bibliography.adoc[tag=LuGed]
 
 [loweralpha]
-. Lernen durch Kontiguität, bzw. klassische Konditionierung nach Pawlow und Guthrie aus der Frühzeit der Lernpsychologie.
-. Lernen durch Verstärkung/ operante Konditionierung nach Thorndike, Hüll, Skinner
-. Lernen durch Beobachtung
+. Learning through contiguity, or classical conditioning according to Pavlov and Guthrie from the early days of learning psychology.
+. Learning through reinforcement/operant conditioning according to Thorndike, Hüll, Skinner
+. Learning by observation
 include::partial$gen/bibliography.adoc[tag=SFTA]
-. Lernen durch Einsicht, Bewusstmachen von Bewegung
+. Learning through insight, awareness of movement
 include::partial$gen/bibliography.adoc[tag=IaA]
 
-Wesentliche Lehrmethoden sind nach
+The main teaching methods are according to
 
 include::partial$gen/bibliography.adoc[tag=AMdL]
 
 [loweralpha]
-. Methodische Reihen (motorische, konditionelle, Spielreihen)
-. Induktive – Deduktive Lehrkonzepte mit analytischen/synthetischen Realisierungsansätzen
+. Methodical series (motor, conditioning, game series)
+. Inductive – Deductive teaching concepts with analytical/synthetic implementation approaches
 
-Grundlegende Bewegungsmodelle sind nach
+Basic movement models are according to
 
 include::partial$gen/bibliography.adoc[tag=SDLL]
 
 [loweralpha]
-. Open-Loop-Modell nach
+. Open-loop model according to
 include::partial$gen/bibliography.adoc[tag=AMAEM]
-(beispielsweise beim Angriff mit Fléche)
-. Closed-Loop-Modell nach
+(for example, when attacking with a flèche)
+. Closed-loop model according to
 include::partial$gen/bibliography.adoc[tag=CLTML]
-(beispielsweise während des Mensurspiels)
-. schematheoretisches Modell nach
+(for example, during a fencing match)
+. schematic theoretical model according to
 include::partial$gen/bibliography.adoc[tag=STDMSL]
-und
+and
 include::partial$gen/bibliography.adoc[tag=WVKF]
 
-== Probleme und Widersprüche der klassischen Trainingslehre
+== Problems and contradictions in classical training theory
 
-In den meisten uns bekannten Vereinen wird normalerweise nicht nach einem festen Modell gelehrt, sondern es kommt zu einer Vermischung. Intuitiv und auch mit Erfolg geben Trainer:innen in Anlehnung an das Lernen am Modell Ziel-Techniken vor und versuchen ihre SchülerInnen mit bedingter und operanter Konditionierung möglichst nahe an das eigene oder übernommene Technik-Leitbild anzunähern.
+In most of the clubs we know, teaching is not usually based on a fixed model, but rather a mixture of different approaches. Intuitively and successfully, trainers use model-based learning to teach target techniques and try to bring their students as close as possible to their own or adopted technical model using conditional and operant conditioning.
 
 // TODO: Konzepte wie „adaptive Expertise“ (Hatano & Inagaki) oder „ecological dynamics“ könnten diesen Punkt differenzierter einordnen
 
-Auch explorative Methoden ("Versuch und Irrtum") werden bisweilen als Methode eingesetzt. Allzu häufig aber mit dem Ziel, die erwartete Zieltechnik möge nun endlich gefunden und eingesetzt werden. Schüler:innen finden zwar gelegentlich eigene Techniken, die eventuell sogar für ihre Voraussetzungen besser geeignet sind; diese werden aber oft als Irrtum ignoriert.
+Exploratory methods ("trial and error") are also sometimes used as a method. All too often, however, the aim is to finally find and implement the expected target technology. Students occasionally discover their own techniques that may even be better suited to their circumstances, but these are often dismissed as mistakes.
 
 // TODO: Bezug zur "funktionalen Variabilität"?
 
-Dabei ist die vorgegebene Ideal-/Zieltechnik häufig problematisch: Sie ist manchmal veraltet, oft in sich widersprüchlich und in jedem Fall nicht an die Individualität der SchülerInnen angepasst. Dennoch sollen die SchülerInnen sich nach dem Prinzip der Übereinstimmung
+The prescribed ideal/target technique is often problematic: it is sometimes outdated, often contradictory, and in any case not adapted to the individuality of the students. Nevertheless, students should follow the principle of consistency.
 
 include::partial$gen/bibliography.adoc[tag=SOTP]
 )
-iterativ den "korrekten" Lösungen annähern, die mit hoher Wiederholungszahl eingeschlossen werden sollen
+iteratively approach the "correct" solutions that should be included with a high number of repetitions
 
 include::partial$gen/bibliography.adoc[tag=HaTra]
 .
 
-Zu beachten ist, dass innovative Neuerungen im Sport normalerweise erfolgen, wenn sich Trainer und Athleten nicht daran orientieren, sondern Technik und Taktik in einem neuen Umfeld neu denken oder neu erproben. Ein beispiel ist der Angriff mit Fléche: Er wurde durch moderne Schutzausrüstung gefahrlos praktizierbar, aber es dauerte Jahre, bis er seinen Einzug ins Standard-Repertoir des Degenfechtens fand.
+It should be noted that innovative changes in sport usually occur when coaches and athletes do not focus on them, but instead rethink or re-evaluate techniques and tactics in a new environment. One example is the flèche attack: modern protective equipment made it safe to practice, but it took years before it found its way into the standard repertoire of épée fencing.
 
-Das Problem mit Ideal-/Zieltechniken ist unter anderem die Nichtwiederholbarkeit identischer Bewegungen
+One of the problems with ideal/target techniques is the non-repeatability of identical movements.
 
 include::partial$gen/bibliography.adoc[tag=MoVaDQO]
-: selbst die besten Athleten sind nicht in der Lage, sogar einfache Bewegungen exakt identisch auszuführen. Sie werden immer an die variable Umwelt adaptiert.
+: even the best athletes are unable to perform even simple movements in exactly the same way. They are always adapted to the variable environment.
 
-Das Lernen einer Bewegungsfertigkeit bedeutet im Kern immer, dass eine Veränderung in der Steuerung der Muskulatur notwendig ist, die im Gehirn vorgenommen wird und an mindestens einer der Stellen erstes Motorneuron (Upper Motor Neuron, UMN), zentraler Rhythmusgenerator (Central Pattern Generator, CPG) oder unteres Motorneuron (Lower Motor Neuron, LMN) eine Veränderung bewirkt. Diese Änderung ist bereits das erfolgte Lernen.
+Learning a motor skill essentially always means that a change in muscle control is necessary, which is carried out in the brain and causes a change in at least one of the following areas: upper motor neuron (UMN), central pattern generator (CPG), or lower motor neuron (LMN). This change is already the learning that has taken place.
 
 // TODO: hier wäre eine Abbildung wundervoll! Alternativ: eine Info-Box?
 
-Inzwischen ist gut erforscht, wie diese neuroplastischen Änderungen zustande kommen: Fehler. Ein Lernprozess besteht immer darauf, dass Lernende einen Fehler begehen, der über Feedback zu Anpassungen an der plastischen Struktur des Gehirns führt. Um es deutlich zu sagen: Ohne Fehler ist Lernen unmöglich
+There is now a good understanding of how these neuroplastic changes come about: errors. A learning process always involves learners making mistakes, which leads to adjustments in the plastic structure of the brain through feedback. To put it plainly: learning is impossible without mistakes.
 
 include::partial$gen/bibliography.adoc[tag=LFEr]
 .
 
-Entsprechend gibt es neuere Lehr- und Lernmethoden, die Variabilität ins Zentrum stellen. Beispiele sind der systemdynamische Ansatz (Selbstorganisation nach
+Accordingly, there are newer teaching and learning methods that focus on variability. Examples include the system dynamics approach (self-organization according to
 
 include::partial$gen/bibliography.adoc[tag=MPTHHM]
-) und die Selbststabilisierung nach
+) and self-stabilization according to
 
 include::partial$gen/bibliography.adoc[tag=SNANF]
-. In beiden Fällen sind Fluktuationen Bestandteil der Theorie.
+. In both cases, fluctuations are part of the theory.
 
-Weiteres Problem ist die Kopplung der Bewegung an das ausführende System, also die Individualität der Bewegungsausführung.
+Another problem is the coupling of the movement to the executing system, i.e., the individuality of the movement execution.
 
-In der Sportpraxis wird zwar immer wieder gesagt, dass Individualität als Abweichung von der Norm akzeptiert werden soll, konkret bedarf es aber der Intuition erfolgreicher Trainer und Athleten, um diese Toleranz auch umzusetzen, weil die klassiche Trainingslehre dafür keine ausreichende Methodik mitbringt.
+In sports practice, it is often said that individuality should be accepted as a deviation from the norm, but in reality, it takes the intuition of successful coaches and athletes to implement this tolerance, because classic training theory does not provide sufficient methodology for this.
