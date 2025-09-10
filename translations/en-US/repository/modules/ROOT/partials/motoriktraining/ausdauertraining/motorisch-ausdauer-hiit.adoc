@@ -1,112 +1,112 @@
-= Trainingsplan: hochintensives Ausdauertraining
-:keywords: uebung
-:uebung-group: Ausdauertraining
+= Training plan: high-intensity endurance training
+:keywords: exercise
+:uebung-group: endurance training
 
 ifndef::ownpage[]
 
-xref:page$practices/motoriktraining/ausdauertraining/motorisch-ausdauer-hiit.adoc[Nur diese Übung]
+xref:page$practices/motor skills training/endurance training/motor endurance hiit.adoc[Only this exercise]
 
 endif::[]
 
-Folgender Trainingsplan, basierend auf
+The following training plan, based on
 
 include::partial$gen/bibliography.adoc[tag=EHIiS]
-, setzt Hochintensives Intervalltraining mit zwei Einheiten pro Woche (unter 30 Minuten pro Einheit) um und wurde erfolgreich mit Erwachsenen und Schulkindern (12 Jahre) angewendet.
+, implements high-intensity interval training with two sessions per week (less than 30 minutes per session) and has been used successfully with adults and schoolchildren (aged 12).
 
-Der "normale Lauf" (ohne Angabe) in der Einheit bezieht sich auf 90% der Geschwindigkeit eines 6-Minuten-Laufs, die am Anfang der 6-Wochen-Einheit ermittelt wird. Je nach Ausstattung kann dabei die Geschwindigkeit oder die (besser) die Herzfrequenz als Vorgabe dienen. Wird die Herzfrequenz eingesetzt, dann fällt damit ebenfalls der Leistungsdruck weg, der gerade beim Einstieg in ein Ausdauertraining demotivierend wirkt.
+The "normal run" (no specification) in the unit refers to 90% of the speed of a 6-minute run, which is determined at the beginning of the 6-week unit. Depending on the equipment, speed or (better) heart rate can be used as a guideline. If heart rate is used, this also removes the pressure to perform, which can be demotivating, especially when starting endurance training.
 
-Die "Sprint"-Einheiten werden immer mit maximal möglicher Geschwindigkeit gelaufen.
+The "sprint" units are always run at maximum possible speed.
 
 [cols="1,4 ,1"]
 |===
-|Einheit |Beschreibung |Dauer
+|unit |Description |duration
 
 |1
-|* 7 Wiederholungen:
-** 1 min Lauf
-** 1 min Pause +
-* 3 min Serienpause +
-* 6 Wiederholungen:
-** 30 s Lauf
-** 1 min Pause
+|* 7 repetitions:
+** 1 min run
+** 1-minute break +
+* 3-minute series break +
+* 6 repetitions:
+** 30-second run
+** 1-minute break
 |25 min
 
 |2
-|* 4 Wiederholungen:
-** 4 min Lauf
-** 3 min Pause
+|* 4 repetitions:
+** 4-minute run
+** 3-minute break
 |25 min
 
 |3
-|* 4 Wiederholungen:
-** 10 mal:
-*** 10 s Sprint
-*** 20 s Pause
-** 2 min Pause
+|* 4 repetitions:
+** 10 times:
+*** 10-second sprint
+*** 20-second break
+** 2-minute break
 |26 min
 
 |4
-|* 12 Wiederholungen:
-** 30 s Sprint
-** 30 s Pause
-* 5 Wiederholungen
-** 1 min Lauf
-** 2 min Pause
+|* 12 repetitions:
+** 30-second sprint
+** 30-second break
+* 5 repetitions
+** 1 min run
+** 2-minute break
 |25 min
 
 |5
-|* 7 Wiederholungen:
-** 2 min Lauf
-** 2 min Pause
+|* 7 repetitions:
+** 2 min run
+** 2-minute break
 |26 min
 
 |6
-|* 3 Wiederholungen:
-** 10 mal:
-*** 15 s Sprint
-*** 20 s Pause
-** 3 min Serienpause
+|* 3 repetitions:
+** 10 times:
+*** 15-second sprint
+*** 20-second break
+** 3-minute break in the series
 |23 min
 
 |7
-|* 9 Wiederholungen:
-** 1 min Lauf
-** 2 min Pause
+|* 9 repetitions:
+** 1 min run
+** 2-minute break
 |25 min
 
 |8
-|* 4 Wiederholungen:
-** 4 min Lauf
-** 3 min Pause
+|* 4 repetitions:
+** 4-minute run
+** 3-minute break
 |25 min
 
 |9
-|* 8 Wiederholungen:
-** 30 s Lauf
-** 3 min Pause
+|* 8 repetitions:
+** 30-second run
+** 3-minute break
 |25 min
 
 |10
-|* 12 Wiederholungen:
-** 30 s Sprint
-** 30 s Pause
-* 5 Wiederholungen:
-** 1 min Lauf
-** 2 min Pause
+|* 12 repetitions:
+** 30-second sprint
+** 30-second break
+* 5 repetitions:
+** 1 min run
+** 2-minute break
 |25 min
 
 |11
-|* 5 Wiederholungen:
-** 90 s Lauf
-** 90 s Pause
-* 2 Wiederholungen:
-** 4 min Lauf
-** 3 min Pause
+|* 5 repetitions:
+** 90-second run
+** 90-second break
+* 2 repetitions:
+** 4-minute run
+** 3-minute break
 |26 min
 
 |12
-|* 7 Wiederholungen:
-** 2 min Lauf
-** 2 min Pause
+|* 7 repetitions:
+** 2 min run
+** 2-minute break
 |26 min
 |===
