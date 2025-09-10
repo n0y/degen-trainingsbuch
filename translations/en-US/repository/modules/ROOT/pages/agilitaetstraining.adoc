@@ -1,0 +1,213 @@
+= agility training
+
+:description: Training for sport-specific agility for fencing, with a focus on épée fencing.
+:keywords: Fencing, épée fencing, training, agility, martial arts
+
+Strength, strength endurance, and cardiovascular fitness are relatively easy to train, and assessing training levels is comparatively simple.
+
+Special agility training is much more complicated to set up, largely because comparative tests are much more difficult to perform.
+
+In martial arts, agility is largely trained through practicing the sport itself. In doing so, we must improve the speed and quality of decision-making processes as well as physical factors and the necessary technologies.
+
+No amount of coordination ladder training will make athletes more agile in their sport, even if the coordination and agility practiced in this way is a desirable goal from a cross-sport perspective.
+
+In order to train agility in martial arts, it is first necessary to understand what exactly agility means in this context. Based on what is taught in many training manuals, courses, and YouTube videos, it seems that few instructors and athletes truly understand what agility means.
+
+== Definition of "agility"
+
+In an older video, a UFC Countdown, it was reported that one of the athletes employed an agility trainer. He had the athlete catch tennis balls that were thrown from behind his back against a wall in front of him. He had to complete exercises on the agility ladder and switch between an overhand and underhand grip on the barbell.
+
+Why is this called agility?
+
+And, of course, we've all seen thousands of videos where ladder and cone drills are performed so quickly that it looks like we're watching them in double speed.
+
+Why these obstacle courses?  "Fast feet" does not seem to be a sufficient explanation.
+
+In order to train effectively, we need to explain what agility really means in martial arts.
+
+Agility in martial arts is the ability to maintain control over body position and posture when the speed or direction of movement changes rapidly in response to a sport-specific stimulus.
+
+The decisive factor here is the "sport-specific stimulus," and we must keep this in mind for the following chapters.
+
+The term "reactive agility" is often mentioned. However, based on the definition used here, all agility is always reactive and therefore redundant in the context of agility and can be omitted.
+
+Agility in martial arts can be offensive or defensive. In fencing, offensive agility could enable successful counterattacks. Defensive agility makes it possible to bypass a defense and successfully complete your own attack.
+
+It is important to keep in mind that fencers—like most martial artists—must demonstrate offensive and defensive behavior simultaneously most of the time.
+
+Even when watching a battle for the first time, it is obvious that none of it looks like catching a tennis ball or running through a coordination ladder.
+
+Agility can be open or closed. Open refers to a free response to an environmental stimulus. Closed means that the corresponding maneuver was planned in advance.
+
+The examples at the beginning of the chapter fall within the realm of closed agility. Annoyingly, they cannot be transferred to combat situations and are therefore of no help in specific sports. However, there are also closed agility exercises that can help.
+
+== Experience in other martial arts
+
+If we look at the literature on agility and <beliebige Kampfsportart>, we find only a few publications, mostly in the field of tae kwon do and karate. Looking at these specialist articles, it quickly becomes clear that they almost exclusively deal with closed agility tests in which responses are given to stimuli that are not specific to a particular sport:
+
+include::partial$gen/bibliography.adoc[tag=LuGed]
+,
+
+include::partial$gen/bibliography.adoc[tag=COLOR]
+,
+
+include::partial$gen/bibliography.adoc[tag=PTAGTA]
+.
+
+In fact, some articles merely compare athletes from different sports in terms of their reaction times and scores achieved in predefined tests:
+
+include::partial$gen/bibliography.adoc[tag=APADSS]
+,
+
+include::partial$gen/bibliography.adoc[tag=DCRTV]
+.
+
+This tells us how fast the athletes can move, but it tells us little about how agile they are in their respective martial arts.
+
+To find out why this is the case, it is worth taking a look at invasion sports (soccer, rugby, American football, basketball, …): agility is much better researched in these sports because hundreds of agility maneuvers occur in a wide variety of scenarios in every game.
+
+== Agility in martial arts, a closer look
+
+If we look at agility tests from other sports, we see that they actually measure the speed of changes of direction (change of direction speed, CODS). The athlete knows where, when, and how the corresponding change should be made.
+
+However, CODS and agility are different skills. In
+
+include::partial$gen/bibliography.adoc[tag=ACIS]
+In a meta-study, the author, one of the leading agility experts, shows that CODS and agility are only 21% correlated.
+
+Since the correlation is below 0.5, CODS and agility are independent of each other. In other words, being fast and being able to change speed and direction quickly does not necessarily mean being able to react successfully and quickly to sport-specific stimuli, for example, to evade attacks.
+
+We therefore know that agility is more than just physical ability; it consists of two components:
+
+* Cognitive factors
+** anticipation
+** Visual evaluation
+** Knowledge about the situation
+** pattern recognition
+* Physical factors
+** techniques
+** Reactive force
+** Concentric force
+** anthropometry
+
+Or more simply: Cognitive skills refer to the ability to make the right decision quickly.
+
+In order to possess strong agile skills, decision-making speed and physical skills must both be mastered at a high level.
+
+The first point in particular is not trained when we give lessons or perform defined exercises, but only when we have to respond quickly to unknown actions by our opponents.
+
+In most team sports, it is almost always clear who is the attacker and who is the defender. In martial arts, on the other hand, every athlete is almost always both at the same time. For this reason, the thought processes between these sports groups are only transferable to a very limited extent.
+
+Finding the right response to an opponent's action will only be successful if the athlete is sufficiently experienced, has encountered similar scenarios many times before, and has been able to resolve them successfully at some point.
+
+This means that athletes are able to anticipate what will happen based on their experience of similar situations by recognizing appropriate patterns that lead them to the correct solutions.
+
+== How do top athletes differ from average athletes?
+
+To find out how important a skill is for a sport, you can compare average athletes with top athletes in that sport. If top athletes demonstrate significantly better mastery of the skill in tests, then there is a high probability that this skill is important.
+
+Unfortunately, I was unable to find any such comparisons in the field of martial arts in terms of agility, so it is necessary to refer to research in the field of team sports.
+
+In netball and rugby trials, higher-level athletes had significantly faster decision-making speeds in response to sport-specific stimuli than average athletes (see
+
+include::partial$gen/bibliography.adoc[tag=DTRAN]
+and
+
+include::partial$gen/bibliography.adoc[tag=RARLP]
+). In Australian football, professional players are significantly faster and more precise in their decision-making when reacting to changes in direction by attackers:
+
+include::partial$gen/bibliography.adoc[tag=APASA]
+.
+
+Similar results were found in soccer players: they react faster and more accurately when they anticipate passing directions in one-on-one situations:
+
+include::partial$gen/bibliography.adoc[tag=VSSAE]
+.
+
+Higher-level athletes are also less susceptible to feints:
+
+include::partial$gen/bibliography.adoc[tag=EFRAP]
+,
+
+include::partial$gen/bibliography.adoc[tag=ASSDM]
+.
+
+Overall, it is also clear that top athletes are only significantly better when it comes to responding to sport-specific stimuli.
+
+What does this mean for training? Reactive exercises, e.g., with tennis balls, coordination ladders, lights, etc., are too general to be transferred to agility in the martial art itself. Barth also refers to this in
+
+include::partial$gen/bibliography.adoc[tag=BBFTMG]
+by recommending that non-sport-specific signals such as commands, whistles, and the like be avoided during exercises.
+
+Agility must be trained as an open skill with sport-specific stimuli, supported by specific physical skills.
+
+== Training agility in martial arts
+
+We divide them into cognitive and physical skills according to the subcomponents listed above.
+
+== Physical skills
+
+=== anthropometry
+
+In general, the larger an athlete is, the slower they move, especially if they have too little muscle mass. The goal is to reduce excess weight and increase muscle mass.
+
+Body size and limb length are additional factors. However, the following also applies: the larger the athlete, the more surface area there is to defend, especially when performing evasive maneuvers. However, there are few opportunities to exert influence here, but it does influence the choice of actions.
+
+=== Reactive strength
+
+Reactive strength is the ability to exert force in a very short period of time (<250 ms). Exercises for this include:
+
+* jumping rope
+* Ankle work: see
+include::partial$gen/bibliography.adoc[tag=SLAS]
+* hurdle race
+* line breaks
+* Quick hip throws with the medicine ball
+
+=== Concentric strength
+
+Refers to the ability to exert force at high speed.
+
+Exercises for this include:
+
+* Box jumps (also from a seated position)
+* Standing high jumps
+* Jumps from a squatting position (also: with additional weight, from a standing position)
+* Medicine ball throws
+* Lateral jumps
+* quick squats
+* deadlift
+
+=== technology
+
+Technical skills are probably the most important part of the physical component of agility. The aim is to give athletes as wide a repertoire of options as possible to choose from when performing agility maneuvers.
+
+It is important to know and master many different offensive and defensive actions. If the athlete only knows how to parry but does not know how to evade, then he will not know how to respond adequately to many attacks.
+
+If, on the other hand, he knows how to counterattack, he will recognize opportunities that would otherwise remain hidden.
+
+These techniques can be practiced in closed exercises where everything is planned in advance. Later, with increasing experience, these exercises can be transferred to restricted or free fights, which should not, however, take place at 100% intensity. Cognitive abilities are developed there.
+
+=== Cognitive abilities
+
+Agility is not just the speed at which decisions are made and implemented. The crucial thing is that the decisions are mostly correct. You can react as quickly as you want—if you choose the wrong action, you'll get hit.
+
+The individual factors involved in decision-making are not broken down individually here because they cannot be trained in isolation. They work together by exposing athletes to as many different scenarios and combat situations as possible.
+
+By repeatedly exposing athletes to combat situations and allowing them to learn from wrong decisions, patterns are recognized, wrong reactions are inhibited, and correct reactions are reinforced. This is the only way to train open, agile responses.
+
+This skill cannot be taught in rigid lessons, but only through practice fights: easy practice fights, task-related fights, or real fights.
+
+Real fights are easier to stage in fencing than in most other martial arts because the risk of injury is minimal thanks to effective protective clothing. If the variability of combat situations remains low or the intensity is too low, then task-related combat should be used instead.
+
+Task-based fights can also be used by giving only one of the fencers a specific task, allowing the other fencer to try out different responses to very similar actions.
+
+== Plan for agility training in martial arts
+
+As should be clear by now, agility cannot be achieved through generic exercises with an "agility trainer." Instead, agility is largely acquired through practicing the martial art itself.
+
+Nevertheless, there are a number of guidelines that promote and accelerate the acquisition:
+
+* Train reactive and concentric strength, 1-2 times per week
+* Expand your offensive and defensive technical arsenal in pre-planned exercises (partner or trainer)
+* Experience as many real combat situations as possible, with the widest possible range of actions being experienced and performed. Try to solve the problem using your own technology and correct it if it does not work.

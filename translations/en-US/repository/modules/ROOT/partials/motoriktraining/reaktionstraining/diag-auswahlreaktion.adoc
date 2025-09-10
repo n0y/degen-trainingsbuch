@@ -1,0 +1,2 @@
+.Reaction time depending on the number of choices
+image::diag-auswahlreaktion.svg[]

@@ -1,0 +1,25 @@
+= The failure
+
+As one of the fundamental elements of fencing movements, the lunge is of great importance. It is described in detail in countless publications, e.g. in
+
+include::partial$gen/bibliography.adoc[tag=ErlFe]
+. The movement actually performed by athletes almost always differs from the description. This applies to both the starting position, where significantly more weight is placed on the front foot
+
+include::partial$gen/bibliography.adoc[tag=KDSFL]
+, as well as the foot movement, in which the front heel leaves the ground first in all observed cases.
+
+include::partial$gen/bibliography.adoc[tag=KALFS]
+.
+
+The solution area to be trained could be restricted as follows:
+
+* The starting point is a fencing position within the valid parameters or a position that can be achieved through actions that comply with the rules.
+* The goal is to hit a distant target as quickly as possible with the tip of your weapon.
+* The front foot should be brought forward explosively.
+* The feet should not cross, and the movement should be completed afterwards. (Distinction from the flèche and the saber-specific "flunge")
+
+All other parameters should be part of the variations to be trained. This applies in particular, but not exclusively, to: the sequence of arm and leg movements; acceleration/deceleration during execution; foot position before, during, and after execution; arm and hand position during execution. When specifying the foot position, it is particularly important to ensure that instructions that could cause injury are not given (e.g., the knee must not fall inward).
+
+The failure can also be trained with a partner exercise. There, you can also practice how to react to interference from opponents during the outage.
+
+Details on coordinating your arm and leg during the lunge can be found under "Punching and striking movements."

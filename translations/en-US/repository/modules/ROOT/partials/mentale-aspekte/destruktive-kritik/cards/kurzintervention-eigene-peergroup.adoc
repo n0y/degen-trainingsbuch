@@ -1,0 +1,83 @@
+= Brief intervention: Destructive criticism from one's own peer group
+:keywords: exercise
+:uebung-group: Training Cards
+
+ifndef::ownpage[]
+
+xref:page$practices/mental-aspects/destructive-criticism/cards/brief-intervention-own-peer-group.adoc[as Coaching Card ⤴]
+
+endif::[]
+
+Emotional criticism from one's own training group (mockery, insults) usually weighs much heavier than feedback from outside. They threaten self-image just as much, but also social security—and thus the willingness to learn. However, trainers are present and can intervene directly.
+
+Objectives of the intervention:
+
+* Immediate emotional relief for the affected athlete
+* Setting clear but not humiliating boundaries with the group
+* Restoring dignity, freedom, and motivation to learn
+* Reintegrating the group by refocusing – not by punishing
+
+Address: clear body language, calm (not loud), look at the group (not the victim; signals protection)
+
+[quote]
+____
+Stop—this is no place for ridicule.
+____
+
+or
+
+[quote]
+____
+We don't say things like that here. Period.
+____
+
+Goal: Set all standards in the mental lexicon—from "performance counts" to "courage counts."
+
+[quote]
+____
+You know, exercise looks different for everyone. Those who dare to do something here deserve respect—not comments.
+____
+
+or
+
+[quote]
+____
+Mistakes show courage. Those who laugh have not understood what this is all about.
+____
+
+Address: brief and calm, preferably in private
+
+[quote]
+____
+That was unfair. You took a risk—that's impressive. I want you to do it again right now. And this time you're there for yourself, not for others.
+____
+
+After the repetition, a brief, focused observation helps ("Your timing was really brave just now. That's what counts.")
+
+Alternative if repetition is not possible:
+
+Short physical exercise: stand firmly, breathe twice consciously, tense up, relax
+
+Objective:
+
+* Overwrite mockery
+* No one loses face
+* Reintegration of those affected through joint exercise
+
+Open exercise for everyone and focus on your own style:
+
+[quote]
+____
+Okay—same task again for everyone. Everyone has a try, and everyone tries it their own way, in a way that no one else does.
+____
+
+[cols="h,e,"]
+|===
+|1. Immediate stop |Interrupt group standard |Stop. No mockery here."
+
+|2. Reframing for everyone |New meaning of mistakes & courage |"Those who dare deserve respect."
+
+|3. stabilize |Provide emotional support and reassurance to victims |That was brave—do it again. I am with you."
+
+|4. Reintegrate |New exercise for everyone |"Everyone does it—three attempts, each in their own way."
+|===

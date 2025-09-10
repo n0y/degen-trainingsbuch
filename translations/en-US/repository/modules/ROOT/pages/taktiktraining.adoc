@@ -1,0 +1,5 @@
+= tactics training
+:description: Efficient training of technical skills in épée fencing. Basics, lessons, partner exercises.
+:keywords: Fencing, épée fencing, training, martial arts, technique, lessons, partner exercises, tactics
+
+include::partial$taktiktraining/tactical-training.adoc[]

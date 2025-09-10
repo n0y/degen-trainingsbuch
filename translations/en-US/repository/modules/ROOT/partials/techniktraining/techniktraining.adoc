@@ -1,0 +1,11 @@
+== technical training
+
+include::partial$techniktraining/technical-training-basics.adoc[leveloffset=+2]
+
+include::partial$techniktraining/technical-training-body-movements.adoc[leveloffset=+2]
+
+include::partial$techniktraining/technical-training-meeting-movement.adoc[leveloffset=+2]
+
+include::partial$techniktraining/lesson-training/lesson-training.adoc[leveloffset+=2]
+
+== Technical partner exercises

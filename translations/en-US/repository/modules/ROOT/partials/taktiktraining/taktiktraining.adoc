@@ -1,0 +1,11 @@
+== tactical training
+
+NOTE: Text is still missing here. Feel free to write it. :-)
+
+=== Partner exercises
+
+include::partial$taktiktraining/partneruebung/tactical-preparation-1.adoc[leveloffset=+3]
+
+=== competition formats
+
+include::partial$taktiktraining/competition-formats/round-with-tasks.adoc[leveloffset=+3]

@@ -1,0 +1,112 @@
+= Training plan: high-intensity endurance training
+:keywords: exercise
+:uebung-group: endurance training
+
+ifndef::ownpage[]
+
+xref:page$practices/motor skills training/endurance training/motor endurance hiit.adoc[Only this exercise]
+
+endif::[]
+
+The following training plan, based on
+
+include::partial$gen/bibliography.adoc[tag=EHIiS]
+, implements high-intensity interval training with two sessions per week (less than 30 minutes per session) and has been used successfully with adults and schoolchildren (aged 12).
+
+The "normal run" (no specification) in the unit refers to 90% of the speed of a 6-minute run, which is determined at the beginning of the 6-week unit. Depending on the equipment, speed or (better) heart rate can be used as a guideline. If heart rate is used, this also removes the pressure to perform, which can be demotivating, especially when starting endurance training.
+
+The "sprint" units are always run at maximum possible speed.
+
+[cols="1,4 ,1"]
+|===
+|unit |Description |duration
+
+|1
+|* 7 repetitions:
+** 1 min run
+** 1-minute break +
+* 3-minute series break +
+* 6 repetitions:
+** 30-second run
+** 1-minute break
+|25 min
+
+|2
+|* 4 repetitions:
+** 4-minute run
+** 3-minute break
+|25 min
+
+|3
+|* 4 repetitions:
+** 10 times:
+*** 10-second sprint
+*** 20-second break
+** 2-minute break
+|26 min
+
+|4
+|* 12 repetitions:
+** 30-second sprint
+** 30-second break
+* 5 repetitions
+** 1 min run
+** 2-minute break
+|25 min
+
+|5
+|* 7 repetitions:
+** 2 min run
+** 2-minute break
+|26 min
+
+|6
+|* 3 repetitions:
+** 10 times:
+*** 15-second sprint
+*** 20-second break
+** 3-minute break in the series
+|23 min
+
+|7
+|* 9 repetitions:
+** 1 min run
+** 2-minute break
+|25 min
+
+|8
+|* 4 repetitions:
+** 4-minute run
+** 3-minute break
+|25 min
+
+|9
+|* 8 repetitions:
+** 30-second run
+** 3-minute break
+|25 min
+
+|10
+|* 12 repetitions:
+** 30-second sprint
+** 30-second break
+* 5 repetitions:
+** 1 min run
+** 2-minute break
+|25 min
+
+|11
+|* 5 repetitions:
+** 90-second run
+** 90-second break
+* 2 repetitions:
+** 4-minute run
+** 3-minute break
+|26 min
+
+|12
+|* 7 repetitions:
+** 2 min run
+** 2-minute break
+|26 min
+|===

@@ -1,0 +1,21 @@
+= Title
+
+Lesson length approx. x minutes.
+
+.Purpose of the lesson
+* xyz
+
+Select randomly from these tasks until the lesson length is reached.
+
+* movement execution
+** Initial and final conditions
+** spatial design
+** spatial-temporal execution (speed)
+** dynamic execution (acceleration)
+** temporal execution (rhythm)
+** scope
+** duration
+* Sensory perceptions (limitations, amplification)
+* Materials, equipment
+* Subsoil, terrain
+* Framework conditions, rules

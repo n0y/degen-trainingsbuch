@@ -1,0 +1,48 @@
+= The fencing stance
+
+The position in which fencers are in a resting position already represents an individual solution to the requirements of the combat situation.
+
+It specifically enables high horizontal force to be exerted on the ground in as many different directions as possible without any preparatory movement. Possible horizontal acceleration forwards and backwards is of particular interest here.
+
+In addition, it should be possible to achieve a large range of hits from a standing position in order to attack forward target areas without moving your feet and to have a better chance of hitting with arrêt in the event of surprise attacks.
+
+High hip mobility is advantageous for evasive movements.
+
+Compared to the traditional fencing stance, for example in
+
+include::partial$gen/bibliography.adoc[tag=ErlFe]
+, Chapter 4.1, there are several possibilities for adaptation in order to adequately meet the specific requirements of modern fencing. Each adjustment has its advantages and disadvantages.
+
+.https://en.wikipedia.org/wiki/Choi_In-jeongas an example of a modern fencing stance
+image::technik-fechtstellung.svg[Embedded,80%]
+
+The most important adjustments that are visible in many fencers at the higher performance level:
+
+* In many cases, the foot spacing is significantly increased. Two and a half to three feet in length are not uncommon here. This distance improves the angle at which the rear foot transfers force to the ground. Depending on the coefficient of friction between the shoe sole and the metal track, the optimal angle is around 42°. This cannot be fully achieved in normal positions, so the rule here is usually: the more, the better. 
+Advantages: Better power transfer in both directions, greater stability, better balance
+Disadvantages: Faster fatigue, half steps more difficult
+* Especially with the rear foot, the heel is often lifted off the ground. With large ground angles, a relaxed posture is not possible anyway, because the goal is to keep the calf muscles in the optimal working range. 
+Advantages: greater explosiveness, easier tempo changes, and tactical feints.
+Disadvantages: faster fatigue, strain on the Achilles tendon and calf (to be considered during training).
+* The upper body is tilted forward so that the body's center of gravity is in line with the rear leg. This prevents torsional forces when accelerating forward and simplifies precise tip control. In addition, the body's center of gravity is shifted forward slightly in order to generate the necessary friction on the front foot for backward movements. 
+Advantages: greater explosiveness, provocation of premature actions, extended reach
+Disadvantages: faster fatigue, shoulder more difficult to cover
+* The front foot is moved forward. The resulting angle between the leg and the floor improves the possibility of accelerating backward. 
+Advantages: faster retreat, psychological pressure
+Disadvantages: foot harder to defend
+* The rear arm is normally held close to the body and actively used to compensate for rotational movements of the upper body. 
+Advantages: better balance, better body tension, more tactical flexibility
+Disadvantages: larger target area, higher risk of injury
+* The rear shoulder is often brought further forward. This promotes greater hip mobility even when standing still. During attacks, the shoulder can quickly be turned out of line during the arrêt. 
+Advantages: greater shock dynamics, more dominant body language
+Disadvantages: larger contact area, hand position must be adjusted
+* The front arm is bent more sharply, often at an angle of 90°. Since the explosive arm extension takes place in less than 100 ms
+include::partial$gen/bibliography.adoc[tag=AREKinSP]
+  and the muscles achieve greater force through greater expansion, a hit from this position also occurs almost simultaneously. This allows for greater maneuverability without any disadvantages and better protects the hand from attacks. 
+Advantages: Parries closer to the body, easier to defend the arm, simpler feints
+Disadvantages: Spontaneous attacks more difficult
+* Choosing such a fencing position usually also involves a change in footwork. The weight distribution no longer allows for easy steps. Either the fencing stance is abandoned for simple steps (for situations without pressure in an extra-wide distance) or only jumps are performed, which are then usually executed from the ankles. 
+Advantages: greater explosiveness (due to preload), better distance control, exudes dominance
+Disadvantages: faster fatigue,
+
+It should be noted that the exact fencing position depends heavily on the fencer using it, and there is a wide range of variation. Variants should be offered regularly in every service area in order to increase variability and promote individual solutions.

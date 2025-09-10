@@ -1,0 +1,67 @@
+= Training plan: Steps and jumps
+:keywords: exercise
+:uebung-group: training plans
+
+ifndef::ownpage[]
+
+xref:page$practices/training-planning/training-plans/90min/2019-20_90-5a.adoc[Only this exercise]
+
+endif::[]
+
+Duration: 90 min
+
+Material: Masking tape, 30 m
+
+[cols=".^8,.^1"]
+|===
+a|=== warm up
+|*15 min*
+
+a|==== rollerball
+
+* Two teams play against each other on overturned benches or box parts.
+* The ball is played with the hand and may only be rolled (ground contact).
+* Whoever has the ball is not allowed to move.
+* A distance of one step must be maintained from the ball carrier.
+* A point is scored when the ball hits the opponent's goal.
+|10 min
+
+a|==== drink break |5 min
+
+a|=== footwork
+
+Footwork with tennis balls
+|*15 min*
+
+a|==== Everyone gets a tennis ball
+
+* Toss a tennis ball (by yourself), step forward, catch it.
+* Toss a tennis ball (by yourself), take two steps forward, catch it.
+* Backwards: Throw a tennis ball up in the air, take a step back, catch it.
+* Step forward; throw the ball as you place your back foot down; catch with a lunge.
+|7 min
+
+a|==== As a couple
+
+* A stands behind B with the ball +
+A throws the ball in a high arc over B so that B can catch it with one or two steps +
+B: steps forward, catches
+* A stands opposite Ball B (3 steps away); +
+A throws the ball IN A HIGH ARC so that it would hit B's body; +
+B: Steps back and catches the ball.
+|7 min
+
+a|=== Drink, change clothes, set up
+|*15 min*
+
+a|=== Fencing with task
+
+* Fencing without lunging
+* Meet only with steps and jumps;
+* Goal: Hit with a jump forward + line
+|*30 min*
+
+a|=== Dismantling |10 min
+
+a|=== Stretching |5 min
+|===

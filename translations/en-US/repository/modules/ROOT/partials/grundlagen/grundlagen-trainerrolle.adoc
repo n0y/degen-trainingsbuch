@@ -1,0 +1,38 @@
+== The role of the trainer in differentiated learning
+
+One of the fundamentals of differential learning is the assumption that every person has the ability to independently learn and optimize functional movements. Although this understanding is shared by most teachers at its core, it can be observed that approaches based on it are rarely adopted in training practice.
+
+Many teachers believe that self-organized learning will render the role of the teacher superfluous. The misunderstanding stems from equating guidance with control—but differential learning requires guidance through design, not through directives. Trainers remain important, but their roles are changing.
+
+First, it is important to mention that "classical" program-theoretical teaching and learning is not wrong or bad from the perspective of differential learning. It is simply based on a different principle and ultimately leads to success as well. However, numerous recent studies have shown that differential learning leads to faster and more stable success, while also increasing learner motivation.
+
+include::partial$gen/bibliography.adoc[tags=Ryan2000Self]
+.
+
+Traditionally, the coach is often assigned the leadership role in the training and competition process. He should also be the learner's most important reference person.
+
+include::partial$gen/bibliography.adoc[tag=BBFTMG]
+. There, too, starting with youth training, learners should be encouraged to participate in and critically engage with the content of the training. It is the basis of sporting success (also from
+
+include::partial$gen/bibliography.adoc[tag=BBFTMG]
+). Differential learning now shifts another part of the learning process to the learner by shifting the exact specification of the target techniques to a definition of the solution area.
+
+NOTE: Learners receive, for example Reflection questions: "Which exercise was more effective for you—why?"
+
+When acquiring technical skills, the challenge for teachers is to select movement tasks that are sufficiently different but still relate to the theoretically optimal execution of the movement. Well-known errors should also be deliberately integrated in order to provoke neural plasticity.
+
+This shifts some of the tasks of the teacher and the use of teaching materials and methods, but some remain the same:
+
+* The selection of learning content based on the performance level and experience of the learners remains unchanged. New elements should be introduced earlier: new elements should be introduced before familiar ones have been mastered.
+include::partial$gen/bibliography.adoc[tag=LSmMR]
+.
++
+// TODO: Einarbeiten: challenge point hypothesis (Guadagnoli & Lee, 2004)
+* Setting movement tasks replaces the specification of target techniques. Desired target techniques are no longer explained in detail; instead, the usual solution space is outlined and explored using variants, if possible without corrections or assistance. However, corrections should be made if the solution chosen by the learner contradicts the rules of the sport or if there is a risk of injury.
+* Corrections trigger stress in the brain, thereby slowing down the learning rate and significantly reducing the maximum strength level.
+include::partial$gen/bibliography.adoc[tags=Beilock2010]
+`.` It is assumed that the learner is offered sufficient variations so that they can learn the optimal movement execution for them, adapted to the situation.
+* The ability to recognize and resolve physical deficits that prevent the successful execution of a technical element remains fully intact.
+* The time allocation in technical training is shifting: in traditional training, explaining, clarifying, and correcting takes up a large chunk of time, often accounting for a good half of the training session. Instead, the aim should be for learners to be active themselves for most of the time. The actual execution of movements in the solution area should be within the range of 90% of the time. To this end, a form of address must be found that enables efficient communication of expectations from the teacher to the learners.
+* Provide incentives for self-optimization and prevent learners from reducing the variability of their movement execution too much, for example by assigning creative movements as tasks or requesting positive feedback from the peer group for unusual solutions.
+* Limiting sequential differences: Free movement and simple trial and error are not the goals of differential learning. This type of learning makes sense and is justified at the beginner level, but is no longer sufficient as the level increases. Despite all degrees of freedom, the teacher must ensure that learners adhere to the system.

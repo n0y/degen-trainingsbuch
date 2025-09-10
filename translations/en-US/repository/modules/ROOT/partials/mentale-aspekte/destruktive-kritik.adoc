@@ -1,0 +1,82 @@
+= Dealing with destructive feedback
+
+In martial arts in particular, athletes are often exposed to destructive feedback. This is how we describe feedback that is negative and highly emotional.
+
+The source is, on the one hand, feedback from trainers who are unaware of the destructive effect (e.g., because until the 1980s, such feedback was considered to promote performance). They use, for example, disparaging remarks ("You've been doing this for five years, but you have no idea about it") or even strong imagery ("You're jumping around like a crazy chicken").
+
+The second source is statements made by opponents who deliberately use the substance before a match in order to cause uncertainty and doubt.
+
+In martial arts in particular, athletes are often exposed to destructive feedback. This is how we describe feedback that is negative, highly emotional, and disparaging.
+
+Two main sources of such feedback can be identified:
+
+. *Trainer feedback without awareness of negative effects*:
+Particularly in training cultures that rely on authoritarian or confrontational forms of instruction—as was common in sports education until the 1980s—derogatory statements such as the following can still be heard today:
+"You've been doing this for five years, but you still have no idea."
+or metaphorical humiliations such as:
+"You're jumping around like a crazy chicken." +
+Such statements can significantly impair self-image, motivation, and motor performance.
+include::partial$gen/bibliography.adoc[tags=Goleman1995Emotional]
+, as well as
+include::partial$gen/bibliography.adoc[tags=Jowett2003Olympic]
+.
+. *Psychological warfare by opponents* or their team:
+In competitive sports—especially in combat sports involving direct confrontation—destructive communication is deliberately used as a means of unsettling opponents. Such "trash talk"* tactics are designed to create doubt, anger, or nervousness in order to undermine cognitive and motor performance.
+
+Such feedback often activates the limbic system and can lead to an emotional block that impairs working memory and reduces the potential to access learned motor programs.
+
+include::partial$gen/bibliography.adoc[tags=Arnsten2009Stress]
+.
+
+Effective handling of destructive feedback therefore relies on emotional regulation, metacognitive strategies, and language-based resilience techniques (e.g. Reframing, semantic decoupling, or perspective shifting) to neutralize or redirect negative semantic activations in the mental lexicon
+
+include::partial$gen/bibliography.adoc[tags=Gross2002Emotion]
+.
+
+== Dealing with destructive criticism
+
+Destructive criticism refers to a form of feedback on athletic performance, motor behavior, or training behavior that is not aimed at constructive improvement, but rather negatively influences the athlete's motivation, self-concept, or willingness to learn through derogatory, unspecific, or emotionally demeaning communication.
+
+NOTE: Examples: +
+  "Others can do it easily—you're just too slow." 
+  "That was embarrassing, shame on you!" 
+  "Just leave it, there's no point with you."
+
+include::partial$mentale-aspects/destructive-criticism/effects.adoc[leveloffset=+2]
+
+include::partial$mentale-aspects/destructive-criticism/overcoming-local-optima.adoc[leveloffset=+2]
+
+include::partial$mentale-aspects/destructive-criticism/countermeasures.adoc[leveloffset=+2]
+
+== Building resilience against destructive criticism
+
+Targeted training in psychological resilience is one of the most effective measures for protecting athletes from the negative effects of destructive feedback in the long term. Resilient athletes are better able to cope with emotional hurt, external disparagement, or excessive criticism without their self-image or motor learning being negatively affected.
+
+include::partial$gen/bibliography.adoc[tags=Fletcher2012grounded]
+.
+
+The following methods have proven effective for practical resilience training:
+
+. *Role-playing with "nasty coaches"*
+In short scenic exercises, trainers give deliberately exaggerated negative feedback. Athletes learn to maintain a physical and mental attitude and practice specific reactions, e.g. through inner self-dialogue or consciously deliberate gestures. 
+Goal: Building cognitive immunity through emotional anticipation
+include::partial$gen/bibliography.adoc[tags=Gross1998Emerging]
+.
+. *"What are you thinking right now?" – Training cognitive redirection*
+Immediately after receiving genuine but constructive feedback, athletes are asked: +
+_"What was going through your mind just now?"_ +
+This trains them to recognize automatic thoughts and, if necessary, redirect them (reattribution) and consciously deal with external feedback +
+Example: Instead of "I'll never be able to do that!", it is better to say "That was a hint about my timing." 
+Goal: Establishing metacognitive control over spontaneous self-evaluations
+include::partial$gen/bibliography.adoc[tags=Beck1979Cognitive]
+.
+. *Movement rituals after setbacks*
+Small routines such as shaking out your arms, conscious breathing, or a symbolic "reset gesture" help you to process failures physically and emotionally. 
+Example: *"Shake-it-off" ritual* after a failed attempt: "I let go—next try." 
+Goal: Embodied recovery, i.e., body-based self-regulation after negative stimuli
+include::partial$gen/bibliography.adoc[tags=Fustos2012On]
+.
+
+In addition, after a group discussion with the athletes in which the relevant points are addressed, it is advisable to hand out a training card that the athletes can always have at hand.
+
+include::partial$mentale-aspects/destructive-criticism/cards/training-card-destructive-criticism.adoc[leveloffset=+2]

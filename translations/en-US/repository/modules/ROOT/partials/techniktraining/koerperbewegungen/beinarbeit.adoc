@@ -1,0 +1,32 @@
+= footwork
+
+Classic footwork "on command" and without specifying variations, aimed at adhering to a target technique, achieves no technical learning effect after a very short time and should only be used in a subordinate role at most.
+
+include::partial$gen/bibliography.adoc[tag=ErlFe]
+, e.g. as a warm-up or strengthening exercise.
+
+Instead, all methods of footwork, e.g. from
+
+include::partial$gen/bibliography.adoc[tag=ErlFe]
+, chap. 4.3.
+
+In accordance with differentiated teaching and learning, however, the following should apply:
+
+* No corrections will be made, either individually or in the group.
+* A number of variants are specified in each case (body position, speeds, …)
+* No exercise should be repeated without modification.
+* After a few minutes at the latest, give the group a completely new movement task (however, for reasons of time, it is advisable not to replace any training equipment that may have been used).
+
+Exercises must focus on provoking mistakes in learners, even with the high degree of automation typical of footwork. These errors usually manifest themselves in the inability to meet speed or precision specifications or other constraints. These errors must be experienced by the learners so that they can be corrected.
+
+In order to check their own technique, learners should occasionally be offered playful forms of competition. These should be based on external qualities (speed, precision in reaching a position, accuracy of movement, …) rather than internal qualities ("beautiful execution of movement," "deep position," …).
+
+== Basic movements
+
+include::partial$techniktraining/body-movements/footwork/fencing-stance.adoc[leveloffset=+1]
+
+include::partial$techniktraining/body-movements/footwork/lunge.adoc[leveloffset=+1]
+
+include::partial$techniktraining/body-movements/footwork/fleche.adoc[leveloffset=+1]
+
+== Floating Fléche

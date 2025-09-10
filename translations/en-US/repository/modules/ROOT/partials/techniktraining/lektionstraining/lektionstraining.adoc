@@ -1,0 +1,66 @@
+= Technical lesson training
+
+Lesson training in fencing refers to training in which a coach trains individual athletes separately.
+
+Only rarely do forms appear in which several athletes are taught at the same time.
+
+Technical lesson training focuses on teaching athletes individual technical elements or simple combinations. The composition of several actions and their appropriate use in different situations is part of xref:page$agilitaetstraining.adoc[].
+
+The choice of techniques to be trained in each case is primarily up to the trainer. Young people and adults in particular should be involved in the selection process.
+
+When developing more complicated techniques (e.g., quart coupé, shoulder throw), methodical sequences are often used to train individual elements independently of each other and only combine them later.
+
+According to xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[Implementation principles], it is better to break up this blocked approach and vary the order of learning randomly.
+
+include::partial$gen/bibliography.adoc[tag=LSmMR]
+.
+
+In addition, a sufficiently high error rate should be aimed for in order to ensure that the conditions for neural plasticity are met. This failure rate is estimated to be between 60% and 80%.
+
+== Dealing with learners
+
+The following principles should be observed when dealing with athletes:
+
+* The necessity of high error rates must be explained to the athlete in advance so that acceptance of frequent failure is a necessary prerequisite: "If you are too good at something, I will make the exercise more difficult. This is necessary for learning. If I make it harder for you, it means you're already too good at the exercise."
+* An athlete is not reprimanded or criticized. Feedback on the effectiveness of the learned movement always occurs implicitly through the experience of success and failure. Unexpected execution variants must be questioned by means of movement tasks. The athlete will correct them if they are indeed ineffective. Otherwise, the variant may be retained.
+* Every successful performance must be earned by the athlete. Under no circumstances does the trainer ensure that an action is successful. Genuine feedback on effective actions is the basis for learning movement.
+* Lesson time is practice time. The athlete should be active as much as possible throughout. Explanations of theory and background information are part of the tactics training or can be provided separately if desired. The methods "learning by observation," "learning by insight," and "learning by awareness of movement" are significantly less efficient (see xref:page$grundlagen.adoc#grundlagen-klassische-trainingsmethoden[Classic Training Methods]).
+
+== Principle of lesson work
+
+Technical lessons are fundamentally structured in such a way that a single technical element is selected and then performed in as many variations as possible.
+
+The xref:page$grundlagen.adoc#implementation-principles-variability[Variables of differential training] and the xref:page$motoriktraining.adoc#coordination-through-conditions[Pressure conditions of coordination training] are available for variation.
+
+According to xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[Implementation principles], a single exercise (=combination of action and selected variation) is never repeated in lesson work. It always continues with the next combination.
+
+== Examples of technical lessons
+
+The examples are grouped according to _attack_, _parry_, _counterattack_, and _occupation_. It should be noted that the distinction between the groups in épée fencing is very vague, especially between _parry/riposte_ and _counterattack with blade removal_.
+
+We use the terms as follows:
+
+* The group _Attacks_ assumes that the fencer initiates an action to score a hit themselves.
+* The _Counterattack_ group assumes that the coach initiates an action to which the fencer responds with the intention of scoring a hit themselves, while optionally avoiding a counterattack.
+* The Parade group assumes that the coach initiates an action and the fencer thwarts it, optionally scoring a hit themselves in the process.
+* The group _Employment_ assumes that the fencer attempts to suppress the opponent's initiative and optionally scores a hit themselves.
+
+A complete lesson can last between 15 minutes and one hour. The duration should be chosen so that the athlete can maintain concentration.
+
+We try to train several elements in one lesson. An element (including all trained variations) should not be trained for more than five minutes at a time. After that, you should switch to another element. This is intended to achieve variation pressure, which increases the conditions for neuroplasticity.
+
+== Lesson elements for attack
+
+include::partial$techniktraining/lesson-training/exercises/technical/direct-attack-observation.adoc[leveloffset=+2]
+
+include::partial$techniktraining/lesson-training/exercises/technical/attack-cavitation-as-a-reaction.adoc[leveloffset=+2]
+
+== Lesson elements for counterattacks
+
+include::partial$techniktraining/lesson-training/exercises/technical/counterattack-evasive-movement.adoc[leveloffset=+2]
+
+== Lesson elements for parry/riposte
+
+include::partial$techniktraining/lesson-training/exercises/technical/parry-low-throwing-thrust.adoc[leveloffset=+2]
+
+== Lesson elements for engagement

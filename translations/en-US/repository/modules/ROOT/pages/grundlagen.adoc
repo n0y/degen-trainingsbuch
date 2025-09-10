@@ -1,0 +1,20 @@
+= Fundamentals and methodology
+:description: Training methods for fencing compared: classical approaches versus system dynamics approaches
+:keywords: Fencing, épée fencing, training, basics, differential training
+
+In children and adolescents in particular, but also in every other human being, the body and mind are subject to constant change. In addition, every battle and every training session is always conducted under new conditions. No situation is identical to any previous one.
+
+We must therefore resist the temptation to generalize too much and seek too many commonalities in terms of technical and tactical models. The unique characteristics of each individual would quickly fall through the cracks:
+
+include::partial$gen/bibliography.adoc[tag=JDZE]
+.
+
+Instead, we must aim to recognize adaptation to new conditions and requirements as the most important skill and train it accordingly. The key point is that fencers must remain capable of acting in every situation, which must always be new and unprecedented, and maintain the ability to make appropriate changes quickly.
+
+include::partial$grundlagen/basics-classical-training.adoc[]
+
+include::partial$grundlagen/basics-training-differential.adoc[]
+
+include::partial$grundlagen/grundlagen-trainerrolle.adoc[]
+
+include::partial$grundlagen/fundamentals-implementation-principles.adoc[]

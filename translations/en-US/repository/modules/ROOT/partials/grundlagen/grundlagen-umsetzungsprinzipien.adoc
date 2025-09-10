@@ -1,0 +1,104 @@
+[[grundlagen-umsetzungsprinzipien]]
+== implementation principles
+
+The methodology of differential learning can be successfully applied to a wide variety of areas. This ranges from the aforementioned studies in various individual and team sports to endurance and strength training and coordination training.
+
+include::partial$gen/bibliography.adoc[tag=TKFDL]
+.
+
+The implementation is based on the principle of variation.
+
+include::partial$gen/bibliography.adoc[tag=BWADLS]
+:
+
+* Focus on individual solutions
+* Stability through variability/uniqueness
+* Parameter variation, including contrast formation in the area of "invariants" (e.g., rules, including "attack without sight," etc.)
+* Mistakes as a necessary prerequisite for learning
+* self-optimization
+* self-organizing, non-linear learning process
+
+This also includes the classic approach of methodical series, e.g. according to
+
+include::partial$gen/bibliography.adoc[tag=LSmMR]
+, resolved: In the blocked approach, each exercise is performed 10 times in a row, for example, before moving on to the next one. In the system dynamic approach, the order is changed randomly. In a classic blocked approach, major adjustments are only necessary at the beginning of a new exercise, but then the number and size of adjustments varies, leading to faster comprehension and learning of the content.
+
+include::partial$gen/bibliography.adoc[tags=Lee1983locus]
+. In addition, there is more variety for learners, which increases their motivation to participate.
+
+If a movement pattern is to be trained, the aim should be to train the complete movement pattern as quickly as possible—ideally from the outset—even if this approach initially results in very high error rates. After
+
+include::partial$gen/bibliography.adoc[tag=TKREML]
+introduces a complex movement in sections, leading to poorer learning and retention rates. However, it is important to ensure that mistakes result from the learners' actions and do not occur randomly, because only these mistakes improve learning. Complex techniques can be practiced holistically, but with an adaptive level of difficulty – e.g. with reduced enemy dynamics, larger target area, etc.
+
+Already
+
+include::partial$gen/bibliography.adoc[tag=BBFTMG]
+points out that "independent practice" is the basic method for learning and training (technical) elements. Using the differential learning method, the variations in the exercises should be deliberately increased and no repetitions with identical parameters should be performed.
+
+For example, the following can be varied:
+
+include::partial$gen/bibliography.adoc[tag=BWADLS]
+:
+
+[[umsetzungsprinzipien-variabilitaet]]
+* movement execution
+** Initial and final conditions (e.g., "crouching fencing stance")
+** spatial execution (e.g., target heights)
+** spatial-temporal execution, speed (e.g., failure to run)
+** dynamic execution (acceleration)
+** temporal execution (rhythm)
+** scope
+** duration
+* Sensory perceptions (limitations, amplification)
+* Materials, equipment
+* Subsoil, terrain
+* General conditions, rules (e.g., only one attack per minute)
+
+The adjustments may extend into the program area, i.e., changing the technique itself, e.g., excluding a body part or deliberately using the "wrong" technique.
+
+// TODO das ist ein abrupter Übergang, das sollte man mal besser einführen
+
+Open forms of play and exercise and inquiry-based learning should also be used in the group, e.g. according to
+
+include::partial$gen/bibliography.adoc[tag=DSSvV]
+.
+
+High error rates should be aimed for when learning movements. We aim for over 75% of all movements to be performed incorrectly, because only deviations from the desired behavior lead to an adjustment in the brain structures. This also means that deviations and their consequences must be visible to learners.
+
+include::partial$gen/bibliography.adoc[tags=Metcalfe2017Learning]
+.
+
+=== Implementation of variation in the sport of fencing
+
+In fencing, all parameters can be varied as long as they remain within the limits permitted by the rules and do not lead to unavoidable risks of injury. In the case of variations outside the scope of the regulations, care must be taken to ensure that a fundamental similarity is maintained: variations that fall far outside the possible range of solutions are not permitted.
+
+NOTE: Fundamental similarity means that the movement goal and the basic biomechanical structure remain the same, even if situational or kinematic parameters are changed.
+
+In principle, the following variations are possible in technical training:
+
+. Different body positions (normal, low, crouched, leaning forward/backward, …)
+. Different hand and weapon positions (extensions, rotation of the hand, type of grip on the weapon, grip strength, …)
+. Different starting movement types (standing, advancing, retreating, jumping, …)
+. Different speeds (slow, fast, submaximal, maximal, …)
+. Different acceleration (constant, accelerated, decelerated, reversing, etc.)
+. Different joint positions (bent, straight, straight arm, bent arm, …)
+. Different muscle tension
+. Different foot positions
+. Different rhythm, number of steps, …
+
+In the simplest case, the selection and combination of variations to be trained is random. The alternative is to select based on the respective training goal, e.g.:
+
+|===
+|Goal |primary dimension of variation
+
+|Improve timing |Rhythm, acceleration
+
+|technical robustness |Starting position, joint position
+
+|Situational adaptation |Foot position, distance to opponent
+
+|reaction training |Type of movement, speed
+|===
+
+In order to learn a complex technique, no more than 60 actions (different combinations of variations) should be completed per training session, with 2 to a maximum of 3 training sessions per week. At this point at the latest, the trained movement should be changed. The complexity should be increased during a training session.

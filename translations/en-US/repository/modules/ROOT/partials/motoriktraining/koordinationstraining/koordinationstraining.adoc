@@ -1,0 +1,134 @@
+= coordination training
+
+Coordination refers to
+
+include::partial$gen/bibliography.adoc[tag=KFuKiS]
+the orderly interaction of different parts and processes of a system toward an intended goal.
+
+The scientific understanding of coordination skills is currently incomplete. There are gaps in research and empirically verified alternative approaches.
+
+include::partial$gen/bibliography.adoc[tag=KFuKiS]
+.
+
+Nevertheless, some forms of coordination exercises are useful and show good results.
+
+== Fundamentals of coordination training
+
+It is problematic to consider coordination skills separately because they are hypothetical constructs that cannot be directly observed.
+
+include::partial$gen/bibliography.adoc[tag=RfBDM]
+and always draws on a specific combination of several skills with different weightings
+
+include::partial$gen/bibliography.adoc[tag=WkFuB]
+.
+
+The viability of the approach to coordination skills is increasingly being questioned. This applies in particular to the concept of general, overarching coordination skills. The findings tend to indicate a high degree of skill specificity: training has a significant effect on performance in tasks that are part of the training, but the effects can hardly be transferred to other tasks (see, for example,
+
+include::partial$gen/bibliography.adoc[tag=RbSBM]
+and
+
+include::partial$gen/bibliography.adoc[tag=HMSSvSe]
+).
+
+Nevertheless, general coordination training is often considered useful with the aim of maintaining non-sporting skills, counteracting training monotony, and maintaining confidence in problematic situations.
+
+The following are considered to be shares in the training:
+
+include::partial$gen/bibliography.adoc[tag=SSlTo]
+e.g., 5% for general coordination training and 10-15% for sport-specific coordination training.
+
+In
+
+include::partial$gen/bibliography.adoc[tag=KFuKiS]
+shows that training general coordination skills and skill-related technique training are two ends of the same continuum. Technical training is therefore always sport-specific coordination training.
+
+include::partial$gen/bibliography.adoc[tag=OMBGTwl]
+.
+
+The main training method in skill-based coordination training is variable practice.
+
+include::partial$gen/bibliography.adoc[tag=WkFuB]
+.
+
+The variation methods of program, parameter, and condition variable practice described there show a clear similarity to differential learning.
+
+== Specific coordination training
+
+The rule of thumb is that the coordination requirements in training must always be higher than in the subsequent reproduction. In other words, more difficult exercises with a greater density of actions than in real-life situations.
+
+The normal technical elements used in games and partner exercises provide a good basis for competitive fencing. In addition, there are always variable pressure conditions that ensure the desired coordination skills are developed.
+
+The following applies
+
+include::partial$gen/bibliography.adoc[tag=WkFuB]
+:
+
+*Coordination training = mastered skill + sensory diversity + pressure conditions*
+
+[[koordination-druchbedingungen]]
+.Pressure conditions of coordination training
+|===
+|printing condition |dimensions |practice example
+
+|time
+|* available movement time
+* target speed
+a|* Parade riposte at maximum speed
+* Selection reaction under time pressure
+
+|precision
+|* body position
+* body position
+* hand position
+* blade position
+* leading position
+a|* Targets set at the meeting
+* Footwork on a long bench
+* Locking strokes with specified contact point
+
+|complexity
+|* simultaneous moving parts
+* successive motion parts
+* affected body parts
+a|* Fencing on an obstacle course
+* Imitation of battle phrases
+* Combat against multiple opponents
+
+|situation
+|* Variability of the environment
+* Complexity of the environment
+* Variability of the situation
+* Complexity of the situation
+a|* Multiple-choice exercises
+* Practice battles with rapidly changing opponents
+
+|burden
+|* physical strain
+* psychological stress
+a|* Exercise after physical exertion
+* simultaneous solving of a mental arithmetic problem
+|===
+
+include::partial$motoriktraining/coordination-training/motor-skills-training-coordination-training-example1.adoc[leveloffset=+2]
+
+include::partial$motoriktraining/coordination-training/motor-skills-training-coordination-training-example2.adoc[leveloffset=+2]
+
+== Neuroathletics training
+
+Neuroathletics deals with the processes of the brain and nerves in the development of movement programs before an action is performed.
+
+The focus is on training perception
+
+* of the visual system (vision)
+* of the vestibular system (balance)
+* and the proprioceptive system (self-perception).
+
+The basis for this is that the quality of perception and processing in the brain is decisive in determining whether the athlete's entire system can deliver maximum performance in a targeted manner. When problems arise in perception, the brain responds by reducing available performance in order to eliminate the risk of injury.
+
+This processing can be optimized for all athletes. Deficits in this area can often be identified with the naked eye:
+
+* The movements appear awkward.
+* Actions are carried out hesitantly and cautiously.
+* Movements appear inconsistent, are interrupted or stopped.
+* Actions are taken cautiously; the athletes seem to lack confidence in their own abilities.
+* The athletes turn away (e.g., during parries and counterattacks), crouch down, and pull one leg or their unarmed arm toward the center of their body.

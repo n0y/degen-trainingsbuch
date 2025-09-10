@@ -1,0 +1,113 @@
+= training planning
+
+:description: Simple training plan for épée fencing with several season highlights. Skills and sample plans.
+:keywords: Fencing, épée fencing, training, martial arts, training planning, season planning
+
+For the structure and integration of the various training components, we are guided by
+
+include::partial$gen/bibliography.adoc[tag=HICCA]
+, page 11. The training content must be adapted to the training resources and times available.
+
+== Season planning
+
+Training plans always aim towards a peak in the season. This may vary from athlete to athlete. However, in most cases, the peaks are so close together that it is still possible to train in a group. This will require compromises to be made.
+
+Despite focusing on a season highlight, competitions still usually have to be contested. It is important to ensure that no intensive strength or speed training takes place in the last 3-4 days before the competition. In addition, you should make sure to eat foods rich in carbohydrates during the last three days before a competition.
+
+=== Weeks 1-4: general preparation
+
+.Key topics
+* Fencing technique: Group work / Lesson
+* Sprint interval training (possibly on your own)
+* Muscle building (possibly separate)
+* strength endurance
+
+//-
+
+.Sample training session
+. 15 min short warm-up
+. 15 minutes of footwork (3 sets of 3 minutes, 1-minute break)
+. 30 min partner exercise/lesson: Opening wrist down, TBB 1/4/1, 2/4/1, 2/4/2, 2/4/6 as a selection exercise
+. 15 min strength training/muscle building after
+include::partial$gen/bibliography.adoc[tag=ESTSCT]
+, Table 1
+. 30 minutes of simple combat with a task for recovery
+. 15 minutes for breaks
+
+SIT as two additional weekly units independently according to the training plan.
+
+=== Weeks 5-8: Specific preparation
+
+.Key topics
+* Fencing technique: Group work / Lesson
+* High-intensity interval training, short intervals (possibly on your own)
+* simple strength training (possibly separate)
+* practice fights
+
+//-
+
+.Sample training session
+. 15 min warm-up
+. 5 minutes of intense footwork (3 sets of 1 minute, 1-minute break)
+. 30 min partner exercise/lesson: Mensur work and preparations, blocking thrusts, evasive maneuvers
+. 15-minute HIIT workout, No. 86, Level I from
+include::partial$gen/bibliography.adoc[tag=RHIITW]
+. 60-minute training bouts with fencing tasks
+
+Simple strength training separately in the weight room (two sessions per week).
+
+=== Weeks 6-12: Competition preparation
+
+.Key topics
+* practice fights
+* Muscle Buffer Training (possibly separate)
+* Fencing technique: Group work / Lesson
+* Speed endurance (possibly independently)
+
+//-
+
+.Sample training session
+. 10 min warm-up
+. 30 min running bingo, relay races, or coordination ladder with a focus on muscle buffer training 6x 2 min, 3 min break.
+. 10 minutes of light stretching and coordination exercises
+. 30 minutes of fencing with fencing exercises
+. 15 minutes of fencing with time limits
+. 15 minutes of free practice battles
+
+Light weight training separately in the weight room (1-2 sessions per week).
+
+=== Weeks 13-16: Competition phase
+
+.Key topics
+* practice fights
+* Speed endurance (possibly independently)
+* Extensive interval training (possibly independently)
+* simple strength training (possibly separate)
+
+//-
+
+.Sample training session
+. 10 min warm-up
+. 15 minutes of footwork with a focus on agility and responsiveness
+. 20 minutes of strength training with long benches (pulling and lifting exercises)
+. 60 minutes of free combat with a competitive element, additional tasks
+. 15 minutes of stretching
+
+Extensive intervals as separate running sessions according to your training plan (2-3 sessions per week).
+
+== Sample training plans
+
+The authors used the following training plans. They are intended to serve as a source of ideas for developing your own training programs.
+
+=== Target group: mixed group of young people, ages 8 to 15
+
+.Duration: 90 minutes
+* xref:practices/training planning/training plans/90min/2019-20_90-5a.adoc[]
+* xref:practices/training planning/training plans/90min/2019-20_90-6a.adoc[]
+* xref:practices/training planning/training plans/90min/2019-20_90-7a.adoc[]
+* xref:practices/training planning/training plans/90min/2019-20_90-9a.adoc[]
+
+//-
+
+.Duration: 120 minutes
+* xref:practices/training planning/training plans/120min/2022_2023_120_5a.adoc[]

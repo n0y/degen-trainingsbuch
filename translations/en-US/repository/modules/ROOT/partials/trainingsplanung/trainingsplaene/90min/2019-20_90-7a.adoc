@@ -1,0 +1,124 @@
+= Training plan for thigh thrusts
+:keywords: exercise
+:uebung-group: training plans
+
+ifndef::ownpage[]
+
+xref:page$practices/training-planning/training-plans/90min/2019-20_90-7a.adoc[This exercise only]
+
+endif::[]
+
+Duration: 90 min
+
+Materials: Long benches or similar
+
+[cols="8,.^1"]
+|===
+a|=== warm up
+|*15 min*
+
+a|==== Borg catching
+
+Source:
+
+include::partial$gen/bibliography.adoc[tags=GIFI]
+, p. 49
+
+(Named after the cybernetic threat from the Star Trek series).
+
+One player starts as the Borg and is armed with a soft ball. She attempts to mark the other players (members of the "Federation") and assimilate them into the Borg team.
+
+This game is a combination of tag and dodgeball.
+
+One player is selected as the Borg and receives a foam ball/softball.
+
+Borgs may only take 5 steps while holding the ball (no dribbling, etc.).
+
+The non-Borg wear a fencing glove, a cap, or another simple piece of clothing that identifies them.
+
+The Borg throw the ball to assimilate the non-Borg players. Those who are marked as assimilated remove their gloves and join the Borg team.
+
+The winner is the last remaining non-Borg.
+|10 min
+
+a|==== Drinking
+|5 min
+
+a|=== Partner exercise
+|*20 min*
+
+a|==== Direct kick to the thigh
+
+Organization: Alley
+
+A - Teacher, B - Student +
+Note: Trainers only communicate with A.
+
+1. Lineup: wide gauge, both in 6
+1. A moves backward at a steady pace, medium speed
+1. B follows, catches up
+1. B: Line on body inside, centered
+1. B: Failure, with change of target: hit in the thigh
+1. B: HK-6 protection
+1. Then switch, each 10 times
+
+Posture, hand position, speed of execution
+
+Make sure that the change of destination only takes place during the outage.
+
+Focus on speed; accuracy comes later.
+|*10 min*
+
+a|==== Thigh bump as cavitation
+
+* 1 to 4 as above
+* A: 4-stroke parry, riposte to the body
+* B: Against parade: cavation below, thrust thigh
+* B: HK-6 protection
+* Then switch, each 10 times
+
+Acceleration, stride length, stroke strength
+|10 min
+
+a|=== Drink, change clothes, set up
+|*15 min*
+
+a|=== Electric practice battles
+|*35 min*
+
+a|==== Fencing with fencing task
+
+H: Fencer hall side, W: Fencer wall side
+* Task wall side: Meeting with parade, riposte body
+ Task on the hall side: Score directly or with finta attacks (any kind).
+|5 times 2 minutes
+
+a|==== free practice matches |25 min
+
+a|==== Parallel: Lesson planning
+
+Defense against fast binding attacks +
+Goal: Bypass counterattack
+
+.Implementation
+* Perform quick attacks with different grips, student defends
+* 4-bond → Circle 6, push body up/out with opposition 6
+* 6-bond → Circle-4, push body up/inside with opposition 4
+* 5-bond → upward cavitation, arrest to the inner shoulder blade
+* 8-bond → as above
+* 1-Binding → Circle-1, Arrêt to the inner shoulder blade
+
+//-
+
+.For professionals:
+* Binding 5/Transfer 6 → Stripping coupe
+* Throw thrust upper arm
+* Protection Arrêt Body
+|35 min
+
+a|=== Dismantling
+|10 min
+
+a|=== Stretching
+|5 min
+|===

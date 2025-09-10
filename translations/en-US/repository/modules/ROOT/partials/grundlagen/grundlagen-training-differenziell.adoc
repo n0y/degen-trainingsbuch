@@ -1,0 +1,116 @@
+== Individuality of movements
+
+In addition to the impossibility of performing identical movements
+
+include::partial$gen/bibliography.adoc[tag=SDLL]
+It is now known that the range of variation in individual movements is astonishingly high at every performance level.
+
+include::partial$gen/bibliography.adoc[tag=IIMSHP]
+.
+For example, analyses of Olympic-level fencers show systematic differences in hand position, step frequency, and hitting angle—despite comparable targeting techniques.
+
+An ideal technique that applies to all people is no longer tenable as such. It should be noted that some variations in the execution of the movement are obviously unsuitable or highly problematic. However, learners will quickly eliminate such variations anyway if they are offered more suitable alternatives. This requires a rich but functionally designed training situation with observable effects.
+
+Ideal technique and repetitive teaching methods are also risky for trainers: no one can recognize all mistakes and deviations and reliably assess the consequences of each individual performance. There is a risk of unconsciously introducing incorrect practices. Fortunately, grinding in is not possible at the end anyway, because each repetition inevitably has to show new deviations. In any case, the result is a significant increase in learning time.
+
+Building on this, newer learning methods and theories advocate a significantly more dynamic view of the learning process:
+
+* Differential learning
+include::partial$gen/bibliography.adoc[tag=InVP]
+assumes that reinforcing the fluctuations that occur naturally in the learning process has a performance-enhancing effect and makes targeted use of this.
+* Dynamic systems theory according to
+include::partial$gen/bibliography.adoc[tag=KelsoDynPa1995]
+uses self-organization and phase transitions in behavior to promote motor development.
+* The *Constraint Led Approach*, for example, in
+include::partial$gen/bibliography.adoc[tag=BDKRDynSkillAc2008]
+introduces the idea that training must design learning environments—rather than teaching idealized technology.
+
+We therefore do not want to prescribe an ideal target technique, but rather train in possible (quite broad) solution areas and learning environments. We assume that humans' ability to interpolate enables them to determine their individual ideal from values they have already experienced.
+
+NOTE: A specific example from fencing is the execution of a quart parry: classic technical models have a precise idea of hand position and the size of the movement. However, neither of these are technical goals, but rather means that must be adapted each time depending on the opponent and the environment. 
+ It helps to try out many different hand positions and movement sizes, and for the athlete to intuitively choose a hand position and execution size "somewhere between" previously trained values.
+
+The central goals and ideas are:
+
+* *Self-organization*: Behavior arises through the interaction of system components, not through central control.
+* *Learning as a process of adaptation* to constraints (task, environment, individual)
+* *Nonlinearity*: Small changes (e.g. Maturation, tactical training) can have a major impact on behavior.
+* *Degeneracy*: Different structures can fulfill the same function—a fencer does not need the perfect technique, but one that works for them.
+* *Emergence*: Talent and performance are not inherent, but arise over time through complex interaction.
+
+[[grundlagen-training-differenzielle-methode]]
+== Differential learning method
+
+For this training, the edge area of the solution space is scanned, in which the athlete then interpolates according to the situation.
+
+NOTE: *Solution space*: For a straight shot, the solution space consists of all components that can be varied in order to achieve the goal without changing the layout. For example, the hand can be rotated or the thrust can be performed with a constant or accelerated movement.
+
+Throughout the learning process, no task is repeated unchanged; instead, the athlete is constantly confronted with new tasks. The central approach is to prepare athletes for the new in an intensified form, because it occurs in a weakened form anyway when simply repeated.
+
+include::partial$gen/bibliography.adoc[tag=SDLL]
+. The emphasis is therefore on adaptability to new tasks.
+
+One aspect of repetitive learning is the high number of repetitions. This is actually necessary for the learning process, because only many repetitions lead to relevant neuroplastic changes in the brain.
+
+include::partial$gen/bibliography.adoc[tags=Kami1995Functional]
+. However, it should be noted that high error rates can still be achieved: if movements are performed almost flawlessly, then learning can hardly take place.
+
+We want to briefly explain a new technology to our students. Detailed explanations and demonstrations should take a back seat in favor of a high number of repetitions and the exploration of a wide range of solutions. In doing so, attention must be paid to intensive feedback: through conscious experience and by making the effects visible.
+
+Constant confrontation with new tasks is one of the core elements of the differential teaching method and not only allows for interpolation and adaptation to new situations, but also ensures that students make a high number of mistakes, which provide the necessary feedback for neuroplastic adaptations.
+
+Stability as a whole arises as an emergent result that is trained and achieved through adaptability on a small scale.
+
+An additional advantage is achieved when teaching children and adolescents, who, due to constantly changing factors (growth, changes in proportions, …), require constant adjustments to their technique, which, at least in a group setting, can no longer be achieved by a single instructor.
+
+include::partial$gen/bibliography.adoc[tag=DLPVSS]
+.
+
+It is important that implementation does not merely stabilize the theoretically optimal, concrete solution by varying it against other solutions. Instead, a solution space is explored in order to implement new, situationally optimal solutions in any case.
+
+NOTE: For example, a fencer trains attacks from 10 different distances in order to train their reaction adaptation to situational requirements.
+
+== Effectiveness and efficiency of differentiated teaching methods
+
+The differential teaching method has been successfully applied in various sports. Studies have been published on a whole range of these. Like in soccer
+
+include::partial$gen/bibliography.adoc[tag=DLiSc]
+, Shot put
+
+include::partial$gen/bibliography.adoc[tag=DLiSP]
+, Golf
+
+include::partial$gen/bibliography.adoc[tag=MTSG]
+, Tennis
+
+include::partial$gen/bibliography.adoc[tag=DLTTA]
+, Handball
+
+include::partial$gen/bibliography.adoc[tag=WHBAT]
+, Volleyball
+
+include::partial$gen/bibliography.adoc[tag=DLeiVb]
+, Cycling
+
+include::partial$gen/bibliography.adoc[tag=VBDTR]
+, endurance training
+
+include::partial$gen/bibliography.adoc[tag=DAVNW]
+.
+
+In all cases examined, the prediction of greater effectiveness of the differential learning approach was confirmed by increased noise in beginners and advanced learners (significant to highly significant, p=0.02 to 0.04).
+
+The advantage over other approaches is already measurable at the end of the interventions examined. Retention tests not only show a smaller decline in performance, but also demonstrate an increase in performance.
+
+.Representation of the integration of all learning theories using the parameter "noise"
+image::int-lernm.png[]
+
+from
+
+include::partial$gen/bibliography.adoc[tag=SPAFESA]
+
+An important criterion when selecting suitable learning methods for training in clubs is their applicability in larger groups. It can be assumed that each learner has their own unique set of prerequisites, which must lead to different levels of performance.
+
+Differential learning systematically utilizes a variety of tasks so that each person can gain individually relevant movement experience—even without personal, individual correction by the trainer.
+
+If a group is offered three exercises in 60 minutes, the probability of meeting the requirements of all group members is significantly lower than if ten exercises are offered.

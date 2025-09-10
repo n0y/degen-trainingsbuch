@@ -1,0 +1,60 @@
+= Training plan: Increasing VO₂ max
+:keywords: exercise
+:uebung-group: endurance training
+
+ifndef::ownpage[]
+
+xref:page$practices/motor-training/endurance-training/motor-endurance-vo2max.adoc[Only this exercise]
+
+endif::[]
+
+Maximum oxygen uptake capacity (VO2 max) is a decisive factor for endurance performance. It can be measured, for example, using the Cooper test, which involves running for 12 minutes to cover the maximum distance possible.
+
+With this training plan, you can increase your VO2 max by about 10% in 12 weeks from an already good fitness level. If your fitness level is not yet very good, the increase can also be higher in percentage terms.
+
+First, the current performance must be determined. To do this, the athlete runs for a maximum of 12 minutes and measures the distance: in this example, 3000m.
+
+The following four training sessions are derived from the measured values:
+
+[cols="1,3,2"]
+|===
+|session |calculation |Example 3000m
+
+|Sunday
+|(measured distance * 4) in 56 min
+|12 km in 56 minutes
+
+|Tuesday
+|Measured lap time = 400m * 720s / measured distance +
+Time limit = measured lap time / 2 + 8s +
+ +
+Run 200m within the time limit, then take a 90s break +
+Repeat with break times of 75s, 60s, 45s, 30s, 15s +
+ +
+Repeat all until the time limit cannot be met.
+a|according to Lap time = 400m*720s / 3000m = 96s +
+Time limit = 96s/2 + 8s = 56s +
+
+1. 200m in 56s + 90s break
+1. 200m in 56s + 75s break
+1. 200m in 56s + 60s break
+1. 200m in 56s + 45s break
+1. 200m in 56s + 30s break
+1. 200m in 56s + 15s break
+1. 200m in 56 seconds + 90-second break
+1. 200m in 56s + 75s break
+1. 200m in 56s + 60s break
+1. 200m in 56s + 45s break
+1. 200m in 56s + 30s break
+1. 200m in 1:05min - End
+
+|Thursday
+|(measured distance * 2) in 27 minutes
+|1x 6000m in 27 minutes
+
+|Saturday
+|4x (measured distance / 2) in 6 minutes, 60-second break
+|4x 1500m with 60-second breaks
+|===
+
+This training plan is always run for 8 to 12 weeks. He should then alternate with training plans for sprint interval training (or HIIT).

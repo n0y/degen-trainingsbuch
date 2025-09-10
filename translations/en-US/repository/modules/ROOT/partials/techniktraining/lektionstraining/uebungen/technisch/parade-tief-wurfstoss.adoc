@@ -1,0 +1,42 @@
+= Parry against attacks inside/below, riposte with thrust
+:keywords: exercise
+:uebung-group: lessons
+
+ifndef::ownpage[]
+
+xref:page$practices/technical-training/lesson-training/exercises/technical/parade-low-throw-kick.adoc[Only this exercise]
+
+endif::[]
+
+.Purpose of the lesson
+* Neutralizing deep attacks
+* Measure selection for parades
+* Appropriate parade movement
+* Technique of the _throwing thrust_ when closing the Mensur
+
+//-
+
+.task
+. Trainer moves freely on the track in Sixt display
+. Athlete follows in medium stance in Sixt stance
+. Trainer performs a direct attack down/inside, lowers their upper body far down and remains there.
+. Athlete parries appropriately with a quarter or lower fifth.
+. Athlete counters the closed Mensur with a thrust over the outer shoulder to the back.
+. Coach attempts throw-in with opposition
+
+Repeat with instructions for thumb position during the parry:
+
+* Right-handed: 1 o'clock, 11 o'clock, 9 o'clock, 7 o'clock
+* Left-handed: 11 o'clock, 1 o'clock, 3 o'clock, 5 o'clock
+
+Select randomly from these tasks until the lesson length is reached.
+
+* Movement execution: Initial condition
+** Specification of the distance to be maintained: several variants between close combat and long distance
+** Blade positions: display and, if applicable, bound/binding
+** Body movements during the parade: standing still, stepping back, stepping forward, bending the knees, jumping up
+* Movement execution: End condition
+** Throwing strike while standing, with step forward (into close combat), with flèche and running past
+* Movement execution: spatial-temporal execution
+** Parade as early as possible, as late as possible
+** Hold parade: only beat (gentle, strong), hold briefly, transport to the ground

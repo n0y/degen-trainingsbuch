@@ -1,0 +1,31 @@
+= Exercise: Coordination exercise for free attacks - competition form
+:keywords: exercise
+:uebung-group: coordination
+
+ifndef::ownpage[]
+
+xref:page$practices/motor skills training/coordination training/motor skills training coordination training-example2.adoc[This exercise only]
+
+endif::[]
+
+Free attacks with pressure specification: Movement time
+
+Note: the exercise can also be performed with any other simple action.
+
+groups of three
+
+.Material
+* Fencing announcer, one per group
+* Start markers (cones or tape), if necessary
+
+Per group: Place both rolls on the same side. Connect the detector so that right/left matches the rollers.
+
+Mark the starting lines two meters apart. Finish line 7m behind the start line.
+
+It is fought two against one. Fencers A and B are connected to the roles and start next to each other. Fencer C (not connected) stands two meters away.
+
+At a signal from C (e.g., call, raise weapon, step forward), A and B may attack freely.
+
+After each hit (double hits are allowed), the players are repositioned.
+
+The match is played to five hits, and then the group rotates. After that, a new division with the winners and the others.

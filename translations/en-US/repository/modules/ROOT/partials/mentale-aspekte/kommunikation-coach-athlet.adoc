@@ -1,0 +1,158 @@
+= Communication from and with athletes
+
+The quality of communication between coach and athlete is a key influencing factor in sports training. Among other things, it influences the perception and applicability of training content, self-efficacy expectations, and the regulation of actions and emotions in training and competition. Motivation and goal commitment can also be specifically promoted or inhibited through linguistic interaction.
+
+include::partial$gen/bibliography.adoc[tags=Jowett2003Olympic]
+.
+
+However, communication in the coaching process is not neutral or random: it is *largely determined by the behavior and attitude of the coaches* and has a conscious or unconscious effect on the mental model of the athletes. This results in high demands on the *focus and emotional quality* of trainer communication.
+
+include::partial$gen/bibliography.adoc[tags=Mageau2003coachathlete]
+.
+
+[ditaa, format="svg"]
+                           +--------------------------+
+                           | Trainer communication |
+                           +--------------------------+
+                                        |
+      +---------------------------------+---------------------+
+      |                                 |                     |
++-----------------------+  +--------------------+   +--------------------+
+| Understanding & use |  | Self-image &       |   | Action &       |
+| of training tools  |  | Self-efficacy  |   | Emotion regulation |
++-----------------------+  +--------------------+   +--------------------+
+                                        |
+                           +------------------------------------+
+                           | Motivation & Goal Commitment           |
+                           +------------------------------------+
+                                        |
+                     +---------------------------------------------+
+                     | Basic needs according to SDT:                  |
+                     | Autonomy, competence, relatedness         |
+                     +---------------------------------------------+
+
+Effective communication should not only convey information, but also address basic psychological needs such as autonomy, competence, and social integration in order to enable long-term motivation and development.
+
+include::partial$gen/bibliography.adoc[tags=Deci2000What]
+.
+
+== Fundamentals and mode of action
+
+Language serves not only to communicate, but also to structure experience—especially in motor learning. Athletes often encode and remember movement tasks with verbal support, such as instructive phrases like "jump loosely from the ankle." These linguistically coded units can be understood as part of a motor script and exhibit functional parallels to what are known as chunks in cognitive psychology.
+
+include::partial$gen/bibliography.adoc[tags=Miller1956magical]
+.
+
+The way in which movements are described or stored in the mental lexicon has a significant influence on how easily they can be imagined, remembered, or varied.
+
+include::partial$gen/bibliography.adoc[tags=Schack2004cognitive]
+.
+
+Embodied cognition research shows that language and movement are closely linked in the brain. When a word such as "grasp" is heard or thought, there is measurable partial activation of motor areas, particularly in the premotor cortex.
+
+include::partial$gen/bibliography.adoc[tags=Pulvermuller2005Brain]
+. This means: If, for example, The expression "shoot quickly" can trigger a direct sensory-motor image.
+
+Linguistic metaphors—such as "feathers in your legs"—effectively support movement learning, provided they connect to existing semantic schemata in the mental lexicon.
+
+include::partial$gen/bibliography.adoc[tags=Dervent2016Examination]
+.
+
+The so-called mental lexicon comprises the representations of words and their meanings, forms, grammatical properties, and semantic and emotional associations stored in the brain. It is not a static "dictionary," but a dynamically networked, experience-based system that is continuously reorganized through use.
+
+include::partial$gen/bibliography.adoc[tags=Levelt1989Speaking]
+.
+
+Part of this network is activated in each of the processes of thinking, speaking, and movement. Spreading activation causes neighboring or associated nodes to be activated as well, which influences thought processes and actions.
+
+include::partial$gen/bibliography.adoc[tags=Collins1975spreading]
+.
+
+The mental lexicon influences the evaluation and execution of motor tasks through several mechanisms:
+
+* *Associative conditioning*: If the term "long jump" is associated with terms such as "fear," "failure," or "teacher," the willingness to perform decreases. Negative semantic proximity can inhibit motivation and action execution.
+* *Connotations & emotions*: Words in the mental lexicon carry emotional evaluations. These often have an unconscious effect on decision-making processes and the execution of motor tasks.
+include::partial$gen/bibliography.adoc[tags=CitBreFer2011]
+.
+* *Cognitive fluency*: When a linguistic instruction is familiar, clearly structured, and well connected, it is perceived as easier and more pleasant. This is referred to as the fluency effect.
+include::partial$gen/bibliography.adoc[tags=Reber2004Processing]
+.
+
+However, language can not only trigger reactions, but also have a structuring and compensatory effect. The following are particularly effective:
+
+* *Metaphors*: Figurative language makes it easier to connect with existing schemata.
+* *Rhythm*: Speech rhythm and beat help with sequencing and timing.
+* *Chunking*: Complex movement sequences are broken down into manageable units.
+* *Verbal anchors*: Individual terms serve as triggers for entire movement patterns.
+
+These effects make language a highly effective tool in motor learning—far beyond mere instruction.
+
+== Model of speech- and representation-based movement acquisition (SRBA model)
+
+.initial situation
+. Mental lexicon contains
+.. Terms, descriptions, metaphors ("powerful footprint," "suspension")
+.. Emotional and social evaluations (e.g. "embarrassing," "cool," "dangerous")
+.. Contextual links (e.g. "Competition," "Mistake," "Success")
+. Movement representations:
+.. Motor schemata (e.g. Jumping patterns, balance strategies)
+.. Body awareness and consciousness
+.. Memories of past experiences (previous experiences)
+. Factors that influenced this situation:
+.. Individual prior experience
+.. Social attributions (e.g. Teacher comments such as "no talent for movement")
+.. Third-party language (metaphors, labels such as "fail," "athlete," "unsporting")
+.. Emotional markers (e.g. previous shame, pride, fear, peer pressure)
+
+//-
+
+.Presentation of the movement task
+. Forms of presentation
+.. Language (instructions, metaphors, verbs, analogies)
+.. demonstration
+.. Visualization (videos, images)
+.. Contextualization (Why is this exercise useful?)
+. Interactions / new information encounters existing structures
+.. Anchoring is successful when linguistic terms can dock onto existing nodes.
+.. Confusion/resistance arises when the task is incompatible with existing schemata or contains terms with negative connotations.
+
+//-
+
+.Initial reaction to the presentation / Mental change without movement
+. Construction or modification of semantic nodes:
+.. Z.B. Ideally, the word "stretch jump" should be reinterpreted from "unpleasant" to "powerful."
+. New movement representation arises through imagination.
+. Building mental prototypes ("This is what it looks like/feels like").
+
+//-
+
+.Motor implementation
+.. Activation of existing motor patterns + attempt at adaptation.
+.. Feedback systems (visual, proprioceptive, auditory)
+. Evaluation (ideally internal, partly external)
+.. Subjective feeling: successful/unsuccessful, embarrassed/proud
+.. Social feedback: praise, criticism, evaluation by peers or coaches
+
+//-
+
+.Change through implementation
+. Mental lexicon
+.. New links (e.g. "Jump" = "easy" instead of "complicated")
+.. Reinterpretation of terms (e.g. "Rotation" is no longer a cause for concern)
+.. New linguistic labels (e.g. "works," "my thing," "a flow moment")
+. movement representations
+.. Refinement: Movement is stored more clearly and in greater detail
+.. Building procedural knowledge (e.g. Sense of timing, control of strength)
+.. Integration into existing motor patterns (transfer)
+
+**Failures during implementation are a necessary part of the learning process:**
+
+In order for failure and mistakes to bring about positive change, various conditions are necessary or helpful in order to positively influence the mental model. On a mental level, these are:
+
+* *Positive language framing*: "That was a valuable attempt," "Interesting approach" → prevents negative coding
+* *Self-efficacy focus*: Emphasis on learning progress rather than goal achievement
+* *Permission to explore*: Failure is seen as a learning opportunity, not as a setback.
+* *Explicit reflection/questions*: "What did you feel?" What was new?" enhances semantic depth
+* *Available anchors in the lexicon*: If similar movements or terms are already known, the movement can be understood and embedded despite errors.
+
+NOTE: An illustration here would be helpful.

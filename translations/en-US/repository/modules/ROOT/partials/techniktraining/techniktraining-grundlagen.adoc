@@ -1,0 +1,171 @@
+= Fundamentals of fencing technique
+
+In the classical view, there are a number of "fencing schools."
+
+include::partial$gen/bibliography.adoc[tag=GTHOF]
+, which combine guidelines and ideas for the different areas of fencing technique and are often taught together. These requirements apply in particular to:
+
+* The manner in which the various fencing elements are executed.
+* The way in which the fencing elements are combined with each other.
+* The order in which fencing elements are introduced during training.
+* The fundamental strategic objective to be achieved in combat.
+* The proportions that technique, tactics, speed, strength, and coordination should account for in training (in training and in combat).
+
+It should be noted that the corresponding "fencing schools" do not occur in their extreme forms (apart from the highly formalized "Emil Beck" system), but mostly in mixed forms and in various variations.
+
+Nevertheless, it is useful to consider them in order to familiarize oneself with different ideas and approaches and to assess their effects and characteristics.
+
+== The Emil Beck system
+
+[cols="1,2"]
+|===
+|*Basic tactical principle*
+|
+
+
+|*Combination of elements*
+|Simple basic elements combined into phrases +
+ Automated combinations
+
+|*Teaching principle*
+|From simple to difficult +
+ Frequent before rare +
+ Automation through repetition
+
+|*Training focus*
+|
+1. Technical Automation +
+2. Speed of execution +
+3. Tactical adaptation (choice of action)
+
+|*Main problems*
+|Low learning rate, high repetition count, high time expenditure +
+against fencing style with blade removal
+|===
+
+The "Emil Beck" system was initially the result of intensive *observation of actions* that were *actually used successfully* in fencing. The order of teaching is determined by the fact that learners *learn frequent actions first and rare ones later*.
+
+First, learners should be provided with the basic repertoire as quickly as possible, enabling them to participate in competitions and thus giving them the opportunity to learn from real combat situations.
+
+Further actions will be added later, so that learners will have already seen a wide range of possible actions and will be difficult to surprise in competitive situations.
+
+The "Emil Beck" system is designed to control the opponent's blade, which should be maintained in all combat situations if possible. Furthermore, the system is designed on the assumption that fencers *defend exposed areas when attacked*. Therefore, a *follow-up action is always directed to a new target*.
+
+The Emil Beck system consists of a series of lessons that are always structured in the same way:
+
+. The learner performs a blade strike (or blade bind) and then attacks a forward target area (hand above/below, thigh, foot).
+. Optionally, the first action is repeated.
+. Optionally, a transfer to another exposure may take place.
+. Finally, a safeguard is provided with a blade check to another vulnerability.
+
+All lessons are performed with all different footwork: standing, with a step, with a jump, with a double step, with a lunge, with a step-lunge, with a jump-lunge, with a flèche, and with a step back. Each combination of action and footwork sequence is performed only once and is not repeated.
+
+Four levels are taught, each consisting of 2 or 4 lessons. The lessons are structured in such a way that they are *easy for trainers to use* and require as few skills as possible. Due to their structure and requirements, they can be used effectively in a large team of trainers.
+
+However, experience shows that *a great many lessons are necessary* to teach the technique at competition level. It is assumed that learners *study at least every day*. The static structure also quickly leads to a feeling of boredom, especially among younger learners, which has a negative impact on learning rates.
+
+By focusing on blade control, the system has problems with opponents who use blade removal.
+
+*Complies with implementation principles*:
+
+* Introduction of a *wide range of elements* and their combination: A *large variance* within the solution space is available and actively offered.
+* In a lesson, each *combination is performed only once* and is not repeated: this corresponds to the principles of  <<grundlagen-training-differenzielle-methode,differentiellen Lehrmethode>>.
+* Ensures *high repetition rates*: Creates the conditions for neuroplastic changes.
+* By selecting and independently compiling lessons, a *non-linear learning process* can be achieved, but one that is *not self-organizing*.
+
+*Contradicts the implementation principles*:
+
+* Aims for a *rigid technical model*: does not take into account the *individual solution areas* of the learners and does not explore the solution space. Individual problem-solving skills through variance must be acquired *in competitions* instead.
+* Aims for rapid *minimization of deviation* from the technical target; actions are quickly "successful" and then optimized: However, the *error rate is too low* for rapid neuroplastic changes.
+* Minimizes the time learners spend in the "frustration stage": the neurotransmitters released during the frustration stage are necessary for neuroplasticity.
+* Varies only *part of the possible solution space*: Varies spatial-temporal and temporal execution and initial and final conditions (restricted). Does not vary: spatial design, scope, duration, sensory perceptions, materials, equipment, substrate, and general conditions.
+
+*Options for customization*
+
+The Emil Beck system can be modified to better comply with the implementation principles:
+
+. Acceptance of actions *outside the technical model*. The mission statement should continue to be used to provide newcomers with a starting point. However, it is essential to focus on the effectiveness of the actions very quickly. Through *additional tasks*, learners should be offered the *entire range of possible solutions* and even seemingly incorrect implementation variants should be included.
+. Visualizing the *effects of changes in movement sequences*: Any weaknesses that arise (vulnerabilities, balance problems, etc.) must be made visible, and execution times must be measured and displayed.
+. Increasing *error rates*: As soon as an action succeeds in more than 25% of cases, *additional tasks*, *restrictions*, and *adjusted framework conditions* must be introduced to maintain the high error rate.
+. Early introduction of complex actions and selection actions: The system of "from simple to difficult" and blocked exercises must be broken down in order to achieve higher learning rates. The focus should be on *self-organized learning*.
+
+== The "Harmenberg" system
+
+[cols="1,2"]
+|===
+|*Basic tactical principle*
+|Restriction of possible actions +
+ Dominance through physical superiority and anticipation
+
+|*Combination of elements*
+|Selection of fewer, simpler sequences of actions per athlete +
+ Execution as soon as the conditions are right
+
+|*Teaching principle*
+|Training of specific combination sequences +
+ Automation through repetition
+
+|*Training focus*
+|1. Fitness (speed) +
+2. Technical automation
+
+|*Main problems*
+|Physical superiority at the top level now difficult to achieve
+|===
+
+== The Italian School
+
+[cols="1,2"]
+|===
+|*Basic tactical principle*
+|Surprise your opponent by choosing the right technique and speed.
+
+|*Combination of elements*
+|High variance in action selection +
+Integration of unorthodox movements
+
+|*Teaching principle*
+|From simple to difficult +
+Early integration of fencing tactics +
+Few fixed movement sequences
+
+|*Training focus*
+|
+1. Fencing-specific technical training +
+2. Fitness (speed)
+3. tactics training
+
+|*Main problems*
+|High variance results in slower reaction speed +
+Time-consuming training
+|===
+
+== The Hungarian school
+
+None of the authors have any experience with the Hungarian school system. Contributions are welcome.
+
+== The French School
+
+[cols="1,2"]
+|===
+|*Basic tactical principle*
+|Maintaining operational capability +
+Establishing technical superiority
+
+|*Combination of elements*
+|Action sequences with minimal blade movements +
+High variance of simple movements
+
+|*Teaching principle*
+|From easy to difficult +
+Improving movement ergonomics through grinding
+
+|*Training focus*
+|
+1. Fencing-specific technical training +
+2. Tactical adaptation (choice of action)
+
+|*Main problems*
+|
+High time expenditure in training
+|===

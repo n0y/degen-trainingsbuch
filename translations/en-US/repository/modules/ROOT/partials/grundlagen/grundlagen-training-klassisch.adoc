@@ -1,0 +1,87 @@
+[[grundlagen-klassische-trainingsmethoden]]
+== Traditional training methods
+
+Traditional teaching and learning in clubs and schools is based on three types of models: (1) learning models, (2) teaching models, (3) movement models.
+
+According to
+
+include::partial$gen/bibliography.adoc[tag=LuGed]
+
+[loweralpha]
+. Learning through contiguity, or classical conditioning according to Pavlov and Guthrie from the early days of learning psychology.
+. Learning through reinforcement/operant conditioning according to Thorndike, Hüll, Skinner
+. Learning by observation
+include::partial$gen/bibliography.adoc[tag=SFTA]
+. Learning through insight, awareness of movement
+include::partial$gen/bibliography.adoc[tag=IaA]
+
+The main teaching methods are according to
+
+include::partial$gen/bibliography.adoc[tag=AMdL]
+
+[loweralpha]
+. Methodical series (motor, conditioning, game series)
+. Inductive – Deductive teaching concepts with analytical/synthetic implementation approaches
+
+Basic movement models are according to
+
+include::partial$gen/bibliography.adoc[tag=SDLL]
+
+[loweralpha]
+. Open-loop model according to
+include::partial$gen/bibliography.adoc[tag=AMAEM]
+(for example, when attacking with a flèche)
+. Closed-loop model according to
+include::partial$gen/bibliography.adoc[tag=CLTML]
+(for example, during a fencing match)
+. schematic theoretical model according to
+include::partial$gen/bibliography.adoc[tag=STDMSL]
+and
+include::partial$gen/bibliography.adoc[tag=WVKF]
+
+== Problems and contradictions in classical training theory
+
+In most of the clubs we know, teaching is not usually based on a fixed model, but rather a mixture of different approaches. Intuitively and successfully, trainers use model-based learning to teach target techniques and try to bring their students as close as possible to their own or adopted technical model using conditional and operant conditioning.
+
+// TODO: Konzepte wie „adaptive Expertise“ (Hatano & Inagaki) oder „ecological dynamics“ könnten diesen Punkt differenzierter einordnen
+
+Exploratory methods ("trial and error") are also sometimes used as a method. All too often, however, the aim is to finally find and implement the expected target technology. Students occasionally discover their own techniques that may even be better suited to their circumstances, but these are often dismissed as mistakes.
+
+// TODO: Bezug zur "funktionalen Variabilität"?
+
+The prescribed ideal/target technique is often problematic: it is sometimes outdated, often contradictory, and in any case not adapted to the individuality of the students. Nevertheless, students should follow the principle of consistency.
+
+include::partial$gen/bibliography.adoc[tag=SOTP]
+)
+iteratively approach the "correct" solutions that should be included with a high number of repetitions
+
+include::partial$gen/bibliography.adoc[tag=HaTra]
+.
+
+It should be noted that innovative changes in sport usually occur when coaches and athletes do not focus on them, but instead rethink or re-evaluate techniques and tactics in a new environment. One example is the flèche attack: modern protective equipment made it safe to practice, but it took years before it found its way into the standard repertoire of épée fencing.
+
+One of the problems with ideal/target techniques is the non-repeatability of identical movements.
+
+include::partial$gen/bibliography.adoc[tag=MoVaDQO]
+: even the best athletes are unable to perform even simple movements in exactly the same way. They are always adapted to the variable environment.
+
+Learning a motor skill essentially always means that a change in muscle control is necessary, which is carried out in the brain and causes a change in at least one of the following areas: upper motor neuron (UMN), central pattern generator (CPG), or lower motor neuron (LMN). This change is already the learning that has taken place.
+
+// TODO: hier wäre eine Abbildung wundervoll! Alternativ: eine Info-Box?
+
+There is now a good understanding of how these neuroplastic changes come about: errors. A learning process always involves learners making mistakes, which leads to adjustments in the plastic structure of the brain through feedback. To put it plainly: learning is impossible without mistakes.
+
+include::partial$gen/bibliography.adoc[tag=LFEr]
+.
+
+Accordingly, there are newer teaching and learning methods that focus on variability. Examples include the system dynamics approach (self-organization according to
+
+include::partial$gen/bibliography.adoc[tag=MPTHHM]
+) and self-stabilization according to
+
+include::partial$gen/bibliography.adoc[tag=SNANF]
+. In both cases, fluctuations are part of the theory.
+
+Another problem is the coupling of the movement to the executing system, i.e., the individuality of the movement execution.
+
+In sports practice, it is often said that individuality should be accepted as a deviation from the norm, but in reality, it takes the intuition of successful coaches and athletes to implement this tolerance, because classic training theory does not provide sufficient methodology for this.

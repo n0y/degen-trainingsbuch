@@ -1,0 +1,9 @@
+= Mental aspects
+:description: Efficient training of basic motor skills for épée fencing.
+:keywords: Fencing, épée fencing, training, martial arts, endurance, speed, maximum strength, coordination, agility
+
+Mental aspects play a major role in fencing. Addressing and communication determine a large part of training and competition success.
+
+include::partial$mentale-aspects/communication-coach-athlete.adoc[leveloffset=+1]
+
+include::partial$mentale-aspects/destructive-criticism.adoc[leveloffset=+1]

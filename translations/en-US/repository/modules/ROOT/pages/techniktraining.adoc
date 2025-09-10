@@ -1,0 +1,11 @@
+= technical training
+:description: Efficient training of technical skills in épée fencing. Basics, lessons, partner exercises.
+:keywords: Fencing, épée fencing, training, martial arts, technique, lessons, partner exercises
+
+include::partial$techniktraining/technical-training-basics.adoc[leveloffset=+1]
+
+include::partial$techniktraining/technical-training-body-movements.adoc[leveloffset=+1]
+
+include::partial$techniktraining/technical-training-meeting-movement.adoc[leveloffset=+1]
+
+include::partial$techniktraining/lesson-training/lesson-training.adoc[leveloffset=+1]

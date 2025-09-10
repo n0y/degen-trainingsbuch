@@ -1,0 +1,77 @@
+= reaction training
+
+The following steps are necessary to carry out a targeted response
+
+include::partial$gen/bibliography.adoc[tag=DKVPS]
+:
+
+[cols="3,1"]
+|===
+|transmission path |time
+
+|Stimulus reception in the receptor |1 - 40 ms
+
+|Transmission to the cortex |1 - 100 ms
+
+|central processes |70 - 300 ms
+
+|efferent transmission |10 - 20 ms
+
+|Muscle latency |30 - 70 ms
+|===
+
+The central processes are accessible to reaction training; the latency of the muscle can be improved through speed training. All other factors are not accessible to training.
+
+Reaction times occur after
+
+include::partial$gen/bibliography.adoc[tag=TBCRTL]
+in two ways:
+
+* as a *simple reaction*, in which only one possible stimulus can occur, which can be responded to with exactly one reaction.
+* as a *choice reaction*, in which there are several possible stimuli, all of which potentially require a different response.
+
+The _simple reaction_ is determined by genetics, body structure, and anthropometry and cannot be significantly improved.
+
+include::partial$gen/bibliography.adoc[tag=BAPESRT]
+. Here, only the latency of the muscle can be improved through speed training. Training for the simple reaction is therefore not useful.
+
+The selection reaction can be trained well in fencing.
+
+The reaction time depends directly on the number of choices. From
+
+include::partial$gen/bibliography.adoc[tag=DKVPS]
+:
+
+include::partial$motoriktraining/reaction-training/diag-selection-reaction.adoc[]
+
+Reaction training with two options is not worth the effort due to the small improvement that can be achieved. On the other hand, attacks are usually completed within 500-600 ms.
+
+include::partial$gen/bibliography.adoc[tag=FLOFT]
+, which limits the number of possible reactions to four or five.
+
+Training selective reactions trains the central processes and is therefore not only sport-specific, but also targets the stimuli that occur and the intended reactions to them. It is not transferable, which is why general reaction training has no effect on fencing.
+
+*Reaction training in fencing always aims to select 3 to 5 possible fencing reactions to corresponding fencing-specific stimuli.*
+
+== Example: Training 3-choice reaction
+
+Partner exercise; formation in a lane shape
+
+.Implementation
+* A moves freely (steps, jumps) in Sixt, B follows in medium tempo
+* At will (approximately 5 to 15 seconds), B performs a direct attack, to which A responds:
+** At hand: A retreats with two quick steps.
+** To the foot or thigh: A responds with an arrêt/thrust to the chest.
+** Regarding the body: A reacts with a quarter-turn/sliding thrust to the chest
+
+//-
+
+.variations
+* A in "standby mode"
+* A with blade in octave, seventh, third
+* A moves with large jumps
+* B varies the distance between close and overly wide
+* with miniature weapons
+* on different surfaces (bench, soft floor mats, etc.)
+
+The selected responses will soon be determined by the fencers themselves. They are part of the chosen, individual fencing system. During the partner exercise, fencers should select three to four reactions. They can be different for each pairing.

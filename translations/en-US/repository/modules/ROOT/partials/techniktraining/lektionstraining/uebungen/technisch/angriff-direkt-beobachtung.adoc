@@ -1,0 +1,65 @@
+= Direct attack with observation of the opponent
+:keywords: exercise
+:uebung-group: lessons
+
+ifndef::ownpage[]
+
+xref:page$practices/technical-training/lesson-training/exercises/technical/direct-attack-observation.adoc[Only this exercise]
+
+endif::[]
+
+Lesson length approx. 5 minutes.
+
+.Purpose of the lesson
+* Safety in blade and tip guidance, even in high-pressure situations
+* Decoupling of hand and leg guidance
+* Observing your opponent in high-pressure situations
+* Improving the sense of scale
+* Adaptation to changes in anthropometry (e.g., during growth phases)
+
+Approach quickly from a distance of 4 meters. Strike directly (without blade contact) and dodge the opponent's tip with your body.
+
+Repeat for the following gaps to be filled:
+
+* Upper body inside
+* Upper outer body
+* cross
+* Center of chest
+* thigh
+* Hand up
+* foot
+* mask
+
+Select randomly from these tasks until the lesson length is reached.
+
+* Variation in movement execution - End condition:
+** Long-range strike
+** Hit with your arm half extended
+** Meet while running and then run past
+** Move to melee range, hit with jump back
+** ...
+* Variation in movement execution - Initial condition
+** Stay in Quart/Sixt/Oktav/... as long as possible.
+** From a fast forward movement
+** ..
+* Variation in spatial design
+** Blade position trainer: aimed at different vulnerabilities
+** The trainer's blade moves horizontally/vertically/circularly.
+** Make yourself as small/big as possible
+** Wide/narrow foot position
+* Variation dynamic design
+** Approach slowly, strike quickly
+** Move your front foot quickly and your back foot slowly.
+** Pause briefly with your arm extended just before making contact.
+** ...
+* Variation in sensory perceptions
+** Close one eye
+** Fight against the sun
+** ...
+* Variation Materials/Equipment
+** Against very long weapon (trainer)
+** Against two weapons (trainer)
+** With mini swords, ...
+* Variation in subsoil, terrain
+** Train on sand, tartan track
+** Up/Down

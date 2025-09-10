@@ -1,0 +1,56 @@
+= Counterattack with evasive movement
+:keywords: exercise
+:uebung-group: lessons
+
+ifndef::ownpage[]
+
+xref:page$practices/technical-training/lesson-training/exercises/technical/counterattack-evasive-movement.adoc[Only this exercise]
+
+endif::[]
+
+Lesson length approx. 5 minutes.
+
+.Purpose of the lesson
+* Safety in blade and tip guidance, even in high-pressure situations
+* Conscious handling of defense reflexes
+* Improving the use of available space on the fencing piste
+* Adaptation to changes in anthropometry (e.g., during growth phases)
+* Experiencing the effectiveness of various avoidance movements
+
+Keep your distance with steps. The trainer addresses various weaknesses and announces them in advance. The athlete dodges the tip with her body and hits any exposed area herself. No blade contact!
+
+Attacks on the following flanks, one after the other:
+
+* Upper body inside
+* Upper outer body
+* cross
+* Center of chest
+* thigh
+* Hand up
+* foot
+* mask
+
+Select randomly from these tasks until the lesson length is reached.
+
+* Variation in movement execution - End condition:
+** Hit with arm half/fully/not extended
+** Then stand within melee range.
+** Run past the coach yourself after scoring the goal.
+** ...
+* Variation in movement execution - Initial condition
+** Fencing in quart/sixth/octave/... binding
+** Forward/backward movement at different speeds (trainer)
+** Standing on the finish line
+** ..
+* Variation in spatial/temporal execution
+** Against different attack depths
+** Against attacks with jump/lunge/flèche
+* Variation in spatial design
+** Make yourself as small/big as possible
+** Wide/narrow foot position
+* Variation dynamic design
+** Hit as fast as you can!
+** First dodge, then strike
+** ...
+* Variation Materials/Equipment
+** Unarmed, strike by touching with your hand

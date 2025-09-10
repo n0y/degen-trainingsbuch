@@ -1,0 +1,21 @@
+= Training body movements in fencing
+
+Training posture and body movement in fencing presents a number of problems. On the one hand, it is striking that even the basic position, as classically described, for example, in
+
+include::partial$gen/bibliography.adoc[tag=BBFTD]
+is taught, but is not found in the evaluation of top athletes.
+
+Different "styles" result in very different solutions for all fencers in terms of strength, speed, acceleration, posture, and energy expenditure.
+
+include::partial$gen/bibliography.adoc[tag=SFIPIP]
+. These depend not only on anthropometry and training level, but also on specific fencing situations that require an adapted solution.
+
+Physical training is particularly challenging for adolescents, as constantly changing leverage, proportions, and power ratios require constant adaptation of the necessary technique.
+
+The goal of physical movement training must therefore always be to enable athletes to stabilize themselves as they adjust and adapt their movements to new situations.
+
+include::partial$techniktraining/body-movements/footwork.adoc[leveloffset=+1]
+
+== evasive movements
+
+== body deceptions

@@ -1,0 +1,32 @@
+= Fencing - Training Book
+
+:description: Methodology, background, and content of the Degen training program. For coaches and interested athletes. Also interesting for foil and épée fencing.
+:keywords: Fencing, épée fencing, training, strategy, tactics, technique
+
+Last updated: {localdate}
+
+Fencing is a sport with a long tradition. Accordingly, textbooks have also been written for several hundred years, e.g.
+
+include::partial$gen/bibliography.adoc[tags=AggrTraSci]
+.
+
+In the process, all aspects of fencing have undergone fundamental changes on multiple occasions: the objective shifted from military use to dueling situations to modern sport fencing. The material changed in many ways, both in terms of blade lengths and geometries and in terms of the materials used. Increasingly effective protective equipment now allows for safe training in almost any combat situation. Accordingly, techniques and tactics can be used in modern fencing that were previously prohibited due to the associated risk of critical counterattacks. In addition, there are new training methods and new anthropometry, which require completely different physical conditions.
+
+That is why we must question every aspect of épée fencing and ask ourselves whether we really consider the ability to act and success to be the decisive factors, or whether we are not occasionally striving more for a historically influenced aesthetic sensibility—which, however, no longer has any direct application in competitive fencing.
+
+The aim of this book is to identify and apply the most effective tactics, techniques, and methods in every aspect possible—effective both in terms of achievable level and competitive success, as well as achievable learning rates.
+
+Young people in particular, who undertake years of education, have a right to use their time efficiently. At the same time, we want to enable everyone to make the most of their individual advantages and opportunities.
+
+Secondly, we want to understand why techniques or training methods are successful, and we want to justify this scientifically. We believe that implementing new findings from research is an appropriate way to continuously improve our training. The following should always apply: The better is the enemy of the good.
+
+== Usage
+
+* You can use the book under our xref:lizenz.adoc[license], the Creative Commons Share-Alike License.
+* If you want to use content in your training, we expect you to cite the source.
+* We welcome any help, contributions, and collaboration. To do this, you can fork https://github.com/n0y/degen-trainingsbuch/[the Degen training book on GitHub] and create pull requests. https://github.com/n0y/degen-trainingsbuch/blob/main/AUTOREN.adocHowever, [the authors] reserve the right to decide on the inclusion and modification of content. That's why it can be a good idea to https://github.com/n0y/degen-trainingsbuch/discussions[start a discussion] before you get started.
+* Please feel free to contact us with your concerns, suggestions, and corrections at https://github.com/n0y/degen-trainingsbuch/issues[Create issues].
+
+== Authors
+
+include::partial$gen/AUTHORS.adoc[tags=authors]

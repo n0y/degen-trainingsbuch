@@ -1,0 +1,67 @@
+= Brief intervention: Destructive criticism with a time lag
+:keywords: exercise
+:uebung-group: Training Cards
+
+ifndef::ownpage[]
+
+xref:page$practices/mental-aspects/destructive-criticism/cards/short-intervention-the-day-after.adoc[as Coaching Card  ⤴]
+
+endif::[]
+
+Use when the destructive feedback occurred some time ago (a few days). It is then often already firmly established and may have already "grown" emotionally. Perhaps your self-image has already changed.
+
+Goals:
+
+* Capture or reinterpret the inner story that has formed after the feedback.
+* Restoring the desire to move and openness.
+* Make the athlete feel that they are not wrong, but that something in the environment was not right.
+
+Approach: inviting, not pushy
+
+[quote]
+____
+I know the tournament/training course was intense—sometimes things stick with you that don't feel good. Would you like to tell us how you feel about it?
+____
+
+If the person doesn't say anything, don't probe, but move straight on to phase 2.
+
+Goal: Dissolve the fusion between evaluation and self-image, restore control.
+
+Address: calm, direct, with specific details (if known)
+
+[quote]
+____
+Not everyone who is loud is right. And not every comment reflects reality. Perhaps what you heard says more about that person than it does about you.
+____
+
+Goal: new movement experience, focus on self-efficacy
+
+Perform a short exercise that includes criticized elements (if known) or (in the case of general criticism) the athlete's key strength:
+
+[quote]
+____
+Let's do the evasive maneuvers—but in a way that feels good for you. Not how someone wants to see it. I only observe the timing, not the style.
+____
+
+Followed by feedback on self-efficacy:
+
+[quote]
+____
+Your rhythm is there—and that's what we'll build on.
+____
+
+Goal: Add useful metaphors to your mental lexicon, shape a positive self-image
+
+Address: cheerful, inviting
+
+[quote]
+____
+What you do makes sense. You are currently developing new patterns. That often takes courage—and that's exactly what I see in you.
+____
+
+Or if the criticism contained a metaphor, it can be reinterpreted:
+
+[quote]
+____
+You're not a chicken. More like a bird of prey turning—sometimes a little shaky, then precise. But a little crazy in any case. And that's what it takes.
+____

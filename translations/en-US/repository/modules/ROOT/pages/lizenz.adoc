@@ -1,0 +1,15 @@
+= license
+
+The entire project is published at <<license-cc-sa-4,Creative Commons Namensnennung-Share Alike 4.0 International Public License>>.
+
+The exception is the UI bundle (`src/ui-bundle`), which is a customized version of the https://gitlab.com/antora/antora-ui-default[Antora Default UI] available at <<license-mpl-2,Mozilla Public License Version 2.0>>.
+
+include::partial$gen/license-cc-sa-4.adoc[leveloffset=+1]
+
+[[license-mpl-2]]
+== Mozilla Public License Version 2.0
+
+[source,text]
+----
+include::partial$gen/license-mpl-2.txt[]
+----

@@ -1,0 +1,50 @@
+= Training plan: Partner exercises and free fencing
+:keywords: exercise
+:uebung-group: training plans
+
+ifndef::ownpage[]
+
+xref:page$practices/training-planning/training-plans/120min/2022_2023_120_5a.adoc[Only this exercise]
+
+endif::[]
+:!ownpage:
+
+Duration: 120 min
+
+[cols=".^8,.^1"]
+|===
+a|=== warm up
+|*20 min.{nbsp}*
+
+a|==== rebound ball
+|15 min{nbsp}
+
+a|==== Drink break and changing clothes
+|5 min{nbsp}
+
+a|=== partner exercise
+
+In two groups, any division
+
+include::partial$taktiktraining/partneruebung/fokuskontrolle-treffflaeche.adoc[leveloffset=+3]
+
+include::partial$taktiktraining/partneruebung/tactical-preparation-1.adoc[leveloffset=+3]
+|*15 min{nbsp}*
+
+a|=== Drinking, setting up electric railways
+|*15 min{nbsp}*
+
+a|=== Free fencing
+
+Three- and four-player rounds are fenced. The assignment is random.
+
+The athletes enter the fights themselves and evaluate the tableau themselves.
+
+After that, direct elimination to 10 hits. Fencers with lower rankings receive a 3-point head start.
+
+_Parallel: Lesson planning_
+|*60 min{nbsp}*
+
+a|=== Dismantling
+|*10 min{nbsp}*
+|===

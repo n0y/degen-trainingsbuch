@@ -1,0 +1,4 @@
+= Bibliography
+:render-content: true
+
+include::partial$gen/bibliography.adoc[]

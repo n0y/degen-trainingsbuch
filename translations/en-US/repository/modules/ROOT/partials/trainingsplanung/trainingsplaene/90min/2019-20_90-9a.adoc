@@ -1,0 +1,119 @@
+= Training plan for footwork and fencing exercises
+:keywords: exercise
+:uebung-group: training plans
+
+ifndef::ownpage[]
+
+xref:page$practices/training-planning/training-plans/90min/2019-20_90-9a.adoc[Only this exercise]
+
+endif::[]
+
+Duration: 90 min
+
+Materials: Long benches, tennis balls, round wooden sticks
+
+[cols=".^8,.^1"]
+|===
+a|=== warm up
+|*20 min*
+
+a|==== Warming up with benches I
+
+The fencers stand in two groups half a volleyball court away from the wall bars.
+
+In front of them (in the way) are two benches, the first (closer one) turned upside down.
+
+The first person in each case has a mask in their hand.
+
+.Task:
+* The FIRST one is starting
+* under the first bench
+* over the second bench
+* and hangs the mask on the lowest rung
+* The SECOND one is the same, but the mask hangs one rung higher.
+
+The team whose mask is the first to hang at the top wins.
+|8 min
+
+a|==== Warming up with benches II
+
+Source:
+
+include::partial$gen/bibliography.adoc[tags=ErlFe]
+, p. 64
+
+The fencers stand in a row in front of three benches placed one behind the other. After each time they get over the benches, they run back sideways and rejoin the line at the back.
+
+Possible ways to overcome this include:
+
+* Crawling across the benches
+* Pull-ups in the prone position
+* Two-legged squat jumps
+* One-legged jump (stand on left leg, jump up, 2x forward, land on right leg)
+|7 min
+
+a|==== Drinking
+|5 min
+
+a|=== footwork
+
+Always perform the following sequence of steps:
+
+* Forward:
+** three steps ahead
+** two back
+** two before
+** Failure / Follow-up
+* Backwards:
+** three steps back
+** two before
+** two back
+** Failure / Position
+
+with the following variants (each only once):
+
+* Front foot turned 90° inward (both feet parallel)
+* way down below, almost at duck level
+* with circling arms
+* inclined (entire position rotated 45° inward)
+* with knees straight and upper body leaning far back
+* leaning as far forward as possible
+* with the front foot in the air for as long as possible
+* without lifting your feet
+* with swaying upper body (up and down) and arms
+* with zigzag (change of direction with every step)
+* with weight on the front foot and limping with the back foot
+* Squat down every other step and hold your arms above your head.
+* With each movement: clap alternately in front of and behind the body.
+* in a step position (back foot pointing forward) and with the upper body completely turned
+* Upper body goes first, then the feet follow
+|*10 min*
+
+a|=== Drink, change clothes, set up
+|*15 min*
+
+a|=== Fencing with fencing task
+
+The hall side is the attacker.
+
+.task
+* Attacker must score a hit
+* Defender should do something funny, e.g.:
+** jump wildly to the right and left
+** wave a gun around
+** run away just before the meeting
+** squat down
+** constantly hitting the opponent's weapon
+** stand with the weapon above your head
+** hop on one leg
+* Then swap until everyone has attacked five times.
+
+Once everyone has done this against two others, normal free fencing begins.
+|*20 min*
+
+a|=== Parallel: Individual lessons
+|*20 min*
+
+a|=== Dismantling
+|10 min
+|===

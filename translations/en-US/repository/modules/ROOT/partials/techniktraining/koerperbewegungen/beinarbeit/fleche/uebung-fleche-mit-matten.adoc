@@ -1,0 +1,73 @@
+= Exercise: Fléche on soft floor mats
+
+:keywords: exercise
+:uebung-group: technical training
+
+ifndef::ownpage[]
+
+xref:page$practices/technical-training/body-movements/footwork/fleche/exercise-fleche-with-mats.adoc[Only this exercise]
+
+endif::[]
+
+Group size for younger children (<12 years) up to six people
+
+10-15 minutes
+
+.Material
+* Soft floor mat (upright as a target)
+* Fold-out wall bars or volleyball posts (or similar items for securing the mat)
+* Adhesive tape (or similar for marking the target positions and distances)
+
+//-
+
+.structure
+* Place the soft floor mat upright, lean it against a post, and secure it (with tape, rope, etc.). The athletes must be able to run past the mat.
+* Mark targets with tape: at shoulder height, at belly height, and on the narrow side at shoulder height and belly height.
+* Mark lines on the floor for orientation (adhesive tape): 1 m, 2 m, 3 m, 4 m
+
+The exercises are always performed individually. Queue (that's why!)
+
+== Implementation
+
+1. Athlete lines up so that the tip touches the target.
+1. Athlete takes four steps back into fencing stance
+1. Athlete performs starting movement: small step forward, small jump forward
+1. Athlete accelerates from the rear foot, tilts over the front foot, and jumps off.
+1. Athlete hits and runs past the mat on the right/left
+
+//-
+
+.variations
+* During each run, the athlete should optimize the distance for themselves (with the help of the floor markings).
+
+In addition, after the first two rounds, the following variations are added (maximum of two at a time), for example
+
+* Change goals:
+** alternate between destinations
+** hit two targets in one fléche
+* Opening movement:
+** two steps
+** two jumps
+** from a standing position
+** with a cross step
+* after the opening movement:
+** squat
+** Standing jump
+** small jump back
+** touch the floor with the tip
+** spin around once
+* for the Fléche
+** directly with line
+** pull up your sleeve
+** Change target (top/bottom, bottom/top)
+** Jump direction: straight, diagonally to the side
+** Jump height: high, low
+* Outward movement:
+** Place your rear foot down as early/late as possible.
+** Place your back foot directly in front of your front foot or at a considerable distance.
+** run just past the mat or diagonally away from the mat
+** Turn as you run past so that the weapon is always pointing at the mat.
+* additional tasks
+** Circle with your rear arm: forward/backward
+** Pause for one second after each element.
+** Weight as far forward or backward as possible

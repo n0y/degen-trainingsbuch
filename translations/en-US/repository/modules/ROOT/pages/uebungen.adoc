@@ -1,0 +1,5 @@
+= Lessons, exercises, training plans
+:description: Efficient training of technical skills in épée fencing. Basics, lessons, partner exercises.
+:keywords: Fencing, épée fencing, training, martial arts, technique, lessons, partner exercises, training plans
+
+include::practices/gen-practices.adoc[]

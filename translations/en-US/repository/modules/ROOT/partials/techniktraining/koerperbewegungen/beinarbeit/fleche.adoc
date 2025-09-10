@@ -1,0 +1,37 @@
+= Fléche
+
+The flèche (also known as a lunge) is a fundamental action that is frequently used, especially in épée fencing. It is described in detail, for example. in
+
+include::partial$gen/bibliography.adoc[tag=ErlFe]
+described.
+
+A characteristic feature is that balance is sacrificed in favor of higher acceleration. This means that a fléche cannot be broken off.
+
+The correct choice of scale and blade position is crucial to the success of the flèche. In the most common successful execution, the shot is made before the rear foot touches the ground again, and thus before balance is restored.
+
+A frequently used element is to dodge to the right or left after the opponent's flèche and run past them. This means that the opponent is entitled to a (direct) follow-up shot to the rear. However, there are no other scoring opportunities.
+
+The run sometimes leads to the player leaving the lane before passing the opponent. Technically speaking, this can be considered "leaving the track to avoid being hit." However, this violation is rarely penalized in practice and can therefore be exploited in most cases.
+
+It is permitted to leave the piste with one foot to the side immediately before your own hit, as long as you then hit without further blade action or change of position. This allows very steep angles to be achieved relative to the opponent's target area, especially when the fléche is combined with an angled shot.
+
+Details on coordinating your arm and leg during the flèche can be found under "Stroke and striking movement."
+
+We therefore restrict the solution area to be trained as follows:
+
+* The starting point is a fencing position within the valid parameters. Upward movements are explicitly permitted.
+* The goal is to hit a specific point on your opponent as quickly as possible with the tip of your weapon.
+* The body should be leaned forward so that the center of gravity is in front of the front foot.
+* The shot should be made at the latest when the rear foot touches the ground again.
+
+All other parameters should be covered by variations. This applies, for example (but not exclusively), to:
+
+* The direction in which balance is lost: straight forward, diagonally forward inside/outside, ...
+* The height and length of the jump performed
+* The goal that the flèche leads to: hand, arm, body
+* Your own blade position in absolute terms (high, low line, etc.) and relative to your opponent's blade
+* Movement of the rear shoulder: constant, further forward or backward, ...
+
+The Fléche can be practiced, for example, in partner exercises or with soft floor mats. It is important to alleviate the fear of losing balance by establishing this action as part of the normal repertoire of movements.
+
+include::partial$techniktraining/body-movements/footwork/fleche/exercise-fleche-with-mats.adoc[leveloffset=+1]

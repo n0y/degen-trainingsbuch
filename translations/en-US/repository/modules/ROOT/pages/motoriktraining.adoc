@@ -1,0 +1,55 @@
+= Training motor skills
+
+:description: Efficient training of basic motor skills for épée fencing.
+:keywords: Fencing, épée fencing, training, martial arts, endurance, speed, maximum strength, coordination, agility
+
+Motor skills are the foundation on which specific fencing training is based:
+
+* endurance
+* speed
+* (Maximum) force
+* coordination
+* mobility
+* responsiveness
+
+These motor skills are generally relevant for all sporting activities. The primary goal here is to train the skills necessary for fencing.
+
+These skills can be trained separately. However, most training plans do not allow enough time for this, so the training must either be carried out separately by the athletes or integrated into their regular training. It is advisable to offer combined exercises in which several motor skills can be trained at the same time.
+
+== Motor requirements of competitive fencing
+
+In terms of its exertion structure, sport fencing is comparable to other Olympic combat sports: similar to taekwondo, the focus is on short rounds of high-intensity exertion. In addition to technical requirements, the focus is on anaerobic and neuromuscular training.
+
+Similar to taekwondo, the maximum aerobic capacity in competitive fencing can also be estimated at 60-65 stem:[(ml * kg) / min].
+
+A high aerobic capacity is essential for high-intensity exercise.
+
+include::partial$gen/bibliography.adoc[tag=HPNRHP]
+, and in particular cardiac output. This is especially true for athletes who already have a high VO₂ max.
+
+include::partial$gen/bibliography.adoc[tag=BoVO2]
+.
+
+//
+
+// Einzelne Kapitel ab hier
+
+//
+
+include::partial$motoriktraining/endurance-training/endurance-training.adoc[leveloffset=+1]
+
+include::partial$motoriktraining/coordination-training/coordination-training.adoc[leveloffset=+1]
+
+include::partial$motoriktraining/reaction-training/reaction-training.adoc[leveloffset=+1]
+
+== maximum strength training
+
+_TODO_
+
+== speed training
+
+_TODO_
+
+== mobility training
+
+_TODO_

@@ -1,0 +1,26 @@
+= Round battles with self-selected tasks
+:keywords: exercise
+:uebung-group: practice battles
+
+ifndef::ownpage[]
+
+xref:page$practices/tactical-training/competition-formats/round-with-tasks.adoc[Only this exercise]
+
+endif::[]
+
+.objectives
+* Implementation of tactical tasks in competitive combat
+* Assessment of the opponent's abilities and possibilities:
+* Utilizing the strengths and weaknesses of your counterpart
+
+Round with a maximum of seven participants. Everyone fights twice against everyone else.
+
+.Preparation
+* The trainer provides a series of possible additional tasks—if possible, more tasks than there are fencers in the group.
+* Prepare a table with possible tasks to fill in
+
+Here is an xref:attachment$tableau-mit-aufgaben.pdf[Tableau template with fillable fields and prepared additional tasks] for download.
+
+One of the fencers chooses an additional task for their opponent. The match is fought to five hits.
+
+Once everyone has finished, a second round is fought.

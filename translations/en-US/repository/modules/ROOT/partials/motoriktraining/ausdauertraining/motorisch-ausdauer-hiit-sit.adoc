@@ -1,0 +1,169 @@
+= Training plan: HIIT/SIT combination
+:keywords: exercise
+:uebung-group: endurance training
+
+ifndef::ownpage[]
+
+xref:page$practices/motor skills training/endurance training/motor endurance hiit sit.adoc[Only this exercise]
+
+endif::[]
+
+The following training plan, based on
+
+include::partial$gen/bibliography.adoc[tag=RKNGW]
+(34), uses alternating high-intensity interval training and sprint interval training.
+
+The "normal run" (no specification) in the unit refers to 95% of the speed of a 6-minute run, which is determined at the beginning of the multi-week unit. Depending on the equipment, speed or (better) heart rate can be used as a guideline.
+
+The "sprint" units are always run at maximum possible speed.
+
+[cols="1,4,1,1"]
+|===
+|unit |Description |Type |duration
+
+|1
+|* 2 repetitions:
+** 10 times:
+*** 30-second run
+*** 30-second break
+** Series break: 3:30 min
+|HIIT
+|10:30 p.m.
+
+|2
+|* 4 repetitions
+** 4-minute run
+** 3-minute break
+|HIIT
+|24 min
+
+|3
+|* 2 repetitions:
+** 8 times:
+*** 8-second sprint
+*** 15-second break
+** 3-minute break in the series
+|SIT
+|9:40 min
+
+|4
+|* 7 repetitions:
+** 2 min run
+** 2-minute break
+|HIIT
+|26 min
+
+|5
+|* 3 repetitions:
+** 10 times:
+*** 30-second run
+*** 20-second break
+** 3:30 min series break
+|HIIT
+|27:50 min
+
+|6
+|* 4 repetitions
+** 4-minute run
+** 3-minute break
+|HIIT
+|24 min
+
+|7
+|* 2 repetitions:
+** 8 times:
+*** 8-second sprint
+*** 15-second break
+** 3-minute break in the series
+|SIT
+|9:40 min
+
+|8
+|* 7 repetitions:
+** 1 min run
+** 1-minute break +
+* 3-minute series break +
+* 6 repetitions:
+** 30-second run
+** 1-minute break
+|HIT
+|25 min
+
+|
+|*4-6 days break*
+|
+|
+
+|9
+|* 4 repetitions
+** 4-minute run
+** 3-minute break
+|HIIT
+|24 min
+
+|10
+|* 2 repetitions:
+** 8 times:
+*** 8-second sprint
+*** 15-second break
+** 3-minute series break
+|SIT
+|9:40 min
+
+|11
+|* 10 repetitions:
+** 10 times:
+*** 40-second run
+*** 20-second break
+** 4-minute break in the series
+|HIIT
+|11:20 p.m.
+
+|12
+|* 2 repetitions:
+** 8 times:
+*** 8-second sprint
+*** 15-second break
+** 3-minute break in the series
+|SIT
+|9:40 min
+
+|13
+|* 4 repetitions
+** 4-minute run
+** 3-minute break
+|HIIT
+|24 min
+
+|14
+|* 2 repetitions:
+** 8 times:
+*** 8-second sprint
+*** 15-second break
+** 3-minute series break
+|SIT
+|9:40 min
+
+|15
+|* 3 repetitions:
+** 10 times:
+*** 15-second sprint
+*** 20-second break
+** 3-minute break in the series
+|HIIT
+|23 min
+
+|16
+|* 2 repetitions:
+** 8 times:
+*** 8-second sprint
+*** 15-second break
+** 3-minute break in the series
+|SIT
+|9:40 min
+
+|
+|*3-5 days break*
+|
+|
+|===

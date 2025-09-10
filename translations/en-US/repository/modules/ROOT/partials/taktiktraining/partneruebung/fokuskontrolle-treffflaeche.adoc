@@ -1,0 +1,28 @@
+= Focus control: meeting instead of clashing
+:keywords: exercise
+:uebung-group: Partner exercises (tactical)
+
+ifndef::ownpage[]
+
+xref:page$practices/tactical-training/partner-exercise/focus-control-target-area.adoc[Only this exercise]
+
+endif::[]
+
+Focus on hitting the target instead of blade control
+
+Partner exercise, alley, A and B face each other
+
+.task
+* A moves freely and seeks blade contact and binding.
+* B: follows in 2-meter spacing and always tries to place their own tip in front of the opponent's target area
+* A: is approaching rapidly
+* B: only hits the opponent's forward movement with an extended arm
+
+//-
+
+.variants
+* Target area for B: hand, mask, body, thigh
+* A: Quickly move forward on signal (call)
+* Posture B: crouched behind one's own bell
+* Action A: Always push blade B outward
+* Counteraction B: evade with blade, press against blade
