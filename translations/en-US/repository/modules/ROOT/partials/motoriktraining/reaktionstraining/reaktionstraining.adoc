@@ -1,77 +1,77 @@
-= Reaktionstraining
+= reaction training
 
-Um eine zielgerichtete Reaktion durchzuführen, sind folgende Schritte erforderlich
+The following steps are necessary to carry out a targeted response
 
 include::partial$gen/bibliography.adoc[tag=DKVPS]
 :
 
 [cols="3,1"]
 |===
-|Übertragungsweg |Zeit
+|transmission path |time
 
-|Reizaufnahme im Rezeptor |1 - 40ms
+|Stimulus reception in the receptor |1 - 40 ms
 
-|Übertragung zum Kortex |1 - 100ms
+|Transmission to the cortex |1 - 100 ms
 
-|zentrale Vorgänge |70 - 300ms
+|central processes |70 - 300 ms
 
-|efferente Übertragung |10 - 20ms
+|efferent transmission |10 - 20 ms
 
-|Latenzzeit des Muskels |30 - 70ms
+|Muscle latency |30 - 70 ms
 |===
 
-Die _zentralen Vorgänge_ sind dem Reaktionstraining zugänglich; die Latenzzeit des Muskels ist durch Schnelligkeitstraining zu verbessern. Alle anderen Faktoren sind dem Training nicht zugänglich.
+The central processes are accessible to reaction training; the latency of the muscle can be improved through speed training. All other factors are not accessible to training.
 
-Reaktionszeiten treten nach
+Reaction times occur after
 
 include::partial$gen/bibliography.adoc[tag=TBCRTL]
-in zwei Arten auf:
+in two ways:
 
-* als *Einfachreaktion* (_Simple Reaction_), bei der nur ein möglicher Reiz auftreten kann, der mit genau einer Reaktion zu beantworten ist.
-* als *Auswahlreaktion* (_Choice Reaction_), bei der es mehrere mögliche Reize gibt, die potenziell alle eine unterschiedliche Reaktion erfordern.
+* as a *simple reaction*, in which only one possible stimulus can occur, which can be responded to with exactly one reaction.
+* as a *choice reaction*, in which there are several possible stimuli, all of which potentially require a different response.
 
-Die _Einfachreaktion_ ist durch Genetik, Körperaufbau und Anthropometrie vorgegeben und kann nicht signifikant verbessert werden
+The _simple reaction_ is determined by genetics, body structure, and anthropometry and cannot be significantly improved.
 
 include::partial$gen/bibliography.adoc[tag=BAPESRT]
-. Hier ist lediglich die Latenzzeit des Muskels über das Training der Schnelligkeit verbesserbar. Training für die Einfachreaktion ist daher nicht sinnvoll.
+. Here, only the latency of the muscle can be improved through speed training. Training for the simple reaction is therefore not useful.
 
-Die _Auswahlreaktion_ ist im Fechtsport gut trainierbar.
+The selection reaction can be trained well in fencing.
 
-Die Reaktionszeit hängt direkt von der Anzahl der Wahlmöglichkeiten ab. Aus
+The reaction time depends directly on the number of choices. From
 
 include::partial$gen/bibliography.adoc[tag=DKVPS]
 :
 
-include::partial$motoriktraining/reaktionstraining/diag-auswahlreaktion.adoc[]
+include::partial$motoriktraining/reaction-training/diag-selection-reaction.adoc[]
 
-Ein Reaktionstraining mit zwei Auswahlmöglichkeiten steht aufgrund der kleinen erzielbaren Verbesserung in keinem guten Verhältnis zum Trainingsaufwand. Auf der anderen Seite sind Angriffe in der Regel innerhalb von 500-600ms abgeschlossen
+Reaction training with two options is not worth the effort due to the small improvement that can be achieved. On the other hand, attacks are usually completed within 500-600 ms.
 
 include::partial$gen/bibliography.adoc[tag=FLOFT]
-, was die Zahl der möglichen Reaktionen auf vier bis fünf begrenzt.
+, which limits the number of possible reactions to four or five.
 
-Das Training von Auswahlreaktionen trainiert die _zentralen Vorgänge_ und ist damit nicht nur sportartspezifisch, sondern zielt sogar genau auf die auftretenden Stimuli und die dafür vorgesehenen Reaktionen ab. Es ist nicht transferierbar, weshalb ein allgemeines Reaktionstraining keinen Effekt auf das Fechten hat.
+Training selective reactions trains the central processes and is therefore not only sport-specific, but also targets the stimuli that occur and the intended reactions to them. It is not transferable, which is why general reaction training has no effect on fencing.
 
-*Reaktionstraining im Fechten zielt immer auf die Auswahl von 3 bis 5 möglichen fechterischen Reaktionen auf zugehörige fechtspezifische Reize.*
+*Reaction training in fencing always aims to select 3 to 5 possible fencing reactions to corresponding fencing-specific stimuli.*
 
-== Beispiel: Training 3er-Auswahlreaktion
+== Example: Training 3-choice reaction
 
-Partnerübung; Aufstellung in Gassenform
+Partner exercise; formation in a lane shape
 
-.Durchführung
-* A bewegt sich frei (Schritte, Sprünge) in Sixt, B folgt in mittlerer Mensur
-* Nach Belieben (etwa 5 bis 15 Sekunden) führt B einen direkten Angriff durch, auf den A reagiert:
-** Zur Hand: A zieht sich mit zwei schnellen Schritten zurück
-** Zum Fuß oder zum Oberschenkel: A reagiert mit Arrêt/ Stoß zur Brust
-** Zum Körper: A reagiert mit Quart-Parade/ Gleitstoß Brust
+.Implementation
+* A moves freely (steps, jumps) in Sixt, B follows in medium tempo
+* At will (approximately 5 to 15 seconds), B performs a direct attack, to which A responds:
+** At hand: A retreats with two quick steps.
+** To the foot or thigh: A responds with an arrêt/thrust to the chest.
+** Regarding the body: A reacts with a quarter-turn/sliding thrust to the chest
 
 //-
 
-.Variationen
-* A in "Lauerstellung"
-* A mit Klinge in Oktav, Septim, Terz
-* A bewegt sich mit großen Sprüngen
-* B variiert den Abstand zwischen eng und überweit
-* mit Mini-Waffen
-* auf unterschiedlichen Untergründen (Bank, Weichbodenmatten, ...)
+.variations
+* A in "standby mode"
+* A with blade in octave, seventh, third
+* A moves with large jumps
+* B varies the distance between close and overly wide
+* with miniature weapons
+* on different surfaces (bench, soft floor mats, etc.)
 
-Die gewählten Reaktionen sollen sehr bald durch die Fechter:in selbst festgelegt werden. Sie sind Bestandteil des gewählten, individuellen Fechtsystems. Bei der Partnerübung sollen die Fechter:in drei bis vier Reaktionen auswählen. Sie können bei jeder Paarung unterschiedlich sein.
+The selected responses will soon be determined by the fencers themselves. They are part of the chosen, individual fencing system. During the partner exercise, fencers should select three to four reactions. They can be different for each pairing.
