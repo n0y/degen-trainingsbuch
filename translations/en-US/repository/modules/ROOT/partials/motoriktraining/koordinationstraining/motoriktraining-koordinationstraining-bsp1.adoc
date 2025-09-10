@@ -1,47 +1,47 @@
-= Übung: Koordinationsübung Parade/Riposte
-:keywords: uebung
-:uebung-group: Koordination
+= Exercise: Coordination exercise Parry/Riposte
+:keywords: exercise
+:uebung-group: coordination
 
 ifndef::ownpage[]
 
-xref:page$practices/motoriktraining/koordinationstraining/motoriktraining-koordinationstraining-bsp1.adoc[Nur diese Übung]
+xref:page$practices/motor skills training/coordination training/motor skills training coordination training example 1.adoc[This exercise only]
 
 endif::[]
 
-Parade-Riposte mit Präzisionsvorgabe: Körperlage
+Parade riposte with precision requirement: body position
 
-Hinweis: die Übung kann auch mit jeder anderen, einfachen Aktion durchgeführt werden.
+Note: the exercise can also be performed with any other simple action.
 
-Partnerübung 1:1 auf variablem Untergrund
+Partner exercise 1:1 on variable ground
 
-Langbänke, Sprossenwand, Weichbodenmatten
+Long benches, wall bars, soft floor mats
 
-Mehrere Trainingsuntergründe schaffen:
+Create multiple training surfaces:
 
-* Langbänke an Sprossenwand mit unterschiedlicher Neigung
-* Umgedrehte Langbänke
-* Weichbodenmatten, wenn möglich unterschiedliche Dicken
+* Long benches on wall bars with varying inclines
+* Upside-down long benches
+* Soft floor mats, different thicknesses if possible
 
-A und B stehen einander in mittlerer Mensur gegenüber:
+A and B face each other at medium distance:
 
-* A verkürzt mit Schritt vor und bedroht B mit Klinge in Linie
-* B reagiert mit Parade-Riposte.
+* A shortens with a step forward and threatens B with the blade in line.
+* B responds with a parade riposte.
 
-Die Übung wird jeweils dreimal durchgeführt mit Quart-, Sixt oder Oktav-Parade. Dann erfolgt Wechsel. Gelegentlich wird der Untergrund durch gewechselt.
+The exercise is performed three times with a quart, sixth, or octave parade. Then the change takes place. Occasionally, the substrate is changed.
 
-Die Trainer:in gibt vor jedem Satz eine neue Zusatzaufgabe für B ein, z.B.
+Before each set, the trainer gives B a new additional task, e.g.
 
-. Kleiner Sprung auf der Stelle bei der Parade
-. Ausgangsstellung mit hinterem Knie am Boden
-. Bei der Riposte die hintere Ferse an den Po
-. Hinterer Fuß nach hinten gestreckt in der Luft
-. Ausgangsstellung in Ausfall
-. Unbewaffnete Hand auf dem Boden
-. Bei der Parade das vordere Knie heben
-. Möglichst weit nach Vorne gebeugt
-. Alles mit gestrecktem Arm
-. Bei der Parade ganz klein machen, bei der Riposte ganz groß
-. Mit gestreckten Beinen, Füße vier Fußlängen auseinander
-. mit dem unbewaffneten Arm hinter dem Kopf zur anderen Schulter greifen
-. Bei der Parade weit zurücklehnen
-. Bei der Riposte mit dem vorderen Fuß aufstampfen
+. Small jump on the spot during the parade
+. Starting position with rear knee on the floor
+. During the riposte, bring your rear heel to your buttocks.
+. Rear foot stretched backward in the air
+. Starting position in lunge
+. Unarmed hand on the floor
+. Lift your front knee during the parade
+. Leaning forward as far as possible
+. Everything with an outstretched arm
+. Keep a low profile during the parade, but make a big splash during the riposte.
+. With legs stretched out, feet four feet apart
+. Reach behind your head with your unarmed arm to touch your other shoulder.
+. Lean back and relax at the parade
+. Stamp your front foot when counterattacking
