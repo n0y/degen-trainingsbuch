@@ -1,31 +1,31 @@
 :stem:
 
-= Training der Ausdauerfähigkeiten
+= Training endurance skills
 
-Um effizient Ausdauer aufzubauen, ist das Intervalltraining der kontinuierlichen Methode überlegen. Dieselben Leistungssteigerungen werden mit geringerem Zeiteinsatz erzielt (z.B.
+Interval training is superior to continuous training for efficiently building endurance. The same performance improvements are achieved with less time investment (e.g.
 
 include::partial$gen/bibliography.adoc[tag=ESECIT]
 ).
 
-Das betrifft nicht nur die maximale Sauerstoffaufnahme (VO~2~ max), sondern auch die anaerobe Kapazität. Nach
+This applies not only to maximum oxygen uptake (VO₂ max), but also to anaerobic capacity. After
 
 include::partial$gen/bibliography.adoc[tag=EMEHIIT]
-kann durch vier Minuten hochintensives Intervall-Training die VO~2~ max genauso gut verbessert werden wie durch 60 Minuten kontinuierliches Training.
+Four minutes of high-intensity interval training can improve VO2 max just as effectively as 60 minutes of continuous training.
 
-Für das körperliche Training übernehmen wir die Definitionen aus
+For physical training, we adopt the definitions from
 
 include::partial$gen/bibliography.adoc[tag=HICCA]
-, Seite 8.
+, page 8.
 
-* Sprint Interval Training (*SIT*): <30sec maximale Belastung (RPE 10/10), z.B. 30sec maximaler Sprint
-* Speed Endurance Training (*SET*): 30-60sec bei https://www.crossfitwiesbaden.com/blog/rpe-training-was-bedeutet-das[RPE] 9/10, z.B: 8x 30sec mit 3min Pause
-* Muscle Buffer Training (*BUF*): Belastung mit Resultat von 8 bis 10stem:[ (mmol) / l], bei RPE 8/10, z.B. 6x 2min mit 3min Pause
-* High-Intensitive Interval Training (*HIIT*): Intervalle von 2-20min bei RPE 9/10, 90% maximale Herzfrequenz oder 90-95% VO~2~max, z.B. 4x 8min mit 2min Pause
+* Sprint Interval Training (*SIT*): <30 sec maximum exertion (RPE 10/10), e.g., 30 sec maximum sprint
+* Speed endurance training (*SET*): 30-60 seconds at https://www.crossfitwiesbaden.com/blog/rpe-training-was-bedeutet-das[RPE] 9/10, e.g.: 8x 30 seconds with 3-minute breaks
+* Muscle Buffer Training (*BUF*): Load with a result of 8 to 10:[ (mmol) / l], at RPE 8/10, e.g., 6x 2 min with 3 min rest
+* High-Intensity Interval Training (*HIIT*): Intervals of 2-20 minutes at RPE 9/10, 90% maximum heart rate, or 90-95% VO₂ max, e.g., 4 x 8 minutes with 2-minute breaks
 
-Die Übergänge zwischen den Trainingsarten sind dabei allerdings fließend.
+However, the transitions between the different types of training are fluid.
 
-include::partial$motoriktraining/ausdauertraining/motorisch-ausdauer-hiit.adoc[leveloffset=+1]
+include::partial$motoriktraining/endurance-training/motor-endurance-hiit.adoc[leveloffset=+1]
 
-include::partial$motoriktraining/ausdauertraining/motorisch-ausdauer-hiit-sit.adoc[leveloffset=+1]
+include::partial$motoriktraining/endurance-training/motor-endurance-hiit-sit.adoc[leveloffset=+1]
 
-include::partial$motoriktraining/ausdauertraining/motorisch-ausdauer-vo2max.adoc[leveloffset=+1]
+include::partial$motoriktraining/endurance-training/motor-endurance-vo2max.adoc[leveloffset=+1]
