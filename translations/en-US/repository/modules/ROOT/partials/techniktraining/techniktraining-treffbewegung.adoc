@@ -1,58 +1,58 @@
-= Stoß- und Treffbewegungen
+= Pushing and hitting movements
 
-Die maßgeblichen Einflussfaktoren, die über erfolgreiches Treffen gewünschter Zielregionen entscheiden, sind bislang größtenteils unerforscht. Es gibt nur wenige durch Studien gesicherte Ergebnisse.
+The key factors that determine whether desired target regions are successfully reached have largely been unexplored to date. There are only a few findings that have been confirmed by studies.
 
-Beispielsweise ist bekannt, dass die Technik für Würfe nicht mit denen der Handführung bei Treffbewegungen im Fechten korrelieren
+For example, it is known that the technique used for throws does not correlate with that used for hand movements in fencing strikes.
 
 include::partial$gen/bibliography.adoc[tag=KCLFEF]
-. Weiter ist bekannt, dass selbst während eines Ausfalls oder Fléche die Zeit bis zum Aufkommen des Treffers (500-600ms, aus
+. It is also known that even during a miss or fléche, the time until the hit occurs (500-600 ms, from
 
 include::partial$gen/bibliography.adoc[tag=FLOFT]
-) ausreicht, um das Ziel zu erfolgreich zu ändern (200ms, aus
+) is sufficient to successfully change the target (200ms, from
 
 include::partial$gen/bibliography.adoc[tag=ACOAEF]
 ).
 
-== Zur Regel "Arm vor Bein"
+== The "arm before leg" rule
 
-Mit der Regel "Arm vor Bein" wird ausgedrückt, dass bei kombinierten Treffbewegungen, die Armstreckung und Körperbewegung beinhalten, zunächst die Armstreckung erfolgt, bevor die Beinbewegung begonnen wird
+The rule "arm before leg" means that in combined striking movements involving arm extension and body movement, the arm extension must be performed before the leg movement begins.
 
 include::partial$gen/bibliography.adoc[tag=GTHOF]
-. In der abgeschwächten Form wird die Beinbewegung schon kurz vor Abschluss der Armbewegung begonnen
+. In the weakened form, the leg movement is started shortly before the arm movement is completed.
 
 include::partial$gen/bibliography.adoc[tag=AKonDFB]
 .
 
-Eine Auswertung aller offensiven Treffer der Finalrunde des Weltcups in Doha 2024 ergab, dass kein einziger Angriff, der Arm- und Beinbewegung beinhaltete, auf diese Weise durchgeführt wurde. Angriffe erforderten entweder nur eine Armbewegung oder sie wurden mit dem Bein eingeleitet.
+An evaluation of all offensive hits in the final round of the World Cup in Doha in 2024 showed that not a single attack involving arm and leg movements was carried out in this manner. Attacks either required only an arm movement or were initiated with the leg.
 
-Kein Angriff, der nur eine Armstreckung benötigte, wurde danach direkt fortgesetzt, sondern stets der Arm zurückgezogen.
+No attack that only required an arm extension was followed immediately by another attack; instead, the arm was always withdrawn.
 
-Die notwendigen 500-600ms, die für einen Angriff mit Ausfall oder Fléche notwendig sind, sind ausreichend für gleich mehrere Fechtaktionen. Deswegen ist es wichtig, den Waffenarm so lange wie möglich vor Gegenangriffen zu schützen und die Manövrierfähigkeit möglichst lange aufrechtzuerhalten. Beides benötigt einen mindestens halb angewinkelten Arm, wie in
+The 500-600 ms required for an attack with a fail or flèche are sufficient for several fencing actions. That is why it is important to protect the weapon arm from counterattacks for as long as possible and to maintain maneuverability for as long as possible. Both require at least a half-bent arm, as in
 
 include::partial$gen/bibliography.adoc[tag=ErlFe]
-(zur Fechtstellung) erläutert.
+(on the fencing position) explains.
 
-Es ist angeraten, erst im Moment des Auftreffens der Spitze die maximale Armstreckung zu erreichen. Da der einfache Ausfall etwa 500ms benötigt, die explosive Armstreckung dagegen weniger als 100ms
+It is advisable to achieve maximum arm extension only at the moment of impact. Since the simple failure takes about 500 ms, while the explosive arm extension takes less than 100 ms
 
 include::partial$gen/bibliography.adoc[tag=AREKinSP]
-, sollte der Arm erst während der Angriffsbewegung gestreckt werden.
+, the arm should only be extended during the attacking movement.
 
-== Training der Stoß- und Treffbewegung
+== Training the thrust and strike movement
 
-Die reine Stoß- und Treffbewegung lässt sich durch variable Stoßübungen trainieren. Gerade dabei ist die Variabilität einer der wichtigsten Faktoren, denn Treffbewegungen müssen aus unterschiedlichsten Situationen und Körper-/Handhaltungen sicher und schnell erfolgen können.
+The pure thrust and strike movement can be trained through variable thrust exercises. Variability is one of the most important factors here, as striking movements must be performed safely and quickly from a wide variety of situations and body/hand positions.
 
-Für Stoßübungen bietet es sich an, die Übungen in kurzen Blöcken durchzuführen: Es werden bezüglich einer Größe über mehrere Übungen mehrere Variationen ausgeführt (z.B. in Folge sechs verschiedene Treffer-Flächen; vier verschiedene Ausgangs-Klingenlagen). Dazu wird jeweils eine Kombination aus Variationen hineingegeben (z.B. Ausführung mit Schritt vor, Treffbewegung verlangsamend und ein Auge geschlossen).
+For striking exercises, it is advisable to perform the exercises in short blocks: several variations are performed for one size across several exercises (e.g., six different striking areas in succession; four different starting blade positions). To do this, a combination of variations is added (e.g., execution with a step forward, slowing down the striking movement, and closing one eye).
 
-Als Hilfsmittel können z.B. dienen:
+The following can serve as aids, for example:
 
-* Markierungen auf dem Boden, mit dem unterschiedliche Fußpositionen erwürfelt werden können
-* Unterschiedliche „Waffen“, z.B. Rohre, Holzstecken, Schlauchstücke
-* bewegliche Ziele, z.B. schwingende Bälle, Stoß auf Tischtennisbälle, die in ein Tor befördert werden
+* Markings on the floor that can be used to determine different foot positions by rolling dice
+* Different "weapons," e.g., pipes, wooden sticks, pieces of hose
+* moving targets, e.g., swinging balls, hitting table tennis balls that are transported into a goal
 
-Eine Durchführung auf Zeit oder auf die meisten Treffer pro Versuch in Kleingruppen hat sich bewährt.
+A timed competition or a competition for the most hits per attempt in small groups has proven successful.
 
-Um wechselnde Ziele vorzugeben, können diese vorgeplant werden. Alternativ werden sie angezeigt, z.B. mittels Fencing Hit Target oder Laserpointer.
+In order to set changing goals, these can be planned in advance. Alternatively, they are displayed, e.g., using a fencing hit target or laser pointer.
 
-Klingenaktionen können ebenfalls geübt werden, indem in Kleingruppen Gegner neben das Ziel postiert werden. Ein Stoßtraining mit Person als Ziel hat sich dagegen nicht bewährt, da die Abneigung, ggf. schmerzhaft zu treffen oder getroffen zu werden, kaum konzentriertes Training ermöglicht.
+Blade actions can also be practiced by placing opponents next to the target in small groups. On the other hand, impact training with a person as the target has not proven successful, as the aversion to potentially hitting or being hit painfully makes it difficult to concentrate on training.
 
-include::partial$techniktraining/techniktraining-treffbewegung-einheit.adoc[leveloffset=+1]
+include::partial$techniktraining/technical-training-meeting-movement-unit.adoc[leveloffset=+1]
