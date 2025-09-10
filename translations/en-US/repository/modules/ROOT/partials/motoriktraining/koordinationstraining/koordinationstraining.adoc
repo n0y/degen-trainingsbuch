@@ -1,134 +1,134 @@
-= Koordinationstraining
+= coordination training
 
-Koordination bezeichnet nach
+Coordination refers to
 
 include::partial$gen/bibliography.adoc[tag=KFuKiS]
-das geordnete Zusammenwirken von verschiedenen Teilen und Prozessen eines Systems auf ein intendiertes Ziel hin.
+the orderly interaction of different parts and processes of a system toward an intended goal.
 
-Der wissenschaftliche Stand zu koordinativen Fertigkeiten ist derzeit lückenhaft. Es bestehen Forschungslücken und empirisch verifizierte alternative Ansätze
+The scientific understanding of coordination skills is currently incomplete. There are gaps in research and empirically verified alternative approaches.
 
 include::partial$gen/bibliography.adoc[tag=KFuKiS]
 .
 
-Dennoch sind einige koordinative Übungsformen sinnvoll und zeigen gute Resultate.
+Nevertheless, some forms of coordination exercises are useful and show good results.
 
-== Grundlagen des Koordinationstrainings
+== Fundamentals of coordination training
 
-Die separate Betrachtung der Koordinationsfähigkeiten ist deshalb problematisch, weil sie nicht direkt beobachtbare, hypothetische Konstrukte sind
+It is problematic to consider coordination skills separately because they are hypothetical constructs that cannot be directly observed.
 
 include::partial$gen/bibliography.adoc[tag=RfBDM]
-und immer auf ein spezifisches Gefüge aus mehreren Fähigkeiten unterschiedlicher Gewichtung zurückgegriffen wird
+and always draws on a specific combination of several skills with different weightings
 
 include::partial$gen/bibliography.adoc[tag=WkFuB]
 .
 
-Die Tragfähigkeit des Ansatzes der koordinativen Fähigkeiten wird zunehmend infrage gestellt. Das betrifft besonders das Konzept allgemeiner, übergreifender Koordinationsfähigkeiten. Die Erkenntnisse sprechen eher für eine hohe Fertigkeits-Spezifität: Es besteht ein hoher Trainingseffekt auf Leistungen, die Teil des Trainings sind, aber die Effekte lassen sich kaum auf andere Aufgaben übertragen (siehe z.B.
+The viability of the approach to coordination skills is increasingly being questioned. This applies in particular to the concept of general, overarching coordination skills. The findings tend to indicate a high degree of skill specificity: training has a significant effect on performance in tasks that are part of the training, but the effects can hardly be transferred to other tasks (see, for example,
 
 include::partial$gen/bibliography.adoc[tag=RbSBM]
-und
+and
 
 include::partial$gen/bibliography.adoc[tag=HMSSvSe]
 ).
 
-Dennoch wird oft allgemeines Koordinationstraining für sinnvoll erachtet mit den Zielen, außersportliche Handlungskompetenz zu erhalten, Trainingsmonotonie entgegenzuwirken und Handlungssicherheit in Problemsituationen zu erhalten.
+Nevertheless, general coordination training is often considered useful with the aim of maintaining non-sporting skills, counteracting training monotony, and maintaining confidence in problematic situations.
 
-Als Anteile am Training werden in
+The following are considered to be shares in the training:
 
 include::partial$gen/bibliography.adoc[tag=SSlTo]
-z.B. 5 % für allgemeines und 10-15 % für sportartspezifisches Koordinationstraining genannt.
+e.g., 5% for general coordination training and 10-15% for sport-specific coordination training.
 
 In
 
 include::partial$gen/bibliography.adoc[tag=KFuKiS]
-wird dargestellt, dass das Training allgemeiner Koordinationsfähigkeiten und fertigkeitsbezogenes Techniktraining die beiden Pole desselben Kontinuums sind. Techniktraining ist somit immer auch sportartspezifisches Koordinationstraining
+shows that training general coordination skills and skill-related technique training are two ends of the same continuum. Technical training is therefore always sport-specific coordination training.
 
 include::partial$gen/bibliography.adoc[tag=OMBGTwl]
 .
 
-Die Haupttrainingsmethode im fähigkeitskonzeptionellen Koordinationstraining ist das variable Üben
+The main training method in skill-based coordination training is variable practice.
 
 include::partial$gen/bibliography.adoc[tag=WkFuB]
 .
 
-Die dort dargestellten Variationsmethoden des programm-, parameter- und bedingungsvariablen Übens zeigen eine deutliche Ähnlichkeit zum differenziellen Lernen.
+The variation methods of program, parameter, and condition variable practice described there show a clear similarity to differential learning.
 
-== Spezifisches Koordinationstraining
+== Specific coordination training
 
-Es gilt die Maxime, dass die koordinativen Anforderungen im Training immer höher sein müssen als bei der späteren Reproduktion. Also schwierigere Übungen mit größerer Handlungsdichte als in der Realsituation.
+The rule of thumb is that the coordination requirements in training must always be higher than in the subsequent reproduction. In other words, more difficult exercises with a greater density of actions than in real-life situations.
 
-Für das Sportfechten bieten sich als Grundlage die normalen technischen Elemente an, die in Spielformen und Partnerübungen eingesetzt werden. Hinzu kommen dann immer variable Druckbedingungen, die für die Ausbildung der gewünschten, koordinativen Fähigkeiten sorgen.
+The normal technical elements used in games and partner exercises provide a good basis for competitive fencing. In addition, there are always variable pressure conditions that ensure the desired coordination skills are developed.
 
-Es gilt nach
+The following applies
 
 include::partial$gen/bibliography.adoc[tag=WkFuB]
 :
 
-*Koordinationstraining = beherrschte Fähigkeit + sensorische Vielfalt + Druckbedingungen*
+*Coordination training = mastered skill + sensory diversity + pressure conditions*
 
 [[koordination-druchbedingungen]]
-.Druckbedingungen des Koordinationstrainings
+.Pressure conditions of coordination training
 |===
-|Druckbedingung |Dimensionen |Übungsbeispiel
+|printing condition |dimensions |practice example
 
-|Zeit
-|* verfügbare Bewegungszeit
-* zu erreichende Geschwindigkeit
-a|* Parade-Riposte mit maximalem Tempo
-* Auswahlreaktion unter Zeitdruck
+|time
+|* available movement time
+* target speed
+a|* Parade riposte at maximum speed
+* Selection reaction under time pressure
 
-|Präzision
-|* Körperposition
-* Körperlage
-* Handlage
-* Klingenlage
-* Spitzenposition
-a|* Zielvorgaben beim Treffen
-* Beinarbeit auf einer Langbank
-* Sperrstöße mit Vorgabe des Berührungspunkts
+|precision
+|* body position
+* body position
+* hand position
+* blade position
+* leading position
+a|* Targets set at the meeting
+* Footwork on a long bench
+* Locking strokes with specified contact point
 
-|Komplexität
-|* simultane Bewegungsteile
-* sukzessive Bewegungsteile
-* einbezogene Körperteile
-a|* Fechten auf einer Hindernisbahn
-* Imitation von Gefechtsphrasen
-* Gefecht gegen mehrere Gegner
+|complexity
+|* simultaneous moving parts
+* successive motion parts
+* affected body parts
+a|* Fencing on an obstacle course
+* Imitation of battle phrases
+* Combat against multiple opponents
 
-|Situation
-|* Variabilität der Umgebung
-* Komplexität der Umgebung
-* Variabilität der Situation
-* Komplexität der Situation
-a|* Auswahlübungen mit mehreren Optionen
-* Übungsgefechte mit schnell wechselnden Gegnern
+|situation
+|* Variability of the environment
+* Complexity of the environment
+* Variability of the situation
+* Complexity of the situation
+a|* Multiple-choice exercises
+* Practice battles with rapidly changing opponents
 
-|Belastung
-|* physische Belastung
-* psychische Belastung
-a|* Übung nach konditioneller Vorbelastung
-* gleichzeitiges Lösen einer Kopfrechenaufgabe
+|burden
+|* physical strain
+* psychological stress
+a|* Exercise after physical exertion
+* simultaneous solving of a mental arithmetic problem
 |===
 
-include::partial$motoriktraining/koordinationstraining/motoriktraining-koordinationstraining-bsp1.adoc[leveloffset=+2]
+include::partial$motoriktraining/coordination-training/motor-skills-training-coordination-training-example1.adoc[leveloffset=+2]
 
-include::partial$motoriktraining/koordinationstraining/motoriktraining-koordinationstraining-bsp2.adoc[leveloffset=+2]
+include::partial$motoriktraining/coordination-training/motor-skills-training-coordination-training-example2.adoc[leveloffset=+2]
 
-== Neuroathletik-Training
+== Neuroathletics training
 
-Die Neuroathletik beschäftigt sich mit Prozessen des Gehirns und der Nerven bei der Entwicklung der Bewegungsprogramme, bevor es zu einer Handlung kommt.
+Neuroathletics deals with the processes of the brain and nerves in the development of movement programs before an action is performed.
 
-Schwerpunkt ist die Schulung der Wahrnehmung
+The focus is on training perception
 
-* des visuellen Systems (Sehen)
-* des vestibulären Systems (Gleichgewicht)
-* und des propriozeptiven Systems (Eigenwahrnehmung).
+* of the visual system (vision)
+* of the vestibular system (balance)
+* and the proprioceptive system (self-perception).
 
-Grundlage ist, dass die Qualität der Wahrnehmung und der Verarbeitung im Gehirn ausschlaggebend dafür ist, ob das Gesamtsystem Athlet die maximale Leistung zielgerichtet abrufen kann. Bei Problemen in der Wahrnehmung reagiert das Gehirn damit, die verfügbare Leistung zu reduzieren, um Verletzungsrisiken auszuschließen.
+The basis for this is that the quality of perception and processing in the brain is decisive in determining whether the athlete's entire system can deliver maximum performance in a targeted manner. When problems arise in perception, the brain responds by reducing available performance in order to eliminate the risk of injury.
 
-Diese Verarbeitung lässt sich bei allen Athlet:innen optimieren. Oft lassen sich Defizite in diesem Bereich mit bloßem Auge identifizieren:
+This processing can be optimized for all athletes. Deficits in this area can often be identified with the naked eye:
 
-* Die Bewegungen erscheinen ungelenk.
-* Aktionen werden zögerlich und vorsichtig durchgeführt.
-* Bewegungen erscheinen inkonsequent, werden unterbrochen oder abgebrochen.
-* Aktionen erfolgen vorsichtig, den Athlet:innen scheint das Vertrauen in die eigenen Fähigkeiten zu fehlen.
-* die Athlet:innen wenden sich ab (z.B. bei Paraden und Gegenangriffen), sinken zusammen, ziehen ein Bein oder den unbewaffneten Arm zur Körpermitte.
+* The movements appear awkward.
+* Actions are carried out hesitantly and cautiously.
+* Movements appear inconsistent, are interrupted or stopped.
+* Actions are taken cautiously; the athletes seem to lack confidence in their own abilities.
+* The athletes turn away (e.g., during parries and counterattacks), crouch down, and pull one leg or their unarmed arm toward the center of their body.
