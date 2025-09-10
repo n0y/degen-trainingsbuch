@@ -1,37 +1,37 @@
 = Fléche
 
-Die Fléche (auch: Sturzangriff) ist speziell im Degen-Fechten eine grundlegende Aktion, die häufig angewendet wird. Sie wird detailliert bepsw. in
+The flèche (also known as a lunge) is a fundamental action that is frequently used, especially in épée fencing. It is described in detail, for example. in
 
 include::partial$gen/bibliography.adoc[tag=ErlFe]
-beschrieben.
+described.
 
-Charakterisierend ist, dass die Balance zugunsten einer höheren Beschleunigung aufgegeben wird. Damit lässt sich eine Fléche nicht abbrechen.
+A characteristic feature is that balance is sacrificed in favor of higher acceleration. This means that a fléche cannot be broken off.
 
-Entscheidend für den Erfolg der Fléche ist die korrekte Wahl von Mensur und eigener Klingenlage. Bei der häufigsten erfolgreichen Ausführung wird der eigene Treffer gesetzt, bevor der hintere Fuß wieder den Boden berührt; und damit auch, bevor das Gleichgewicht wieder hergestellt wird.
+The correct choice of scale and blade position is crucial to the success of the flèche. In the most common successful execution, the shot is made before the rear foot touches the ground again, and thus before balance is restored.
 
-Ein oft genutztes Element ist es, beim Auslaufen nach der Fléche der Gegner:in nach rechts oder links auszuweichen und vorbeizulaufen. Damit steht der Gegner:in zwar ein (direkter) Nachstoß nach hinten zu. Weitere Treffermöglichkeiten bestehen aber nicht.
+A frequently used element is to dodge to the right or left after the opponent's flèche and run past them. This means that the opponent is entitled to a (direct) follow-up shot to the rear. However, there are no other scoring opportunities.
 
-Das Auslaufen führt bisweilen zum seitlichen Verlassen der Bahn, noch bevor der Gegner passiert wird. Technisch gesehen ist das zwar zu Bewerten als "Verlassen der Bahn, um einem Treffer zu entgehen". Dieser Verstoß wird aber in der Praxis nur äußerst selten sanktioniert und kann deswegen meistens genutzt werden.
+The run sometimes leads to the player leaving the lane before passing the opponent. Technically speaking, this can be considered "leaving the track to avoid being hit." However, this violation is rarely penalized in practice and can therefore be exploited in most cases.
 
-Es ist erlaubt, direkt vor dem eigenen Treffer die Bahn mit einem Fuß seitlich zu verlassen, solange danach ohne weitere Klingenaktion oder Lageänderung getroffen wird. Dadurch lassen sich sehr steile Winkel zur gegnerischen Trefffläche realisieren, speziell, wenn der Fléche dabei mit einem Winkelstoß kombiniert wird.
+It is permitted to leave the piste with one foot to the side immediately before your own hit, as long as you then hit without further blade action or change of position. This allows very steep angles to be achieved relative to the opponent's target area, especially when the fléche is combined with an angled shot.
 
-Details zur Koordination zwischen Arm und Bein beim Fléche sind unter "Stoß- und Treffbewegung" zu finden.
+Details on coordinating your arm and leg during the flèche can be found under "Stroke and striking movement."
 
-Wir schränken den zu trainierenden Lösungsbereich deswegen so ein:
+We therefore restrict the solution area to be trained as follows:
 
-* Ausgangspunkt ist eine Fechtstellung im Rahmen der gültigen Parameter. Dabei sind Auftaktbewegungen explizit erlaubt.
-* Ziel ist es, mit der Spitze der eigenen Waffe einen definierten Punkt an der Gegner:in möglichst schnell zu treffen.
-* Dabei soll der Körper so weit nach vorne gelehnt werden, dass der Schwerpunkt sich vor dem vorderen Fuß befindet.
-* Der Treffer soll spätestens dann gesetzt werden, wenn der hintere Fuß erneut den Boden berührt.
+* The starting point is a fencing position within the valid parameters. Upward movements are explicitly permitted.
+* The goal is to hit a specific point on your opponent as quickly as possible with the tip of your weapon.
+* The body should be leaned forward so that the center of gravity is in front of the front foot.
+* The shot should be made at the latest when the rear foot touches the ground again.
 
-Alle anderen Parameter sollen über Variationen abgedeckt werden. Das betrifft zum Beispiel (aber nicht ausschließlich):
+All other parameters should be covered by variations. This applies, for example (but not exclusively), to:
 
-* Die Richtung, in der das Gleichgewicht aufgegeben wird: direkt vorwärts, schräg nach vorne innen/außen, ...
-* Die Höhe und Länge des ausgeführten Sprungs
-* Das Ziel, zu dem die Fléche führt: Hand, Arm, Körper
-* Die eigene Klingenlage absolut (hohe, tiefe Linie, ...) und relativ zur gegnerischen Klinge
-* Bewegung der hinteren Schulter: konstant, weiter nach vorne oder nach hinten, ...
+* The direction in which balance is lost: straight forward, diagonally forward inside/outside, ...
+* The height and length of the jump performed
+* The goal that the flèche leads to: hand, arm, body
+* Your own blade position in absolute terms (high, low line, etc.) and relative to your opponent's blade
+* Movement of the rear shoulder: constant, further forward or backward, ...
 
-Die Fléche kann z.B. in Partnerübung oder mit Weichbodenmatten trainiert werden. Wichtig ist es, die Angst vor dem Verlust des Gleichgewichts zu nehmen, indem diese Aktion als Teil des normalen Bewegungsrepertoirs etabliert wird.
+The Fléche can be practiced, for example, in partner exercises or with soft floor mats. It is important to alleviate the fear of losing balance by establishing this action as part of the normal repertoire of movements.
 
-include::partial$techniktraining/koerperbewegungen/beinarbeit/fleche/uebung-fleche-mit-matten.adoc[leveloffset=+1]
+include::partial$techniktraining/body-movements/footwork/fleche/exercise-fleche-with-mats.adoc[leveloffset=+1]
