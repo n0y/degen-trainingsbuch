@@ -1,32 +1,32 @@
-= Degen - Trainingsbuch
+= Fencing - Training Book
 
-:description: Methodik, Hintergründe und Inhalte des Degen-Trainings. Für Trainer:innen und interessierte Athlet:innen. Auch für Florett und Degen-Fechten interessant.
-:keywords: Fechten,Degen-Fechten,Training,Strategie,Taktik,Technik
+:description: Methodology, background, and content of the Degen training program. For coaches and interested athletes. Also interesting for foil and épée fencing.
+:keywords: Fencing, épée fencing, training, strategy, tactics, technique
 
-Zuletzt aktualisiert: {localdate}
+Last updated: {localdate}
 
-Das Fechten ist eine Sportart mit langer Tradition. Entsprechend werden auch Lehrbücher seit mehreren hundert Jahren verfasst, z.B.
+Fencing is a sport with a long tradition. Accordingly, textbooks have also been written for several hundred years, e.g.
 
 include::partial$gen/bibliography.adoc[tags=AggrTraSci]
 .
 
-Dabei haben sich alle Aspekte des Fechtens gleich mehrfach fundamental gewandelt: Die Zielsetzung wandelte sich vom Kriegseinsatz über Duellsituationen bis zum modernen Sportfechten. Das Material änderte sich bezüglich Klingenlängen und -Geometrien genauso wie hinsichtlich der eingesetzten Materialien vielfach. Immer effektivere Schutzausrüstung ermöglicht inzwischen das gefahrlose Training nahezu jeder Kampfsituation. Entsprechend können im modernen Fechten Techniken und Taktiken eingesetzt werden, die sich früher aufgrund der einhergehenden Gefahr kritischer Gegentreffer verboten. Hinzu kommen neue Trainingsverfahren und neue Anthropometrie völlig andere körperliche Voraussetzungen.
+In the process, all aspects of fencing have undergone fundamental changes on multiple occasions: the objective shifted from military use to dueling situations to modern sport fencing. The material changed in many ways, both in terms of blade lengths and geometries and in terms of the materials used. Increasingly effective protective equipment now allows for safe training in almost any combat situation. Accordingly, techniques and tactics can be used in modern fencing that were previously prohibited due to the associated risk of critical counterattacks. In addition, there are new training methods and new anthropometry, which require completely different physical conditions.
 
-Deswegen müssen wir für jeden Aspekt des Degenfechtens hinterfragen, ob wir als Ziel tatsächlich Handlungsfähigkeit und Erfolg als maßgebliche Größen betrachten, oder ob wir nicht gelegentlich mehr einem historisch geprägten ästhetischen Empfinden nacheifern - das im Sportfechten aber keine direkte Anwendung mehr hat.
+That is why we must question every aspect of épée fencing and ask ourselves whether we really consider the ability to act and success to be the decisive factors, or whether we are not occasionally striving more for a historically influenced aesthetic sensibility—which, however, no longer has any direct application in competitive fencing.
 
-Ziel dieses Buches soll sein, in möglichst jedem Aspekt die effektivsten Taktiken, Techniken und Methoden zu identifizieren und einzusetzen - effektiv sowohl in Bezug auf erreichbares Niveau und Wettkampferfolg, als auch der erreichbaren Lernraten.
+The aim of this book is to identify and apply the most effective tactics, techniques, and methods in every aspect possible—effective both in terms of achievable level and competitive success, as well as achievable learning rates.
 
-Gerade Jugendliche, die Jahre der Ausbildung auf sich nehmen, haben ein Recht darauf, ihre Zeit effizient einzusetzen. Gleichzeitig wollen wir es jedem Menschen ermöglichen, seine/ihre individuellen Vorteile und Möglichkeiten auszuschöpfen.
+Young people in particular, who undertake years of education, have a right to use their time efficiently. At the same time, we want to enable everyone to make the most of their individual advantages and opportunities.
 
-In zweiter Linie wollen wir verstehen, warum Techniken oder Trainingsmethoden Erfolg zeigen und wir wollen das wissenschaftlich Begründen. Die Umsetzung neuer Erkenntnisse aus der Forschung erscheint uns ein geeigneter Weg, um unser Training stetig zu verbessern. Es soll immer gelten: Das Bessere ist der Feind des Guten.
+Secondly, we want to understand why techniques or training methods are successful, and we want to justify this scientifically. We believe that implementing new findings from research is an appropriate way to continuously improve our training. The following should always apply: The better is the enemy of the good.
 
-== Verwendung
+== Usage
 
-* Das Buch kannst Du unter unserer xref:lizenz.adoc[Lizenz], der Creative Commons Share-Alike License verwenden.
-* Wenn Du Inhalte in Deinem Training verwenden möchtest, dann erwarten wir, dass Du auf die Quelle hinweist.
-* Über Hilfe, Beiträge und Mitarbeit freuen wir uns. Dafür kannst Du https://github.com/n0y/degen-trainingsbuch/[das Degen-Trainingsbuch auf Github] forken und Pull Requests erstellen. https://github.com/n0y/degen-trainingsbuch/blob/main/AUTOREN.adoc[Die Autoren] behalten sich aber vor, über die Aufnahme und Änderung von Inhalten zu entscheiden. Deswegen kann es sinnvoll sein, https://github.com/n0y/degen-trainingsbuch/discussions[eine Diskussion zu starten], bevor Du Dir die Arbeit machst.
-* Gerne kannst Du uns für Deine Anliegen, Vorschläge und Korrektur-Hinweise https://github.com/n0y/degen-trainingsbuch/issues[Issues erstellen].
+* You can use the book under our xref:lizenz.adoc[license], the Creative Commons Share-Alike License.
+* If you want to use content in your training, we expect you to cite the source.
+* We welcome any help, contributions, and collaboration. To do this, you can fork https://github.com/n0y/degen-trainingsbuch/[the Degen training book on GitHub] and create pull requests. https://github.com/n0y/degen-trainingsbuch/blob/main/AUTOREN.adocHowever, [the authors] reserve the right to decide on the inclusion and modification of content. That's why it can be a good idea to https://github.com/n0y/degen-trainingsbuch/discussions[start a discussion] before you get started.
+* Please feel free to contact us with your concerns, suggestions, and corrections at https://github.com/n0y/degen-trainingsbuch/issues[Create issues].
 
-== Autoren
+== Authors
 
-include::partial$gen/AUTOREN.adoc[tags=autoren]
+include::partial$gen/AUTHORS.adoc[tags=authors]
