@@ -1,50 +1,50 @@
-== Gegenmaßnahmen
+== countermeasures
 
-Selbstverständlich ist destruktives Feedback generell zu verhindern. Die Erfahrung zeigt aber, dass es trotzdem immer wieder stattfindet, sei es, weil eine TrainerIn unwillkürlich und spontan selbst falsch handelt (und es im Optimalfall direkt selbst bemerkt), oder auch, weil es z.B. bei Lehrgängen, Camps oder auf Turnieren Kontakt mit ungeschulten TrainerInnen gibt, die destruktive Kritik fälschlich als Trainingsmittel einsetzen.
+Of course, destructive feedback should generally be avoided. However, experience shows that it still happens time and again, either because a coach instinctively and spontaneously acts incorrectly (and, in the best case scenario, notices this themselves immediately), or because, for example, during courses, camps, or tournaments, there is contact with untrained coaches who mistakenly use destructive criticism as a training tool.
 
-Um negative Effekte abzupuffern, sind eine Reihe von Maßnahmen wirkungsvoll. Sie können sowohl im Vorfeld erlernt werden (Ausbildung von Resilienz), als auch im Nachhinein (Intervention) angewendet werden. Insbesondere wirksam sind:
+A number of measures are effective in cushioning negative effects. They can be learned in advance (resilience training) or applied retrospectively (intervention). The following are particularly effective:
 
-* *Reframing*: Die negativ belegten Begriffe müssen aktiv durch neue semantische Knoten ersetzt oder entwertet werden. +
-z. B.: „Was als ‘verrücktes Huhn’ bezeichnet wurde, war vielleicht eine interessante Eigenlösung.“
-* *Vertrauensvolle soziale Kontexte*: Ein sicherer Raum mit unterstützender Sprache („Ich sehe, dass du dran bist“, „Schau mal, was sich verbessert hat“) kann beschädigte Knoten überlagern.
-* *Metaphorische Arbeit*: Neue positive Metaphern helfen beim Umbau des mentalen Lexikons: „Wie eine Katze landen“ statt „nicht wie ein Huhn zappeln“.
-* *Selbstreflexion fördern*: Durch Fragen wie „Was hast du gespürt?“, „Was hättest du anders gemacht?“ wird die Verbindung zum eigenen Körperschema gestärkt und ein  Gegengewicht zur äußeren Entwertung geschaffen.
+* *Reframing*: Terms with negative connotations must be actively replaced with new semantic nodes or devalued. 
+For example: "What was called 'crazy chicken' was perhaps an interesting solution of its own."
+* *Trusting social contexts*: A safe space with supportive language ("I see you're on a roll," "Look what's improved") can override damaged nodes.
+* *Metaphorical work*: New positive metaphors help to rebuild the mental lexicon: "Land like a cat" instead of "Don't flutter like a chicken."
+* *Encourage self-reflection*: Questions such as "What did you feel?" and "What would you have done differently?" strengthen the connection to one's own body image and create a counterbalance to external devaluation.
 
-Destruktives Feedback ist grundsätzlich zu vermeiden. Es gilt als eine der häufigsten Ursachen für reduzierte Motivation, Selbstzweifel und Leistungsblockaden im Sport
+Destructive feedback should always be avoided. It is considered one of the most common causes of reduced motivation, self-doubt, and performance blocks in sports.
 
 include::partial$gen/bibliography.adoc[tags=Galli2008Bouncing]
-. Dennoch zeigt die Praxis: Solche Rückmeldungen treten weiterhin auf – aus spontaner emotionaler Reaktion, aus ungeschulter Kommunikation oder durch Begegnung mit externen Trainer:innen (z. B. bei Lehrgängen, Turnieren), die destruktives Feedback fälschlich für leistungsförderlich halten.
+. Nevertheless, practice shows that such feedback continues to occur—as a spontaneous emotional reaction, due to untrained communication, or through encounters with external trainers (e.g., in training courses, tournaments), who mistakenly believe that destructive feedback promotes performance.
 
-Um negative Effekte zu puffern oder gar umzukehren, haben sich mehrere kompensatorische Strategien bewährt. Diese können sowohl präventiv (durch Resilienzbildung) als auch reaktiv (als Intervention) eingesetzt werden:
+Several compensatory strategies have proven effective in buffering or even reversing negative effects. These can be used both preventively (by building resilience) and reactively (as an intervention):
 
-* *Reframing – semantische Umstrukturierung*:
-Negativ besetzte Begriffe werden durch neue Bedeutungsnetzwerke ersetzt oder entwertet. +
-Beispiel: Statt „verrücktes Huhn“ → _„eine ungewöhnliche, kreative Eigenlösung“_ +
-Ziel ist die Neucodierung im mentalen Lexikon, um die emotional-negative Verankerung zu lösen
+* *Reframing – semantic restructuring*:
+Terms with negative connotations are replaced by new networks of meaning or devalued. 
+Example: Instead of "crazy chicken" → "an unusual, creative solution of your own."
+The goal is to recode the mental lexicon in order to break the emotionally negative association.
 include::partial$gen/bibliography.adoc[tags=Schack2007Reprasentation]
 .
-* *Sozial sichere Kontexte schaffen*:
-Der Aufbau von Vertrauen durch eine empathische, validierende Sprache wie: +
-_„Ich sehe, dass du dran bleibst.“_ oder _„Deine Landung war schon deutlich stabiler.“_ +
-Solche Aussagen stärken das Selbstbild und wirken gegen dysfunktionale Knoten im semantischen Netz
+* *Creating socially safe contexts*:
+Building trust through empathetic, validating language such as: +
+_"I see that you're sticking with it."_ or _"Your landing was much more stable."_ +
+Such statements strengthen self-image and counteract dysfunctional knots in the semantic network.
 include::partial$gen/bibliography.adoc[tags=Ryan2000Self]
 .
-* *Metaphorische Rekodierung*:
-Positive, körpernahe Bilder helfen, beschädigte Bewegungsrepräsentationen zu überschreiben. +
-Beispiel: Statt _„nicht wie ein Huhn zappeln“_ → _„weich wie eine Katze landen“_ +
-Unterstützt mentale Umstrukturierung durch Embodied Semantics
+* *Metaphorical recoding*:
+Positive, body-oriented images help to overwrite damaged movement representations. 
+Example: Instead of "don't flutter like a chicken" → "land softly like a cat"
+Supports mental restructuring through embodied semantics
 include::partial$gen/bibliography.adoc[tags=Lakoff1999Philosophy]
 .
-* *Selbstreflexion durch gezielte Fragen*:
-Fragen wie _„Was hast du gespürt?“_ oder _„Was hättest du anders machen können?“_ aktivieren das Körperschema und verschieben die Kontrolle zurück zum Athleten. +
-Ziel: Agency und Selbstwirksamkeit stärken, um äußere Bewertung zu relativieren
+* *Self-reflection through targeted questions*:
+Questions such as "What did you feel?" or "What could you have done differently?" activate the body schema and shift control back to the athlete. 
+Goal: Strengthen agency and self-efficacy in order to put external evaluation into perspective.
 include::partial$gen/bibliography.adoc[tags=Bandura1997Self]
 .
 
-Diese Strategien kombinieren sprachlich-semantische Neuorganisation mit emotionaler Re-Sicherung und fördern langfristig die Resilienz gegenüber ungünstigen Einflüssen auf das Bewegungslernen.
+These strategies combine linguistic-semantic reorganization with emotional reassurance and promote long-term resilience to unfavorable influences on motor learning.
 
-include::partial$mentale-aspekte/destruktive-kritik/cards/kurzintervention-sofort.adoc[leveloffset=+1]
+include::partial$mentale-aspects/destructive-criticism/cards/short-intervention-immediately.adoc[leveloffset=+1]
 
-include::partial$mentale-aspekte/destruktive-kritik/cards/kurzintervention-tage-danach.adoc[leveloffset=+1]
+include::partial$mentale-aspects/destructive-criticism/cards/brief-intervention-the-day-after.adoc[leveloffset=+1]
 
-include::partial$mentale-aspekte/destruktive-kritik/cards/kurzintervention-eigene-peergroup.adoc[leveloffset=+1]
+include::partial$mentale-aspects/destructive-criticism/cards/brief-intervention-own-peer-group.adoc[leveloffset=+1]
