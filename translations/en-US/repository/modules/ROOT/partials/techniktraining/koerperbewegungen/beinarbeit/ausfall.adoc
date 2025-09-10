@@ -1,25 +1,25 @@
-= Der Ausfall
+= The failure
 
-Als eines der grundlegenden Elemente der fechterischen Bewegungen kommt dem Ausfall eine große Bedeutung zu. Er wird in unzähligen Veröffentlichungen im Details beschrieben, bspw. In
+As one of the fundamental elements of fencing movements, the lunge is of great importance. It is described in detail in countless publications, e.g. in
 
 include::partial$gen/bibliography.adoc[tag=ErlFe]
-. Die tatsächlich von Sportlern durchgeführte Bewegung weicht von der Beschreibung nahezu immer ab. Das betrifft sowohl die Ausgangsposition, bei der deutlich mehr Gewicht auf dem vorderen Fuß lastet
+. The movement actually performed by athletes almost always differs from the description. This applies to both the starting position, where significantly more weight is placed on the front foot
 
 include::partial$gen/bibliography.adoc[tag=KDSFL]
-, als auch die Fussbewegung, bei der in allen beobachteten Fällen die vordere Ferse zuerst den Boden verlässt
+, as well as the foot movement, in which the front heel leaves the ground first in all observed cases.
 
 include::partial$gen/bibliography.adoc[tag=KALFS]
 .
 
-Der zu trainierende Lösungsbereich könnte so eingeschränkt werden:
+The solution area to be trained could be restricted as follows:
 
-* Ausgangspunkt ist eine Fechtstellung im Rahmen der gültigen Parameter oder einer Position, die aus regelkonformen Aktionen erreicht werden kann.
-* Ziel ist es, mit der Spitze der eigenen Waffe einen entfernten Punkt möglichst schnell zu treffen.
-* Dabei soll der vordere Fuß explosionsartig weiter nach vorne gebracht werden.
-* Dabei soll kein Überkreuzen der Füße erfolgen, und die Bewegung soll danach beendet sein. (Abgrenzung zum Fléche und zum Säbel-spezifischen „Flunge“)
+* The starting point is a fencing position within the valid parameters or a position that can be achieved through actions that comply with the rules.
+* The goal is to hit a distant target as quickly as possible with the tip of your weapon.
+* The front foot should be brought forward explosively.
+* The feet should not cross, and the movement should be completed afterwards. (Distinction from the flèche and the saber-specific "flunge")
 
-Alle anderen Parameter sollen Teil der zu trainierenden Variationen sein. Das betrifft insbesondere, aber nicht ausschließlich: die Reihenfolge der Arm- und Beinbewegung; die Beschleunigung/Verzögerung bei der Ausführung; die Fußstellung vor, während und nach der Ausführung; die Arm- und Handlage während der Ausführung. Dabei ist besonders bei der Vorgabe der Fußstellung darauf zu achten, dass Verletzungs-treibende Vorgaben unterbleiben (bspw. darf das Knie nicht nach innen fallen).
+All other parameters should be part of the variations to be trained. This applies in particular, but not exclusively, to: the sequence of arm and leg movements; acceleration/deceleration during execution; foot position before, during, and after execution; arm and hand position during execution. When specifying the foot position, it is particularly important to ensure that instructions that could cause injury are not given (e.g., the knee must not fall inward).
 
-Der Ausfall kann auch mit Partnerübung trainiert werden. Dort ist auch die Reaktion auf gegnerische Störungen während des Ausfalls trainierbar.
+The failure can also be trained with a partner exercise. There, you can also practice how to react to interference from opponents during the outage.
 
-Details zur Koordination zwischen Arm und Bein beim Ausfall sind unter "Stoß- und Treffbewegung" zu finden.
+Details on coordinating your arm and leg during the lunge can be found under "Punching and striking movements."
