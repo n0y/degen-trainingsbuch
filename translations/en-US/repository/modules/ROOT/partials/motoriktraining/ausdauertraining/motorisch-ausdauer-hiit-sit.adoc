@@ -1,169 +1,169 @@
-= Trainingsplan: Kombination HIIT/SIT
-:keywords: uebung
-:uebung-group: Ausdauertraining
+= Training plan: HIIT/SIT combination
+:keywords: exercise
+:uebung-group: endurance training
 
 ifndef::ownpage[]
 
-xref:page$practices/motoriktraining/ausdauertraining/motorisch-ausdauer-hiit-sit.adoc[Nur diese Übung]
+xref:page$practices/motor skills training/endurance training/motor endurance hiit sit.adoc[Only this exercise]
 
 endif::[]
 
-Folgender Trainingsplan, basierend auf
+The following training plan, based on
 
 include::partial$gen/bibliography.adoc[tag=RKNGW]
-(34), nutzt abwechselndes hochintensives Intervalltraining und Sprint-Intervalltraining.
+(34), uses alternating high-intensity interval training and sprint interval training.
 
-Der "normale Lauf" (ohne Angabe) in der Einheit bezieht sich auf 95% der Geschwindigkeit eines 6-Minuten-Laufs, die am Anfang der Mehr-Wochen-Einheit ermittelt wird. Je nach Ausstattung kann dabei die Geschwindigkeit oder die (besser) die Herzfrequenz als Vorgabe dienen.
+The "normal run" (no specification) in the unit refers to 95% of the speed of a 6-minute run, which is determined at the beginning of the multi-week unit. Depending on the equipment, speed or (better) heart rate can be used as a guideline.
 
-Die "Sprint"-Einheiten werden immer mit maximal möglicher Geschwindigkeit gelaufen.
+The "sprint" units are always run at maximum possible speed.
 
 [cols="1,4,1,1"]
 |===
-|Einheit |Beschreibung |Art |Dauer
+|unit |Description |Type |duration
 
 |1
-|* 2 Wiederholungen:
-** 10 mal:
-*** 30 s Lauf
-*** 30 s Pause
-** Serienpause: 3:30 min
+|* 2 repetitions:
+** 10 times:
+*** 30-second run
+*** 30-second break
+** Series break: 3:30 min
 |HIIT
-|22:30 min
+|10:30 p.m.
 
 |2
-|* 4 Wiederholungen
-** 4 min Lauf
-** 3 min Pause
+|* 4 repetitions
+** 4-minute run
+** 3-minute break
 |HIIT
 |24 min
 
 |3
-|* 2 Wiederholungen:
-** 8 mal:
-*** 8 s Sprint
-*** 15 s Pause
-** 3 min Serienpause
+|* 2 repetitions:
+** 8 times:
+*** 8-second sprint
+*** 15-second break
+** 3-minute break in the series
 |SIT
 |9:40 min
 
 |4
-|* 7 Wiederholungen:
-** 2 min Lauf
-** 2 min Pause
+|* 7 repetitions:
+** 2 min run
+** 2-minute break
 |HIIT
 |26 min
 
 |5
-|* 3 Wiederholungen:
-** 10 mal:
-*** 30 s Lauf
-*** 20 s Pause
-** 3:30 min Serienpause
+|* 3 repetitions:
+** 10 times:
+*** 30-second run
+*** 20-second break
+** 3:30 min series break
 |HIIT
 |27:50 min
 
 |6
-|* 4 Wiederholungen
-** 4 min Lauf
-** 3 min Pause
+|* 4 repetitions
+** 4-minute run
+** 3-minute break
 |HIIT
 |24 min
 
 |7
-|* 2 Wiederholungen:
-** 8 mal:
-*** 8 s Sprint
-*** 15 s Pause
-** 3 min Serienpause
+|* 2 repetitions:
+** 8 times:
+*** 8-second sprint
+*** 15-second break
+** 3-minute break in the series
 |SIT
 |9:40 min
 
 |8
-|* 7 Wiederholungen:
-** 1 min Lauf
-** 1 min Pause +
-* 3 min Serienpause +
-* 6 Wiederholungen:
-** 30 s Lauf
-** 1 min Pause
+|* 7 repetitions:
+** 1 min run
+** 1-minute break +
+* 3-minute series break +
+* 6 repetitions:
+** 30-second run
+** 1-minute break
 |HIT
 |25 min
 
 |
-|*4-6 Tage Pause*
+|*4-6 days break*
 |
 |
 
 |9
-|* 4 Wiederholungen
-** 4 min Lauf
-** 3 min Pause
+|* 4 repetitions
+** 4-minute run
+** 3-minute break
 |HIIT
 |24 min
 
 |10
-|* 2 Wiederholungen:
-** 8 mal:
-*** 8 s Sprint
-*** 15 s Pause
-** 3 min Serienpause
+|* 2 repetitions:
+** 8 times:
+*** 8-second sprint
+*** 15-second break
+** 3-minute series break
 |SIT
 |9:40 min
 
 |11
-|* 10 Wiederholungen:
-** 10 mal:
-*** 40 s Lauf
-*** 20 s Pause
-** 4 min Serienpause
+|* 10 repetitions:
+** 10 times:
+*** 40-second run
+*** 20-second break
+** 4-minute break in the series
 |HIIT
-|23:20 min
+|11:20 p.m.
 
 |12
-|* 2 Wiederholungen:
-** 8 mal:
-*** 8 s Sprint
-*** 15 s Pause
-** 3 min Serienpause
+|* 2 repetitions:
+** 8 times:
+*** 8-second sprint
+*** 15-second break
+** 3-minute break in the series
 |SIT
 |9:40 min
 
 |13
-|* 4 Wiederholungen
-** 4 min Lauf
-** 3 min Pause
+|* 4 repetitions
+** 4-minute run
+** 3-minute break
 |HIIT
 |24 min
 
 |14
-|* 2 Wiederholungen:
-** 8 mal:
-*** 8 s Sprint
-*** 15 s Pause
-** 3 min Serienpause
+|* 2 repetitions:
+** 8 times:
+*** 8-second sprint
+*** 15-second break
+** 3-minute series break
 |SIT
 |9:40 min
 
 |15
-|* 3 Wiederholungen:
-** 10 mal:
-*** 15 s Sprint
-*** 20 s Pause
-** 3 min Serienpause
+|* 3 repetitions:
+** 10 times:
+*** 15-second sprint
+*** 20-second break
+** 3-minute break in the series
 |HIIT
 |23 min
 
 |16
-|* 2 Wiederholungen:
-** 8 mal:
-*** 8 s Sprint
-*** 15 s Pause
-** 3 min Serienpause
+|* 2 repetitions:
+** 8 times:
+*** 8-second sprint
+*** 15-second break
+** 3-minute break in the series
 |SIT
 |9:40 min
 
 |
-|*3-5 Tage Pause*
+|*3-5 days break*
 |
 |
 |===
