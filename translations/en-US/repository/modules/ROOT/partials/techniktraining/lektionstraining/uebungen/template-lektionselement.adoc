@@ -1,21 +1,21 @@
-= Titel
+= Title
 
-Lektionslänge ca. x Minuten.
+Lesson length approx. x minutes.
 
-.Zweck der Lektion
+.Purpose of the lesson
 * xyz
 
-Zufällig aus diesen Aufgaben auswählen, bis Lektionslänge erreicht.
+Select randomly from these tasks until the lesson length is reached.
 
-* Bewegungsausführung
-** Anfangs-, Endbedingungen
-** räumliche Ausführung
-** räumlich-zeitliche Ausführung (Geschwindigkeit)
-** dynamische Ausführung (Beschleunigung)
-** zeitliche Ausführung (Rhythmus)
-** Umfang
-** Dauer
-* Sinneswahrnehmungen (Einschränkungen, Verstärkung)
-* Materialien, Geräte
-* Untergrund, Gelände
-* Rahmenbedingungen, Regeln
+* movement execution
+** Initial and final conditions
+** spatial design
+** spatial-temporal execution (speed)
+** dynamic execution (acceleration)
+** temporal execution (rhythm)
+** scope
+** duration
+* Sensory perceptions (limitations, amplification)
+* Materials, equipment
+* Subsoil, terrain
+* Framework conditions, rules
