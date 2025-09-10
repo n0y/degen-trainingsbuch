@@ -1,124 +1,124 @@
-= Trainingsplan Stoß-Oberschenkel
-:keywords: uebung
-:uebung-group: Trainingspläne
+= Training plan for thigh thrusts
+:keywords: exercise
+:uebung-group: training plans
 
 ifndef::ownpage[]
 
-xref:page$practices/trainingsplanung/trainingsplaene/90min/2019-20_90-7a.adoc[Nur diese Übung]
+xref:page$practices/training-planning/training-plans/90min/2019-20_90-7a.adoc[This exercise only]
 
 endif::[]
 
-Dauer: 90 min
+Duration: 90 min
 
-Materialien: Langbänke o.ä.
+Materials: Long benches or similar
 
 [cols="8,.^1"]
 |===
-a|=== Aufwärmen
+a|=== warm up
 |*15 min*
 
-a|==== Borg-Fangen
+a|==== Borg catching
 
-Quelle:
+Source:
 
 include::partial$gen/bibliography.adoc[tags=GIFI]
-, S. 49
+, p. 49
 
-(Benannt nach der kybernetischen Bedrohung aus der Star Trek-Serie).
+(Named after the cybernetic threat from the Star Trek series).
 
-Eine Spieler:in beginnt als der _Borg_ und ist mit einem weichen Ball bewaffnet. Sie versucht, die anderen Spieler:innen zu markieren (Mitglieder der „Föderation“) und assimilieren sie in das Borg-Team.
+One player starts as the Borg and is armed with a soft ball. She attempts to mark the other players (members of the "Federation") and assimilate them into the Borg team.
 
-Dieses Spiel ist ein Kombination aus Tag und Völkerball.
+This game is a combination of tag and dodgeball.
 
-Eine Spieler:in wird als Borg ausgewählt und erhält einen Schaumball/Softball.
+One player is selected as the Borg and receives a foam ball/softball.
 
-Borgs dürfen nur 5 Schritte machen, während sie den Ball halten (kein Dribbeln usw.).
+Borgs may only take 5 steps while holding the ball (no dribbling, etc.).
 
-Die Nicht-Borg tragen einen Fechthandschuh, eine Mütze oder ein anderes einfaches Kleidungsstück, das sie identifiziert.
+The non-Borg wear a fencing glove, a cap, or another simple piece of clothing that identifies them.
 
-Die Borg werfen den Ball, um die Nicht-Borg-Spieler zu assimilieren. Diejenigen, die markiert assimiliert sind, legen ihren Handschuh ab und treten Sie dem Borg-Team bei.
+The Borg throw the ball to assimilate the non-Borg players. Those who are marked as assimilated remove their gloves and join the Borg team.
 
-Die Gewinner:in ist die letzte verbleibende Nicht-Borg.
-|10 Min
+The winner is the last remaining non-Borg.
+|10 min
 
-a|==== Trinken
-|5 Min
+a|==== Drinking
+|5 min
 
-a|=== Partner-Übung
+a|=== Partner exercise
 |*20 min*
 
-a|==== Direkter Stoß Oberschenkel
+a|==== Direct kick to the thigh
 
-Organisation: Gasse
+Organization: Alley
 
-A - Lehrer, B - Schüler +
-Hinweis: Trainer kommunizieren nur mit A
+A - Teacher, B - Student +
+Note: Trainers only communicate with A.
 
-1. Aufstellung: weite Mensur, beide in 6
-1. A bewegt sich gleichmäßig rückwärts, mittleres Tempo
-1. B folgt, holt auf
-1. B: Linie auf Körper innen, mittig
-1. B: Ausfall, dabei Änderung des Ziels: Treffer Oberschenkel
-1. B: Absicherung HK-6
-1. Danach Wechsel, jeder 10x
+1. Lineup: wide gauge, both in 6
+1. A moves backward at a steady pace, medium speed
+1. B follows, catches up
+1. B: Line on body inside, centered
+1. B: Failure, with change of target: hit in the thigh
+1. B: HK-6 protection
+1. Then switch, each 10 times
 
-Körperhaltung, Handhaltung, Ausführungsgeschwindigkeit
+Posture, hand position, speed of execution
 
-Dabei darauf achten, dass die Änderung des Ziels erst während des Ausfalls erfolgt
+Make sure that the change of destination only takes place during the outage.
 
-Augenmerk auf Geschwindigkeit, Genauigkeit kommt später.
+Focus on speed; accuracy comes later.
 |*10 min*
 
-a|==== Stoß Oberschenkel als Kavation
+a|==== Thigh bump as cavitation
 
-* 1 bis 4 wie oben
-* A: 4-Schlagparade, Riposte Körper
-* B: Gegen Parade: Kavation unten, Stoß Oberschenkel
-* B: Absicherung HK-6
-* Danach Wechsel, jeder 10x
+* 1 to 4 as above
+* A: 4-stroke parry, riposte to the body
+* B: Against parade: cavation below, thrust thigh
+* B: HK-6 protection
+* Then switch, each 10 times
 
-Beschleunigung, Schrittweite, Schlagstärke
-|10 Min
+Acceleration, stride length, stroke strength
+|10 min
 
-a|=== Trinken, Umziehen, Aufbauen
-|*15 Min*
+a|=== Drink, change clothes, set up
+|*15 min*
 
-a|=== Elektrische Übungsgefechte
-|*35 Min*
+a|=== Electric practice battles
+|*35 min*
 
-a|==== Fechten mit Fechtaufgabe
+a|==== Fencing with fencing task
 
-H: Fechter Hallenseite, W: Fechter Wandseite
-* Aufgabe Wandseite: Treffen mit Parade, Riposte Körper
-* Aufgabe Hallenseite: Treffen direkt oder mit Fintangriffen (egal welche)
-|5x 2 Min
+H: Fencer hall side, W: Fencer wall side
+* Task wall side: Meeting with parade, riposte body
+ Task on the hall side: Score directly or with finta attacks (any kind).
+|5 times 2 minutes
 
-a|==== freie Übungsgefechte |25 Min
+a|==== free practice matches |25 min
 
-a|==== Parallel: Lektionieren
+a|==== Parallel: Lesson planning
 
-Verteidigung gegen schnelle Bindungsangriffe +
-Ziel: Umgehungs-Gegenangriff
+Defense against fast binding attacks +
+Goal: Bypass counterattack
 
-.Durchführung
-* Schnelle Angriffe mit verschiedenen Bindungen durchführen, Schüler verteidigt
-* 4-Bindung → Kreis-6, Stoß Körper oben/außen mit Opposition 6
-* 6-Bindung → Kreis-4, Stoß Körper oben/innen mit Oppositon 4
-* 5-Bindung → Kavation nach oben, Arrêt zum inneren Schulterblatt
-* 8-Bindung → wie oben
-* 1-Bindung → Kreis-1, Arrêt zum inneren Schulterblatt
+.Implementation
+* Perform quick attacks with different grips, student defends
+* 4-bond → Circle 6, push body up/out with opposition 6
+* 6-bond → Circle-4, push body up/inside with opposition 4
+* 5-bond → upward cavitation, arrest to the inner shoulder blade
+* 8-bond → as above
+* 1-Binding → Circle-1, Arrêt to the inner shoulder blade
 
 //-
 
-.Für Profis:
-* Bindung 5/Übertragung-6 → Abstreif-Coupé
-* Wurfstoß Oberarm
-* Absicherung Arrêt Körper
-|35 Min
+.For professionals:
+* Binding 5/Transfer 6 → Stripping coupe
+* Throw thrust upper arm
+* Protection Arrêt Body
+|35 min
 
-a|=== Abbauen
-|10 Min
+a|=== Dismantling
+|10 min
 
-a|=== Dehnen
-|5 Min
+a|=== Stretching
+|5 min
 |===
