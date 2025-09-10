@@ -1,60 +1,60 @@
-= Trainingsplan: Erhöhung der VO~2~max
-:keywords: uebung
-:uebung-group: Ausdauertraining
+= Training plan: Increasing VO₂ max
+:keywords: exercise
+:uebung-group: endurance training
 
 ifndef::ownpage[]
 
-xref:page$practices/motoriktraining/ausdauertraining/motorisch-ausdauer-vo2max.adoc[Nur diese Übung]
+xref:page$practices/motor-training/endurance-training/motor-endurance-vo2max.adoc[Only this exercise]
 
 endif::[]
 
-Für Ausdauerleistungen ist die maximale Sauerstoffaufnahme-Kapazität (VO~2~max) eine entscheidende Größe. Sie lässt sich zum Beispiel durch den _Cooper-Test_ messen; dort wird ein Lauf über 12 Minuten auf maximal erreichbare Distanz absolviert.
+Maximum oxygen uptake capacity (VO2 max) is a decisive factor for endurance performance. It can be measured, for example, using the Cooper test, which involves running for 12 minutes to cover the maximum distance possible.
 
-Mit diesem Trainingsplan lässt sich aus einem bereits guten Fitness-Stand die VO~2~max in 12 Wochen um etwa 10% erhöhen. Ist der Fitness-Stand noch nicht so gut, dann kann die Steigerung auch prozentual höher ausfallen.
+With this training plan, you can increase your VO2 max by about 10% in 12 weeks from an already good fitness level. If your fitness level is not yet very good, the increase can also be higher in percentage terms.
 
-Zuerst ist die aktuelle Leistungsfähigkeit zu ermitteln. Dazu führt die Athlet:in einen maximalen 12-Minuten-Lauf durch und misst die Distanz: für dieses Beispiel 3000m.
+First, the current performance must be determined. To do this, the athlete runs for a maximum of 12 minutes and measures the distance: in this example, 3000m.
 
-Aus den gemessenen Werten werden folgende vier Trainings-Sessions abgeleitet:
+The following four training sessions are derived from the measured values:
 
 [cols="1,3,2"]
 |===
-|Session |Berechnung |Beispiel 3000m
+|session |calculation |Example 3000m
 
-|Sonntag
-|(gemessene Distanz * 4) in 56min
-|12km in 56 Minuten
+|Sunday
+|(measured distance * 4) in 56 min
+|12 km in 56 minutes
 
-|Dienstag
-|gemessene Rundenzeit = 400m * 720s / gemessene Distanz +
-Zeitvorgabe = gemessene Rundenzeit / 2  + 8s +
+|Tuesday
+|Measured lap time = 400m * 720s / measured distance +
+Time limit = measured lap time / 2 + 8s +
  +
-Laufe 200m innerhalb der Zeitvorgabe, dann 90s Pause +
-Wiederholen mit Pausenzeiten 75s, 60s, 45s, 30s, 15s +
+Run 200m within the time limit, then take a 90s break +
+Repeat with break times of 75s, 60s, 45s, 30s, 15s +
  +
-Alle wiederholen solange bis Zeitvorgabe nicht eingehalten werden kann
-a|gem. Rundenzeit = 400m*720s / 3000m = 96s +
-Zeitvorgabe = 96s/2 + 8s = 56s +
+Repeat all until the time limit cannot be met.
+a|according to Lap time = 400m*720s / 3000m = 96s +
+Time limit = 96s/2 + 8s = 56s +
 
-1. 200m in 56s + 90s Pause
-1. 200m in 56s + 75s Pause
-1. 200m in 56s + 60s Pause
-1. 200m in 56s + 45s Pause
-1. 200m in 56s + 30s Pause
-1. 200m in 56s + 15s Pause
-1. 200m in 56s + 90s Pause
-1. 200m in 56s + 75s Pause
-1. 200m in 56s + 60s Pause
-1. 200m in 56s + 45s Pause
-1. 200m in 56s + 30s Pause
-1. 200m in 1:05min - Ende
+1. 200m in 56s + 90s break
+1. 200m in 56s + 75s break
+1. 200m in 56s + 60s break
+1. 200m in 56s + 45s break
+1. 200m in 56s + 30s break
+1. 200m in 56s + 15s break
+1. 200m in 56 seconds + 90-second break
+1. 200m in 56s + 75s break
+1. 200m in 56s + 60s break
+1. 200m in 56s + 45s break
+1. 200m in 56s + 30s break
+1. 200m in 1:05min - End
 
-|Donnerstag
-|(gemessene Distanz * 2) in 27 Minuten
-|1x 6000m in 27 Minuten
+|Thursday
+|(measured distance * 2) in 27 minutes
+|1x 6000m in 27 minutes
 
-|Samstag
-|4x (gemessene Distanz / 2) in 6 Minuten, 60 Sekunden Pause
-|4x 1500m mit 60s Pause
+|Saturday
+|4x (measured distance / 2) in 6 minutes, 60-second break
+|4x 1500m with 60-second breaks
 |===
 
-Dieser Trainingsplan wird immer für 8 bis 12 Wochen gelaufen. Er soll sich dann mit Trainingsplänen für das Sprint-Intervall-Training (oder das HIIT) abwechseln.
+This training plan is always run for 8 to 12 weeks. He should then alternate with training plans for sprint interval training (or HIIT).
