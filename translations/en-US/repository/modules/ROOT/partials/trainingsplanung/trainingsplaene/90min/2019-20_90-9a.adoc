@@ -1,119 +1,119 @@
-= Trainingsplan Beinarbeit und Fechtaufgaben
-:keywords: uebung
-:uebung-group: Trainingspläne
+= Training plan for footwork and fencing exercises
+:keywords: exercise
+:uebung-group: training plans
 
 ifndef::ownpage[]
 
-xref:page$practices/trainingsplanung/trainingsplaene/90min/2019-20_90-9a.adoc[Nur diese Übung]
+xref:page$practices/training-planning/training-plans/90min/2019-20_90-9a.adoc[Only this exercise]
 
 endif::[]
 
-Dauer: 90 min
+Duration: 90 min
 
-Materialien: Langbänke, Tennisbälle, Rundholzstäbe
+Materials: Long benches, tennis balls, round wooden sticks
 
 [cols=".^8,.^1"]
 |===
-a|=== Aufwärmen
+a|=== warm up
 |*20 min*
 
-a|==== Aufwärmen mit Bänken I
+a|==== Warming up with benches I
 
-Die Fechter stehen in zwei Gruppen ein halbes Volleyballfeld entfernt von der Sprossenwand.
+The fencers stand in two groups half a volleyball court away from the wall bars.
 
-Vor ihnen (im Weg) zwei Bänke, die erste (nähere) umgedreht.
+In front of them (in the way) are two benches, the first (closer one) turned upside down.
 
-Der jeweils erste hat eine Maske in der Hand.
+The first person in each case has a mask in their hand.
 
-.Aufgabe:
-* Der ERSTE läuft los
-* unter der ersten Bank durch
-* über die zweite Bank drüber
-* und hängt die Maske auf die unterste Sprosse
-* Der ZWEITE genauso, hängt die Maska aber eine Sprosse höher
+.Task:
+* The FIRST one is starting
+* under the first bench
+* over the second bench
+* and hangs the mask on the lowest rung
+* The SECOND one is the same, but the mask hangs one rung higher.
 
-Gewonnen hat das Team, bei dem die Maske als erstes ganz oben hängt.
-|8 Min
+The team whose mask is the first to hang at the top wins.
+|8 min
 
-a|==== Aufwärmen mit Bänken II
+a|==== Warming up with benches II
 
-Quelle:
+Source:
 
 include::partial$gen/bibliography.adoc[tags=ErlFe]
-, S. 64
+, p. 64
 
-Die Fechter stehen vor drei hintereinander gestellten Bänken in einer Reihe. Nach jedem Überwinden der Bänke laufen sie seitlich zurück und schließen sich in der Reihe wieder hinten an.
+The fencers stand in a row in front of three benches placed one behind the other. After each time they get over the benches, they run back sideways and rejoin the line at the back.
 
-Überwindungsmöglichkeiten können sein:
+Possible ways to overcome this include:
 
-* Krabbeln über die Bänke
-* Bankziehen in der Bauchlage
-* Beidbeinige Hocksprünge
-* Einbeiniges Überspringen (links stehen, hoch hüpfen, 2x nach vorne, rechts runter)
-|7 Min
+* Crawling across the benches
+* Pull-ups in the prone position
+* Two-legged squat jumps
+* One-legged jump (stand on left leg, jump up, 2x forward, land on right leg)
+|7 min
 
-a|==== Trinken
-|5 Min
+a|==== Drinking
+|5 min
 
-a|=== Beinarbeit
+a|=== footwork
 
-Immer folgende Schrittfolge durchführen:
+Always perform the following sequence of steps:
 
-* Vorwärts:
-** drei Schritte vor
-** zwei zurück
-** zwei vor
-** Ausfall / Nachsetzen
-* Rückwärts:
-** drei Schritte zurück
-** zwei vor
-** zwei zurück
-** Ausfall / Stellung
+* Forward:
+** three steps ahead
+** two back
+** two before
+** Failure / Follow-up
+* Backwards:
+** three steps back
+** two before
+** two back
+** Failure / Position
 
-mit folgenden Varianten (jede nur 1x):
+with the following variants (each only once):
 
-* vorderen Fuß 90° nach innen gedreht (beide Füße parallel)
-* ganz tief unten, fast im Entengang
-* mit kreisenden Armen
-* schräg stehend (ganze Stellung 45° gedreht nach innen)
-* mit gestreckten Knien und Oberkörper weit nach hinten gelehnt
-* möglichst weit nach vorne gelehnt
-* mit dem vorderen Fuß möglichst lange in der Luft
-* ohne die Füße zu heben
-* mit schwankendem Oberkörper (hoch und runter) und Armen
-* mit Zickzack (Richtungswechsel bei jedem Schritt)
-* mit Gewicht auf dem vorderen Fuß und hinken mit dem hinteren
-* bei jedem zweiten Schritt in die Hocke und Arme über den Kopf halten
-* bei jeder Bewegung: abwechselnd vor und hinter dem Körper klatschen
-* in Schrittstellung (hinterer Fuß zeigt nach vorne) und komplett gedrehtem Oberkörper
-* Oberkörper geht zuerst, dann die Füße hinterher
+* Front foot turned 90° inward (both feet parallel)
+* way down below, almost at duck level
+* with circling arms
+* inclined (entire position rotated 45° inward)
+* with knees straight and upper body leaning far back
+* leaning as far forward as possible
+* with the front foot in the air for as long as possible
+* without lifting your feet
+* with swaying upper body (up and down) and arms
+* with zigzag (change of direction with every step)
+* with weight on the front foot and limping with the back foot
+* Squat down every other step and hold your arms above your head.
+* With each movement: clap alternately in front of and behind the body.
+* in a step position (back foot pointing forward) and with the upper body completely turned
+* Upper body goes first, then the feet follow
 |*10 min*
 
-a|=== Trinken, Umziehen, Aufbauen
-|*15 Min*
+a|=== Drink, change clothes, set up
+|*15 min*
 
-a|=== Fechten mit Fechtaufgabe
+a|=== Fencing with fencing task
 
-Die Hallenseite ist Angreifer.
+The hall side is the attacker.
 
-.Aufgabe
-* Angreifer soll einen Treffer setzen
-* Verteidiger soll eine komische Aktion machen, z.B.:
-** wild nach rechts und links hüpfen
-** mit der Waffe wedeln
-** kurz vor dem Treffen wegrennen
-** in die Hocke gehen
-** dauernd auf die gegnerische Waffe schlagen
-** mit der Waffe über dem Kopf stehen
-** auf einem Bein hüpfen
-* Danach tauschen, bis jeder fünfmal angegriffen hat
+.task
+* Attacker must score a hit
+* Defender should do something funny, e.g.:
+** jump wildly to the right and left
+** wave a gun around
+** run away just before the meeting
+** squat down
+** constantly hitting the opponent's weapon
+** stand with the weapon above your head
+** hop on one leg
+* Then swap until everyone has attacked five times.
 
-Sobald das jeder gegen zwei andere gemacht hat, wird ab dann normal frei gefochten.
-|*20 Min*
+Once everyone has done this against two others, normal free fencing begins.
+|*20 min*
 
-a|=== Parallel: Einzellektionen
-|*20 Min*
+a|=== Parallel: Individual lessons
+|*20 min*
 
-a|=== Abbauen
-|10 Min
+a|=== Dismantling
+|10 min
 |===
