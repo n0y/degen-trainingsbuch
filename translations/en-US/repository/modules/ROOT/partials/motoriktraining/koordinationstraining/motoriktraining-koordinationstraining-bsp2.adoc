@@ -1,31 +1,31 @@
-= Übung: Koordinationsübung freie Angriffe - Wettkampfform
-:keywords: uebung
-:uebung-group: Koordination
+= Exercise: Coordination exercise for free attacks - competition form
+:keywords: exercise
+:uebung-group: coordination
 
 ifndef::ownpage[]
 
-xref:page$practices/motoriktraining/koordinationstraining/motoriktraining-koordinationstraining-bsp2.adoc[Nur diese Übung]
+xref:page$practices/motor skills training/coordination training/motor skills training coordination training-example2.adoc[This exercise only]
 
 endif::[]
 
-Freie Angriffe mit Druckvorgabe: Bewegungszeit
+Free attacks with pressure specification: Movement time
 
-Hinweis: die Übung kann auch mit jeder anderen, einfachen Aktion durchgeführt werden.
+Note: the exercise can also be performed with any other simple action.
 
-3er-Gruppen
+groups of three
 
 .Material
-* Fechtmelder, einer pro Gruppe
-* ggf. Startmarkierungen (Hütchen oder Klebeband)
+* Fencing announcer, one per group
+* Start markers (cones or tape), if necessary
 
-Pro Gruppe: Beide Rollen auf die gleiche Seite stellen. Melder so anschließen, dass Rechts/Links zu den Rollen passt.
+Per group: Place both rolls on the same side. Connect the detector so that right/left matches the rollers.
 
-Startlinien markieren in zwei Meter Abstand. Endlinie 7m hinter der Startlinie.
+Mark the starting lines two meters apart. Finish line 7m behind the start line.
 
-Es wird zwei gegen eins gefochten. Fechter:in A und B sind jeweils an die Rollen angeschlossen und starten nebeneinander. Fechter:in C (nicht angeschlossen) steht zwei Meter entfernt.
+It is fought two against one. Fencers A and B are connected to the roles and start next to each other. Fencer C (not connected) stands two meters away.
 
-Auf Signal von C (z.B. Ruf, Waffe heben, Schritt vor) dürfen A und B frei angreifen.
+At a signal from C (e.g., call, raise weapon, step forward), A and B may attack freely.
 
-Nach jedem Treffer (Doppeltreffer sind in Ordnung) wird neu aufgestellt.
+After each hit (double hits are allowed), the players are repositioned.
 
-Es wird auf fünf Treffer gefochten und dann in der Gruppe rotiert. Danach neue Einteilung mit Gewinner:innen und den anderen.
+The match is played to five hits, and then the group rotates. After that, a new division with the winners and the others.
