@@ -1,21 +1,21 @@
-= Training der Körperbewegungen im Fechtsport
+= Training body movements in fencing
 
-Für das Training von Körperhaltung und Körperbewegung im Fechtsport ergeben sich eine Reihe von Problemen. Zum einen fällt auf, dass bereits die Grundstellung, wie sie klassisch bspw. in
+Training posture and body movement in fencing presents a number of problems. On the one hand, it is striking that even the basic position, as classically described, for example, in
 
 include::partial$gen/bibliography.adoc[tag=BBFTD]
-gelehrt wird, bei der Auswertung von Top-Athleten nicht vorzufinden ist.
+is taught, but is not found in the evaluation of top athletes.
 
-Verschiedene „Stile“ resultieren bei allen Fechtern in sehr unterschiedlichen Lösungen bezüglich Kraft, Geschwindigkeit, Beschleunigung, Haltung und Energieaufwand
+Different "styles" result in very different solutions for all fencers in terms of strength, speed, acceleration, posture, and energy expenditure.
 
 include::partial$gen/bibliography.adoc[tag=SFIPIP]
-. Diese sind nicht nur abhängig von Anthropometrie und Trainingsstand, sondern immer auch von konkreten fechterischen Situationen, die einer angepassten Lösung bedürfen.
+. These depend not only on anthropometry and training level, but also on specific fencing situations that require an adapted solution.
 
-Besonders für Heranwachsende ist das Bewegungstraining einer Herausforderung, da sich ständig änderne Hebel, Proportionen und Kraftverhältnisse eine ständige Anpassung der notwendigen Technik bedingen.
+Physical training is particularly challenging for adolescents, as constantly changing leverage, proportions, and power ratios require constant adaptation of the necessary technique.
 
-Ziel des Trainings der Körperbewegungen muss deswegen immer sein, dem Athleten Stabilität bei der Anpassung und Adaption seiner Bewegungen an neue Situationen zu ermöglichen.
+The goal of physical movement training must therefore always be to enable athletes to stabilize themselves as they adjust and adapt their movements to new situations.
 
-include::partial$techniktraining/koerperbewegungen/beinarbeit.adoc[leveloffset=+1]
+include::partial$techniktraining/body-movements/footwork.adoc[leveloffset=+1]
 
-== Meidbewegungen
+== evasive movements
 
-== Körpertäuschungen
+== body deceptions
