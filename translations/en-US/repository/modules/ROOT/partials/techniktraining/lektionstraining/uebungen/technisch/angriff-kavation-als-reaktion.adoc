@@ -1,53 +1,53 @@
-= Angriffe mit Kavation als Reaktion gegen Parade
-:keywords: uebung
-:uebung-group: Lektionen
+= Attacks with cavitation as a response to parries
+:keywords: exercise
+:uebung-group: lessons
 
 ifndef::ownpage[]
 
-xref:page$practices/techniktraining/lektionstraining/uebungen/technisch/angriff-kavation-als-reaktion.adoc[Nur diese Übung]
+xref:page$practices/technical-training/lesson-training/exercises/technical/attack-cavitation-as-a-reaction.adoc[Only this exercise]
 
 endif::[]
 
-Lektionslänge ca. x Minuten.
+Lesson length approx. x minutes.
 
-.Zweck der Lektion
-* Mensurverhalten für zusammengesetzte Angriffe
-* Beobachtung möglicher gegnerischer Reaktionen
-* Situationsangemessene Ausführung der Kavation
+.Purpose of the lesson
+* Mensur behavior for combined attacks
+* Observation of possible enemy reactions
+* Situational execution of the cavitation
 
 //-
 
-.Aufgabenstellung
-. Athlet:in bewegt sich frei auf der Bahn, Trainer:in folgt und hält mittlere Mensur, beide in Oktav
-. Trainer:in öffnet die Mensur
-. sobald weite Mensur erreicht wird, beginnt die Athlet:in einen direkten Angriff zur Brust mit Sprung vor/ Ausfall
-. Trainer:in reagiert mit hoher Halbkreis-Terz-Parade/ Riposte
-. Athlet:in umgeht die Parade (Kavation) und trifft, bevor die Riposte ihr Ziel erreicht
+.task
+. Athlete moves freely on the track, coach follows and maintains medium distance, both in octave
+. Trainer opens the Mensur
+. As soon as a wide distance is reached, the athlete begins a direct attack to the chest with a jump forward/lunge.
+. Trainer reacts with a high semicircle third parry/riposte
+. Athlete dodges the parry (kavation) and strikes before the riposte reaches its target.
 
-Zufällig aus diesen Aufgaben auswählen, bis Lektionslänge erreicht.
+Select randomly from these tasks until the lesson length is reached.
 
-* Variation Bewegungsausführung / räumliche Ausführung
-** Unterschiedliche Paraden (mit Ansage), z.B. Sixt, Quart, Oktav, Prim
-** Auswahl der Paraden (Ansage der Möglichkeiten)
-** Treffen in neuer Blöße: z.B. Brust-Oberschenkel, Fuß-Brust, Hand-Maske
-* Variation Bewegungsausführung: Geschwindigkeit
-** Ausführung besonders schnell, in Zeitlupe
-* Variation Bewegungsausführung: Beschleunigung
-** Steigern oder Verlangsamen der Bewegung
-** Warten auf die Parade
-* Variation Sinneswahrnehmung
-** z.B. im Halbdunkel, mit hellem/ dunklen Hintergrund
-* Variation Materialien
-** z.B. gegen unbewaffnete Trainer:in; mit Mini-Degen; mit Handschuh
-* Bewegungsausführung
-** Anfangs-, Endbedingungen
-** räumliche Ausführung
-** räumlich-zeitliche Ausführung (Geschwindigkeit)
-** dynamische Ausführung (Beschleunigung)
-** zeitliche Ausführung (Rhythmus)
-** Umfang
-** Dauer
-* Sinneswahrnehmungen (Einschränkungen, Verstärkung)
-* Materialien, Geräte
-* Untergrund, Gelände
-* Rahmenbedingungen, Regeln
+* Variation in movement execution / spatial execution
+** Different parades (with announcement), e.g., sixth, fourth, octave, prime
+** Selection of parades (announcement of possibilities)
+** Encountering new vulnerability: e.g., chest-thigh, foot-chest, hand-mask
+* Variation in movement execution: speed
+** Execution particularly fast, in slow motion
+* Variation in movement execution: acceleration
+** Increasing or slowing down movement
+** Waiting for the parade
+* Variation in sensory perception
+** e.g., in semi-darkness, with light/dark background
+* Variation Materials
+** e.g., against unarmed trainer; with mini-épée; with glove
+* movement execution
+** Initial and final conditions
+** spatial design
+** spatial-temporal execution (speed)
+** dynamic execution (acceleration)
+** temporal execution (rhythm)
+** scope
+** duration
+* Sensory perceptions (limitations, amplification)
+* Materials, equipment
+* Subsoil, terrain
+* Framework conditions, rules
