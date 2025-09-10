@@ -1,48 +1,48 @@
-= Die Fechtstellung
+= The fencing stance
 
-Die Position, in der sich Fechter:innen in Ruheposition befinden, stellt bereits eine individuelle Lösung der Anforderungen der Gefechtssituation dar.
+The position in which fencers are in a resting position already represents an individual solution to the requirements of the combat situation.
 
-Sie ermöglicht es speziell, ohne Auftaktbewegung hohe horizontale Kraft auf den Boden in möglichst viele unterschiedliche Richtungen ausüben zu können. Dabei sind mögliche horizontale Beschleunigungen nach vorne und nach hinten von besonderem Interesse.
+It specifically enables high horizontal force to be exerted on the ground in as many different directions as possible without any preparatory movement. Possible horizontal acceleration forwards and backwards is of particular interest here.
 
-Zusätzlich soll bereits aus dem Stand eine große Treffer-Reichweite erzielt werden können, um vorgelagerte Trefflächen ohne Fußbewegung angreifen zu können und bei überraschenden Angriffen bessere Chancen auf einen Treffer mit Arrêt besteht.
+In addition, it should be possible to achieve a large range of hits from a standing position in order to attack forward target areas without moving your feet and to have a better chance of hitting with arrêt in the event of surprise attacks.
 
-Für Ausweichbewegungen ist eine hohe Hüftbeweglichkeit von Vorteil.
+High hip mobility is advantageous for evasive movements.
 
-Im Vergleich zur traditionellen Fechtstellung, bspw. in
+Compared to the traditional fencing stance, for example in
 
 include::partial$gen/bibliography.adoc[tag=ErlFe]
-, Kap 4.1, ergeben sich mehrere Möglichkeiten zur Anpassung, um die spezifischen Anforderungen im modernen Degenfechten angemessen zu erfüllen. Dabei ergeben sich für jede Anpassung jeweils Vorteile und Nachteile.
+, Chapter 4.1, there are several possibilities for adaptation in order to adequately meet the specific requirements of modern fencing. Each adjustment has its advantages and disadvantages.
 
-.Moderne Fechtstellung am Beispiel von https://en.wikipedia.org/wiki/Choi_In-jeong[Choi In-jeong]
+.https://en.wikipedia.org/wiki/Choi_In-jeongas an example of a modern fencing stance
 image::technik-fechtstellung.svg[Embedded,80%]
 
-Die wichtigsten Anpassungen, die bei vielen Fechtern im höheren Leistungsbereich sichtbar sind:
+The most important adjustments that are visible in many fencers at the higher performance level:
 
-* Der Fußabstand wird in vielen Fällen deutlich vergrößert. Zweieinhalb bis drei Fußlängen sind hier keine Seltenheit. Dieser Abstand verbessert den Winkel, mit dem der hintere Fuß Kraft auf den Boden überträgt. In Abhängigkeit vom Reibungskoeffizient zwischen Schuhsohle und Metallbahn liegt der optimale Winkel bei etwa 42°. Das ist in normalen Stellungen nicht ganz zu erreichen, sodass hier meist gilt: je mehr, desto besser. +
-_Vorteile:_ Bessere Kraftübertragung in beide Richtungen, höhere Standfestigkeit, bessere Balance +
-_Nachteile_: schnellere Ermüdung, Halbschritte erschwert
-* Speziell beim hinteren Fuß wird häufig die Ferse vom Boden gehoben. Bei großen Bodenwinkeln ist eine entspannte Haltung anders auch nicht möglich, weil das Ziel ist, die Wadenmuskeln im optimalen Arbeitsbereich zu halten. +
-_Vorteile:_ mehr Explosivität, einfachere Tempowechsel und taktische Täuschungen +
-_Nachteile:_ schnellere Ermüdung, Belastung Achillessehne & Wade (im Training zu beachten)
-* Der Oberkörper wird nach vorne geneigt, so dass der Körperschwerpunkt in einer Linie mit dem hinteren Bein liegt. Dadurch werden beim Beschleunigen vorwärts Torsionskräfte vermieden und eine exakte Spitzenführung vereinfacht. Zusätzlich wird der Körperschwerpunkt ein Stück weit nach vorne verschoben, um für Rückwärtsbewegungen die nötige Reibung auf dem vorderen Fuß erzeugen zu können. +
-_Vorteile_: mehr Explosivität, Provokation verfrühter Aktionen, Verlängung der Reichweite +
-_Nachteile_: schnellere Ermüdung, Schulter schwieriger zu decken
-* Der vordere Fuß wird nach vorne verschoben. Der dadurch entstehende Winkel zwischen Bein und Boden verbessert die Möglichkeit zur Bschleunigung nach hinten. +
-_Vorteile_: schnellerer Rückzug, psychologischer Druck +
-_Nachteile_: Fuß schwerer zu verteidigen
-* Der hintere Arm wird normalerweise neben dem Körper geführt und für die Kompensation von Rotationsbewegungen des Oberkörpers aktiv genutzt. +
-_Vorteile_: bessere Balance, bessere Körperspannung, mehr taktische Flexibilität +
-_Nachteile_: größere Trefffläche, höheres Verletzungsrisiko
-* Die hintere Schulter wird oft weiter nach vorne geführt. Dadurch wird bereits im Stand eine höhere Hüftbeweglichkeit gefördert. Bei Angriffen kann die Schulter schnell beim Arrêt aus der Linie gedreht werden. +
-_Vorteile_: mehr Stoßdynamik, dominantere Körpersprache +
-_Nachteile_: größere Trefffläche, Handauslagen muss angepasst werden
-* Der vordere Arm wird stärker angewinkelt, oft in einem Winkel von 90°. Da die explosive Armstreckung in unter 100ms erfolgt
+* In many cases, the foot spacing is significantly increased. Two and a half to three feet in length are not uncommon here. This distance improves the angle at which the rear foot transfers force to the ground. Depending on the coefficient of friction between the shoe sole and the metal track, the optimal angle is around 42°. This cannot be fully achieved in normal positions, so the rule here is usually: the more, the better. 
+Advantages: Better power transfer in both directions, greater stability, better balance
+Disadvantages: Faster fatigue, half steps more difficult
+* Especially with the rear foot, the heel is often lifted off the ground. With large ground angles, a relaxed posture is not possible anyway, because the goal is to keep the calf muscles in the optimal working range. 
+Advantages: greater explosiveness, easier tempo changes, and tactical feints.
+Disadvantages: faster fatigue, strain on the Achilles tendon and calf (to be considered during training).
+* The upper body is tilted forward so that the body's center of gravity is in line with the rear leg. This prevents torsional forces when accelerating forward and simplifies precise tip control. In addition, the body's center of gravity is shifted forward slightly in order to generate the necessary friction on the front foot for backward movements. 
+Advantages: greater explosiveness, provocation of premature actions, extended reach
+Disadvantages: faster fatigue, shoulder more difficult to cover
+* The front foot is moved forward. The resulting angle between the leg and the floor improves the possibility of accelerating backward. 
+Advantages: faster retreat, psychological pressure
+Disadvantages: foot harder to defend
+* The rear arm is normally held close to the body and actively used to compensate for rotational movements of the upper body. 
+Advantages: better balance, better body tension, more tactical flexibility
+Disadvantages: larger target area, higher risk of injury
+* The rear shoulder is often brought further forward. This promotes greater hip mobility even when standing still. During attacks, the shoulder can quickly be turned out of line during the arrêt. 
+Advantages: greater shock dynamics, more dominant body language
+Disadvantages: larger contact area, hand position must be adjusted
+* The front arm is bent more sharply, often at an angle of 90°. Since the explosive arm extension takes place in less than 100 ms
 include::partial$gen/bibliography.adoc[tag=AREKinSP]
-  und die Muskulatur in stärkerer Expansion höhere Kräfte erreicht, kommt auch aus dieser Position ein Treffer nahezu gleichzeitig auf. Es lässt sich dadurch ohne Nachteile eine höhere Manövrierfähigkeit erreichen und die Hand ist vor Angriffen besser geschützt. +
-_Vorteile:_ Paraden näher am Körper, Arm besser zu verteidigen, einfachere Stoßtäuschungen +
-_Nachteile:_ Spontane Angriffe schwieriger
-* Mit der Wahl einer solchen Fechtstellung erfolgt meistens auch eine Umstellung der Beinarbeit. Die Gewichtsverteilung erlaubt keine einfachen Schritte mehr. Entweder wird die Fechtstellung für einfache Schritte aufgegeben (für Situationen ohne Druck in überweiter Mensur) oder es werden ausschließlich Sprünge durchgeführt, die dann meistens aus den Fußgelenken erfolgen. +
-_Vorteile:_ mehr Explosivität (durch Vorspannung), bessere Distanzkontrolle, strahlt Dominanz aus +
-_Nachteile:_ schnellere Ermüdung,
+  and the muscles achieve greater force through greater expansion, a hit from this position also occurs almost simultaneously. This allows for greater maneuverability without any disadvantages and better protects the hand from attacks. 
+Advantages: Parries closer to the body, easier to defend the arm, simpler feints
+Disadvantages: Spontaneous attacks more difficult
+* Choosing such a fencing position usually also involves a change in footwork. The weight distribution no longer allows for easy steps. Either the fencing stance is abandoned for simple steps (for situations without pressure in an extra-wide distance) or only jumps are performed, which are then usually executed from the ankles. 
+Advantages: greater explosiveness (due to preload), better distance control, exudes dominance
+Disadvantages: faster fatigue,
 
-Es ist anzumerken, dass die genaue Fechtstellung sehr stark von der anwendenden Fechter:in abhängt und ein großer Varianzbereich sichtbar ist. In jedem Leistungsbereich sollen regelmäßig Varianten angeboten werden, um die Variabilität zu erhöhen und individuelle Lösungen zu fördern.
+It should be noted that the exact fencing position depends heavily on the fencer using it, and there is a wide range of variation. Variants should be offered regularly in every service area in order to increase variability and promote individual solutions.
