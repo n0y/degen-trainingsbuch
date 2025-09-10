@@ -1,81 +1,81 @@
-== Individualität der Bewegungen
+== Individuality of movements
 
-Zusätzlich zur Unmöglichkeit, identische Bewegungen auszuführen
+In addition to the impossibility of performing identical movements
 
 include::partial$gen/bibliography.adoc[tag=SDLL]
-ist inzwischen bekannt, dass der Variationsbereich individueller Bewegungen in jedem Leistungsniveau erstaunlich hoch ist
+It is now known that the range of variation in individual movements is astonishingly high at every performance level.
 
 include::partial$gen/bibliography.adoc[tag=IIMSHP]
 .
-Beispielsweise zeigen Analysen von Fechtern auf Olympianiveau systematische Unterschiede in Handhaltung, Schrittfrequenz und Trefferwinkel – trotz vergleichbarer Zieltechnik.
+For example, analyses of Olympic-level fencers show systematic differences in hand position, step frequency, and hitting angle—despite comparable targeting techniques.
 
-Eine Personenübergreifende Idealtechnik ist als solche nicht mehr haltbar. Abzugrenzen ist, dass einige Variationen der Bewegungsausführung offensichtlich untauglich oder hochproblematisch sind. Solche Variationen werden Lernende aber ohnehin schnell eliminieren, wenn ihnen besser geeignete Variationen angeboten werden. Voraussetzung dafür ist eine reichhaltige, aber funktional gestaltete Übungssituation mit beobachtbaren Rückwirkungen.
+An ideal technique that applies to all people is no longer tenable as such. It should be noted that some variations in the execution of the movement are obviously unsuitable or highly problematic. However, learners will quickly eliminate such variations anyway if they are offered more suitable alternatives. This requires a rich but functionally designed training situation with observable effects.
 
-Auch für Trainer:innen sind Idealtechnik und einschleifende Lehrverfahren riskant: Niemand kann alle Fehler und Abweichungen erkennen und die Konsequenz jeder individuellen Ausführung sicher abschätzen. Es besteht die Gefahr, unbewusst fehlerhafte Ausführungen einzuschleifen. Glücklicherweise ist ein Einschleifen am Ende ohnehin nicht möglich, weil jede Wiederholung zwangsläufig neue Abweichungen aufweisen muss. Folge bleibt in jedem Fall eine deutlich erhöhte Lernzeit.
+Ideal technique and repetitive teaching methods are also risky for trainers: no one can recognize all mistakes and deviations and reliably assess the consequences of each individual performance. There is a risk of unconsciously introducing incorrect practices. Fortunately, grinding in is not possible at the end anyway, because each repetition inevitably has to show new deviations. In any case, the result is a significant increase in learning time.
 
-Neuere Lernverfahren und -Theorien vertreten darauf aufbauend eine deutlich dynamischere Auffassung zum Lernprozess:
+Building on this, newer learning methods and theories advocate a significantly more dynamic view of the learning process:
 
-* Das *Differenzielles Lernen*
+* Differential learning
 include::partial$gen/bibliography.adoc[tag=InVP]
-geht davon aus, dass eine Verstärkung der ohnehin auftretenden Fluktuationen im Lernprozess eine leistungssteigernde Wirkung besitzen und nutzt sie gezielt.
-* Die *Dynamische Systemtheorie* nach
+assumes that reinforcing the fluctuations that occur naturally in the learning process has a performance-enhancing effect and makes targeted use of this.
+* Dynamic systems theory according to
 include::partial$gen/bibliography.adoc[tag=KelsoDynPa1995]
-nutzt Selbstorganisation und Phasenübergänge im Verhalten, um motorische Entwicklung zu fördern.
-* Der *Constraint Led Approach* z.B. in
+uses self-organization and phase transitions in behavior to promote motor development.
+* The *Constraint Led Approach*, for example, in
 include::partial$gen/bibliography.adoc[tag=BDKRDynSkillAc2008]
-führt die Idee ein, dass Training Lernumgebungen gestalten muss – statt idealisierte Technik beizubringen.
+introduces the idea that training must design learning environments—rather than teaching idealized technology.
 
-Wir wollen daher keine ideale Zieltechnik vorgeben, sondern in möglichen (durchaus weiten) Lösungsbereichen und Lernumgebungen trainieren. Wir gehen davon aus, dass die Interpolationsfähigkeit des Menschen es ermöglicht, das individuelle Ideal zwischen bereits erfahrenen Werten zu ermitteln.
+We therefore do not want to prescribe an ideal target technique, but rather train in possible (quite broad) solution areas and learning environments. We assume that humans' ability to interpolate enables them to determine their individual ideal from values they have already experienced.
 
-NOTE: Fechtspezifisches Beispiel ist die Durchführung einer Quart-Parade: Klassische Technikleitbilder haben eine genaue Vorstellung über Handposition und Größe der Bewegung. Beides sind aber keine Technikziele, sondern Mittel, die in Abhängigkeit von Gegner und Umwelt jedes Mal angepasst werden müssen. +
- Dabei hilft es, wenn viele Handpositionen und Bewegungsgrößen ausprobiert werden, und die Athlet:in intuitiv Handposition und Ausführungsgröße "irgendwo zwischen" vorher trainierten Werten wählt.
+NOTE: A specific example from fencing is the execution of a quart parry: classic technical models have a precise idea of hand position and the size of the movement. However, neither of these are technical goals, but rather means that must be adapted each time depending on the opponent and the environment. 
+ It helps to try out many different hand positions and movement sizes, and for the athlete to intuitively choose a hand position and execution size "somewhere between" previously trained values.
 
-Die zentralen Ziele und Ideen sind:
+The central goals and ideas are:
 
-* *Selbstorganisation*: Verhalten entsteht durch Wechselwirkung von Systemkomponenten, nicht durch zentrale Steuerung.
-* *Lernen als Prozess der Anpassung* an Einschränkungen (Aufgabe, Umwelt, Individuum)
-* *Nichtlinearität*: Kleine Veränderungen (z. B. Reifung, Taktiktraining) können große Auswirkungen auf Verhalten haben
-* *Degeneracy*: Verschiedene Strukturen können dieselbe Funktion erfüllen – ein:e Fechter:in braucht nicht die perfekte Technik, sondern eine für ihn funktionierende
-* *Emergenz*: Talent und Leistung sind nicht vorhanden, sondern entstehen über Zeit durch komplexe Interaktion
+* *Self-organization*: Behavior arises through the interaction of system components, not through central control.
+* *Learning as a process of adaptation* to constraints (task, environment, individual)
+* *Nonlinearity*: Small changes (e.g. Maturation, tactical training) can have a major impact on behavior.
+* *Degeneracy*: Different structures can fulfill the same function—a fencer does not need the perfect technique, but one that works for them.
+* *Emergence*: Talent and performance are not inherent, but arise over time through complex interaction.
 
 [[grundlagen-training-differenzielle-methode]]
-== Differenzielle Lernmethode
+== Differential learning method
 
-Für dieses Training wird der Randbereich des Lösungsraums abgetastet, in dem der Athlet dann situationsbezogen interpoliert.
+For this training, the edge area of the solution space is scanned, in which the athlete then interpolates according to the situation.
 
-NOTE: *Lösungsraum*: Für einen geraden Stoß ergibt sich der Lösungsraum aus allen Komponenten, die variiert werden können, um das Ziel, ohne Änderung der Auslage zu treffen, zu erreichen. Beispielsweise kann die Hand gedreht werden oder der Stoß mit gleichbleibender oder beschleunigter Bewegung durchgeführt werden.
+NOTE: *Solution space*: For a straight shot, the solution space consists of all components that can be varied in order to achieve the goal without changing the layout. For example, the hand can be rotated or the thrust can be performed with a constant or accelerated movement.
 
-Im gesamten Lernprozess wird keine Aufgabe unverändert wiederholt, sondern der Athlet stets mit neuen Aufgaben konfrontiert. Zentraler Ansatz ist es, den Athleten auf das Neue in verstärkter Form vorzubereiten, weil es ohnehin bei einfacher Wiederholung in abgeschwächter Form auftritt
+Throughout the learning process, no task is repeated unchanged; instead, the athlete is constantly confronted with new tasks. The central approach is to prepare athletes for the new in an intensified form, because it occurs in a weakened form anyway when simply repeated.
 
 include::partial$gen/bibliography.adoc[tag=SDLL]
-. Es wird also die Anpassungsfähigkeit an neue Aufgaben betont.
+. The emphasis is therefore on adaptability to new tasks.
 
-Ein Aspekt des einschleifenden Lernens ist die hohe Wiederholungszahl. Diese ist tatsächlich für den Lernprozess notwendig, denn nur viele Wiederholungen führen zu relevanten neuroplastischen Änderungen im Gehirn
+One aspect of repetitive learning is the high number of repetitions. This is actually necessary for the learning process, because only many repetitions lead to relevant neuroplastic changes in the brain.
 
 include::partial$gen/bibliography.adoc[tags=Kami1995Functional]
-. Es ist allerdings darauf zu achten, dass weiterhin hohe Fehlerraten erreicht werden können: Werden Bewegungen nahezu fehlerfrei ausgeführt, dann kann kaum noch Lernen stattfinden.
+. However, it should be noted that high error rates can still be achieved: if movements are performed almost flawlessly, then learning can hardly take place.
 
-Wir wollen unseren Schüler:innen eine für sie neue Technik nur kurz erläutern. Detaillierte Erklärungen und Demonstrationen sollen zugunsten einer hohen Wiederholungszahl und dem Abtasten eines großen Lösungsbereiches zurückstehen. Dabei ist auf intensive Rückmeldung zu achten: durch bewusstes Erleben und durch Sichtbarmachen der Auswirkungen.
+We want to briefly explain a new technology to our students. Detailed explanations and demonstrations should take a back seat in favor of a high number of repetitions and the exploration of a wide range of solutions. In doing so, attention must be paid to intensive feedback: through conscious experience and by making the effects visible.
 
-Ständiges Konfrontieren mit neuen Aufgaben ist einer der Kerne der differenziellen Lehrmethode und erlaubt nicht nur die Interpolation und Adaption auf neue Situationen, sondern stellt auch sicher, dass die Schüler:innen ein hohes Maß an Fehlern begehen, die das notwendige Feedback für neuroplastische Adaptionen bereitstellen.
+Constant confrontation with new tasks is one of the core elements of the differential teaching method and not only allows for interpolation and adaptation to new situations, but also ensures that students make a high number of mistakes, which provide the necessary feedback for neuroplastic adaptations.
 
-Stabilität im Ganzen entsteht als emergentes Ergebnis, dass durch Anpassungsfähigkeit im Kleinen geschult und erzielt wird.
+Stability as a whole arises as an emergent result that is trained and achieved through adaptability on a small scale.
 
-Ein zusätzlicher Vorteil wird beim Lehren von Kindern und Jugendlichen erzielt, die durch fortlaufend ändernde Einflussfaktoren (Wachstum, Änderung der Proportionen, …) ständiger Anpassungen ihrer Technik bedürfen, die zumindest in der Gruppe von einem Lehrenden nicht mehr geleistet werden kann
+An additional advantage is achieved when teaching children and adolescents, who, due to constantly changing factors (growth, changes in proportions, …), require constant adjustments to their technique, which, at least in a group setting, can no longer be achieved by a single instructor.
 
 include::partial$gen/bibliography.adoc[tag=DLPVSS]
 .
 
-Wichtig dabei ist, dass bei der Umsetzung nicht nur die theoretisch optimale, konkrete Lösung durch Variation gegen andere Lösungen stabilisiert wird. Stattdessen wird ein Lösungsraum umkreist, um auf jeden Fall neue, situativ optimale Lösungen auszuführen.
+It is important that implementation does not merely stabilize the theoretically optimal, concrete solution by varying it against other solutions. Instead, a solution space is explored in order to implement new, situationally optimal solutions in any case.
 
-NOTE: Ein Fechter trainiert beispielsweise Angriffe aus 10 verschiedenen Distanzen, um die Reaktionsanpassung auf situative Erfordernisse zu schulen.
+NOTE: For example, a fencer trains attacks from 10 different distances in order to train their reaction adaptation to situational requirements.
 
-== Effektivität und Effizienz der differenziellen Lehrmethoden
+== Effectiveness and efficiency of differentiated teaching methods
 
-In verschiedenen Sportarten wurde die differenzielle Lehrmethode mit Erfolg angewandt. Zu einer ganzen Reihe davon sind Studien veröffentlicht. So im Fußball
+The differential teaching method has been successfully applied in various sports. Studies have been published on a whole range of these. Like in soccer
 
 include::partial$gen/bibliography.adoc[tag=DLiSc]
-, Kugelstoßen
+, Shot put
 
 include::partial$gen/bibliography.adoc[tag=DLiSP]
 , Golf
@@ -90,27 +90,27 @@ include::partial$gen/bibliography.adoc[tag=WHBAT]
 , Volleyball
 
 include::partial$gen/bibliography.adoc[tag=DLeiVb]
-, Radsport
+, Cycling
 
 include::partial$gen/bibliography.adoc[tag=VBDTR]
-, Ausdauertraining
+, endurance training
 
 include::partial$gen/bibliography.adoc[tag=DAVNW]
 .
 
-In allen untersuchten Fällen wurde die Vorhersage größerer Effektivität des differenziellen Lernansatzes durch Verstärkung des Rauschens bei Anfängern und Fortgeschrittenen bestätigt (signifikant bis hochsignifikant, p=0,02 bis 0,04).
+In all cases examined, the prediction of greater effectiveness of the differential learning approach was confirmed by increased noise in beginners and advanced learners (significant to highly significant, p=0.02 to 0.04).
 
-Schon am Ende der untersuchten Interventionen wird der Vorteil gegenüber anderen Ansätzen messbar. Bei Retentionstests ist nicht nur ein geringerer Leistungsrückgang zu messen, sondern im Gegensatz dazu sogar Leistungssteigerungen nachgewiesen.
+The advantage over other approaches is already measurable at the end of the interventions examined. Retention tests not only show a smaller decline in performance, but also demonstrate an increase in performance.
 
-.Darstellung  der  Integration  aller  Lerntheorien  mithilfe  des  Parameters  „Rauschen“
+.Representation of the integration of all learning theories using the parameter "noise"
 image::int-lernm.png[]
 
-aus
+from
 
 include::partial$gen/bibliography.adoc[tag=SPAFESA]
 
-Wichtiges Kriterium bei der Auswahl geeigneter Lernverfahren für Training im Verein ist die Anwendbarkeit in größeren Gruppen. Dabei ist davon auszugehen, dass jeder Lernende ganz eigene, unterschiedliche Voraussetzungen mitbringt, die jeweils zu unterschiedlichen Leistungsoptima führen muss.
+An important criterion when selecting suitable learning methods for training in clubs is their applicability in larger groups. It can be assumed that each learner has their own unique set of prerequisites, which must lead to different levels of performance.
 
-Differenzielles Lernen nutzt systematisch Aufgabenvielfalt, sodass jede Person individuell relevante Bewegungserfahrungen machen kann – auch ohne persönliche Einzelkorrektur durch den Trainer.
+Differential learning systematically utilizes a variety of tasks so that each person can gain individually relevant movement experience—even without personal, individual correction by the trainer.
 
-Werden einer Gruppe in 60 Minuten drei Übungen angeboten, ist die Wahrscheinlichkeit, die Voraussetzungen aller Gruppenmitglieder zu treffen deutlich geringer, als wenn zehn Übungen angeboten werden.
+If a group is offered three exercises in 60 minutes, the probability of meeting the requirements of all group members is significantly lower than if ten exercises are offered.
