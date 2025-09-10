@@ -1,11 +1,11 @@
-== Taktiktraining
+== tactical training
 
-NOTE: Hier fehlt noch Text. Schreibe ihn gerne. :-)
+NOTE: Text is still missing here. Feel free to write it. :-)
 
-=== Partnerübungen
+=== Partner exercises
 
-include::partial$taktiktraining/partneruebung/taktische-preparation-1.adoc[leveloffset=+3]
+include::partial$taktiktraining/partneruebung/tactical-preparation-1.adoc[leveloffset=+3]
 
-=== Wettkampfformen
+=== competition formats
 
-include::partial$taktiktraining/wettkampfformen/runde-mit-aufgaben.adoc[leveloffset=+3]
+include::partial$taktiktraining/competition-formats/round-with-tasks.adoc[leveloffset=+3]
