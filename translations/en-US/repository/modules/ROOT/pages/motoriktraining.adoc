@@ -1,31 +1,31 @@
-= Training motorischer Fähigkeiten
+= Training motor skills
 
-:description: Effizientes Training der grundlegenden motorischen Fähigkeiten für das Degen-Fechten.
-:keywords: Fechten,Degen-Fechten,Training,Kampfsport,Ausdauer,Schnelligkeit,Maximalkraft,Koordination,Beweglichkeit
+:description: Efficient training of basic motor skills for épée fencing.
+:keywords: Fencing, épée fencing, training, martial arts, endurance, speed, maximum strength, coordination, agility
 
-Motorische Fähigkeiten sind die Grundlage, auf der das spezifische Fechttraining aufsetzt:
+Motor skills are the foundation on which specific fencing training is based:
 
-* Ausdauer
-* Schnelligkeit
-* (Maximal-)Kraft
-* Koordination
-* Beweglichkeit
-* Reaktionsfähigkeit
+* endurance
+* speed
+* (Maximum) force
+* coordination
+* mobility
+* responsiveness
 
-Diese motorischen Fähigkeiten sind generell für alle sportlichen Tätigkeiten relevant. Hier ist das Ziel in erster Linie, die Fähigkeiten so zu trainieren, wie sie für den Fechtsport notwendig sind.
+These motor skills are generally relevant for all sporting activities. The primary goal here is to train the skills necessary for fencing.
 
-Diese Fähigkeiten lassen sich jeweils separat trainieren. Allerdings steht in den meisten Trainingsplänen nicht genug Zeit dafür zur Verfügung, sodass das Training entweder separat durch die Athlet:innen erfolgt oder in das reguläre Training integriert werden muss. Dabei empfiehlt es sich, kombinierte Übungen anzubieten, in denen mehrere motorische Fähigkeiten gleichzeitig trainiert werden können.
+These skills can be trained separately. However, most training plans do not allow enough time for this, so the training must either be carried out separately by the athletes or integrated into their regular training. It is advisable to offer combined exercises in which several motor skills can be trained at the same time.
 
-== Motorische Anforderungen des Sportfechtens
+== Motor requirements of competitive fencing
 
-Das Sportfechten ist in seiner Belastungsstruktur mit anderen olympischen Kampfsportarten vergleichbar: Ähnlich wie das Taekwondo liegt der Schwerpunkt auf kurzen Runden hochintensiver Belastung. Neben technischen Anforderungen liegt der Schwerpunkt im anaeroben und neuromuskulären Bereich.
+In terms of its exertion structure, sport fencing is comparable to other Olympic combat sports: similar to taekwondo, the focus is on short rounds of high-intensity exertion. In addition to technical requirements, the focus is on anaerobic and neuromuscular training.
 
-Ähnlich zum Taekwondo lässt sich auch im Sportfechten die maximale aerobe Kapazität auf 60-65 stem:[(ml * kg) / min] schätzen.
+Similar to taekwondo, the maximum aerobic capacity in competitive fencing can also be estimated at 60-65 stem:[(ml * kg) / min].
 
-Grundlegend für hochintensive Belastungen ist eine große aerobe Kapazität
+A high aerobic capacity is essential for high-intensity exercise.
 
 include::partial$gen/bibliography.adoc[tag=HPNRHP]
-, und dabei insbesondere die Herzminutenleistung. Das trifft insbesondere auf Athlet:innen mit bereits hoher VO~2~max zu
+, and in particular cardiac output. This is especially true for athletes who already have a high VO₂ max.
 
 include::partial$gen/bibliography.adoc[tag=BoVO2]
 .
@@ -36,20 +36,20 @@ include::partial$gen/bibliography.adoc[tag=BoVO2]
 
 //
 
-include::partial$motoriktraining/ausdauertraining/ausdauertraining.adoc[leveloffset=+1]
+include::partial$motoriktraining/endurance-training/endurance-training.adoc[leveloffset=+1]
 
-include::partial$motoriktraining/koordinationstraining/koordinationstraining.adoc[leveloffset=+1]
+include::partial$motoriktraining/coordination-training/coordination-training.adoc[leveloffset=+1]
 
-include::partial$motoriktraining/reaktionstraining/reaktionstraining.adoc[leveloffset=+1]
+include::partial$motoriktraining/reaction-training/reaction-training.adoc[leveloffset=+1]
 
-== Maximalkrafttraining
-
-_TODO_
-
-== Schnelligkeitstraining
+== maximum strength training
 
 _TODO_
 
-== Beweglichkeitstraining
+== speed training
+
+_TODO_
+
+== mobility training
 
 _TODO_
