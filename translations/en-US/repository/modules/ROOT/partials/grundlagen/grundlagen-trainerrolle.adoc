@@ -1,38 +1,38 @@
-== Die Rolle des Trainers in differenziellen Lernen
+== The role of the trainer in differentiated learning
 
-Eine der Grundlagen des differenziellen Lernens ist die Annahme, dass jeder Mensch die Fähigkeit mitbringt, funktionale Bewegungen selbständig zu erlernen und zu optimieren. Obwohl dieses Verständnis im Kern von den meisten Lehrenden geteilt wird, ist zu beobachten, werden darauf basierende Ansätze kaum in der Trainingspraxis angenommen.
+One of the fundamentals of differential learning is the assumption that every person has the ability to independently learn and optimize functional movements. Although this understanding is shared by most teachers at its core, it can be observed that approaches based on it are rarely adopted in training practice.
 
-Viele Lehrende sind der Ansicht, dass mit selbstorganisierendem Lernen die Figur des Lehrenden überflüssig werde. Das Missverständnis beruht auf einer Gleichsetzung von Steuerung mit Kontrolle – differenzielles Lernen verlangt jedoch eine Steuerung durch Gestaltung, nicht durch Direktiven. Trainer:innen bleiben wichtig, aber ihre Aufgaben verändern sich.
+Many teachers believe that self-organized learning will render the role of the teacher superfluous. The misunderstanding stems from equating guidance with control—but differential learning requires guidance through design, not through directives. Trainers remain important, but their roles are changing.
 
-Zunächst ist wichtig zu erwähnen, dass das „klassische“ programmtheoretische Lehren und Lernen gegenüber aus Sicht des differenziellen Lernens nicht falsch oder schlecht ist. Es basiert lediglich auf einem anderen Grundsatz und führt letztlich ebenfalls zum Erfolg. Zahlreiche jüngere Studien haben aber gezeigt, dass durch differenzielles Lernen schnellere und stabilere Erfolge erreicht werden, bei gleichzeitig höherer Motivation der Lernenden
+First, it is important to mention that "classical" program-theoretical teaching and learning is not wrong or bad from the perspective of differential learning. It is simply based on a different principle and ultimately leads to success as well. However, numerous recent studies have shown that differential learning leads to faster and more stable success, while also increasing learner motivation.
 
 include::partial$gen/bibliography.adoc[tags=Ryan2000Self]
 .
 
-Klassisch wird dem Trainer oft die Führungsrolle im Trainings- und Wettkampfprozess zugeschrieben. Er soll ebenfalls wichtigste Bezugsperson des Lernenden sein
+Traditionally, the coach is often assigned the leadership role in the training and competition process. He should also be the learner's most important reference person.
 
 include::partial$gen/bibliography.adoc[tag=BBFTMG]
-. Auch dort soll, bereits beginnend im Nachwuchstraining, den Lernenden eine Mitwirkung und kritische Auseinandersetzung mit den Inhalten des Trainings nahegelegt werden. Sie ist Grundlage des sportlichen Erfolgs (ebenfalls aus
+. There, too, starting with youth training, learners should be encouraged to participate in and critically engage with the content of the training. It is the basis of sporting success (also from
 
 include::partial$gen/bibliography.adoc[tag=BBFTMG]
-). Differenzielles Lernen verschiebt nun einen weiteren Teil des Lernwegs zum Lernenden, indem die genaue Vorgabe der Zieltechniken hin zu einer Definition des Lösungsbereichs verschoben wird.
+). Differential learning now shifts another part of the learning process to the learner by shifting the exact specification of the target techniques to a definition of the solution area.
 
-NOTE: Lernende erhalten z. B. Reflexionsaufträge: "Welche Bewegung war für dich effektiver – warum?"
+NOTE: Learners receive, for example Reflection questions: "Which exercise was more effective for you—why?"
 
-Im Technikerwerb besteht für den Lehrenden die Herausforderung daraus, Bewegungsaufgaben auszuwählen, die ausreichende Differenzen aufweisen, aber weiterhin einen Bezug zur theoretisch optimalen Bewegungsausführung zu erhalten. Dabei sollen bewusst auch wohlbekannte Fehler integriert, um neuronale Plastizität zu provozieren.
+When acquiring technical skills, the challenge for teachers is to select movement tasks that are sufficiently different but still relate to the theoretically optimal execution of the movement. Well-known errors should also be deliberately integrated in order to provoke neural plasticity.
 
-Damit verschiebt sich einige Aufgaben des Lehrenden und der Einsatz der genutzten Lehrmittel und -Methoden, einige bleiben aber auch erhalten:
+This shifts some of the tasks of the teacher and the use of teaching materials and methods, but some remain the same:
 
-* Die Auswahl der zu Lernenden Inhalte nach Leistungsstand und Erfahrung der Lernenden bleibt erhalten. Es soll lediglich früher Neues eingeführt werden: Neue Elemente sollen bereits eingeführt werden, bevor Bekanntes sicher beherrscht wird
+* The selection of learning content based on the performance level and experience of the learners remains unchanged. New elements should be introduced earlier: new elements should be introduced before familiar ones have been mastered.
 include::partial$gen/bibliography.adoc[tag=LSmMR]
 .
 +
 // TODO: Einarbeiten: challenge point hypothesis (Guadagnoli & Lee, 2004)
-* Stellen von Bewegungsaufgaben löst die Vorgabe von Ziel-Techniken ab. Gewünschte Ziel-Techniken werden nicht mehr im Detail erklärt, sondern der übliche Lösungsraum skizziert und unter der Nutzung von Varianten möglichst ohne Korrekturen und Hilfestellungen abgetastet. Korrekturen sollen aber dann erfolgen, wenn die durch den Lernenden gewählte Lösung den Regeln des Sports widerspricht oder Verletzungsgefahr besteht.
-* Korrekturen lösen Stress im Gehirn aus, vermindern dabei die Lernrate und reduzieren das Maximalkraftniveau deutlich
+* Setting movement tasks replaces the specification of target techniques. Desired target techniques are no longer explained in detail; instead, the usual solution space is outlined and explored using variants, if possible without corrections or assistance. However, corrections should be made if the solution chosen by the learner contradicts the rules of the sport or if there is a risk of injury.
+* Corrections trigger stress in the brain, thereby slowing down the learning rate and significantly reducing the maximum strength level.
 include::partial$gen/bibliography.adoc[tags=Beilock2010]
-`.` Es wird davon ausgegangen, dass der Lernende ausreichend Variationen angeboten bekommt, dass die für ihn optimale Bewegungsausführung angepasst an die Situation erlernt wird.
-* Das Erkennen und Auflösen von physischen Defiziten, die die erfolgreiche Ausführung eines Technik-Elements verhindern, bleibt vollumfänglich erhalten.
-* Die Zeitaufteilung im Techniktrainings verschiebt sich: im klassischen Training ist das Erklären, Erläutern und Korrigieren ein großer Block und macht oft gut die Hälfte der Trainingszeit aus. Es ist statt dessen anzustreben, dass die Lernenden den größten Teil der Zeit selbst aktiv sind. Die tatsächliche Bewegungsausführung im Lösungsbereich soll im Bereich von 90 % der Zeit liegen. Dafür muss eine Ansprache gefunden werden, die eine effiziente Kommunikation von Erwartetem vom Lehrenden zu den Lernenden ermöglicht.
-* Anreize zur Selbstoptimierung setzen und Verhindern, dass Lernende die Variabilität ihrer Bewegungsausführung zu stark vermindern, beispielsweise durch kreative Bewegungen als Aufgabe oder das Einfordern von positivem Feedback aus der Peer-Gruppe für unübliche Lösungen.
-* Begrenzung der sequenziellen Differenzen: Freie Bewegungen und einfaches „Trial-And-Error“ sind nicht ziele des differenziellen Lernens. Dieses Lernen hat im Einsteiger-Bereich Sinn und Berechtigung, reicht jedoch bei steigendem Niveau nicht mehr aus. Der Lehrende muss trotz aller Freiheitsgrade dafür sorgen, dass die Lernenden die Systematik einhalten.
+`.` It is assumed that the learner is offered sufficient variations so that they can learn the optimal movement execution for them, adapted to the situation.
+* The ability to recognize and resolve physical deficits that prevent the successful execution of a technical element remains fully intact.
+* The time allocation in technical training is shifting: in traditional training, explaining, clarifying, and correcting takes up a large chunk of time, often accounting for a good half of the training session. Instead, the aim should be for learners to be active themselves for most of the time. The actual execution of movements in the solution area should be within the range of 90% of the time. To this end, a form of address must be found that enables efficient communication of expectations from the teacher to the learners.
+* Provide incentives for self-optimization and prevent learners from reducing the variability of their movement execution too much, for example by assigning creative movements as tasks or requesting positive feedback from the peer group for unusual solutions.
+* Limiting sequential differences: Free movement and simple trial and error are not the goals of differential learning. This type of learning makes sense and is justified at the beginner level, but is no longer sufficient as the level increases. Despite all degrees of freedom, the teacher must ensure that learners adhere to the system.
