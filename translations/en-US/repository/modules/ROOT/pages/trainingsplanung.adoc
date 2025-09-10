@@ -1,113 +1,113 @@
-= Trainingsplanung
+= training planning
 
-:description: Simple Trainingsplanung für das Degen-Fechten mit mehreren Saison-Höhepunkten. Fertigkeiten und Beispiel-Pläne.
-:keywords: Fechten,Degen-Fechten,Training,Kampfsport,Trainingsplanung,Saisonplanung
+:description: Simple training plan for épée fencing with several season highlights. Skills and sample plans.
+:keywords: Fencing, épée fencing, training, martial arts, training planning, season planning
 
-Für Aufbau und Integration der verschiedenen Trainingsbestandteile orientieren wir uns an
+For the structure and integration of the various training components, we are guided by
 
 include::partial$gen/bibliography.adoc[tag=HICCA]
-, Seite 11. Dabei sind die Trainingsinhalte entsprechend der zur Verfügung stehenden Trainingsmittel und -zeiten anzupassen.
+, page 11. The training content must be adapted to the training resources and times available.
 
-== Saison-Planung
+== Season planning
 
-Eine Trainingsplanung zielt immer auf einen Saison-Höhepunkt hin. Dieser kann pro Athlet:in unterschiedlich sein. Meistens liegen die Höhepunkte aber so nahe beieinander, dass trotzdem in der Gruppe trainiert werden kann. Dabei sind dann Kompromisse zu schließen.
+Training plans always aim towards a peak in the season. This may vary from athlete to athlete. However, in most cases, the peaks are so close together that it is still possible to train in a group. This will require compromises to be made.
 
-Trotz der Orientierung auf einen Saison-Höhepunkt sind in der Regel trotzdem Wettkämpfe zu bestreiten. Es ist dann darauf zu achten, dass in den letzten 3-4 Tagen vor dem Wettkampf kein intensives Kraft- oder Schnelligkeitstraining erfolgen soll. Zudem ist in den letzten drei Tagen vor einem Wettkampf auf kohlenhydratreiche Nahrung zu achten.
+Despite focusing on a season highlight, competitions still usually have to be contested. It is important to ensure that no intensive strength or speed training takes place in the last 3-4 days before the competition. In addition, you should make sure to eat foods rich in carbohydrates during the last three days before a competition.
 
-=== Woche 1-4: allgemeine Vorbereitung
+=== Weeks 1-4: general preparation
 
-.Inhaltliche Schwerpunkte
-* Fechttechnik: Gruppenarbeit / Lektion
-* Sprint Interval Training (evtl. eigenständig)
-* Muskelaufbau (evtl. separat)
-* Kraftausdauer
+.Key topics
+* Fencing technique: Group work / Lesson
+* Sprint interval training (possibly on your own)
+* Muscle building (possibly separate)
+* strength endurance
 
 //-
 
-.Beispielhafte Trainingseinheit
-. 15min kurzes Aufwärmen
-. 15min Beinarbeit (3x3min, 1min Pause)
-. 30min Partner-Übung/Lektion: Eröffnung Handgelenk unten, TBB 1/4/1, 2/4/1, 2/4/2, 2/4/6 als Auswahlübung
-. 15min Krafttraining/Muskelaufbau nach
+.Sample training session
+. 15 min short warm-up
+. 15 minutes of footwork (3 sets of 3 minutes, 1-minute break)
+. 30 min partner exercise/lesson: Opening wrist down, TBB 1/4/1, 2/4/1, 2/4/2, 2/4/6 as a selection exercise
+. 15 min strength training/muscle building after
 include::partial$gen/bibliography.adoc[tag=ESTSCT]
-, Tabelle 1
-. 30min einfache Gefechte mit Aufgabe zur Erholung
-. 15min für Pausen
+, Table 1
+. 30 minutes of simple combat with a task for recovery
+. 15 minutes for breaks
 
-SIT als zwei zusätzliche Wocheneinheiten selbständig nach Trainingsplan.
+SIT as two additional weekly units independently according to the training plan.
 
-=== Woche 5-8: spezifische Vorbereitung
+=== Weeks 5-8: Specific preparation
 
-.Inhaltliche Schwerpunkte
-* Fechttechnik: Gruppenarbeit / Lektion
-* High Intensity Interval Training, kurze Intervalle (evtl. eigenständig)
-* einfaches Krafttraining (evtl. separat)
-* Trainingsgefechte
+.Key topics
+* Fencing technique: Group work / Lesson
+* High-intensity interval training, short intervals (possibly on your own)
+* simple strength training (possibly separate)
+* practice fights
 
 //-
 
-.Beispielhafte Trainingseinheit
-. 15min Aufwärmen
-. 5min intensive Beinarbeit (3x 1min, 1min Pause)
-. 30min Partnerübung/Lektion: Mensurarbeit und Präparationen, Sperrstöße, Meidhandlungen
-. 15min HIIT Workout, Nr. 86, Level I aus
+.Sample training session
+. 15 min warm-up
+. 5 minutes of intense footwork (3 sets of 1 minute, 1-minute break)
+. 30 min partner exercise/lesson: Mensur work and preparations, blocking thrusts, evasive maneuvers
+. 15-minute HIIT workout, No. 86, Level I from
 include::partial$gen/bibliography.adoc[tag=RHIITW]
-. 60min Trainingsgefechte mit Fechtaufgaben
+. 60-minute training bouts with fencing tasks
 
-Einfaches Krafttraining separat im Kraftraum (zwei Einheiten pro Woche).
+Simple strength training separately in the weight room (two sessions per week).
 
-=== Woche 6-12: Wettkampf-Vorbereitung
+=== Weeks 6-12: Competition preparation
 
-.Inhaltliche Schwerpunkte
-* Trainingsgefechte
-* Muscle Buffer Training (evtl. separat)
-* Fecht-Technik: Gruppenarbeit / Lektion
-* Schnelligkeitsausdauer (evtl. eigenständig)
-
-//-
-
-.Beispielhafte Trainingseinheit
-. 10min Aufwärmen
-. 30min Lauf-Bingo, Stafetten oder Koordinationsleiter mit Fokus Muscle Buffer Training 6x 2min, 3min Pause.
-. 10min leichtes Dehnen und Koordinationsübungen
-. 30min Fechten mit Fechtaufgabe
-. 15min Fechten mit Zeitvorgaben
-. 15min freie Trainingsgefechte
-
-Leichtes Krafttraining separat im Kraftraum (1-2 Einheiten pro Woche).
-
-=== Woche 13-16: Wettkampfphase
-
-.Inhaltliche Schwerpunkte
-* Trainingsgefechte
-* Schnelligkeitsausdauer (evtl. eigenständig)
-* extensives Interval-Training (evtl. eigenständig)
-* einfaches Krafttraining (evtl. separat)
+.Key topics
+* practice fights
+* Muscle Buffer Training (possibly separate)
+* Fencing technique: Group work / Lesson
+* Speed endurance (possibly independently)
 
 //-
 
-.Beispielhafte Trainingseinheit
-. 10min Aufwärmen
-. 15min Beinarbeit mit Fokus Beweglichkeit und Reaktionsfähigkeit
-. 20min Krafttraining mit Langbänken (Zieh- und Hebe-Aufgaben)
-. 60min freie Gefechte mit Wettkampf-Charakter, Zusatzaufgaben
-. 15min Dehnen
+.Sample training session
+. 10 min warm-up
+. 30 min running bingo, relay races, or coordination ladder with a focus on muscle buffer training 6x 2 min, 3 min break.
+. 10 minutes of light stretching and coordination exercises
+. 30 minutes of fencing with fencing exercises
+. 15 minutes of fencing with time limits
+. 15 minutes of free practice battles
 
-Extensive Interalle als eigenständige Laufeinheiten nach Trainingsplan (2-3 Einheiten pro Woche).
+Light weight training separately in the weight room (1-2 sessions per week).
 
-== Beispielhafte Trainingspläne
+=== Weeks 13-16: Competition phase
 
-Folgende Trainingspläne haben die Autoren angewendet. Sie sollen als Ideen-Quelle für die Erarbeitung eigener Trainings dienen.
-
-=== Zielgruppe: gemischte Gruppe Jugendlicher, 8 bis 15 Jahre
-
-.Dauer: 90 Minuten
-* xref:practices/trainingsplanung/trainingsplaene/90min/2019-20_90-5a.adoc[]
-* xref:practices/trainingsplanung/trainingsplaene/90min/2019-20_90-6a.adoc[]
-* xref:practices/trainingsplanung/trainingsplaene/90min/2019-20_90-7a.adoc[]
-* xref:practices/trainingsplanung/trainingsplaene/90min/2019-20_90-9a.adoc[]
+.Key topics
+* practice fights
+* Speed endurance (possibly independently)
+* Extensive interval training (possibly independently)
+* simple strength training (possibly separate)
 
 //-
 
-.Dauer: 120 Minuten
-* xref:practices/trainingsplanung/trainingsplaene/120min/2022_2023_120_5a.adoc[]
+.Sample training session
+. 10 min warm-up
+. 15 minutes of footwork with a focus on agility and responsiveness
+. 20 minutes of strength training with long benches (pulling and lifting exercises)
+. 60 minutes of free combat with a competitive element, additional tasks
+. 15 minutes of stretching
+
+Extensive intervals as separate running sessions according to your training plan (2-3 sessions per week).
+
+== Sample training plans
+
+The authors used the following training plans. They are intended to serve as a source of ideas for developing your own training programs.
+
+=== Target group: mixed group of young people, ages 8 to 15
+
+.Duration: 90 minutes
+* xref:practices/training planning/training plans/90min/2019-20_90-5a.adoc[]
+* xref:practices/training planning/training plans/90min/2019-20_90-6a.adoc[]
+* xref:practices/training planning/training plans/90min/2019-20_90-7a.adoc[]
+* xref:practices/training planning/training plans/90min/2019-20_90-9a.adoc[]
+
+//-
+
+.Duration: 120 minutes
+* xref:practices/training planning/training plans/120min/2022_2023_120_5a.adoc[]
