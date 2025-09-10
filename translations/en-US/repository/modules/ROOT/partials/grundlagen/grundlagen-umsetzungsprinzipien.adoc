@@ -1,104 +1,104 @@
 [[grundlagen-umsetzungsprinzipien]]
-== Umsetzungsprinzipien
+== implementation principles
 
-Die Methodik des differenziellen Lernens ist auf unterschiedlichste Bereiche erfolgreich anwendbar. Das reicht von den bereits erwähnten Studien in verschiedenen Einzel- und Mannschaftssportarten über Ausdauer- und Krafttraining bis hin zum Koordinationstraining
+The methodology of differential learning can be successfully applied to a wide variety of areas. This ranges from the aforementioned studies in various individual and team sports to endurance and strength training and coordination training.
 
 include::partial$gen/bibliography.adoc[tag=TKFDL]
 .
 
-Die Umsetzung basiert auf dem Prinzip der Variation
+The implementation is based on the principle of variation.
 
 include::partial$gen/bibliography.adoc[tag=BWADLS]
 :
 
-* Orientierung am individuellen Lösungsbereichs
-* Stabilität durch Variabilität/Einmaligkeit
-* Parameter-Variation, einschließlich Kontrastbildung im Bereich der „Invarianten“ (z.B. Regeln, also auch "Angriff ohne Sicht", ...)
-* Fehler als notwendige Voraussetzung des Lernens
-* Selbstoptimierung
-* selbstorganisierender, nicht-linearer Lernvorgang
+* Focus on individual solutions
+* Stability through variability/uniqueness
+* Parameter variation, including contrast formation in the area of "invariants" (e.g., rules, including "attack without sight," etc.)
+* Mistakes as a necessary prerequisite for learning
+* self-optimization
+* self-organizing, non-linear learning process
 
-Dabei wird auch der klassische Ansatz der methodischen Reihen, z.B. nach
+This also includes the classic approach of methodical series, e.g. according to
 
 include::partial$gen/bibliography.adoc[tag=LSmMR]
-, aufgelöst: Im geblockten Ansatz wird jede Übung z.B. 10 Mal hintereinander ausgeführt, bevor zur nächsten fortgeschritten wird. Im systemdynamischen Ansatz wird die Reihenfolge zufällig geändert. Sind in klassisch geblockten Ansatz nur zu Beginn einer neuen Übung größere Anpassungen nötig, variiert dann die Anzahl und Größe der Anpassungen und führt zu einem schnelleren Erfassen und Lernen der Inhalte
+, resolved: In the blocked approach, each exercise is performed 10 times in a row, for example, before moving on to the next one. In the system dynamic approach, the order is changed randomly. In a classic blocked approach, major adjustments are only necessary at the beginning of a new exercise, but then the number and size of adjustments varies, leading to faster comprehension and learning of the content.
 
 include::partial$gen/bibliography.adoc[tags=Lee1983locus]
-. Zusätzlich steigt die Abwechslung für die Lernenden und damit die Motivation zur Teilnahme.
+. In addition, there is more variety for learners, which increases their motivation to participate.
 
-Soll ein Bewegungsmuster trainiert werden, dann ist anzustreben, dass möglichst schnell - am besten von Anfang an - das vollständige Bewegungsmuster trainiert werden soll, auch dann, wenn dieses Vorgehen zunächst sehr hohe Fehlerraten erzeugt. Nach
+If a movement pattern is to be trained, the aim should be to train the complete movement pattern as quickly as possible—ideally from the outset—even if this approach initially results in very high error rates. After
 
 include::partial$gen/bibliography.adoc[tag=TKREML]
-führt eine abschnittsweise Einführung einer komplexen Bewegung zu schlechteren Lern- und Retentionsraten. Es ist aber darauf zu achten, dass Fehler aus der Handlung der Lernenden resultieren und nicht etwa zufällig auftreten, weil nur diese Fehler das Lernen verbessern. Komplexe Technik kann ganzheitlich, aber mit adaptivem Schwierigkeitsgrad geübt werden – z. B. mit reduzierter Gegnerdynamik, größerem Zielbereich etc.
+introduces a complex movement in sections, leading to poorer learning and retention rates. However, it is important to ensure that mistakes result from the learners' actions and do not occur randomly, because only these mistakes improve learning. Complex techniques can be practiced holistically, but with an adaptive level of difficulty – e.g. with reduced enemy dynamics, larger target area, etc.
 
-Schon
+Already
 
 include::partial$gen/bibliography.adoc[tag=BBFTMG]
-verweist darauf, dass das „selbständige Üben“ das Grundverfahren beim Erlernen und Trainieren der (Technik-)Elemente darstellt. Mit differenzieller Lernmethode sollen in den Übungen die Variationen bewusst vergrößert und keine Wiederholungen mit identischen Parametern durchgeführt werden.
+points out that "independent practice" is the basic method for learning and training (technical) elements. Using the differential learning method, the variations in the exercises should be deliberately increased and no repetitions with identical parameters should be performed.
 
-Variiert werden können beispielswiese
+For example, the following can be varied:
 
 include::partial$gen/bibliography.adoc[tag=BWADLS]
 :
 
 [[umsetzungsprinzipien-variabilitaet]]
-* Bewegungsausführung
-** Anfangs-, Endbedingungen (z.B. "geduckte Fechtstellung")
-** räumliche Ausführung (z.B. Zielhöhen)
-** räumlich-zeitliche Ausführung, Geschwindigkeit (z.B. Ausfall aus dem Laufen)
-** dynamische Ausführung (Beschleunigung)
-** zeitliche Ausführung (Rhythmus)
-** Umfang
-** Dauer
-* Sinneswahrnehmungen (Einschränkungen, Verstärkung)
-* Materialien, Geräte
-* Untergrund, Gelände
-* Rahmenbedingungen, Regeln (z.B. nur ein Angriff pro Minute)
+* movement execution
+** Initial and final conditions (e.g., "crouching fencing stance")
+** spatial execution (e.g., target heights)
+** spatial-temporal execution, speed (e.g., failure to run)
+** dynamic execution (acceleration)
+** temporal execution (rhythm)
+** scope
+** duration
+* Sensory perceptions (limitations, amplification)
+* Materials, equipment
+* Subsoil, terrain
+* General conditions, rules (e.g., only one attack per minute)
 
-Dabei dürfen die Anpassungen bis in den Programmbereich hinein reichen, also die Technik selbst verändern, z.B. den Ausschluss eines Körperteils oder bewusst „falsche“ Technik.
+The adjustments may extend into the program area, i.e., changing the technique itself, e.g., excluding a body part or deliberately using the "wrong" technique.
 
 // TODO das ist ein abrupter Übergang, das sollte man mal besser einführen
 
-In der Gruppe sollen auch offene Spiel- und Übungsformen und forschendes Lernen eingesetzt werden, z.B. nach
+Open forms of play and exercise and inquiry-based learning should also be used in the group, e.g. according to
 
 include::partial$gen/bibliography.adoc[tag=DSSvV]
 .
 
-Es sollen beim Bewegungslernen hohe Fehlerraten angestrebt werden. Wir streben an, dass über 75 % aller Bewegungen fehlerhaft ausgeführt werden, weil nur durch Abweichungen zum gewünschten Verhalten zu einer Anpassung in den Gehirnstrukturen führt. Das bedingt außerdem, dass Abweichungen und deren Konsequenz für die Lernenden sichtbar sein muss
+High error rates should be aimed for when learning movements. We aim for over 75% of all movements to be performed incorrectly, because only deviations from the desired behavior lead to an adjustment in the brain structures. This also means that deviations and their consequences must be visible to learners.
 
 include::partial$gen/bibliography.adoc[tags=Metcalfe2017Learning]
 .
 
-=== Umsetzung der Variation in der Sportart Fechten
+=== Implementation of variation in the sport of fencing
 
-In der Sportart Fechten können alle Parameter variiert werden, solange sie sich innerhalb der vom Reglement erlaubten bewegen und nicht zu vermeidbaren Verletzungsrisiken führen. Bei Variationen außerhalb des Bereichs des Reglements ist darauf zu achten, dass eine prinzipielle Ähnlichkeit erhalten bleibt: Variationen weit außerhalb des möglichen Lösungsbereichs fallen weg.
+In fencing, all parameters can be varied as long as they remain within the limits permitted by the rules and do not lead to unavoidable risks of injury. In the case of variations outside the scope of the regulations, care must be taken to ensure that a fundamental similarity is maintained: variations that fall far outside the possible range of solutions are not permitted.
 
-NOTE: Prinzipielle Ähnlichkeit meint: Das Bewegungsziel und die biomechanische Grundstruktur bleiben erhalten, auch wenn situative oder kinematische Parameter verändert werden.
+NOTE: Fundamental similarity means that the movement goal and the basic biomechanical structure remain the same, even if situational or kinematic parameters are changed.
 
-Prinzipiell bieten sich folgende Variationsmöglichkeiten im Techniktraining an:
+In principle, the following variations are possible in technical training:
 
-. Unterschiedliche Körperpositionen (normal, tief, geduckt, vor-/zurück geneigt, …)
-. Unterschiedliche Hand- und Waffenhaltungen (Auslagen, Drehung der Hand, Griffart an der Waffe, Griffstärke, …)
-. Unterschiedliche Ausgangs-Bewegungsart (stehend, im Vorrücken, im Zurückweichen, im Sprung, …)
-. Unterschiedliche Geschwindigkeiten (langsam, schnell, submaximal, maximal, …)
-. Unterschiedliche Beschleunigung (konstant, beschleunigt, verzögert, umkehrend, ...)
-. Unterschiedliche Gelenkstellungen (gebeugt, gestreckt, gestreckter Arm, angewinkelter Arm, …)
-. Unterschiedliche Muskelspannung
-. Unterschiedliche Fußstellung
-. Unterschiedlicher Rhythmus, Schrittzahl, …
+. Different body positions (normal, low, crouched, leaning forward/backward, …)
+. Different hand and weapon positions (extensions, rotation of the hand, type of grip on the weapon, grip strength, …)
+. Different starting movement types (standing, advancing, retreating, jumping, …)
+. Different speeds (slow, fast, submaximal, maximal, …)
+. Different acceleration (constant, accelerated, decelerated, reversing, etc.)
+. Different joint positions (bent, straight, straight arm, bent arm, …)
+. Different muscle tension
+. Different foot positions
+. Different rhythm, number of steps, …
 
-Die Auswahl und Kombination der zu trainierenden Variationen erfolgt im einfachsten Fall zufällig. Die Alternative ist die Auswahl auf Basis des jeweiligen Trainingsziels, z.B.:
+In the simplest case, the selection and combination of variations to be trained is random. The alternative is to select based on the respective training goal, e.g.:
 
 |===
-|Ziel |primäre Variationsdimension
+|Goal |primary dimension of variation
 
-|Timing verbessern |Rhythmus, Beschleunigung
+|Improve timing |Rhythm, acceleration
 
-|Technikrobustheit |Ausgangsposition, Gelenkstellung
+|technical robustness |Starting position, joint position
 
-|Situative Anpassung |Fußstellung, Gegnerentfernung
+|Situational adaptation |Foot position, distance to opponent
 
-|Reaktionsschulung |Bewegungsart, Geschwindigkeit
+|reaction training |Type of movement, speed
 |===
 
-Um eine komplexe Technik zu erlernen, sollen pro Trainingseinheit nicht mehr als 60 Aktionen (jeweils unterschiedliche Variations-Kombinationen) bei 2 bis max. 3 Trainingseinheiten pro Woche absolviert werden. Spätestens dann soll die trainierte Bewegung gewechselt werden. Die Komplexität soll während einer Trainingseinheit gesteigert werden.
+In order to learn a complex technique, no more than 60 actions (different combinations of variations) should be completed per training session, with 2 to a maximum of 3 training sessions per week. At this point at the latest, the trained movement should be changed. The complexity should be increased during a training session.
