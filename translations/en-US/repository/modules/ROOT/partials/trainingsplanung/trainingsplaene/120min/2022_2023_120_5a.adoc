@@ -1,50 +1,50 @@
-= Trainingsplan: Partnerübung und freies Fechten
-:keywords: uebung
-:uebung-group: Trainingspläne
+= Training plan: Partner exercises and free fencing
+:keywords: exercise
+:uebung-group: training plans
 
 ifndef::ownpage[]
 
-xref:page$practices/trainingsplanung/trainingsplaene/120min/2022_2023_120_5a.adoc[Nur diese Übung]
+xref:page$practices/training-planning/training-plans/120min/2022_2023_120_5a.adoc[Only this exercise]
 
 endif::[]
 :!ownpage:
 
-Dauer: 120min
+Duration: 120 min
 
 [cols=".^8,.^1"]
 |===
-a|=== Aufwärmen
-|*20{nbsp}min*
+a|=== warm up
+|*20 min.{nbsp}*
 
-a|==== Rebound-Ball
-|15{nbsp}min
+a|==== rebound ball
+|15 min{nbsp}
 
-a|==== Trinkpause und Umziehen
-|5{nbsp}min
+a|==== Drink break and changing clothes
+|5 min{nbsp}
 
-a|=== Partnerübung
+a|=== partner exercise
 
-In zwei Gruppen, beliebige Einteilung
+In two groups, any division
 
 include::partial$taktiktraining/partneruebung/fokuskontrolle-treffflaeche.adoc[leveloffset=+3]
 
-include::partial$taktiktraining/partneruebung/taktische-preparation-1.adoc[leveloffset=+3]
-|*15{nbsp}min*
+include::partial$taktiktraining/partneruebung/tactical-preparation-1.adoc[leveloffset=+3]
+|*15 min{nbsp}*
 
-a|=== Trinken, elektrische Bahnen aufbauen
-|*15{nbsp}min*
+a|=== Drinking, setting up electric railways
+|*15 min{nbsp}*
 
-a|=== Freies Fechten
+a|=== Free fencing
 
-Es werden Dreier- und Viererrunden gefochten. Die Zuordnung erfolgt zufällig.
+Three- and four-player rounds are fenced. The assignment is random.
 
-Die Athlet:innen tragen die Gefechte selbst ein und werten das Tableau auf selbst aus.
+The athletes enter the fights themselves and evaluate the tableau themselves.
 
-Danach Direktausscheidung auf 10 Treffer. Schlechter gesetzte Fechter:innen erhalten 3 Treffer Vorsprung.
+After that, direct elimination to 10 hits. Fencers with lower rankings receive a 3-point head start.
 
-_Parallel: Lektionieren_
-|*60{nbsp}min*
+_Parallel: Lesson planning_
+|*60 min{nbsp}*
 
-a|=== Abbauen
-|*10{nbsp}min*
+a|=== Dismantling
+|*10 min{nbsp}*
 |===
