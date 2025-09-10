@@ -1,32 +1,32 @@
-= Beinarbeit
+= footwork
 
-Klassische Beinarbeit „auf Ansage“ und ohne Vorgabe von Varianten, gezielt auf die Einhaltung einer Zieltechnik, erzielt schon nach kürzester Zeit keinen technischen Lerneffekt mehr und sollte höchstens untergeordnet eingesetzt werden
-
-include::partial$gen/bibliography.adoc[tag=ErlFe]
-, bspw. als Aufwärm- oder Stärkungsübung.
-
-Stattdessen können alle Methoden der Beinarbeit, bspw. aus
+Classic footwork "on command" and without specifying variations, aimed at adhering to a target technique, achieves no technical learning effect after a very short time and should only be used in a subordinate role at most.
 
 include::partial$gen/bibliography.adoc[tag=ErlFe]
-, Kap. 4.3 eingesetzt werden.
+, e.g. as a warm-up or strengthening exercise.
 
-Entsprechend dem differenziellen Lehren und Lernen sollen dabei aber:
+Instead, all methods of footwork, e.g. from
 
-* Keine Korrekturen erfolgen, weder einzeln noch in die Gruppe.
-* Jeweils eine Menge von Varianten vorgegeben werden (Körperposition, Geschwindigkeiten, …)
-* Keine Übung ohne Änderung wiederholt werden.
-* Spätestens nach wenigen Minuten eine komplett neue Bewegungsaufgabe in die Gruppe gegeben werden (dabei empfiehlt es sich aber auf Zeitgründen, evtl. eingesetzte Trainingsmittel nicht auszutauschen).
+include::partial$gen/bibliography.adoc[tag=ErlFe]
+, chap. 4.3.
 
-Durchgeführte Übungen müssen darauf fokussieren, auch bei den für die Beinarbeit typischen hochgradigen Automatisierung der Bewegungsausführung trotzdem weiter Fehler bei den Lernenden zu provozieren. Diese Fehler äußern sich in der Regel darin, dass Geschwindigkeits- oder Präzisionsvorgaben oder weitere Randbedingungen nicht eingehalten werden können. Diese Fehler müssen für die Lernenden erfahrbar sein, damit eine Korrektur eintreten kann.
+In accordance with differentiated teaching and learning, however, the following should apply:
 
-Zur Selbstüberprüfung der eigenen Technik sollen den Lernenden gelegentlich spielerische Wettkampf-Formen angeboten werden. Diese sollen auf externe Qualitäten (Geschwindigkeit, erzielte Präzision beim Erreichen einer Position, Treffgenauigkeit aus der Bewegung, …) statt auf interne Qualitäten („schöne Bewegungsausführung“, „tiefe Position“, …).
+* No corrections will be made, either individually or in the group.
+* A number of variants are specified in each case (body position, speeds, …)
+* No exercise should be repeated without modification.
+* After a few minutes at the latest, give the group a completely new movement task (however, for reasons of time, it is advisable not to replace any training equipment that may have been used).
 
-== Grundlegende Bewegungen
+Exercises must focus on provoking mistakes in learners, even with the high degree of automation typical of footwork. These errors usually manifest themselves in the inability to meet speed or precision specifications or other constraints. These errors must be experienced by the learners so that they can be corrected.
 
-include::partial$techniktraining/koerperbewegungen/beinarbeit/fechtstellung.adoc[leveloffset=+1]
+In order to check their own technique, learners should occasionally be offered playful forms of competition. These should be based on external qualities (speed, precision in reaching a position, accuracy of movement, …) rather than internal qualities ("beautiful execution of movement," "deep position," …).
 
-include::partial$techniktraining/koerperbewegungen/beinarbeit/ausfall.adoc[leveloffset=+1]
+== Basic movements
 
-include::partial$techniktraining/koerperbewegungen/beinarbeit/fleche.adoc[leveloffset=+1]
+include::partial$techniktraining/body-movements/footwork/fencing-stance.adoc[leveloffset=+1]
+
+include::partial$techniktraining/body-movements/footwork/lunge.adoc[leveloffset=+1]
+
+include::partial$techniktraining/body-movements/footwork/fleche.adoc[leveloffset=+1]
 
 == Floating Fléche
