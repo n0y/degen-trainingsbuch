@@ -1,66 +1,66 @@
-= Technisches Lektionstraining
+= Technical lesson training
 
-Lektionstraining im Fechten bezeichnet ein Training, bei dem ein:e Trainer:in mit einzelnen Athlet:innen jeweils separat trainiert.
+Lesson training in fencing refers to training in which a coach trains individual athletes separately.
 
-Nur selten tauchen Formen auf, bei denen mit mehreren Athlet:innen gleichzeitig lektioniert wird.
+Only rarely do forms appear in which several athletes are taught at the same time.
 
-_Technisches_ Lektionstraining konzentriert sich darauf, der Athlet:in einzelne technische Elemente oder einfache Kombinationen zu vermitteln. Die Zusammensetzung mehrerer Aktionen und der situativ angemessene Einsatz ist Bestandteil des xref:page$agilitaetstraining.adoc[].
+Technical lesson training focuses on teaching athletes individual technical elements or simple combinations. The composition of several actions and their appropriate use in different situations is part of xref:page$agilitaetstraining.adoc[].
 
-Die Auswahl der Techniken, die jeweils trainiert werden sollen, liegt primär bei der Trainer:in. Gerade Jugendlichen und Erwachsenen sollen diese bei der Auswahl einbezogen werden.
+The choice of techniques to be trained in each case is primarily up to the trainer. Young people and adults in particular should be involved in the selection process.
 
-Gerade beim Aufbau komplizierterer Techniken (z.B. Quart-Coupé, Wurfstoß Schulter) kommen oft methodische Reihen zum Einsatz, die einzelne Elemente unabhängig voneinander trainieren und erst später kombinieren.
+When developing more complicated techniques (e.g., quart coupé, shoulder throw), methodical sequences are often used to train individual elements independently of each other and only combine them later.
 
-Gemäß der xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[Umsetzungsprinzipien] ist es besser, diesen geblockten Ansatz aufzulösen und die Reihenfolge des Erlernens zufällig zu variieren
+According to xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[Implementation principles], it is better to break up this blocked approach and vary the order of learning randomly.
 
 include::partial$gen/bibliography.adoc[tag=LSmMR]
 .
 
-Zusätzlich ist eine ausreichend hohe Fehlerrate anzustreben, damit die Voraussetzung für neuronale Plastizität gegeben ist. Diese Misserfolgsquote soll zwischen 60% und 80% liegen.
+In addition, a sufficiently high error rate should be aimed for in order to ensure that the conditions for neural plasticity are met. This failure rate is estimated to be between 60% and 80%.
 
-== Zum Umgang mit den Lernenden
+== Dealing with learners
 
-Zum Umgang mit der Athlet:in sollen folgende Grundsätze beachtet werden:
+The following principles should be observed when dealing with athletes:
 
-* Die Notwendigkeit hoher Fehlerraten sind der Athlet:in vorab zu erläutern, sodass eine Akzeptanz des häufigen Misserfolgs als notwendige Voraussetzung gegeben ist: "Wenn Du etwas zu gut kannst, mache ich die Übung schwerer. Das ist für das Lernen notwendig. Wenn ich es Dir schwerer mache, dann heißt das, dass Du die Übung schon zu gut kannst."
-* Ein:e Athlet:in wird nicht getadelt oder kritisiert. Die Rückmeldung über die Effektivität der gelernten Bewegung geschieht immer implizit über die Erfahrung von Erfolg und Misserfolg. Unerwartete Ausführungsvarianten sind durch Bewegungsaufgaben zu infrage zu stellen. Die Athlet:in wird sie korrigieren, wenn sie tatsächlich ineffektiv sind. Ansonsten darf die Variante beibehalten werden.
-* Jede erfolgreiche Ausführung muss die Athlet:in sich erarbeiten. In keinem Fall sorgt die Trainer:in dafür, dass eine Aktion erfolgreich ist. Die unverfälschte Rückmeldung effektiver Aktionen ist die Grundlage für das Bewegungslernen.
-* Lektionszeit ist Übungszeit. Die Athlet:in soll möglichst durchgehend selbst aktiv sein. Erläuterungen zu Theorie und Hintergründen sind Teil des Taktiktrainings oder können bei Interesse separat erfolgen. Die Methoden "Lernen durch Beobachtung", "Lernen durch Einsicht" und "Lernen durch Bewusstmachen von Bewegung" sind deutlich weniger effizient (siehe xref:page$grundlagen.adoc#grundlagen-klassische-trainingsmethoden[Klassische Trainingsmethoden]).
+* The necessity of high error rates must be explained to the athlete in advance so that acceptance of frequent failure is a necessary prerequisite: "If you are too good at something, I will make the exercise more difficult. This is necessary for learning. If I make it harder for you, it means you're already too good at the exercise."
+* An athlete is not reprimanded or criticized. Feedback on the effectiveness of the learned movement always occurs implicitly through the experience of success and failure. Unexpected execution variants must be questioned by means of movement tasks. The athlete will correct them if they are indeed ineffective. Otherwise, the variant may be retained.
+* Every successful performance must be earned by the athlete. Under no circumstances does the trainer ensure that an action is successful. Genuine feedback on effective actions is the basis for learning movement.
+* Lesson time is practice time. The athlete should be active as much as possible throughout. Explanations of theory and background information are part of the tactics training or can be provided separately if desired. The methods "learning by observation," "learning by insight," and "learning by awareness of movement" are significantly less efficient (see xref:page$grundlagen.adoc#grundlagen-klassische-trainingsmethoden[Classic Training Methods]).
 
-== Prinzip der Lektionsarbeit
+== Principle of lesson work
 
-Grundlegend sind technische Lektionen so aufgebaut, dass jeweils ein einzelnes Technik-Element herausgegriffen wird, dass dann in möglichst vielen Variationen ausgeführt wird.
+Technical lessons are fundamentally structured in such a way that a single technical element is selected and then performed in as many variations as possible.
 
-Zur Variation stehen die xref:page$grundlagen.adoc#umsetzungsprinzipien-variabilitaet[Variablen des differenziellen Trainings] und die xref:page$motoriktraining.adoc#koordination-druchbedingungen[Druckbedingungen des Koordinationstrainings] zur Verfügung.
+The xref:page$grundlagen.adoc#implementation-principles-variability[Variables of differential training] and the xref:page$motoriktraining.adoc#coordination-through-conditions[Pressure conditions of coordination training] are available for variation.
 
-Gemäß der xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[Umsetzungsprinzipien] wird auch bei der Lektionsarbeit eine einzelne Übung (=Kombination aus Aktion und gewählter Variation) niemals wiederholt. Es geht immer mit der nächsten Kombination weiter.
+According to xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[Implementation principles], a single exercise (=combination of action and selected variation) is never repeated in lesson work. It always continues with the next combination.
 
-== Beispiele für technische Lektionen
+== Examples of technical lessons
 
-Die Beispiele sind gruppiert nach _Angriff_, _Parade_, _Gegenangriff_ und _Beschäftigung_. Es sei darauf hingewiesen, dass die Unterscheidung der Gruppen im Degenfechten sehr unscharf ist; speziell zwischen _Parade/Riposte_ und _Gegenangriff mit Klingenbeseitigung_.
+The examples are grouped according to _attack_, _parry_, _counterattack_, and _occupation_. It should be noted that the distinction between the groups in épée fencing is very vague, especially between _parry/riposte_ and _counterattack with blade removal_.
 
-Wir verwenden die Begriffe wie folgt:
+We use the terms as follows:
 
-* Die Gruppe _Angriffe_ geht davon aus, dass die Fechter:in eine Aktion zur Erzielung eines Treffers selbst initiiert.
-* Die Gruppe _Gegenangriff_ geht davon aus, dass die Trainer:in eine Aktion beginnt, auf die die Fechter:in reagiert in der Absicht, selbst einen Treffer zu erzielen und dabei optional den Gegentreffer vermeidet.
-* Die Gruppe _Parade_ geht davon aus, dass die Trainer:in eine Aktion beginnt ud die Fechter:in diesen vereitelt und dabei optional selbst einen Treffer setzt.
-* Die Gruppe _Beschäftigung_ geht davon aus, dass die Fechter:in versucht, die gegnerische Initiative zu unterdrücken und dabei optional selbst einen Treffer setzt.
+* The group _Attacks_ assumes that the fencer initiates an action to score a hit themselves.
+* The _Counterattack_ group assumes that the coach initiates an action to which the fencer responds with the intention of scoring a hit themselves, while optionally avoiding a counterattack.
+* The Parade group assumes that the coach initiates an action and the fencer thwarts it, optionally scoring a hit themselves in the process.
+* The group _Employment_ assumes that the fencer attempts to suppress the opponent's initiative and optionally scores a hit themselves.
 
-Eine vollständige Lektion kann zwischen 15 Minuten und einer Stunde dauern. Die Dauer soll so gewählt werden, dass die Athlet:in die Konzentration aufrecht erhalten kann.
+A complete lesson can last between 15 minutes and one hour. The duration should be chosen so that the athlete can maintain concentration.
 
-Wir versuchen, bei einer Lektion mehrere Elemente zu trainieren. Ein Element soll (einschließlich aller trainierten Variationen) nicht länger als fünf Minuten am Stück trainiert werden. Danach soll zu einem anderen Element gewechselt werden. Dadurch soll ein Variationsdruck erzielt werden, der die Voraussetzungen für die Neuroplastizität erhöht.
+We try to train several elements in one lesson. An element (including all trained variations) should not be trained for more than five minutes at a time. After that, you should switch to another element. This is intended to achieve variation pressure, which increases the conditions for neuroplasticity.
 
-== Lektionselemente zum Angriff
+== Lesson elements for attack
 
-include::partial$techniktraining/lektionstraining/uebungen/technisch/angriff-direkt-beobachtung.adoc[leveloffset=+2]
+include::partial$techniktraining/lesson-training/exercises/technical/direct-attack-observation.adoc[leveloffset=+2]
 
-include::partial$techniktraining/lektionstraining/uebungen/technisch/angriff-kavation-als-reaktion.adoc[leveloffset=+2]
+include::partial$techniktraining/lesson-training/exercises/technical/attack-cavitation-as-a-reaction.adoc[leveloffset=+2]
 
-== Lektionselemente zum Gegenangriff
+== Lesson elements for counterattacks
 
-include::partial$techniktraining/lektionstraining/uebungen/technisch/gegenangriff-meidbewegung.adoc[leveloffset=+2]
+include::partial$techniktraining/lesson-training/exercises/technical/counterattack-evasive-movement.adoc[leveloffset=+2]
 
-== Lektionselemente zur Parade/ Riposte
+== Lesson elements for parry/riposte
 
-include::partial$techniktraining/lektionstraining/uebungen/technisch/parade-tief-wurfstoss.adoc[leveloffset=+2]
+include::partial$techniktraining/lesson-training/exercises/technical/parry-low-throwing-thrust.adoc[leveloffset=+2]
 
-== Lektionselemente zur Beschäftigung
+== Lesson elements for engagement
