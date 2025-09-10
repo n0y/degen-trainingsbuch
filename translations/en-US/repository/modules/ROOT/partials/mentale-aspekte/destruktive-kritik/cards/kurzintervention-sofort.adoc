@@ -1,76 +1,76 @@
-= Kurzintervention: Versehentliche eigene destruktive Kritik
-:keywords: uebung
-:uebung-group: Training-Cards
+= Brief intervention: Accidental self-destructive criticism
+:keywords: exercise
+:uebung-group: Training Cards
 
 ifndef::ownpage[]
 
-xref:page$practices/mentale-aspekte/destruktive-kritik/cards/kurzintervention-sofort.adoc[als Coaching Card  ⤴]
+xref:page$practices/mental-aspects/destructive-criticism/cards/short-intervention-immediately.adoc[as Coaching Card  ⤴]
 
 endif::[]
 
-Ziele:
+Goals:
 
-* Negatives Feedback + Emotion ≠ Realität
-* → Entkoppeln + Embodiment + neue semantische Knoten + Wiederholung
+* Negative feedback + emotion ≠ reality
+* → Decoupling + Embodiment + New Semantic Nodes + Repetition
 
-Direkt nach einer versehentlichen destruktiven Kritik ist es wichtig, den negativen Satz nicht internalisieren zu lassen.
+Immediately after receiving inadvertently destructive criticism, it is important not to internalize the negative statement.
 
-Ansprache (ruhig, klar, direkt):
-
-[quote]
-____
-Lass uns das kurz löschen – das war ein schlechter Kommentar, aber du bist nicht verrückt / albern / ein Huhn.
-____
-
-oder humorvoll:
+Address (calm, clear, direct):
 
 [quote]
 ____
-Du bist kein Huhn. Höchstens ein Adler im Sturzflug, der noch justiert.
+Let's just delete that—it was a bad comment, but you're not crazy/silly/a chicken.
 ____
 
-NOTE: Wirkt, weil die sofortige semantische Umcodierung die automatische Verankerung im mentalen Lexikon unterbricht. Die lässt Distanz zum Kommentar entstehen (Disidentifikation).
-
-Ziel: Emotion überschreiben durch Bewegung (Embodied Reframing)
-
-Beispiel-Übung: „Zurück in deine Kraft“
-
-* Stelle dich breit hin.
-* Arme locker schwingen lassen.
-* Einatmen – Arme nach oben.
-* Ausatmen – Arme mit Schwung fallen lassen.
-* Dann 3 Sekunden in starker Haltung stehen (z. B. „Power-Pose“: Brust raus, Kopf hoch).
+or humorous:
 
 [quote]
 ____
-Spür mal, wie du jetzt im Körper bist. Das bist du – nicht der Spruch von außen.
+You're not a chicken. At most, an eagle in a nosedive, still adjusting its course.
 ____
 
-Ziel: Die ursprüngliche Bewegung neu rahmen mit einer neuen Bedeutung, nicht mit Korrektur.
+NOTE: Works because the immediate semantic recoding interrupts the automatic anchoring in the mental lexicon. This creates distance from the comment (disidentification).
 
-Ansprache: ruhig, zukunftsbezogen
+Goal: Overwrite emotion through movement (embodied reframing)
+
+Sample exercise: "Back to your power"
+
+* Stand with your feet apart.
+* Swing your arms loosely.
+* Inhale – arms up.
+* Exhale – let your arms fall with momentum.
+* Then stand in a strong posture for 3 seconds (e.g. "Power pose": chest out, head up).
 
 [quote]
 ____
-Was du da gemacht hast, war ein mutiger Versuch, neue Energie reinzubringen – daran bauen wir an.
+Feel how you are in your body right now. That's you—not what people say about you.
 ____
 
-oder
+Goal: Reframing the original movement with new meaning, not correction.
 
-[quote]
-____
-Ich hab da gute Ansätze gesehen. Wenn wir’s gemeinsam justieren, wird da was richtig Gutes draus.
-____
-
-Ziel: Metaphorische Sprache überschreibt die negativ bewertete Bewegung
+Speech: calm, forward-looking
 
 [quote]
 ____
-Mach sie nochmal – aber diesmal stell dir vor, du bewegst dich wie flüssiges Metall / ein elastischer Pfeil / ein Raubtier im Sprung.
+What you did there was a courageous attempt to bring in new energy—we're building on that.
 ____
 
-.Nochmal kurz: Beispielhafte 30-Sekunden-Reaktion auf abwertenden Kommentar:
-. „Vergiss den Huhn-Spruch – das war unnötig.“
-. Übung: Arme hoch, ausatmen, Power-Pose +
-„Spür mal: das ist deine Energie – bleib bei dir.“
-. „Dein Sprung hatte Mut – lass uns jetzt an Timing und Richtung drehen.“
+or
+
+[quote]
+____
+I've seen some promising approaches there. If we adjust it together, it will turn out really well.
+____
+
+Objective: Metaphorical language overrides the negatively perceived movement
+
+[quote]
+____
+Do it again—but this time imagine you are moving like liquid metal / an elastic arrow / a predator pouncing.
+____
+
+.Once again, briefly: An example of a 30-second response to a derogatory comment:
+. "Forget the chicken comment—that was unnecessary."
+. Exercise: Arms up, exhale, power pose +
+"Feel it: this is your energy—stay with yourself."
+. "Your jump was courageous—let's now work on timing and direction."
