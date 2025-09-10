@@ -1,83 +1,83 @@
-= Kurzintervention: Destruktive Kritik aus der eigenen Peer Group
-:keywords: uebung
-:uebung-group: Training-Cards
+= Brief intervention: Destructive criticism from one's own peer group
+:keywords: exercise
+:uebung-group: Training Cards
 
 ifndef::ownpage[]
 
-xref:page$practices/mentale-aspekte/destruktive-kritik/cards/kurzintervention-eigene-peergroup.adoc[als Coaching Card ⤴]
+xref:page$practices/mental-aspects/destructive-criticism/cards/brief-intervention-own-peer-group.adoc[as Coaching Card ⤴]
 
 endif::[]
 
-Emotionaler Kritik aus der eigenen Trainingsgruppe (Spott, Beleidigung) wiegen meist viel schwerer als Feedback von außen. Sie bedrohen genauso das Selbstbild, aber zusätzlich die soziale Sicherheit - und damit die Lernbereitschaft. TrainerInnen sind aber anwesend und können direkt eingreifen.
+Emotional criticism from one's own training group (mockery, insults) usually weighs much heavier than feedback from outside. They threaten self-image just as much, but also social security—and thus the willingness to learn. However, trainers are present and can intervene directly.
 
-Ziele der Intervention:
+Objectives of the intervention:
 
-* Sofortige emotionale Entschärfung für die betroffene AthletIn
-* Deutliches, aber nicht demütigendes Grenzenziehen gegenüber der Gruppe
-* Wiederherstellung von Würde, Spielraum und Lernmotivation
-* Reintegration der Gruppe durch Umfokussierung – nicht durch Strafe
+* Immediate emotional relief for the affected athlete
+* Setting clear but not humiliating boundaries with the group
+* Restoring dignity, freedom, and motivation to learn
+* Reintegrating the group by refocusing – not by punishing
 
-Ansprache: klare Körpersprache, ruhig (nicht laut), *Gruppe anschauen (nicht das Opfer*; signalisiert Schutz)
-
-[quote]
-____
-Stopp – das hier ist kein Platz für Spott.
-____
-
-oder
+Address: clear body language, calm (not loud), look at the group (not the victim; signals protection)
 
 [quote]
 ____
-Sowas sagen wir hier nicht. Punkt.
+Stop—this is no place for ridicule.
 ____
 
-Ziel: Bei allen Normen im mentalen Lexikon setzen - von "Leistung zählt" zu "Mut zählt"
+or
 
 [quote]
 ____
-Wisst ihr, Bewegung sieht bei jedem anders aus. Wer hier was wagt, verdient Respekt – nicht Kommentare
+We don't say things like that here. Period.
 ____
 
-oder auch
+Goal: Set all standards in the mental lexicon—from "performance counts" to "courage counts."
 
 [quote]
 ____
-Fehler zeigen Mut. Wer lacht, hat nicht verstanden, worum es hier geht.
+You know, exercise looks different for everyone. Those who dare to do something here deserve respect—not comments.
 ____
 
-Ansprache: kurz und ruhig, möglichst unter 4 Augen
+or
 
 [quote]
 ____
-Das war unfair. Du hast was riskiert – das ist stark. Ich will, dass du’s gleich nochmal machst. Und diesmal bist du für dich da, nicht für die anderen
+Mistakes show courage. Those who laugh have not understood what this is all about.
 ____
 
-Nach der Wiederholung hilft eine kurze, fokussierte Beobachtung ("Dein Timing war jetzt richtig mutig. Das zählt.")
-
-Alternative, falls wiederholung nicht möglich ist:
-
-Kurze Körperübung: fester Stand, zweimal bewusst atmen, Anspannen, Entspannen
-
-Ziel:
-
-* Spott überschreiben
-* Niemand verliert das Gesicht
-* Reintegration der Betroffenen durch gemeinsame Bewegung
-
-Übung für alle öffnen und Fokussierung aus den jeweils eigenen Stil:
+Address: brief and calm, preferably in private
 
 [quote]
 ____
-Okay – für alle nochmal dieselbe Aufgabe. Jeder hat einen Versuch, und jeder probiert’s auf seine Art, so wie's sonst keiner macht.
+That was unfair. You took a risk—that's impressive. I want you to do it again right now. And this time you're there for yourself, not for others.
+____
+
+After the repetition, a brief, focused observation helps ("Your timing was really brave just now. That's what counts.")
+
+Alternative if repetition is not possible:
+
+Short physical exercise: stand firmly, breathe twice consciously, tense up, relax
+
+Objective:
+
+* Overwrite mockery
+* No one loses face
+* Reintegration of those affected through joint exercise
+
+Open exercise for everyone and focus on your own style:
+
+[quote]
+____
+Okay—same task again for everyone. Everyone has a try, and everyone tries it their own way, in a way that no one else does.
 ____
 
 [cols="h,e,"]
 |===
-|1. Sofort-Stopp |Gruppennorm unterbrechen |„Stopp. Kein Spott hier.“
+|1. Immediate stop |Interrupt group standard |Stop. No mockery here."
 
-|2. Reframing für alle |Neue Bedeutung von Fehler & Mut |„Wer wagt, verdient Respekt.“
+|2. Reframing for everyone |New meaning of mistakes & courage |"Those who dare deserve respect."
 
-|3. Stabilisieren |Opfer emotional absichern + bestärken |„Das war mutig – du machst das nochmal. Ich bin bei dir.“
+|3. stabilize |Provide emotional support and reassurance to victims |That was brave—do it again. I am with you."
 
-|4. Reintegrieren |Neue Übung für alle |„Alle machen’s – 3 Versuche, jeder auf seine Weise.“
+|4. Reintegrate |New exercise for everyone |"Everyone does it—three attempts, each in their own way."
 |===
