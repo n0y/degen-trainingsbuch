@@ -1,29 +1,29 @@
-= Taktische Preparation: Oktav-Schlag
-:keywords: uebung
-:uebung-group: Partnerübungen (taktisch)
+= Tactical Preparation: Octave Strike
+:keywords: exercise
+:uebung-group: Partner exercises (tactical)
 
 ifndef::ownpage[]
 
-xref:page$practices/taktiktraining/partneruebung/taktische-preparation-1.adoc[Nur diese Übung]
+xref:page$practices/tactical-training/partner-exercise/tactical-preparation-1.adoc[This exercise only]
 
 endif::[]
 
-Entwicklen der taktischen Preparation in der Klingenarbeit
+Developing tactical preparation in blade work
 
-Partnerübung; Gasse; A und B stehen sich gegenüber
+Partner exercise; lane; A and B stand facing each other
 
-.Aufgabe
-* B bestimmt Abstand (in Sixt), A folgt in 2er-Mensur
-* B: Vorbereitung durch Oktav-Klingenschlag
-* A: beim vierten Schlag weicht A dem Klingenschlag aus (Kavation) und trifft zur Brust
-* B: Quart-Parade, Stoß Brust
+.task
+* B determines distance (in Sixt), A follows in 2-measure
+* B: Preparation by octave blade strike
+* A: On the fourth strike, A dodges the blade strike (cavitation) and strikes at the chest.
+* B: Quart parade, chest thrust
 
 //-
 
-.Varianten
-* in (4): Statt Stoß Brust lieber Filo Flanke
-* in (4): Halbkreis-Sixt statt Quart
-* in (2): Vorbereitung durch Kreissixt-Schlag
-* A setzt Kavations-Angriff sobald A möchte
-* Durchführung sehr langsam, sehr schnell
-* in (4) mit Rückwärtsbewegung, mit Vorwärtsbewegung
+.variants
+* in (4): Instead of a chest pass, a filo cross is preferable.
+* in (4): semicircle sixth instead of fourth
+* in (2): Preparation by Kreissixt stroke
+* A can use Cavation Attack whenever A wants.
+* Execution very slow, very fast
+* in (4) with backward movement, with forward movement
