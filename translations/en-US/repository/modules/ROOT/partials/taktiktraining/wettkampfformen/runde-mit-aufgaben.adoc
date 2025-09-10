@@ -1,26 +1,26 @@
-= Rundengefechte mit selbst gewählten Aufgaben
-:keywords: uebung
-:uebung-group: Übungsgefechte
+= Round battles with self-selected tasks
+:keywords: exercise
+:uebung-group: practice battles
 
 ifndef::ownpage[]
 
-xref:page$practices/taktiktraining/wettkampfformen/runde-mit-aufgaben.adoc[Nur diese Übung]
+xref:page$practices/tactical-training/competition-formats/round-with-tasks.adoc[Only this exercise]
 
 endif::[]
 
-.Ziele
-* Umsetzung taktischer Aufgaben im Wettkampfgefecht
-* Einschätzung der Fähigkeiten und Möglichkeiten der Gegner:in
-* Nutzen von Eigenschaften und Schwächen des Gegenübers
+.objectives
+* Implementation of tactical tasks in competitive combat
+* Assessment of the opponent's abilities and possibilities:
+* Utilizing the strengths and weaknesses of your counterpart
 
-Runde mit maximal sieben Teilnehmern. Jede:r ficht zweimal gegen jede:n.
+Round with a maximum of seven participants. Everyone fights twice against everyone else.
 
-.Vorbereitung
-* Die Trainer:in gibt eine Reihe möglicher Zusatzaufgaben vor - nach Möglichkeit mehr Aufgaben als Fechter:innen in der Runde.
-* Tableau mit möglichen Aufgaben zum Ausfüllen vorbereiten
+.Preparation
+* The trainer provides a series of possible additional tasks—if possible, more tasks than there are fencers in the group.
+* Prepare a table with possible tasks to fill in
 
-Hier eine xref:attachment$tableau-mit-aufgaben.pdf[Tableau-Vorlage mit Ausfüllmöglichkeit und vorbereiteten Zusatzaufgaben] zum Download.
+Here is an xref:attachment$tableau-mit-aufgaben.pdf[Tableau template with fillable fields and prepared additional tasks] for download.
 
-Jeweils einer der Fechter sucht für seine Gegnerin eine Zusatzaufgabe aus. Es wird auf fünf Treffer gefochten.
+One of the fencers chooses an additional task for their opponent. The match is fought to five hits.
 
-Sind alle durch, dann wird eine Rückrunde gefochten.
+Once everyone has finished, a second round is fought.
