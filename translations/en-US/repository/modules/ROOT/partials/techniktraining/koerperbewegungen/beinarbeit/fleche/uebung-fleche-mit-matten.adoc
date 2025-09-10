@@ -1,73 +1,73 @@
-= Übung: Fléche auf Weichbodenmatten
+= Exercise: Fléche on soft floor mats
 
-:keywords: uebung
-:uebung-group: Techniktraining
+:keywords: exercise
+:uebung-group: technical training
 
 ifndef::ownpage[]
 
-xref:page$practices/techniktraining/koerperbewegungen/beinarbeit/fleche/uebung-fleche-mit-matten.adoc[Nur diese Übung]
+xref:page$practices/technical-training/body-movements/footwork/fleche/exercise-fleche-with-mats.adoc[Only this exercise]
 
 endif::[]
 
-Gruppengröße bei jüngeren (<12 Jahre) bis sechs Personen
+Group size for younger children (<12 years) up to six people
 
-10-15 Minuten
+10-15 minutes
 
 .Material
-* Weichbodenmatte (hochkant als Stoßziel)
-* ausklappbare Sprossenwand oder Volleyball-Pfosten (oder ähnliches zur Fixierung der Matte)
-* Klebeband (oder ähnliches zu Markierung der Stoßziele und Abstände)
+* Soft floor mat (upright as a target)
+* Fold-out wall bars or volleyball posts (or similar items for securing the mat)
+* Adhesive tape (or similar for marking the target positions and distances)
 
 //-
 
-.Aufbau
-* Weichbodenmatte hochkant aufstellen und an Pfosten lehnen und befestigen (Klebeband, Seil, ...). Die Athlet:innen müssen an der Matte vorbeilaufen können
-* mit Klebeband Stoßziele markieren: in Schulterhöhe, in Bauchhöhe und an der schmalen Seite in Schulterhöhe und Bauchhöhe
-* Linien auf dem Boden zur Orientierung anbringen (Klebeband): 1m, 2m, 3m, 4m
+.structure
+* Place the soft floor mat upright, lean it against a post, and secure it (with tape, rope, etc.). The athletes must be able to run past the mat.
+* Mark targets with tape: at shoulder height, at belly height, and on the narrow side at shoulder height and belly height.
+* Mark lines on the floor for orientation (adhesive tape): 1 m, 2 m, 3 m, 4 m
 
-Die Übungen werden immer einzeln durchgeführt. Anstehschlange (deswegen !
+The exercises are always performed individually. Queue (that's why!)
 
-== Durchführung
+== Implementation
 
-1. Athlet:in stellt sich mit Linie auf, so dass die Spitze das Ziel berührt.
-1. Athlet:in geht vier Schritte zurück in Fechtstellung
-1. Athlet:in führt Auftaktbewegung aus: kleiner Schritt vor, kleiner Sprung vor
-1. Athlet:in beschleunigt aus dem hinteren Fuß, kippt über den vorderen Fuß und springt ab
-1. Athlet:in trifft und läuft rechts/links an der Matte vorbei
+1. Athlete lines up so that the tip touches the target.
+1. Athlete takes four steps back into fencing stance
+1. Athlete performs starting movement: small step forward, small jump forward
+1. Athlete accelerates from the rear foot, tilts over the front foot, and jumps off.
+1. Athlete hits and runs past the mat on the right/left
 
 //-
 
-.Variationen
-* Bei jedem Durchgang soll die Athlet:in selbst (mit Hilfe der Bodenmarkierungen) den Abstand für sich optimieren.
+.variations
+* During each run, the athlete should optimize the distance for themselves (with the help of the floor markings).
 
-Zusätzlich werden nach den ersten zwei Durchgängen zum Beispiel folgende Variationen hineingegeben (maximal zwei gleichzeitig)
+In addition, after the first two rounds, the following variations are added (maximum of two at a time), for example
 
-* Ziele ändern:
-** zwischen den Zielen abwechseln
-** zwei Ziele in einer Fléche treffen
-* Auftaktbewegung:
-** zwei Schritte
-** zwei Sprünge
-** aus dem Stand
-** mit Kreuzschritt
-* nach der Auftaktbewegung:
-** in die Hocke
-** Sprung im Stand
-** kleiner Sprung zurück
-** mit der Spitze den Boden berühren
-** einmal um sich selbst drehen
-* für den Fléche
-** direkt mit Linie
-** kurz den Arm anziehen
-** Ziel wechseln (oben/unten, unten/oben)
-** Sprungrichtung: gerade, schräg zur Seite
-** Sprunghöhe: hoch, flach
-* Auslaufbewegung:
-** hinteren Fuß möglichst früh/spät aufsetzen
-** hinteren Fuß direkt vor den vorderen oder in weitem Abstand setzen
-** knapp an der Matte vorbei laufen oder schräg von der Matte weg
-** beim Vorbeilaufen drehen, sodass die Waffe immer auf die Matte zeigt
-* Zusatzaufgaben
-** mit dem hinteren Arm kreisen: vorwärts/rückwärts
-** nach jedem Element eine Sekunde Pause machen
-** Gewicht möglichst weit nach vorne oder hinten
+* Change goals:
+** alternate between destinations
+** hit two targets in one fléche
+* Opening movement:
+** two steps
+** two jumps
+** from a standing position
+** with a cross step
+* after the opening movement:
+** squat
+** Standing jump
+** small jump back
+** touch the floor with the tip
+** spin around once
+* for the Fléche
+** directly with line
+** pull up your sleeve
+** Change target (top/bottom, bottom/top)
+** Jump direction: straight, diagonally to the side
+** Jump height: high, low
+* Outward movement:
+** Place your rear foot down as early/late as possible.
+** Place your back foot directly in front of your front foot or at a considerable distance.
+** run just past the mat or diagonally away from the mat
+** Turn as you run past so that the weapon is always pointing at the mat.
+* additional tasks
+** Circle with your rear arm: forward/backward
+** Pause for one second after each element.
+** Weight as far forward or backward as possible
