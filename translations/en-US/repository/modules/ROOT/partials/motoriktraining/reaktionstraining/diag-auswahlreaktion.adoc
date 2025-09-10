@@ -1,2 +1,2 @@
-.Reaktionszeit in Abhängigkeit zur Anzahl der Wahlmöglichkeiten
+.Reaction time depending on the number of choices
 image::diag-auswahlreaktion.svg[]
