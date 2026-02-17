@@ -16,20 +16,20 @@ _„Du machst das seit fünf Jahren, aber du hast immer noch keine Ahnung.“_
 oder metaphorische Demütigungen wie:
 _„Du hüpfst herum wie ein verrücktes Huhn.“_ +
 Solche Aussagen können das Selbstbild, die Motivation und die motorische Leistung erheblich beeinträchtigen
-include::partial$gen/bibliography.adoc[tags=Goleman1995Emotional]
+include::partial$gen/bibliography.adoc[tags=goleman_emotional_1995]
 , sowie
-include::partial$gen/bibliography.adoc[tags=Jowett2003Olympic]
+include::partial$gen/bibliography.adoc[tags=jowett_olympic_2003]
 .
 
 . *Psychologische Kriegsführung durch Gegner:innen* oder deren Team:
 In Wettkampfsportarten – insbesondere in Kampfsportarten mit direkter Konfrontation – wird destruktive Kommunikation gezielt als Mittel der Verunsicherung eingesetzt. Solche „Trash Talk“*-Taktiken sollen Zweifel, Wut oder Nervosität erzeugen, um die kognitive und motorische Leistungsfähigkeit zu untergraben.
 
 Solches Feedback aktiviert häufig das limbische System und kann zu einer emotionalen Blockade führen, die das Arbeitsgedächtnis beeinträchtigt und das Zugriffspotenzial auf gelernte motorische Programme reduziert
-include::partial$gen/bibliography.adoc[tags=Arnsten2009Stress]
+include::partial$gen/bibliography.adoc[tags=arnsten_stress_2009]
 .
 
 Ein effektiver Umgang mit destruktivem Feedback setzt daher auf emotionale Regulation, metakognitive Strategien und sprachlich gestützte Resilienztechniken (z. B. Reframing, semantische Entkopplung oder Perspektivwechsel), um negative semantische Aktivierungen im mentalen Lexikon zu neutralisieren oder umzuleiten
-include::partial$gen/bibliography.adoc[tags=Gross2002Emotion]
+include::partial$gen/bibliography.adoc[tags=gross_emotion_2002]
 .
 
 == Umgang mit destruktiver Kritik
@@ -50,7 +50,7 @@ include::partial$mentale-aspekte/destruktive-kritik/gegenmassnahmen.adoc[levelof
 == Resilienzbildung gegen destruktive Kritik
 
 Die gezielte Ausbildung von psychologischer Widerstandsfähigkeit (Resilienz) zählt zu den wirksamsten Maßnahmen, um Athlet:innen langfristig vor den negativen Effekten destruktiven Feedbacks zu schützen. Resiliente Sportler:innen sind besser in der Lage, emotionale Kränkungen, äußere Herabsetzung oder überzogene Kritik zu verarbeiten, ohne dass ihr Selbstbild oder motorisches Lernen negativ beeinflusst wird
-include::partial$gen/bibliography.adoc[tags=Fletcher2012grounded]
+include::partial$gen/bibliography.adoc[tags=fletcher_grounded_2012]
 .
 
 Zur praktischen Resilienzbildung haben sich folgende Methoden bewährt:
@@ -58,7 +58,7 @@ Zur praktischen Resilienzbildung haben sich folgende Methoden bewährt:
 . *Rollenspiele mit "fiesen Coaches"*
 In kurzen szenischen Übungen geben Trainer:innen gezielt überzeichnet negatives Feedback. Die Sportler:innen lernen, eine körperlich-mentale Haltung zu bewahren und gezielte Reaktionen einzuüben, z. B. durch innere Selbstansprache oder bewusst gesetzte Gestik. +
 Ziel: Aufbau kognitiver Immunität durch emotionale Antizipation
-include::partial$gen/bibliography.adoc[tags=Gross1998Emerging]
+include::partial$gen/bibliography.adoc[tags=gross_emerging_1998]
 .
 
 . *„Was denkst du gerade?“ – Kognitive Umleitung trainieren*
@@ -67,14 +67,14 @@ _„Was ging dir gerade durch den Kopf?“_ +
 So wird trainiert, automatische Gedanken wahrzunehmen und ggf. umzuleiten (Reattribution) und bewusst mit externem Feedback umzugehen +
 Beispiel: Statt „Ich kann das nie!“ lieber „Das war ein Hinweis auf mein Timing.“ +
 Ziel: Aufbau metakognitiver Kontrolle über spontane Selbstbewertungen
-include::partial$gen/bibliography.adoc[tags=Beck1979Cognitive]
+include::partial$gen/bibliography.adoc[tags=beck_cognitive_1979]
 .
 
 . *Bewegungsrituale nach Rückschlägen*
 Kleine Routinen wie das Ausschütteln der Arme, bewusstes Atmen oder ein symbolischer „Reset-Gestus“ helfen, Misserfolge körperlich-emotional zu verarbeiten. +
 Beispiel: *„Shake-it-Off“-Ritual* nach einem Fehlversuch: „Ich lasse los – nächster Versuch.“ +
 Ziel: Embodied Recovery, also körpergestützte Selbstregulation nach negativem Reiz
-include::partial$gen/bibliography.adoc[tags=Fustos2012On]
+include::partial$gen/bibliography.adoc[tags=fustos_embodiment_2012]
 .
 
 Außerdem empfiehlt es sich, nach einem Gruppengespräch mit den AthletInnen, bei dem die relevanten Punkte angesprochen werden, zustätzlich eine Trainingskarte auszuhändigen, die die Athleten stets zur Hand haben können.

@@ -10,7 +10,7 @@ endif::[]
 
 
 Folgender Trainingsplan, basierend auf
-include::partial$gen/bibliography.adoc[tag=EHIiS]
+include::partial$gen/bibliography.adoc[tags=engel_hochintensives_2018]
 , setzt Hochintensives Intervalltraining mit zwei Einheiten pro Woche (unter 30 Minuten pro Einheit) um und wurde erfolgreich mit Erwachsenen und Schulkindern (12 Jahre) angewendet.
 
 Der "normale Lauf" (ohne Angabe) in der Einheit bezieht sich auf 90% der Geschwindigkeit eines 6-Minuten-Laufs, die am Anfang der 6-Wochen-Einheit ermittelt wird. Je nach Ausstattung kann dabei die Geschwindigkeit oder die (besser) die Herzfrequenz als Vorgabe dienen. Wird die Herzfrequenz eingesetzt, dann fällt damit ebenfalls der Leistungsdruck weg, der gerade beim Einstieg in ein Ausdauertraining demotivierend wirkt.

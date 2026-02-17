@@ -1,7 +1,7 @@
 = Fléche
 
 Die Fléche (auch: Sturzangriff) ist speziell im Degen-Fechten eine grundlegende Aktion, die häufig angewendet wird. Sie wird detailliert bepsw. in
-include::partial$gen/bibliography.adoc[tag=ErlFe]
+include::partial$gen/bibliography.adoc[tags=molter_erlebniswelt_2006]
 beschrieben.
 
 Charakterisierend ist, dass die Balance zugunsten einer höheren Beschleunigung aufgegeben wird. Damit lässt sich eine Fléche nicht abbrechen.

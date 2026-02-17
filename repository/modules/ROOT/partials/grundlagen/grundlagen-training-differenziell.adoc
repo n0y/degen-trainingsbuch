@@ -1,9 +1,9 @@
 == Individualität der Bewegungen
 
 Zusätzlich zur Unmöglichkeit, identische Bewegungen auszuführen
-include::partial$gen/bibliography.adoc[tag=SDLL]
+include::partial$gen/bibliography.adoc[tags=schollhorn_differenzielles_2005]
 ist inzwischen bekannt, dass der Variationsbereich individueller Bewegungen in jedem Leistungsniveau erstaunlich hoch ist
-include::partial$gen/bibliography.adoc[tag=IIMSHP]
+include::partial$gen/bibliography.adoc[tags=schollhorn_identifying_1998]
 .
 Beispielsweise zeigen Analysen von Fechtern auf Olympianiveau systematische Unterschiede in Handhaltung, Schrittfrequenz und Trefferwinkel – trotz vergleichbarer Zieltechnik.
 
@@ -14,13 +14,13 @@ Auch für Trainer:innen sind Idealtechnik und einschleifende Lehrverfahren riska
 Neuere Lernverfahren und -Theorien vertreten darauf aufbauend eine deutlich dynamischere Auffassung zum Lernprozess:
 
 * Das *Differenzielles Lernen*
-include::partial$gen/bibliography.adoc[tag=InVP]
+include::partial$gen/bibliography.adoc[tags=schollhorn_individualitat_1999]
 geht davon aus, dass eine Verstärkung der ohnehin auftretenden Fluktuationen im Lernprozess eine leistungssteigernde Wirkung besitzen und nutzt sie gezielt.
 * Die *Dynamische Systemtheorie* nach
-include::partial$gen/bibliography.adoc[tag=KelsoDynPa1995]
+include::partial$gen/bibliography.adoc[tags=kelso_dynamic_1995]
 nutzt Selbstorganisation und Phasenübergänge im Verhalten, um motorische Entwicklung zu fördern.
 * Der *Constraint Led Approach* z.B. in
-include::partial$gen/bibliography.adoc[tag=BDKRDynSkillAc2008]
+include::partial$gen/bibliography.adoc[tags=button_dynamics_2008]
 führt die Idee ein, dass Training Lernumgebungen gestalten muss – statt idealisierte Technik beizubringen.
 
 Wir wollen daher keine ideale Zieltechnik vorgeben, sondern in möglichen (durchaus weiten) Lösungsbereichen und Lernumgebungen trainieren. Wir gehen davon aus, dass die Interpolationsfähigkeit des Menschen es ermöglicht, das individuelle Ideal zwischen bereits erfahrenen Werten zu ermitteln.
@@ -44,11 +44,11 @@ Für dieses Training wird der Randbereich des Lösungsraums abgetastet, in dem d
 NOTE: *Lösungsraum*: Für einen geraden Stoß ergibt sich der Lösungsraum aus allen Komponenten, die variiert werden können, um das Ziel, ohne Änderung der Auslage zu treffen, zu erreichen. Beispielsweise kann die Hand gedreht werden oder der Stoß mit gleichbleibender oder beschleunigter Bewegung durchgeführt werden.
 
 Im gesamten Lernprozess wird keine Aufgabe unverändert wiederholt, sondern der Athlet stets mit neuen Aufgaben konfrontiert. Zentraler Ansatz ist es, den Athleten auf das Neue in verstärkter Form vorzubereiten, weil es ohnehin bei einfacher Wiederholung in abgeschwächter Form auftritt
-include::partial$gen/bibliography.adoc[tag=SDLL]
+include::partial$gen/bibliography.adoc[tags=schollhorn_differenzielles_2005]
 . Es wird also die Anpassungsfähigkeit an neue Aufgaben betont.
 
 Ein Aspekt des einschleifenden Lernens ist die hohe Wiederholungszahl. Diese ist tatsächlich für den Lernprozess notwendig, denn nur viele Wiederholungen führen zu relevanten neuroplastischen Änderungen im Gehirn
-include::partial$gen/bibliography.adoc[tags=Kami1995Functional]
+include::partial$gen/bibliography.adoc[tags=kami_functional_1995]
 . Es ist allerdings darauf zu achten, dass weiterhin hohe Fehlerraten erreicht werden können: Werden Bewegungen nahezu fehlerfrei ausgeführt, dann kann kaum noch Lernen stattfinden.
 
 Wir wollen unseren Schüler:innen eine für sie neue Technik nur kurz erläutern. Detaillierte Erklärungen und Demonstrationen sollen zugunsten einer hohen Wiederholungszahl und dem Abtasten eines großen Lösungsbereiches zurückstehen. Dabei ist auf intensive Rückmeldung zu achten: durch bewusstes Erleben und durch Sichtbarmachen der Auswirkungen.
@@ -58,7 +58,7 @@ Ständiges Konfrontieren mit neuen Aufgaben ist einer der Kerne der differenziel
 Stabilität im Ganzen entsteht als emergentes Ergebnis, dass durch Anpassungsfähigkeit im Kleinen geschult und erzielt wird.
 
 Ein zusätzlicher Vorteil wird beim Lehren von Kindern und Jugendlichen erzielt, die durch fortlaufend ändernde Einflussfaktoren (Wachstum, Änderung der Proportionen, …) ständiger Anpassungen ihrer Technik bedürfen, die zumindest in der Gruppe von einem Lehrenden nicht mehr geleistet werden kann
-include::partial$gen/bibliography.adoc[tag=DLPVSS]
+include::partial$gen/bibliography.adoc[tags=dorner_differentielles_2013]
 .
 
 Wichtig dabei ist, dass bei der Umsetzung nicht nur die theoretisch optimale, konkrete Lösung durch Variation gegen andere Lösungen stabilisiert wird. Stattdessen wird ein Lösungsraum umkreist, um auf jeden Fall neue, situativ optimale Lösungen auszuführen.
@@ -68,21 +68,19 @@ NOTE: Ein Fechter trainiert beispielsweise Angriffe aus 10 verschiedenen Distanz
 == Effektivität und Effizienz der differenziellen Lehrmethoden
 
 In verschiedenen Sportarten wurde die differenzielle Lehrmethode mit Erfolg angewandt. Zu einer ganzen Reihe davon sind Studien veröffentlicht. So im Fußball
-include::partial$gen/bibliography.adoc[tag=DLiSc]
+include::partial$gen/bibliography.adoc[tags=trockel_differenzielles_2003]
 , Kugelstoßen
-include::partial$gen/bibliography.adoc[tag=DLiSP]
+include::partial$gen/bibliography.adoc[tags=beckmann_differenzielles_2003]
 , Golf
-include::partial$gen/bibliography.adoc[tag=MTSG]
+include::partial$gen/bibliography.adoc[tags=wewetzer_motorisches_2008]
 , Tennis
-include::partial$gen/bibliography.adoc[tag=DLTTA]
+include::partial$gen/bibliography.adoc[tags=schollhorn_differenzielles_2008]
 , Handball
-include::partial$gen/bibliography.adoc[tag=WHBAT]
+include::partial$gen/bibliography.adoc[tags=grubinger_wurftraining_2007]
 , Volleyball
-include::partial$gen/bibliography.adoc[tag=DLeiVb]
+include::partial$gen/bibliography.adoc[tags=romer_differenzielles_2014]
 , Radsport
-include::partial$gen/bibliography.adoc[tag=VBDTR]
-, Ausdauertraining
-include::partial$gen/bibliography.adoc[tag=DAVNW]
+include::partial$gen/bibliography.adoc[tags=bauer_veranderung_2007]
 .
 
 In allen untersuchten Fällen wurde die Vorhersage größerer Effektivität des differenziellen Lernansatzes durch Verstärkung des Rauschens bei Anfängern und Fortgeschrittenen bestätigt (signifikant bis hochsignifikant, p=0,02 bis 0,04).
@@ -92,7 +90,7 @@ Schon am Ende der untersuchten Interventionen wird der Vorteil gegenüber andere
 .Darstellung  der  Integration  aller  Lerntheorien  mithilfe  des  Parameters  „Rauschen“
 image::int-lernm.png[]
 aus
-include::partial$gen/bibliography.adoc[tag=SPAFESA]
+include::partial$gen/bibliography.adoc[tags=schollhorn_stochastic_2010]
 
 Wichtiges Kriterium bei der Auswahl geeigneter Lernverfahren für Training im Verein ist die Anwendbarkeit in größeren Gruppen. Dabei ist davon auszugehen, dass jeder Lernende ganz eigene, unterschiedliche Voraussetzungen mitbringt, die jeweils zu unterschiedlichen Leistungsoptima führen muss.
 

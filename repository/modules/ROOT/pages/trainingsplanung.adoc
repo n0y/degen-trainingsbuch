@@ -3,7 +3,7 @@
 :keywords: Fechten,Degen-Fechten,Training,Kampfsport,Trainingsplanung,Saisonplanung
 
 Für Aufbau und Integration der verschiedenen Trainingsbestandteile orientieren wir uns an
-include::partial$gen/bibliography.adoc[tag=HICCA]
+include::partial$gen/bibliography.adoc[tags=ruddock_high-intensity_2021]
 , Seite 11. Dabei sind die Trainingsinhalte entsprechend der zur Verfügung stehenden Trainingsmittel und -zeiten anzupassen.
 
 == Saison-Planung
@@ -28,7 +28,7 @@ Trotz der Orientierung auf einen Saison-Höhepunkt sind in der Regel trotzdem We
 . 15min Beinarbeit (3x3min, 1min Pause)
 . 30min Partner-Übung/Lektion: Eröffnung Handgelenk unten, TBB 1/4/1, 2/4/1, 2/4/2, 2/4/6 als Auswahlübung
 . 15min Krafttraining/Muskelaufbau nach
-include::partial$gen/bibliography.adoc[tag=ESTSCT]
+include::partial$gen/bibliography.adoc[tags=kostikiadis_effect_2018]
 , Tabelle 1
 . 30min einfache Gefechte mit Aufgabe zur Erholung
 . 15min für Pausen
@@ -50,7 +50,7 @@ SIT als zwei zusätzliche Wocheneinheiten selbständig nach Trainingsplan.
 . 5min intensive Beinarbeit (3x 1min, 1min Pause)
 . 30min Partnerübung/Lektion: Mensurarbeit und Präparationen, Sperrstöße, Meidhandlungen
 . 15min HIIT Workout, Nr. 86, Level I aus
-include::partial$gen/bibliography.adoc[tag=RHIITW]
+include::partial$gen/bibliography.adoc[tags=rey_100_2019]
 . 60min Trainingsgefechte mit Fechtaufgaben
 
 Einfaches Krafttraining separat im Kraftraum (zwei Einheiten pro Woche).

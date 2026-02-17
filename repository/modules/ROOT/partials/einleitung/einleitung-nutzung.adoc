@@ -1,0 +1,44 @@
+== Wie Sie dieses Buch benutzen (und wie Du es liest)
+
+Wir wissen, dass Sie keine Zeit zu verlieren haben. Die nächste Trainingseinheit wartet, das nächste Turnier steht vor der Tür. Deshalb haben wir dieses Buch so aufgebaut, dass es für unterschiedliche Bedürfnisse unterschiedliche Wege bietet. Betrachten Sie es als ein Buffet: Nehmen Sie sich das, was Sie gerade brauchen, und lassen Sie den Rest getrost für später liegen.
+
+=== Der Methodik-Teil: Für die Architektur-Nerds
+
+Hier gehen wir in den Maschinenraum. Wir erklären die gesamte Wissenschaft hinter dem *Fintenfisch-Prinzip*. Wir sprechen über die Grundlagen des *Differential Learning*, über Freiheitsgrade in der Bewegung und darüber, wie Druckbedingungen (Zeit, Präzision, Gegner) das Lernen beeinflussen. Wir sprechen über Komplexreaktion und Millisekunden. Über Beck und Harmenberg.
+
+Wenn Sie verstehen wollen, _warum_ wir die Beinarbeit in Reihen so leidenschaftlich ablehnen und was genau im Gehirn passiert, wenn man ständig variiert, statt zu wiederholen, dann ist dies Ihr Abschnitt. Es ist die Referenz für alle, die das „Warum“ hinter dem „Wie“ suchen.
+
+_Spoiler_: Du kannst diesen Teil komplett überspringen, ohne einen Nachteil zu haben – außer vielleicht ungestillter Neugier. Dein Körper versteht diese Prinzipien nämlich auch, ohne dass Du die Fachbegriffe dafür kennst.
+
+=== Der Coach-Teil: Hands-on und voller Leben
+
+Das ist das Herzstück für Dich, wenn Du am Rand der Bahn stehst und echtes Lernen ermöglichen willst. Hier zeigen wir, wie man Menschen den Sport beibringt – von der ersten Schnupperstunde der Kleinsten bis hin zur taktischen Finesse für super erfahrene Fechtende.
+
+Wir liefern Dir keine starren Stundenpläne (obwohl, auch dafür gibt es Beispiele), sondern ein Baukastensystem:
+
+* Small-Sided Games (SSG): Spiele, die echtes Fechten atmen.
+* Variationskataloge: Wie Du eine einfache Übung durch kleine Änderungen (Constraints) in eine hochkomplexe Lernumgebung verwandelst.
+* Anleitungen, wie Du Dein eigenes Training so zusammenbaust, dass es immer spannend, immer neu und immer hocheffektiv bleibt.
+* und die Psychologie: Wie Du leistungsfördernd mit Athleten kommunizieren
+
+=== Der Athleten-Teil: Hacke Dein eigenes Training
+
+Dieser Abschnitt ist für Dich, wenn Du selbst auf der Planche stehst. Egal, ob Dein Coach die Fintenfisch-Methoden bereits anwendet oder ob er Euch (liebe Altmeister) noch immer in Linien aufstellen lässt: Erfahre hier, was Du selbst tun kannst.
+
+* Wir zeigen Dir, wie Du Deine Freigefechte so führst, dass sie nicht nur Spaß machen, sondern Dich gezielt voranbringen.
+* Wir geben Dir Strategien an die Hand, wie Du aus einer stupiden Stoßübung oder einer repetitiven Partnerübung etwas für Dich Nützliches machst, ohne den Trainingsfluss zu stören.
+* Zudem erfährst Du, wie modernes, sportartspezifisches Athletik-Training funktioniert, das Dich wirklich schneller am Gegner macht, statt nur Deine Muskeln aufzupumpen.
+
+=== Die technische Referenz: Mythen auf dem Prüfstand
+
+Zum Schluss räumen wir auf. Im technischen Referenzteil nehmen wir fast jede gängige Fecht-Aktion unter die Lupe. Aber wir tun das nicht, um Ihnen zu sagen, wie es „richtig“ geht. Wir analysieren die Varianten und ihre Auswirkungen.
+
+Wir hinterfragen Mantras wie „Arm-vor-Bein“. Wir sagen nicht, dass es falsch ist – wir zeigen Ihnen, welche spezifischen Vor- und Nachteile es in welcher Situation hat. Wir diskutieren, warum es in einem Moment genial sein kann, den Schritt mit der Ferse zu beginnen, und warum man im nächsten Moment besser mit den Zehen voran in die Mensur des Gegners gleitet.
+
+Hier lernen Sie, Technik nicht als Dogma zu sehen, sondern als Werkzeugkasten für Ihre taktischen Ziele.
+
+=== Ein Versprechen
+
+Egal, welchen Weg Sie durch dieses Buch wählen und für welchen Teil Du Dich entscheidest: Wir bleiben optimistisch, ein bisschen ironisch gegenüber verstaubten Methoden und immer zu 100 % auf der Seite derer, die den Degen in der Hand halten.
+
+Fechten ist zu schön, um es durch langweiliges Training zu ruinieren. Lasst uns anfangen.

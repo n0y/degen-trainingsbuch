@@ -43,17 +43,17 @@ Die Beispiele am Anfang des Kapitels fallen in den Bereich der geschlossenen Agi
 == Erfahrungen in anderen Kampfsportarten
 
 Sichten wir die Literatur zum Thema Agilität und <beliebige Kampfsportart>, dann sind nur wenige Veröffentlichungen zu finden, meistens im Bereich Tae-Kwon-Do und Karate. Sichtet man diese Fachartikel, dann wird schnell klar, dass es sich fast ausschließlich im geschlossene Agilitätstests handelt, bei denen auf Reize geantwortet wird, die nicht Sportart-spezifisch sind:
-include::partial$gen/bibliography.adoc[tag=LuGed]
+include::partial$gen/bibliography.adoc[tags=schermer_lernen_2013]
 ,
-include::partial$gen/bibliography.adoc[tag=FARB]
+include::partial$gen/bibliography.adoc[tags=sienkiewicz-dianzenza_impact_2019]
 ,
-include::partial$gen/bibliography.adoc[tag=PTAGTA]
+include::partial$gen/bibliography.adoc[tags=singh_effect_2015]
 .
 
 Tatsächlich vergleichen einige Artikel lediglich Athleten verschiedener Sportarten bezüglich ihrer Reaktionszeiten und erreichten Werte in vordefinierten Tests:
-include::partial$gen/bibliography.adoc[tag=APADSS]
+include::partial$gen/bibliography.adoc[tags=zemkova_agility_2014]
 ,
-include::partial$gen/bibliography.adoc[tag=DCRTV]
+include::partial$gen/bibliography.adoc[tags=zemkova_differential_2016]
 .
 
 Dabei erfahren wir zwar, wie schnell sich die Athleten bewegen können, aber wir erfahren wenig darüber, wie agil sie in ihrer jeweiligen Kampfsportart agieren.
@@ -65,7 +65,7 @@ Um herauszufinden, warum das so ist, lohnt sich ein Blick in die Invasionssporta
 Betrachtet man Agilitätstests aus anderen Sportarten, dann wird dort tatsächlich die Geschwindigkeit der Richtungsänderungen gemessen (change of direction speed, CODS). Dabei weiß der Athlet, wo, wann und wie die entsprechende Änderung durchgeführt werden soll.
 
 Nun sind aber CODS und Agilität unterschiedliche Fertigkeiten. In
-include::partial$gen/bibliography.adoc[tag=ACIS]
+include::partial$gen/bibliography.adoc[tags=young_agility_2015]
 zeigt der Autor, einer der führenden Agilitätsexperten, in einer Metastudie, dass CODS und Agilität nur zu 21 % korreliert sind.
 
 Da die Korrelation unter 0.5 liegt, sind CODS und Agilität unabhängig voneinander. Oder anders ausgedrückt: Schnell zu sein und seine Geschwindigkeit und Richtung schnell ändern zu können, heißt nicht, auch erfolgreich und schnell auf Sportart-spezifische Reize reagieren zu können, um beispielsweise Angriffen ausweichen zu können.
@@ -102,27 +102,27 @@ Um herauszufinden, ob wie wichtig eine Fertigkeit für eine Sportart ist, kann m
 Leider konnte ich im Bereich der Kampfsportarten keine derartigen Vergleiche im Bereich der Agilität finden, sodass ein Rückgriff auf die Forschungen im Bereich der Team-Sportarten nötig wird.
 
 In Netball- und Rugby-Liegen hatten höherklassige Athleten deutlich höhere Entscheidungsgeschwindigkeiten in Reaktion zu Sportart-spezifischen Reizen als durchschnittliche Athleten (siehe
-include::partial$gen/bibliography.adoc[tag=DTRAN]
+include::partial$gen/bibliography.adoc[tags=farrow_development_2005]
 und
-include::partial$gen/bibliography.adoc[tag=RARLP]
+include::partial$gen/bibliography.adoc[tags=gabbett_reactive_2009]
 ). Im Australischen Football sind professionelle Spieler deutlich schneller und präziser in der Entscheidungsfindung, wenn sie auf Richtungsänderungen der Angreifer reagieren:
-include::partial$gen/bibliography.adoc[tag=APASA]
+include::partial$gen/bibliography.adoc[tags=carlon_association_2013]
 .
 
 Ähnliche Resultate wurden bei Fußballspielern gefunden: sie reagieren schneller und genauer, wenn sie Passrichtungen in Eins-zu-Eins-Situationen antizipieren:
-include::partial$gen/bibliography.adoc[tag=VSSAE]
+include::partial$gen/bibliography.adoc[tags=williams_visual_1998]
 .
 
 Höherklassige Athleten sind außerdem weniger anfällig für Finten:
-include::partial$gen/bibliography.adoc[tag=EFRAP]
+include::partial$gen/bibliography.adoc[tags=henry_effects_2012]
 ,
-include::partial$gen/bibliography.adoc[tag=ASSDM]
+include::partial$gen/bibliography.adoc[tags=jackson_anticipation_2006]
 .
 
 Und auch insgesamt geht hervor: Top-Athleten sind nur dann signifikant besser, wenn es um die Antwort auf Sportart-spezifische Reize geht.
 
 Was heißt das für das Training? Reaktive Übungen, z.B. mit Tennisbällen, Koordinationsleitern, Lichtern, o.ä., sind zu allgemein gehalten, um auf die Agilität in der Kampfsportart selber übertragen zu werden. Daraus verweist auch Barth in
-include::partial$gen/bibliography.adoc[tag=BBFTMG]
+include::partial$gen/bibliography.adoc[tags=barth_fechttraining_2005]
 hin, indem er empfiehlt, bei Übungen auf nicht Sportart-spezifische Signale wie Kommandos, Pfiffe und dergleichen zu verzichten.
 
 Agilität muss als offene Fertigkeit mit Sportart-spezifischen Reizen trainiert werden, mit Unterstützung der spezifischen physischen Fertigkeiten.
@@ -145,7 +145,7 @@ Reaktive Stärke ist die Fähigkeit, Kraft in einem sehr kurzen Zeitintervall (<
 
 * Seilspringen
 * Fußgelenkarbeit: siehe
-include::partial$gen/bibliography.adoc[tag=SLAS]
+include::partial$gen/bibliography.adoc[tags=schollhorn_schneller_2011]
 * Hürdenlauf
 * Liniensprünge
 * Schnelle Hüftwürfe mit dem Medizinball

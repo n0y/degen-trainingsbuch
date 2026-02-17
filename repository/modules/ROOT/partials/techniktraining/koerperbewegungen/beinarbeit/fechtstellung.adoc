@@ -9,7 +9,7 @@ Zusätzlich soll bereits aus dem Stand eine große Treffer-Reichweite erzielt we
 Für Ausweichbewegungen ist eine hohe Hüftbeweglichkeit von Vorteil.
 
 Im Vergleich zur traditionellen Fechtstellung, bspw. in
-include::partial$gen/bibliography.adoc[tag=ErlFe]
+include::partial$gen/bibliography.adoc[tags=molter_erlebniswelt_2006]
 , Kap 4.1, ergeben sich mehrere Möglichkeiten zur Anpassung, um die spezifischen Anforderungen im modernen Degenfechten angemessen zu erfüllen. Dabei ergeben sich für jede Anpassung jeweils Vorteile und Nachteile.
 
 .Moderne Fechtstellung am Beispiel von https://en.wikipedia.org/wiki/Choi_In-jeong[Choi In-jeong]
@@ -36,7 +36,7 @@ _Nachteile_: größere Trefffläche, höheres Verletzungsrisiko
 _Vorteile_: mehr Stoßdynamik, dominantere Körpersprache +
 _Nachteile_: größere Trefffläche, Handauslagen muss angepasst werden
 * Der vordere Arm wird stärker angewinkelt, oft in einem Winkel von 90°. Da die explosive Armstreckung in unter 100ms erfolgt
-include::partial$gen/bibliography.adoc[tag=AREKinSP]
+include::partial$gen/bibliography.adoc[tags=abazari_kinematic_2016]
   und die Muskulatur in stärkerer Expansion höhere Kräfte erreicht, kommt auch aus dieser Position ein Treffer nahezu gleichzeitig auf. Es lässt sich dadurch ohne Nachteile eine höhere Manövrierfähigkeit erreichen und die Hand ist vor Angriffen besser geschützt. +
 _Vorteile:_ Paraden näher am Körper, Arm besser zu verteidigen, einfachere Stoßtäuschungen +
 _Nachteile:_ Spontane Angriffe schwieriger

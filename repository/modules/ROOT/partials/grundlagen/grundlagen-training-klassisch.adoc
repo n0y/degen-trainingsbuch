@@ -4,36 +4,36 @@
 Grundlage für traditionelles Lehren und Lernen in Verein und Schule sind drei Modellarten: (1) Lernmodelle, (2) Lehrmodelle, (3) Bewegungsmodelle.
 
 Wesentliche Lernmodelle sind nach
-include::partial$gen/bibliography.adoc[tag=LuGed]
+include::partial$gen/bibliography.adoc[tags=schermer_lernen_2013]
 
 [loweralpha]
 . Lernen durch Kontiguität, bzw. klassische Konditionierung nach Pawlow und Guthrie aus der Frühzeit der Lernpsychologie.
 . Lernen durch Verstärkung/ operante Konditionierung nach Thorndike, Hüll, Skinner
 . Lernen durch Beobachtung
-include::partial$gen/bibliography.adoc[tag=SFTA]
+include::partial$gen/bibliography.adoc[tags=bandura_social_1986]
 . Lernen durch Einsicht, Bewusstmachen von Bewegung
-include::partial$gen/bibliography.adoc[tag=IaA]
+include::partial$gen/bibliography.adoc[tags=kuhler_intelligenzpufungen_1973]
 
 Wesentliche Lehrmethoden sind nach
-include::partial$gen/bibliography.adoc[tag=AMdL]
+include::partial$gen/bibliography.adoc[tags=fetz_allgemeine_1976]
 [loweralpha]
 . Methodische Reihen (motorische, konditionelle, Spielreihen)
 . Induktive – Deduktive Lehrkonzepte mit analytischen/synthetischen Realisierungsansätzen
 
 Grundlegende Bewegungsmodelle sind nach
-include::partial$gen/bibliography.adoc[tag=SDLL]
+include::partial$gen/bibliography.adoc[tags=schollhorn_differenzielles_2005]
 
 [loweralpha]
 . Open-Loop-Modell nach
-include::partial$gen/bibliography.adoc[tag=AMAEM]
+include::partial$gen/bibliography.adoc[tags=lashley_accuracy_1917]
 (beispielsweise beim Angriff mit Fléche)
 . Closed-Loop-Modell nach
-include::partial$gen/bibliography.adoc[tag=CLTML]
+include::partial$gen/bibliography.adoc[tags=adams_closed-loop_1971]
 (beispielsweise während des Mensurspiels)
 . schematheoretisches Modell nach
-include::partial$gen/bibliography.adoc[tag=STDMSL]
+include::partial$gen/bibliography.adoc[tags=schmidt_schema_1975]
 und
-include::partial$gen/bibliography.adoc[tag=WVKF]
+include::partial$gen/bibliography.adoc[tags=roth_wie_1998]
 
 == Probleme und Widersprüche der klassischen Trainingslehre
 
@@ -46,16 +46,16 @@ Auch explorative Methoden ("Versuch und Irrtum") werden bisweilen als Methode ei
 // TODO: Bezug zur "funktionalen Variabilität"?
 
 Dabei ist die vorgegebene Ideal-/Zieltechnik häufig problematisch: Sie ist manchmal veraltet, oft in sich widersprüchlich und in jedem Fall nicht an die Individualität der SchülerInnen angepasst. Dennoch sollen die SchülerInnen sich nach dem Prinzip der Übereinstimmung
-include::partial$gen/bibliography.adoc[tag=SOTP]
+include::partial$gen/bibliography.adoc[tags=djackov_steuerung_1977]
 )
 iterativ den "korrekten" Lösungen annähern, die mit hoher Wiederholungszahl eingeschlossen werden sollen
-include::partial$gen/bibliography.adoc[tag=HaTra]
+include::partial$gen/bibliography.adoc[tags=martin_handbuch_2001]
 .
 
 Zu beachten ist, dass innovative Neuerungen im Sport normalerweise erfolgen, wenn sich Trainer und Athleten nicht daran orientieren, sondern Technik und Taktik in einem neuen Umfeld neu denken oder neu erproben. Ein beispiel ist der Angriff mit Fléche: Er wurde durch moderne Schutzausrüstung gefahrlos praktizierbar, aber es dauerte Jahre, bis er seinen Einzug ins Standard-Repertoir des Degenfechtens fand.
 
 Das Problem mit Ideal-/Zieltechniken ist unter anderem die Nichtwiederholbarkeit identischer Bewegungen
-include::partial$gen/bibliography.adoc[tag=MoVaDQO]
+include::partial$gen/bibliography.adoc[tags=hatze_motion_1986]
 : selbst die besten Athleten sind nicht in der Lage, sogar einfache Bewegungen exakt identisch auszuführen. Sie werden immer an die variable Umwelt adaptiert.
 
 Das Lernen einer Bewegungsfertigkeit bedeutet im Kern immer, dass eine Veränderung in der Steuerung der Muskulatur notwendig ist, die im Gehirn vorgenommen wird und an mindestens einer der Stellen erstes Motorneuron (Upper Motor Neuron, UMN), zentraler Rhythmusgenerator (Central Pattern Generator, CPG) oder unteres Motorneuron (Lower Motor Neuron, LMN) eine Veränderung bewirkt. Diese Änderung ist bereits das erfolgte Lernen.
@@ -63,13 +63,13 @@ Das Lernen einer Bewegungsfertigkeit bedeutet im Kern immer, dass eine Veränder
 // TODO: hier wäre eine Abbildung wundervoll! Alternativ: eine Info-Box?
 
 Inzwischen ist gut erforscht, wie diese neuroplastischen Änderungen zustande kommen: Fehler. Ein Lernprozess besteht immer darauf, dass Lernende einen Fehler begehen, der über Feedback zu Anpassungen an der plastischen Struktur des Gehirns führt. Um es deutlich zu sagen: Ohne Fehler ist Lernen unmöglich
-include::partial$gen/bibliography.adoc[tag=LFEr]
+include::partial$gen/bibliography.adoc[tags=metcalfe_learning_2017]
 .
 
 Entsprechend gibt es neuere Lehr- und Lernmethoden, die Variabilität ins Zentrum stellen. Beispiele sind der systemdynamische Ansatz (Selbstorganisation nach
-include::partial$gen/bibliography.adoc[tag=MPTHHM]
+include::partial$gen/bibliography.adoc[tags=haken_theoretical_1985]
 ) und die Selbststabilisierung nach
-include::partial$gen/bibliography.adoc[tag=SNANF]
+include::partial$gen/bibliography.adoc[tags=wagner_stabilizing_2003]
 . In beiden Fällen sind Fluktuationen Bestandteil der Theorie.
 
 Weiteres Problem ist die Kopplung der Bewegung an das ausführende System, also die Individualität der Bewegungsausführung.

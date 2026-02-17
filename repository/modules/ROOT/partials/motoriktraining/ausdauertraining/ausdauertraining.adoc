@@ -2,15 +2,15 @@
 = Training der Ausdauerfähigkeiten
 
 Um effizient Ausdauer aufzubauen, ist das Intervalltraining der kontinuierlichen Methode überlegen. Dieselben Leistungssteigerungen werden mit geringerem Zeiteinsatz erzielt (z.B.
-include::partial$gen/bibliography.adoc[tag=ESECIT]
+include::partial$gen/bibliography.adoc[tags=eddy_effects_1977]
 ).
 
 Das betrifft nicht nur die maximale Sauerstoffaufnahme (VO~2~ max), sondern auch die anaerobe Kapazität. Nach
-include::partial$gen/bibliography.adoc[tag=EMEHIIT]
+include::partial$gen/bibliography.adoc[tags=tabata_effects_1996]
 kann durch vier Minuten hochintensives Intervall-Training die VO~2~ max genauso gut verbessert werden wie durch 60 Minuten kontinuierliches Training.
 
 Für das körperliche Training übernehmen wir die Definitionen aus
-include::partial$gen/bibliography.adoc[tag=HICCA]
+include::partial$gen/bibliography.adoc[tags=ruddock_high-intensity_2021]
 , Seite 8.
 
 * Sprint Interval Training (*SIT*): <30sec maximale Belastung (RPE 10/10), z.B. 30sec maximaler Sprint

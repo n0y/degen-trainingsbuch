@@ -1,7 +1,7 @@
 = Grundlagen der Fechttechnik
 
 In der klassischen Auffassung gibt es eine Reihe von "Fecht-Schulen"
-include::partial$gen/bibliography.adoc[tag=GTHOF]
+include::partial$gen/bibliography.adoc[tags=gaugler_history_1998]
 , die für die unterschiedlichen Bereiche der Fechttechnik Vorgaben und Vorstellungen bündeln und oft gemeinsam gelehrt werden. Diese Vorgaben beziehen sich insbesondere auf:
 
 * Die Art, in der die verschiedenen Fechtelemente ausgeführt werden.

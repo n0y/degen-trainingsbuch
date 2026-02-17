@@ -23,7 +23,7 @@ a|
 a|
 ==== Schild-Fangen
 Quelle:
-include::partial$gen/bibliography.adoc[tags=GIFI]
+include::partial$gen/bibliography.adoc[tags=thompson_using_2008]
 
 .Beschreibung:
 * Immer vier Spieler zusammen

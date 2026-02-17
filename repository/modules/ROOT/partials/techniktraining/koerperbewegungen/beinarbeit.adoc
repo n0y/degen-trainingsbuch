@@ -1,11 +1,11 @@
 = Beinarbeit
 
 Klassische Beinarbeit „auf Ansage“ und ohne Vorgabe von Varianten, gezielt auf die Einhaltung einer Zieltechnik, erzielt schon nach kürzester Zeit keinen technischen Lerneffekt mehr und sollte höchstens untergeordnet eingesetzt werden
-include::partial$gen/bibliography.adoc[tag=ErlFe]
+include::partial$gen/bibliography.adoc[tags=molter_erlebniswelt_2006]
 , bspw. als Aufwärm- oder Stärkungsübung.
 
 Stattdessen können alle Methoden der Beinarbeit, bspw. aus
-include::partial$gen/bibliography.adoc[tag=ErlFe]
+include::partial$gen/bibliography.adoc[tags=molter_erlebniswelt_2006]
 , Kap. 4.3 eingesetzt werden.
 
 Entsprechend dem differenziellen Lehren und Lernen sollen dabei aber:

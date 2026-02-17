@@ -12,7 +12,7 @@ z. B.: „Was als ‘verrücktes Huhn’ bezeichnet wurde, war vielleicht eine
 
 
 Destruktives Feedback ist grundsätzlich zu vermeiden. Es gilt als eine der häufigsten Ursachen für reduzierte Motivation, Selbstzweifel und Leistungsblockaden im Sport
-include::partial$gen/bibliography.adoc[tags=Galli2008Bouncing]
+include::partial$gen/bibliography.adoc[tags=galli_bouncing_2008]
 . Dennoch zeigt die Praxis: Solche Rückmeldungen treten weiterhin auf – aus spontaner emotionaler Reaktion, aus ungeschulter Kommunikation oder durch Begegnung mit externen Trainer:innen (z. B. bei Lehrgängen, Turnieren), die destruktives Feedback fälschlich für leistungsförderlich halten.
 
 Um negative Effekte zu puffern oder gar umzukehren, haben sich mehrere kompensatorische Strategien bewährt. Diese können sowohl präventiv (durch Resilienzbildung) als auch reaktiv (als Intervention) eingesetzt werden:
@@ -28,20 +28,20 @@ include::partial$gen/bibliography.adoc[tags=Schack2007Reprasentation]
 Der Aufbau von Vertrauen durch eine empathische, validierende Sprache wie: +
 _„Ich sehe, dass du dran bleibst.“_ oder _„Deine Landung war schon deutlich stabiler.“_ +
 Solche Aussagen stärken das Selbstbild und wirken gegen dysfunktionale Knoten im semantischen Netz
-include::partial$gen/bibliography.adoc[tags=Ryan2000Self]
+include::partial$gen/bibliography.adoc[tags=ryan_self-determination_2000]
 .
 
 * *Metaphorische Rekodierung*:
 Positive, körpernahe Bilder helfen, beschädigte Bewegungsrepräsentationen zu überschreiben. +
 Beispiel: Statt _„nicht wie ein Huhn zappeln“_ → _„weich wie eine Katze landen“_ +
 Unterstützt mentale Umstrukturierung durch Embodied Semantics
-include::partial$gen/bibliography.adoc[tags=Lakoff1999Philosophy]
+include::partial$gen/bibliography.adoc[tags=lakoff_philosophy_1999]
 .
 
 * *Selbstreflexion durch gezielte Fragen*:
 Fragen wie _„Was hast du gespürt?“_ oder _„Was hättest du anders machen können?“_ aktivieren das Körperschema und verschieben die Kontrolle zurück zum Athleten. +
 Ziel: Agency und Selbstwirksamkeit stärken, um äußere Bewertung zu relativieren
-include::partial$gen/bibliography.adoc[tags=Bandura1997Self]
+include::partial$gen/bibliography.adoc[tags=bandura_self-efficacy_1997]
 .
 
 Diese Strategien kombinieren sprachlich-semantische Neuorganisation mit emotionaler Re-Sicherung und fördern langfristig die Resilienz gegenüber ungünstigen Einflüssen auf das Bewegungslernen.
