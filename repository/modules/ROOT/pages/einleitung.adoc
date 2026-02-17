@@ -1,0 +1,5 @@
+= Einleitung
+
+include::partial$einleitung/einleitung-motivation.adoc[]
+
+include::partial$einleitung/einleitung-nutzung.adoc[]

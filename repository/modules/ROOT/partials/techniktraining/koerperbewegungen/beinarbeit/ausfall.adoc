@@ -1,11 +1,11 @@
 = Der Ausfall
 
 Als eines der grundlegenden Elemente der fechterischen Bewegungen kommt dem Ausfall eine große Bedeutung zu. Er wird in unzähligen Veröffentlichungen im Details beschrieben, bspw. In
-include::partial$gen/bibliography.adoc[tag=ErlFe]
+include::partial$gen/bibliography.adoc[tags=molter_erlebniswelt_2006]
 . Die tatsächlich von Sportlern durchgeführte Bewegung weicht von der Beschreibung nahezu immer ab. Das betrifft sowohl die Ausgangsposition, bei der deutlich mehr Gewicht auf dem vorderen Fuß lastet
-include::partial$gen/bibliography.adoc[tag=KDSFL]
+include::partial$gen/bibliography.adoc[tags=stewart_kinematic_2005]
 , als auch die Fussbewegung, bei der in allen beobachteten Fällen die vordere Ferse zuerst den Boden verlässt
-include::partial$gen/bibliography.adoc[tag=KALFS]
+include::partial$gen/bibliography.adoc[tags=gholipour_kinematics_2008]
 .
 
 Der zu trainierende Lösungsbereich könnte so eingeschränkt werden:

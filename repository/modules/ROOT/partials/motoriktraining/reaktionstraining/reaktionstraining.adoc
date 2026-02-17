@@ -1,7 +1,7 @@
 = Reaktionstraining
 
 Um eine zielgerichtete Reaktion durchzuführen, sind folgende Schritte erforderlich
-include::partial$gen/bibliography.adoc[tag=DKVPS]
+include::partial$gen/bibliography.adoc[tags=klebelsberg_verkehrspsychologie_1982]
 :
 
 [cols="3,1"]
@@ -18,26 +18,26 @@ include::partial$gen/bibliography.adoc[tag=DKVPS]
 Die _zentralen Vorgänge_ sind dem Reaktionstraining zugänglich; die Latenzzeit des Muskels ist durch Schnelligkeitstraining zu verbessern. Alle anderen Faktoren sind dem Training nicht zugänglich.
 
 Reaktionszeiten treten nach
-include::partial$gen/bibliography.adoc[tag=TBCRTL]
+include::partial$gen/bibliography.adoc[tags=trueman_choice_2012]
 in zwei Arten auf:
 
 * als *Einfachreaktion* (_Simple Reaction_), bei der nur ein möglicher Reiz auftreten kann, der mit genau einer Reaktion zu beantworten ist.
 * als *Auswahlreaktion* (_Choice Reaction_), bei der es mehrere mögliche Reize gibt, die potenziell alle eine unterschiedliche Reaktion erfordern.
 
 Die _Einfachreaktion_ ist durch Genetik, Körperaufbau und Anthropometrie vorgegeben und kann nicht signifikant verbessert werden
-include::partial$gen/bibliography.adoc[tag=BAPESRT]
+include::partial$gen/bibliography.adoc[tags=brisswalter_influence_1997]
 . Hier ist lediglich die Latenzzeit des Muskels über das Training der Schnelligkeit verbesserbar. Training für die Einfachreaktion ist daher nicht sinnvoll.
 
 Die _Auswahlreaktion_ ist im Fechtsport gut trainierbar.
 
 Die Reaktionszeit hängt direkt von der Anzahl der Wahlmöglichkeiten ab. Aus
-include::partial$gen/bibliography.adoc[tag=DKVPS]
+include::partial$gen/bibliography.adoc[tags=klebelsberg_verkehrspsychologie_1982]
 :
 
 include::partial$motoriktraining/reaktionstraining/diag-auswahlreaktion.adoc[]
 
 Ein Reaktionstraining mit zwei Auswahlmöglichkeiten steht aufgrund der kleinen erzielbaren Verbesserung in keinem guten Verhältnis zum Trainingsaufwand. Auf der anderen Seite sind Angriffe in der Regel innerhalb von 500-600ms abgeschlossen
-include::partial$gen/bibliography.adoc[tag=FLOFT]
+include::partial$gen/bibliography.adoc[tags=borysiuk_fleche_2019]
 , was die Zahl der möglichen Reaktionen auf vier bis fünf begrenzt.
 
 Das Training von Auswahlreaktionen trainiert die _zentralen Vorgänge_ und ist damit nicht nur sportartspezifisch, sondern zielt sogar genau auf die auftretenden Stimuli und die dafür vorgesehenen Reaktionen ab. Es ist nicht transferierbar, weshalb ein allgemeines Reaktionstraining keinen Effekt auf das Fechten hat.

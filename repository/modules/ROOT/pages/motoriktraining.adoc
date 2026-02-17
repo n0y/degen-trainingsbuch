@@ -22,9 +22,9 @@ Das Sportfechten ist in seiner Belastungsstruktur mit anderen olympischen Kampfs
 Ähnlich zum Taekwondo lässt sich auch im Sportfechten die maximale aerobe Kapazität auf 60-65 stem:[(ml * kg) / min] schätzen.
 
 Grundlegend für hochintensive Belastungen ist eine große aerobe Kapazität
-include::partial$gen/bibliography.adoc[tag=HPNRHP]
+include::partial$gen/bibliography.adoc[tags=haugen_new_2018]
 , und dabei insbesondere die Herzminutenleistung. Das trifft insbesondere auf Athlet:innen mit bereits hoher VO~2~max zu
-include::partial$gen/bibliography.adoc[tag=BoVO2]
+include::partial$gen/bibliography.adoc[tags=lundby_biology_2016]
 .
 
 //

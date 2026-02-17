@@ -11,7 +11,7 @@ Die Auswahl der Techniken, die jeweils trainiert werden sollen, liegt primär be
 Gerade beim Aufbau komplizierterer Techniken (z.B. Quart-Coupé, Wurfstoß Schulter) kommen oft methodische Reihen zum Einsatz, die einzelne Elemente unabhängig voneinander trainieren und erst später kombinieren.
 
 Gemäß der xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[Umsetzungsprinzipien] ist es besser, diesen geblockten Ansatz aufzulösen und die Reihenfolge des Erlernens zufällig zu variieren
-include::partial$gen/bibliography.adoc[tag=LSmMR]
+include::partial$gen/bibliography.adoc[tags=heymen_lernen_1986]
 .
 
 Zusätzlich ist eine ausreichend hohe Fehlerrate anzustreben, damit die Voraussetzung für neuronale Plastizität gegeben ist. Diese Misserfolgsquote soll zwischen 60% und 80% liegen.

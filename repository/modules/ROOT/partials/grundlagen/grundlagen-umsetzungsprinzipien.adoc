@@ -2,11 +2,11 @@
 == Umsetzungsprinzipien
 
 Die Methodik des differenziellen Lernens ist auf unterschiedlichste Bereiche erfolgreich anwendbar. Das reicht von den bereits erwähnten Studien in verschiedenen Einzel- und Mannschaftssportarten über Ausdauer- und Krafttraining bis hin zum Koordinationstraining
-include::partial$gen/bibliography.adoc[tag=TKFDL]
+include::partial$gen/bibliography.adoc[tags=rottger_training_2009]
 .
 
 Die Umsetzung basiert auf dem Prinzip der Variation
-include::partial$gen/bibliography.adoc[tag=BWADLS]
+include::partial$gen/bibliography.adoc[tags=wastl_anwendungsmoglichkeiten_2009]
 :
 
 * Orientierung am individuellen Lösungsbereichs
@@ -17,21 +17,21 @@ include::partial$gen/bibliography.adoc[tag=BWADLS]
 * selbstorganisierender, nicht-linearer Lernvorgang
 
 Dabei wird auch der klassische Ansatz der methodischen Reihen, z.B. nach
-include::partial$gen/bibliography.adoc[tag=LSmMR]
+include::partial$gen/bibliography.adoc[tags=heymen_lernen_1986]
 , aufgelöst: Im geblockten Ansatz wird jede Übung z.B. 10 Mal hintereinander ausgeführt, bevor zur nächsten fortgeschritten wird. Im systemdynamischen Ansatz wird die Reihenfolge zufällig geändert. Sind in klassisch geblockten Ansatz nur zu Beginn einer neuen Übung größere Anpassungen nötig, variiert dann die Anzahl und Größe der Anpassungen und führt zu einem schnelleren Erfassen und Lernen der Inhalte
-include::partial$gen/bibliography.adoc[tags=Lee1983locus]
+include::partial$gen/bibliography.adoc[tags=lee_locus_1983]
 . Zusätzlich steigt die Abwechslung für die Lernenden und damit die Motivation zur Teilnahme.
 
 Soll ein Bewegungsmuster trainiert werden, dann ist anzustreben, dass möglichst schnell - am besten von Anfang an - das vollständige Bewegungsmuster trainiert werden soll, auch dann, wenn dieses Vorgehen zunächst sehr hohe Fehlerraten erzeugt. Nach
-include::partial$gen/bibliography.adoc[tag=TKREML]
+include::partial$gen/bibliography.adoc[tags=lee_role_2015]
 führt eine abschnittsweise Einführung einer komplexen Bewegung zu schlechteren Lern- und Retentionsraten. Es ist aber darauf zu achten, dass Fehler aus der Handlung der Lernenden resultieren und nicht etwa zufällig auftreten, weil nur diese Fehler das Lernen verbessern. Komplexe Technik kann ganzheitlich, aber mit adaptivem Schwierigkeitsgrad geübt werden – z. B. mit reduzierter Gegnerdynamik, größerem Zielbereich etc.
 
 Schon
-include::partial$gen/bibliography.adoc[tag=BBFTMG]
+include::partial$gen/bibliography.adoc[tags=barth_fechttraining_2005]
 verweist darauf, dass das „selbständige Üben“ das Grundverfahren beim Erlernen und Trainieren der (Technik-)Elemente darstellt. Mit differenzieller Lernmethode sollen in den Übungen die Variationen bewusst vergrößert und keine Wiederholungen mit identischen Parametern durchgeführt werden.
 
 Variiert werden können beispielswiese
-include::partial$gen/bibliography.adoc[tag=BWADLS]
+include::partial$gen/bibliography.adoc[tags=wastl_anwendungsmoglichkeiten_2009]
 :
 
 [[umsetzungsprinzipien-variabilitaet]]
@@ -53,11 +53,11 @@ Dabei dürfen die Anpassungen bis in den Programmbereich hinein reichen, also di
 
 // TODO das ist ein abrupter Übergang, das sollte man mal besser einführen
 In der Gruppe sollen auch offene Spiel- und Übungsformen und forschendes Lernen eingesetzt werden, z.B. nach
-include::partial$gen/bibliography.adoc[tag=DSSvV]
+include::partial$gen/bibliography.adoc[tags=beckmann_differenziell_2009]
 .
 
 Es sollen beim Bewegungslernen hohe Fehlerraten angestrebt werden. Wir streben an, dass über 75 % aller Bewegungen fehlerhaft ausgeführt werden, weil nur durch Abweichungen zum gewünschten Verhalten zu einer Anpassung in den Gehirnstrukturen führt. Das bedingt außerdem, dass Abweichungen und deren Konsequenz für die Lernenden sichtbar sein muss
-include::partial$gen/bibliography.adoc[tags=Metcalfe2017Learning]
+include::partial$gen/bibliography.adoc[tags=metcalfe_learning_2017]
 .
 
 === Umsetzung der Variation in der Sportart Fechten

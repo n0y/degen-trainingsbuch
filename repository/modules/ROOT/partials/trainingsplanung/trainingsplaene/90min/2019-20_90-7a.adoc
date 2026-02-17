@@ -23,7 +23,7 @@ a|
 a|
 ==== Borg-Fangen
 Quelle:
-include::partial$gen/bibliography.adoc[tags=GIFI]
+include::partial$gen/bibliography.adoc[tags=thompson_using_2008]
 , S. 49
 
 .Beschreibung:

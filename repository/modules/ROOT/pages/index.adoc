@@ -5,7 +5,7 @@
 Zuletzt aktualisiert: {localdate}
 
 Das Fechten ist eine Sportart mit langer Tradition. Entsprechend werden auch Lehrbücher seit mehreren hundert Jahren verfasst, z.B.
-include::partial$gen/bibliography.adoc[tags=AggrTraSci]
+include::partial$gen/bibliography.adoc[tags=agrippa_trattato_1553]
 .
 
 Dabei haben sich alle Aspekte des Fechtens gleich mehrfach fundamental gewandelt: Die Zielsetzung wandelte sich vom Kriegseinsatz über Duellsituationen bis zum modernen Sportfechten. Das Material änderte sich bezüglich Klingenlängen und -Geometrien genauso wie hinsichtlich der eingesetzten Materialien vielfach. Immer effektivere Schutzausrüstung ermöglicht inzwischen das gefahrlose Training nahezu jeder Kampfsituation. Entsprechend können im modernen Fechten Techniken und Taktiken eingesetzt werden, die sich früher aufgrund der einhergehenden Gefahr kritischer Gegentreffer verboten. Hinzu kommen neue Trainingsverfahren und neue Anthropometrie völlig andere körperliche Voraussetzungen.
