@@ -1,4 +1,4 @@
-= Hinter der Kulisse des Fintenfischs
+= Hinter der Kulisse des Fintenfischs (Alpha-Version)
 :description: Trainingsmethoden für das Fechten verglichen: klassische Ansätze gegenüber systemdynamischen Ansätzen
 :keywords: Fechten,Degen-Fechten,Training,Grundlagen,differenzielles Training
 
@@ -346,13 +346,69 @@ include::partial$gen/bibliography.adoc[tags=beilock_choke_2010]
   .
 
 * *Zerlegung der Bewegungen*: +
-  Wir zerlegen Bewegungen nicht in leblose Einzelteile. Eine Finte ohne Stoßabsicht und ohne Reaktion des Gegners ist eine wertlose Bewegungshülse. Wir trainieren immer das Ganze.
+  Wir zerlegen Bewegungen nicht in leblose Einzelteile. Eine Finte ohne Stoßabsicht und ohne Reaktion des Gegners ist eine wertlose Bewegungshülse. Wir trainieren immer das Ganze
+include::partial$gen/bibliography.adoc[tags=pinder_representative_2011]
+  .
 
 * *Einschleifen und geblockte Übungen*: +
-  Das ewige Wiederholen derselben Bewegung gegen ein lebloses Kissen oder einen kooperativen Partner ist die sicherste Methode, um Lern-Plateaus zu erzeugen. Es ist steriles Training für eine chaotische Welt.
+  Das ewige Wiederholen derselben Bewegung gegen ein lebloses Kissen oder einen kooperativen Partner ist die sicherste Methode, um Lern-Plateaus zu erzeugen. Es ist steriles Training für eine chaotische Welt
+include::partial$gen/bibliography.adoc[tags=simon_metacognition_2001]
+  .
 
 * *Übungen ohne Kontext*: +
   Einzeltraining an der Wand oder Trocken-Beinarbeit in der Gruppe. Warum? Weil kein Gegner da ist. Ohne Gegner fehlt der wichtigste Constraint des Fechtens. Es ist wie Trockenschwimmen auf dem Hallenboden.
 
 * *Lernen durch Einsicht / Lernen durch Zuhören*: +
-  Sie (liebe Coaches der alten Schule) reden gerne? Wir nicht. Während Sie erklären, kühlen die Athleten ab und das Gehirn schaltet auf Standby. Wir wollen Action, keine Vorlesungen.
+  Sie (liebe Coaches der alten Schule) reden gerne? Wir nicht. Während Sie erklären, kühlen die Athleten ab und das Gehirn schaltet auf Standby. Wir wollen Action, keine Vorlesungen
+include::partial$gen/bibliography.adoc[tags=masters_theory_2008]
+  .
+
+== Die wichtigsten Lehr- und Lernmethoden - und ihre Anwendung im Fechten
+
+In diesem Kapitel verlassen wir das „Warum“ und widmen uns dem „Wie“. Die Methoden, die wir Ihnen hier vorstellen – von der *Ökologischen Dynamik* über das *Differenzielle Lernen* bis hin zum *Constraints-Led Approach* –, sind in der modernen Sportwissenschaft längst etabliert. Sie bilden das Fundament für Spitzenleistungen im Fußball, Basketball oder Tennis.
+
+Für den Fechtsport fehlte bisher eine konsequente Übersetzung dieser Prinzipien in die tägliche Hallenpraxis. Das ändern wir jetzt.
+
+=== Das Fundament: Ecological Dynamics & DST
+
+* Wirkungsweise der DST: (Mensch + Umwelt + Aufgabe) - was das im Fechten bedeutet - wie es angewendet wird.
+* Selbstorganisation statt Programmierung: warum wir nicht mehr korrigieren - oder jedenfalls nicht verbal - was es ersetzt
+* Perzeptions-Aktions-Kopplung: Warum wir Lösungen provozieren, statt sie vorzugeben
+
+=== Der Kern-Prozess: Constraints-Led Approach (CLA)
+
+* Die drei Constraints: Organism (Athlet), Environment (Umwelt), Task (Aufgabe)
+* Wie wir durch Manipulation der Constraints Lösungen provozieren - Welche Constraint-Gruppen es gibt - Druckbedingungen aus dem Agilitätstraining, ...
+* Der Coach als „Environment Architect“ statt als Instruktor - Erweiterung Athlet als Architect - Partnerübungen - Aufgaben
+
+=== Die Trainings-Praxis: Representative Learning Design (RLD)
+
+* Warum Training wie Wettkampf aussehen muss (und wann es das nicht tut).
+* Information und Affordances: Die „Einladungen“ des Gegners lesen lernen - wie wir die Situationen schaffen - wie wir damit umgehen, keine "passenden" Trainingspartner zu haben
+* Simplification by Constraints: Wie man vereinfacht, ohne zu zerlegen (vs. Decomposition).
+
+=== Die Turbo-Lernmethode: Differential Learning (DL)
+
+* Das Rauschen nutzen: Warum Schwankungen gut sind (Repetition without Repetition).
+* Praktische Anwendung: Variabilität in Beinarbeit und Klingenführung.
+* Praktische Anwendung: Einbindung von Taktik durch DL
+* Gezielte Destabilisierung des Systems für schnellere Adaption.
+
+=== Das Spiel als Lehrer: Small-Sided Games (SSG) & Game-Based Approach
+
+* Was gute Spiele ausmacht
+* Wie man gute Spiele findet, testet und weiter entwickelt
+* Technische/Taktische Intelligenz durch Spielformen entwickeln.
+* Beispiele für fechtspezifische SSGs (z.B. „Stehl die Socke“, Zonen-Spiele).
+
+=== Der Körper denkt mit: Embodied Cognition & Focus of Attention
+
+* Warum Taktik im Körper steckt, nicht nur im Kopf.
+* Externer vs. Interner Fokus: Warum „Triff die Weste“ besser funktioniert als „Streck den Arm“.
+* Die Sprache des Coachings: Weniger reden, mehr steuern (Implicit Learning).
+
+=== Athlete Development Model
+
+* Wie wir Talent entwickeln und fördern
+* Auswirkungen von Sprache auf Leistung, Motivation und Entwicklung
+* Positive Kommunikation, Leistungsprozesse, Teamprozesse
