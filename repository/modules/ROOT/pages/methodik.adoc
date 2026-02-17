@@ -268,7 +268,7 @@ Es ist Zeit, den Kontrollwahn abzulegen. Wir vertrauen nicht auf die Anweisung d
 
 Schön und gut für die Kleinen, damit sie bei der Stange bleiben. Aber wenn es um die Bundeskader geht, um Weltcups und das olympische Finale – da brauchen wir Disziplin, da brauchen wir die harte Schule, da brauchen wir das Exerzieren, bis die Technik sitzt!“
 
-Es ist das Bild vom „seriösen“ Training, das wir alle im Kopf haben: Schweiß, Monotonie und absolute mechanische Präzision. Doch hier liegt der gefährlichste Denkfehler unserer Sportart. Wir glauben, dass Weltklasse durch die Eliminierung von Fehlern entsteht. Die Wissenschaft und die moderne Taktik sagen uns: *Weltklasse entsteht (angeblich) durch die Perfektionierung der Anpassung*.
+Es ist das Bild vom „seriösen“ Training, das wir alle im Kopf haben: Schweiß, Monotonie und absolute mechanische Präzision. Doch hier liegt der gefährlichste Denkfehler unserer Sportart. Wir glauben, dass Weltklasse durch die Eliminierung von Fehlern entsteht. Die Wissenschaft und die moderne Taktik sagen uns: *Weltklasse entsteht durch die Perfektionierung der Anpassung*.
 
 Wenn wir uns die europäische Spitzenklasse ansehen, dann sehen wir Athleten, die unter extremem Zeitdruck Entscheidungen treffen müssen. In einem olympischen Finale ist nichts „sauber“. Der Gegner ficht „hässlich“, er stört, er bricht den Rhythmus, die Nerven flattern
 include::partial$gen/bibliography.adoc[tags=harmenberg_epee_2023]
