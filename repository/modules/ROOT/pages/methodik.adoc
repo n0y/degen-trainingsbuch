@@ -610,7 +610,7 @@ Als Coach darfst Du Regisseur werden, der das Bühnenbild und das Drehbuch so ma
 *** *Widerstand am Körper* (Drag): Fechten mit einem leichten Widerstandsband an der Hüfte (Gummiband am Partner oder Pfosten) oder mit einem Fallschirm/Bremssegel auf dem Rücken. (Verändert das Kraft-Geschwindigkeits-Verhältnis massiv).
 *** *Asymmetrisches Gewicht* (Unwucht): Tragen einer Gewichtsmanschette nur an einem Bein oder Arm (nicht dem Waffenarm). (Zwingt das System zur ständigen Neukalibrierung der Balance).
 *** *Taktile Störung* (Wind/Berührung): Ventilatoren, die starken Seitenwind erzeugen, oder Trainer, die mit Poolnudeln von der Seite stören/berühren. (Desensibilisierung gegen irrelevante Reize).
-*** Geruchs-Irritation (Olfactory Distraction): Tuch an der Maske mit Menthol oder Nutzung ungewohnter Gerüche in der Halle. (Klingt absurd, ist aber ein massiver Stressor für das limbische System, den man "wegatmen" lernen muss).
+*** *Geruchs-Irritation* (Olfactory Distraction): Tuch an der Maske mit Menthol oder Nutzung ungewohnter Gerüche in der Halle. (Klingt absurd, ist aber ein massiver Stressor für das limbische System, den man "wegatmen" lernen muss).
 
 ** *Sozial/Kulturell*: +
   Hier manipulieren wir den Druck, die Hierarchie und die Emotionen. Bespiele:
@@ -630,7 +630,7 @@ Als Coach darfst Du Regisseur werden, der das Bühnenbild und das Drehbuch so ma
 
 * *Regeln* +
   Hier verändern wir die Physik des Spiels und zwingen das System zu neuen Taktiken. Beispiele:
-
+// TODO Teile davon ins Coach-Kapitel ziehen
 ** *Der Boden ist Lava* (Zone of Death): Wer mit beiden Füßen im hinteren Drittel der Bahn (letzte 2 Meter) steht, verliert sofort den Punkt. (Zwingt zu aggressivem Vorwärtsverteidigen und Neutral Zone Engagement).
 ** *Stille Post* (No Blade Contact): Treffer zählen nur, wenn keine Klingenberührung stattgefunden hat. (Fördert Disengagement, Tempo und Timing ohne Bindung).
 ** *Klebstoff-Klinge* (Constant Contact): Treffer zählen nur, wenn vorher eine Klingenbindung bestand. Lösen ist verboten. (Zwingt zu Infight, Kraftübertragung und Fühlen).
@@ -785,37 +785,329 @@ Bevor wir bauen, müssen wir wissen, was wackelt. Schauen Sie sich das Gefecht a
 
 
 
-* Die drei Constraints: Organism (Athlet), Environment (Umwelt), Task (Aufgabe)
-* Wie wir durch Manipulation der Constraints Lösungen provozieren - Welche Constraint-Gruppen es gibt - Druckbedingungen aus dem Agilitätstraining, ...
-* Der Coach als „Environment Architect“ statt als Instruktor - Erweiterung Athlet als Architect - Partnerübungen - Aufgaben
-
 === Die Trainings-Praxis: Representative Learning Design (RLD)
 
-* Warum Training wie Wettkampf aussehen muss (und wann es das nicht tut).
-* Information und Affordances: Die „Einladungen“ des Gegners lesen lernen - wie wir die Situationen schaffen - wie wir damit umgehen, keine "passenden" Trainingspartner zu haben
-* Simplification by Constraints: Wie man vereinfacht, ohne zu zerlegen (vs. Decomposition).
+Traditionelles Fechttraining trennt oft die Technik (Bewegungsausführung) von der Taktik (Entscheidung): Wir üben Schritte in Reihen oder Stöße auf Kissen, wir üben Kreissixt-Stoß, wir üben Parade-Kontraparade-Stoß.
+
+Alles in der Hoffnung, dass unsere Athletinnen diese isolierten Fertigkeiten später im Gefecht zusammensetzen zu können.
+
+Die Forschung zum *Representative Learning Design* (RLD) zeigt, dass diese Hoffnung trügerisch ist. Eine Übung ist nur dann lernwirksam für den Wettkampf, wenn sie die *Informationen der Wettkampfumgebung* enthält. Fehlt die spezifische Information (z.B. der Abstand zum Gegner), lernt das Gehirn eine Bewegung, die neurologisch nichts mit der Fechtaktion zu tun hat
+(Pinder et al., 2011)
+.
+
+RLD fordert nicht, dass das Training optisch identisch mit dem Wettkampf ist (Kleidung, Jurierung). Es fordert, dass die *Perzeptions-Aktions-Kopplung* intakt bleibt.
+
+Das wissenschaftliche Problem traditioneller Drills: Wenn ein Athlet einen Ausfall auf ein festes Wandkissen oder eine kooperierende Trainingspartnerin macht, entkoppelt er die Handlung von der Wahrnehmung:
+
+* *Fehlende Variabilität*: Der Trainingspartner bewegt sich kaum. Und wenn, dann nur, um den Schmerz beim Aufkommen zu mildern. Im Gefecht muss der Ausfall jedoch ständig an die fluktuierende Distanz angepasst werden
+(Seifert et al., 2013)
+  .
+
+* *Falscher Auslöser*: Der Athlet startet den Stoß oft selbstinitiiert oder auf ein akustisches Signal (Klatschen). Im Gefecht ist der Auslöser jedoch fast immer visuell (eine Lücke, eine Bewegung des Gegners). Die wenigsten Trainingspartner können in einem isolierten Trainingssetting diese _Affordances_ glaubhaft simulieren.
+
+* *Transfer-Verlust*: Studien zeigen, dass Fertigkeiten, die entkoppelt trainiert werden, unter Stress (Wettkampf) kaum abgerufen werden können, da das Gehirn die Bewegung nicht mit dem entsprechenden Auslösereiz verknüpft hat
+(Davids et al., 2008)
+  .
+
+Deshalb trainieren wir Handlungen niemals ohne den Kontext eines Gegners. Selbst bei einfachsten Übungen muss ein Partner vorhanden sein, der durch sein Verhalten (Distanz, Klingenlage) die Aktion auslöst und glaubhaft versucht, den Erfolg zu verhindern.
+
+==== Information und Affordances: Die „Einladungen“ lesen lernen
+
+Fechten ist primär das Management von *Affordances* (Handlungsmöglichkeiten).
+
+Nach
+include::partial$gen/bibliography.adoc[tags=gibson_ecological_1979]
+nehmen wir die Umwelt nicht in Metern oder Sekunden wahr, sondern in Möglichkeiten: _„Ist der Gegner nah genug für einen Treffer?“_ oder _„Ist die Klinge weit genug weg für einen direkten Stoß?“_.
+
+Eye-Tracking-Studien im Fechten
+include::partial$gen/bibliography.adoc[tags=hagemann_visual_2010]
+belegen, dass Experten ihre visuellen Ankerpunkte auf den Rumpf und die bewaffnete Hand des Gegners legen, um dessen Intentionen frühzeitig zu lesen. Anfänger schauen oft auf die Klinge oder ins Leere.
+
+* *Implikation*: Wenn wir Übungen ohne Gegner machen, nehmen wir dem Athleten die Möglichkeit, dieses „Lesen“ zu trainieren.
+* *Praxis*: Wir müssen Situationen schaffen, in denen der Partner echte Affordances bietet. Er darf die Blöße nicht künstlich zeigen (kooperativ), sondern muss sie so zeigen, dass sie eine echte, aber flüchtige Einladung darstellt
+include::partial$gen/bibliography.adoc[tags=withagen_affordances_2012]
+  . Nur so lernt das System, Zeitfenster zu erkennen.
+
+==== Problembehandlung: Fehlende passende Partner
+
+Oft fehlen im Training spezifische Gegner (z.B. Linkshänder oder extrem schnelle Fechter). Hier nutzen wir Constraints, um die Information zu simulieren, nicht die Person:
+
+* Um Geschwindigkeit zu simulieren, verringern wir die Distanz oder benutzen Dehnungsbänder, um den Partner zu beschleunigen. Das zwingt den Athleten zur schnelleren Informationsverarbeitung, ohne dass ein Weltklasse-Partner nötig ist.
+
+==== Simplification (Vereinfachung) vs. Decomposition (Zerlegung)
+
+*Wenig funktional: Dekomposition (Zerlegung)*
+
+Hier wird eine komplexe Bewegung in Teile zerlegt: z.B. erst Beinarbeit isoliert, dann Armarbeit isoliert, oder erste Präparation und Finte, dann Umgehung und Stoß.
+
+Wissenschaftliche Kritik: Die *Teil-Ganzes-Übertragung* (Part-Task Transfer) ist bei kontinuierlichen Bewegungen wie Fechten gering
+include::partial$gen/bibliography.adoc[tags=fontana_whole_2009]
+. Das Zusammenfügen der Teile unter Zeitdruck scheitert oft, da die dynamischen Wechselwirkungen (Synergien) zwischen Beinen und Arm im isolierten Training nicht gelernt wurden.
+
+*Schneller und stabiler: Simplification (Vereinfachung)*
+
+Hier bleibt die Ganzheitlichkeit der Aufgabe (Gegner + Entscheidung + Bewegung) erhalten, aber *die Komplexität* wird durch Constraints reduziert
+include::partial$gen/bibliography.adoc[tags=chow_nonlinear_2022]
+.
+
+Beispiele:
+
+* _Zeit_: Wir fechten in Zeitlupe (beide Partner bewegen sich langsam), um die Wahrnehmung zu schulen. Die Kopplung bleibt erhalten.
+* _Raum_: Wir verkürzen die Distanz, nehmen aber die Beinarbeit raus (Fechten im Sitzen/Stehen), um den Fokus auf die Hand zu legen. Der Gegner bleibt jedoch aktiv und unkooperativ.
+* _Ausrüstung_: Nutzung von leichteren Waffen oder Schaumstoff, um Angst zu reduzieren.
+
+=> Wir vereinfachen die Bedingungen, unter denen gefochten wird, aber wir zerlegen niemals das Fechten selbst.
+
+Simplification ist ein mächtiges Werkzeug, aber es birgt eine Gefahr: Wenn wir die vereinfachenden Constraints zu lange beibehalten, adaptiert die Athletin _an die Übung_, nicht _an das Fechten_. Sie wird Weltmeisterin im Zeitlupen-Fechten, versagt aber bei Realgeschwindigkeit.
+
+Gemäß dem *Challenge Point Framework*
+include::partial$gen/bibliography.adoc[tags=guadagnoli_challenge_2004]
+stimmen wir die funktionale Aufgabenschwierigkeit auf das Können der Athletin ab:
+
+Das System hat sich stabilisiert, wenn die Erfolgsrate über etwa 70 % liegt. Spätestens dann werden Vereinfachungen wieder entfernt.
+
+_Beispiel: Wenn der Schüler im „Sitzen-Fechten“ (keine Beinarbeit) 7 von 10 Mal die Hand trifft, stehen wir sofort auf._
+
+Wir entfernen Vereinfachungen oft nicht abrupt, sondern wir lassen sie „ausschleichen“ (Fading)
+include::partial$gen/bibliography.adoc[tags=porter_systematically_2010]
+.
+
+_Beispiel: Wir nehmen den Tennisball (großes Ziel) nicht weg und gehen sofort auf die Spitze (kleinstes Ziel), sondern nutzen als Zwischenschritt den ganzen Arm._
 
 === Die Turbo-Lernmethode: Differential Learning (DL)
 
-* Das Rauschen nutzen: Warum Schwankungen gut sind (Repetition without Repetition).
-* Praktische Anwendung: Variabilität in Beinarbeit und Klingenführung.
-* Praktische Anwendung: Einbindung von Taktik durch DL
-* Gezielte Destabilisierung des Systems für schnellere Adaption.
+Kommen wir zur vielleicht radikalsten Methode in unserem Baukasten. In der klassischen Lehre gilt die *Schwankung* als Feind. Wenn ein Schüler den Ausfall mal kurz, mal lang, mal mit tiefem und mal mit hohem Arm macht, ruft der klassische Trainer: _"Konzentrier dich! Mach es ordentlich!"_
+
+Besser wäre wohl: "Perfekt! Mach es nochmal anders!"
+
+Wir nutzen hier die Erkenntnisse von Wolfgang Schöllhorn
+include::partial$gen/bibliography.adoc[tags=schollhorn_differenzielles_2005]
+. Seine Forschung zum *Differenziellen Lernen (DL)* hat gezeigt, dass wir eine Bewegung nicht dadurch lernen, dass wir sie kopieren, sondern indem wir den *Lösungsraum einkreisen*.
+
+==== Das Rauschen nutzen: Warum Schwankungen gut sind (Repetition without Repetition)
+
+Erinnern Sie sich an Bernstein? Es gibt keine identische Wiederholung. Wenn Sie versuchen, eine "Idealtechnik" zu erzwingen, kämpfen Sie gegen die Biologie. Beim DL drehen wir den Spieß um: Wir verstärken das Rauschen absichtlich!
+
+*Das Prinzip der Interpolation*: +
+Stellen Sie sich vor, Sie wollen die Mitte einer Zielscheibe treffen.
+
+* *Klassisch*: Sie zielen immer auf die Mitte. Wenn Sie daneben schießen, sind Sie frustriert.
+* *Differenziell*: Sie schießen bewusst einmal links daneben, einmal rechts, einmal drüber, einmal drunter.
+* *Der Effekt*: Ihr Gehirn berechnet aus diesen extremen Randpunkten unbewusst den Mittelwert (*Interpolation*). Es lernt die _Struktur_ des Ziels viel schneller, als wenn es nur die Mitte übt.
+
+Im Fechten bedeutet das: Wir lassen den Athleten den *Randbereich des Lösungsraums* abtasten. Ein Schüler, der gelernt hat, aus extrem tiefer Hocke _und_ mit gestreckten Beinen zu treffen, besitzt eine stabile Lösung für alles dazwischen
+include::partial$gen/bibliography.adoc[tags=kerr_specific_1978]
+.
+
+Wer nur die "Mittelstellung" übt, kollabiert, sobald er aus dem Gleichgewicht kommt
+include::partial$gen/bibliography.adoc[tags=stergiou_optimal_2006]
+.
+
+*Wichtig*: Das Ziel ist *Stabilität im Ganzen durch Anpassungsfähigkeit im Kleinen*. Der Treffer bleibt stabil, aber der Weg dorthin (die Gelenkstellungen) variiert ständig.
 
 === Das Spiel als Lehrer: Small-Sided Games (SSG) & Game-Based Approach
 
-* Was gute Spiele ausmacht
-* Wie man gute Spiele findet, testet und weiter entwickelt
-* Technische/Taktische Intelligenz durch Spielformen entwickeln.
-* Beispiele für fechtspezifische SSGs (z.B. „Stehl die Socke“, Zonen-Spiele).
+Viele Trainer (und leider auch viele Eltern) haben ein völlig falsches Bild vom Spiel im Training. Sie sehen es als "Belohnung" am Ende der Stunde oder als "Auflockerung", damit die Kinder nicht weglaufen. Wenn es dann "ernst" wird, werden die Spiele weggepackt und die Drills ausgepackt.
+
+Aber das Spiel ist keine Pause vom Lernen. *Das Spiel ist die höchste Form des Lernens*.
+
+In der modernen Sportwissenschaft (vor allem im Fußball und Rugby) hat sich der Begriff der *Small-Sided Games* (SSG) durchgesetzt. Das sind Spiele auf verkleinertem Raum mit wenigen Spielern, die aber die _gesamte Komplexität_ des echten Sports enthalten.
+
+Warum ist das besser als jeder Drill? Weil ein Spiel niemals lügt. Es liefert *unmittelbare Konsequenz* (Sieg/Niederlage), *maximale Variabilität* (Gegner sind unberechenbar) und *hohe Wiederholungszahlen* von Entscheidungen.
+
+==== Was ein „gutes“ Spiel ausmacht (Der Qualitäts-Check)
+
+Nicht jedes Spiel ist ein gutes Fechttraining. "Blinde Kuh" mag lustig sein, hat aber mit Degenfechten nichts zu tun. Basierend auf den Kriterien von
+Thompson (2008)
+und den Prinzipien der Ecological Dynamics, muss ein SSG drei harte Kriterien erfüllen:
+
+*1. Inklusion statt Elimination (Das "Respawn"-Prinzip):*
+
+Viele klassische Spiele (wie "Reise nach Jerusalem" oder manche Fang-Spiele) basieren auf Elimination. Wer einen Fehler macht, fliegt raus und muss zugucken.
+
+Das ist didaktisch problematisch: Gerade die Schwächeren, die das Training am nötigsten hätten, fliegen als Erste raus und üben am wenigsten.
+
+=> Die Regel: Niemand fliegt raus! Wir nutzen das *"Respawn"-Prinzip* aus Videospielen. Wer getroffen/gefangen wird, muss eine kurze "Strafaufgabe" (z.B. zur Grundlinie laufen, 3 Kniebeugen) machen und darf _sofort_ wieder mitspielen.
+
+*2. Hoher Engagement-Level (Keine Warteschlangen):*
+
+Spiele wie "Ochs am Berg" oder Staffelläufe haben oft lange Wartezeiten. Einer läuft, zehn schauen zu.
+
+=> Die Regel: Ein gutes SSG beschäftigt alle Athleten gleichzeitig. Wenn wir Pausen brauchen, dann aus Erschöpfung, nicht aus organisatorischem Mangel.
+
+*3. Fecht-Spezifische Probleme (Repräsentativität):*
+
+Hier müssen wir
+Thompson (2008)
+kritisch erweitern. Ein Spiel ist für uns nur dann wertvoll, wenn es ein Problem löst, das auch im Gefecht vorkommt: Distanz, Timing, Täuschung oder Stress.
+
+* _Völkerball_: Trainiert Werfen und Ausweichen. Das Ausweichen ist "semi-nützlich", das Werfen für Fechter fast nutzlos.
+* _Glove Fencing_: Trainiert Distanz, Mensur-Disruption und Second Intention. Das ist Gold wert.
+
+==== Technische & Taktische Intelligenz entwickeln (Implizites Lernen)
+
+Der größte Vorteil von SSGs ist, dass sie Taktik lehren, ohne dass Sie einen Vortrag halten müssen. Das nennen wir *Implizites Lernen*.
+
+*Beispiel: "Glove Fencing" (Handschuh-Fechten)*
+
+* Setup: Zwei Fechter, keine Waffen, jeder hält einen Fechthandschuh am Zipfel.
+* Regel: Man muss den Gegner mit dem Handschuh auf die Schulter oder den Rücken schlagen (peitschen). Treffer auf den Arm zählen nicht.
+* Was passiert:
+** Die Fechter merken sofort: "Wenn ich einfach losstürme, weicht er aus und haut mir auf den Rücken."
+** Ohne Erklärung fangen sie an, die *Zweite Absicht* (Second Intention) zu nutzen: Sie täuschen einen Angriff vor, provozieren das Ausweichen des Gegners, und nutzen diese Bewegung für den echten Treffer.
+** Sie lernen *Distanz-Management*: Sie müssen nah genug ran zum Treffen, aber weit genug weg, um nicht getroffen zu werden.
+
+Hätten Sie versucht, "Second Intention" an der Tafel zu erklären, hätten die Kinder abgeschaltet. Im Spiel erleben sie, dass stumpfes Angreifen wehtut und schlaues Fintieren belohnt wird. Das System organisiert sich selbst zur taktischen Intelligenz.
+
+*Transferieren diese Fähigkeiten auf das Fechten?*
+
+Kritiker werden sagen: „Ein Handschuh ist kein Degen. Das Gewicht fehlt, die Länge fehlt. Das versaut das Distanzgefühl!“
+Das klingt logisch, ist aber neurobiologisch falsch:
+
+Der Transfer von Fähigkeiten hängt nicht davon ab, ob das Gerät identisch ist, sondern ob die *informations-regulierenden Variablen* identisch sind.
+
+(Hristovski et al., 2006)
+zeigt beispielsweise, dass im Boxen die Entscheidung zu handeln fast ausschließlich von der _skalierten Distanz_ zum Gegner abhängt (Ratio von Abstand zu eigener Reichweite). Es kommt dabei nicht auf die konkrete Distanz an, sondern das Verhältnis: der Auslöser bleibt *strukturell identisch.
+
+Das Gehirn trainiert das „Lesen“ des kritischen Moments („Jetzt kommt er!“). Ob dieser Moment bei 2 Metern (Degen) oder 1 Meter (Handschuh) liegt, ist eine reine Kalibrierungssache.
+
+Die _Kompetenz_, das Schließen der Lücke zu erkennen und das Timing für den Start zu finden, wird 1:1 transferiert, denn sie beruht darauf, *vorbereitete Körperbewegungen* (Advance Cues) des Gegners zu lesen
+(Rosalie & Müller, 2012)
+.
+
+*Warum SSGs (Spiele) für bis in die Weltspitze unverzichtbar sind*
+
+_„Spiele sind für Kinder, Drills sind für Profis.“_ Dieser Satz ist in der modernen Sportwissenschaft längst widerlegt. Schauen wir in den Profifußball, Rugby oder Hockey: Dort sind *Small-Sided Games* (SSG) das Haupttrainingsmittel für Millionarios:
+
+Tim Gabbett untersuchte in
+(Gabbett et al., 2009)
+Elite-Sportler (Rugby League) und verglich „Skill Drills“ (isolierte Technik) mit „Game-Based Training“:
+
+* *Das Ergebnis*: Drills verbesserten zwar die Technik im Isolationstest, brachen aber unter Wettkampfdruck oft zusammen. Game-Based Training verbesserte hingegen signifikant die *Entscheidungsqualität* (Decision Making) unter hohem physischen Druck.
+* *Für Fechter*: Ein Senior-Weltmeister verliert nicht, weil er den Ausfall vergessen hat. Er verliert, weil er unter Stress die falsche Entscheidung trifft. SSGs simulieren genau diesen Entscheidungsstress, den Drills komplett ausblenden.
+
+Eine Meta-Analyse zu SSGs im Kampfsport und Teamsport
+(Halouani et al., 2014)
+: Die Herzfrequenz und die Laktatwerte sind in SSGs oft *höher* als in linearen Drills, weil die emotionale Komponente („Ich will gewinnen!“) den Athleten pusht.
+
+*Implikation*: Ein Drill ist oft „Komfortzone“. Ein Spiel wie „Piranha“ (Einer gegen Alle im engen Kreis) zwingt den Elite-Fechter zu einer Frequenz von Aktionen und Reaktionen, die er im normalen Sparring nie erreichen würde.
+
+Gerade Elite-Athleten leiden unter „Reinvestment“ (Zerdenken), wenn sie technisch korrigiert werden
+(Masters & Maxwell, 2004)
+. SSGs zwingen sie dazu, Lösungen implizit (unbewusst) zu finden.
+
+-> Wer Weltmeister trainieren will, muss sie in Umgebungen stecken, die komplexer und chaotischer sind als das WM-Finale. Ein Drill ist immer einfacher als die Realität. Ein gut designetess SSG ist oft härter als die Realität. Deshalb nutzen Profis Spiele.
+
+==== Einschub: Die Wissenschaft der Effizienz: Drill vs. Spiel
+
+Gibt es Studien, die zeigen, wie viel effizienter SSGs sind? Ja. Wir schauen hier auf *Transfer-Raten* und *Entscheidungsqualität*.
+
+*1. Entscheidungskompetenz*
+
+Daniel Memmert
+include::partial$gen/bibliography.adoc[tags=memmert_developing_2006]
+(Deutsche Sporthochschule Köln) verglich in Langzeitstudien Gruppen, die klassisch technisch trainierten, mit Gruppen, die spielbasiert (Teaching Games for Understanding) trainierten.
+
+* *Das Ergebnis*: Die Spiel-Gruppen entwickelten signifikant bessere *taktische Kreativität* und trafen unter Zeitdruck bessere Entscheidungen als die Drill-Gruppen. Die Drill-Gruppen holten zwar technisch auf, blieben aber in komplexen Situationen (Transfer) unterlegen.
+* *Effizienz-Faktor*: Um die taktische Variabilität der Spiel-Gruppe zu erreichen, müsste die Drill-Gruppe eine unüberschaubare Menge an "Wenn-Dann"-Szenarien auswendig lernen – was kognitiv kaum möglich ist.
+
+*2. Der Transfer-Verlust*
+
+In einer Studie mit Elite-Rugbyspielern (vergleichbar mit Fechten bzgl. Tackling/Distanz) wurde technisches Drill-Training mit Skill-Based-Games verglichen
+include::partial$gen/bibliography.adoc[tags=gabbett_game-based_2009]
+.
+
+* *Das Ergebnis*: Die Drill-Gruppe verbesserte sich zwar im Drill-Test, aber diese Verbesserung übertrug sich *kaum auf das echte Spiel*. Die Game-Gruppe verbesserte sich direkt im Wettkampfverhalten.
+* *Die Rechnung*: Eine Stunde Drill hat oft nur einen *Bruchteil an Transferwert* (z.B. 10-20%) für den Wettkampf. Eine Stunde SSG hat einen fast 100%igen Transferwert, weil die Kopplung von Wahrnehmung und Handlung intakt bleibt. Man muss also extrem viel drillen, um den geringen Transfer durch Masse auszugleichen.
+
+*3. Implizit vs. Explizit*
+
+Markus Raab zeigte
+include::partial$gen/bibliography.adoc[tags=raab_decision_2003]
+, dass „implizite Lerner“ (Lernen durch Spielen ohne viel Erklärung) in Situationen mit hoher Komplexität bessere Entscheidungen treffen als „explizite Lerner“ (Regelwissen durch Drills):
+
+Unter Stress brachen die expliziten Lerner (Drill) eher ein, während die impliziten Lerner stabil blieben. Das bedeutet: Drill-Training muss durch noch mehr Drill „gehärtet“ werden, um stressresistent zu sein, während Spiel-Training von Natur aus stressresistenter ist.
+
+=> Weltmeister von morgen werden nicht mehr Zeit haben als die von gestern. Aber sie müssen komplexere Probleme lösen. Deshalb können sie es sich nicht leisten, ineffizient zu trainieren.
 
 === Der Körper denkt mit: Embodied Cognition & Focus of Attention
 
-* Warum Taktik im Körper steckt, nicht nur im Kopf.
-* Externer vs. Interner Fokus: Warum „Triff die Weste“ besser funktioniert als „Streck den Arm“.
-* Die Sprache des Coachings: Weniger reden, mehr steuern (Implicit Learning).
+Seit Jahrhunderten trennen wir den Menschen in zwei Teile: Den Geist, der denkt und plant (Taktik), und den Körper, der diese Pläne wie ein dummer Befehlsempfänger ausführt (Technik). Diese Trennung ist der Grund, warum wir Fechten so oft als „Schach mit Muskeln“ missverstehen.
+
+Die moderne Kognitionswissenschaft, speziell die Embodied Cognition (Verkürperte Kognition), hat dieses mechanistische Weltbild zertrümmert
+include::partial$gen/bibliography.adoc[tags=lakoff_philosophy_1999]
+. Das Gehirn ist kein einsamer Pilot in einem Fleisch-Roboter. Dein Denken findet im gesamten Körper statt. Neurowissenschaftliche Studien zeigen sogar, dass allein das Hören von Aktionsverben die motorischen Areale im Gehirn aktiviert, die für die Ausführung dieser Bewegung zuständig sind
+include::partial$gen/bibliography.adoc[tags=friedemann_pulvermuller_brain_2005]
+. Denken und Handeln sind physiologisch untrennbar.
+
+==== Der Degen als Sinnesorgan (Warum Taktik im Körper steckt)
+
+In der alten Welt plant der Fechter den Angriff im Kopf und sendet dann das Signal an die Beine. In der Realität der Embodied Cognition ist die Bewegung selbst ein integraler Teil des Denkprozesses. Wenn Du den Degen in die Hand nimmst, passiert etwas Faszinierendes: Dein Gehirn „mappt“ die 90 Zentimeter Stahl neurologisch als physische Erweiterung Deines Körpers.
+
+Die Forschung zur *Tool-Incorporation* belegt, dass das Gehirn Werkzeuge nach kurzer Zeit wie eigene Gliedmaßen behandelt und die rezeptiven Felder der Neuronen entsprechend erweitert
+include::partial$gen/bibliography.adoc[tags=maravita_tools_2004]
+.
+
+Du spürst den Druck, die Spannung und die Absicht Deines Gegners durch den Kontakt der Klingen, lange bevor diese Information bewusst verarbeitet wird. Das liegt an der enormen Geschwindigkeit der *haptischen Wahrnehmung* im Vergleich zur visuellen Verarbeitung. Während bewusste kognitive Prozesse eine Latenz von etwa 300 bis 500 Millisekunden haben, finden fechterische Interaktionen oft in Bruchteilen dieser Zeit statt
+include::partial$gen/bibliography.adoc[tags=zeuwts_ability_2017]
+.
+
+Entscheidungen auf der Planche sind daher meist prä-reflexiv; das System handelt, bevor das „Ich“ den Gedanken zu Ende gedacht hat
+include::partial$gen/bibliography.adoc[tags=libet_unconscious_1985]
+.
+
+Taktik ist deshalb nichts, was man im Sitzen auf der Bank erlernt. Taktik steckt in den Beinen. Die Theorie der *Embodied Choices* zeigt, dass unsere taktischen Entscheidungen untrennbar mit unseren momentanen motorischen Fähigkeiten verknüpft sind
+include::partial$gen/bibliography.adoc[tags=raab_judgment_2021]
+. Entscheidungsfindung und Bewegungsvorbereitung sind im Gehirn keine getrennten Prozesse, sondern beeinflussen sich gegenseitig in Echtzeit
+include::partial$gen/bibliography.adoc[tags=lepora_embodied_2015]
+.
+
+Das bedeutet: Was Du taktisch „siehst“, hängt davon ab, was Dein Körper gerade ausführen kann. Ein ermüdeter Fechter „sieht“ andere taktische Lösungen als ein frischer.
+
+Wenn wir Fechter zwingen, stillzustehen und einem langen taktischen Vortrag zuzuhören, berauben wir sie ihres eigentlichen Denkapparates. Nach dem Konzept des Enaktivismus
+include::partial$gen/bibliography.adoc[tags=noe_action_2006]
+ist Wahrnehmung kein passives Empfangen von Daten, sondern eine aktive Erkundung durch Bewegung.
+
+==== Die Aufmerksamkeitsfalle: Externer vs. Interner Fokus
+
+Wenn wir akzeptieren, dass der Körper selbst „denkt“, müssen wir als Trainer aufhören, ihn ständig durch falsche Anweisungen dabei zu stören. Die effektivste Methode, die Intelligenz des Körpers zu sabotieren, ist die klassische Bewegungskorrektur.
+
+Hier betreten wir das Forschungsgebiet von Gabriele Wulf zum Focus of Attention (Aufmerksamkeitsfokus). Sie unterscheidet zwei Arten, wie wir unsere Aufmerksamkeit steuern können
+include::partial$gen/bibliography.adoc[tags=wulf_attentional_2013]
+:
+
+1. *Interner Fokus*: Die Konzentration auf die eigenen Körperteile und Gelenke. (z. B. _„Streck den Arm!“_, _„Knie tiefer beugen!“_)
+2. *Externer Fokus*: Die Konzentration auf den Effekt der Bewegung in der Umwelt. (z. B. _„Jage die Spitze in die Weste!“_, _„Drück den Boden weg!“_)
+
+Für Sie (liebe Trainer der alten Schule) fühlt sich der interne Fokus extrem kompetent an. Doch für den Athleten ist er Gift. Die Forschung belegt hier die sogenannte Constrained Action Hypothesis
+include::partial$gen/bibliography.adoc[tags=wulf_automaticity_2001]
+. Sie besagt, dass ein Athlet, der intern fokussiert, unbewusst in seine eigenen automatischen, selbstorganisierenden Prozesse eingreift.
+
+Die Folgen sind durch Studien massiv belegt: Die Muskeln beginnen gegeneinander zu arbeiten (Ko-Kontraktion), die Bewegungsökonomie sinkt, die Genauigkeit nimmt ab und die Kraftentwicklung wird blockiert
+include::partial$gen/bibliography.adoc[tags=wulf_attentional_2013]
+: Ein Fechter, der an seinen Ellenbogen denkt, ist messbar langsamer als ein Fechter, der an das Ziel denkt.
+
+*Der Fintenfisch-Weg*: Wir verbannen den internen Fokus aus der Halle. Wir instruieren niemals den Körper, wir instruieren immer die Umwelt.
+
+Anstatt zu rufen: _„Zieh das Handgelenk beim Stoß nach innen!“_, rufen wir: _„Stoß so, als ob du eine Kurve um einen Baum fliegen willst!“_
+
+Dein Körper weiß instinktiv besser als Dein Bewusstsein, wie er die Gelenke organisieren muss, um dieses Ziel zu erreichen.
+
+*Die neue Sprache des Coachings: Bilder statt Biomechanik*
+
+Wenn wir keine Körperteile mehr benennen dürfen, wie reden wir dann? Wir nutzen die Sprache des Impliziten Lernens
+include::partial$gen/bibliography.adoc[tags=masters_theory_2008]
+. Wir verpacken hochkomplexe biomechanische Probleme in einfache Bilder und Analogien.
+
+Nick Winkelman zeigt in seinen Arbeiten
+include::partial$gen/bibliography.adoc[tags=winkelman_language_2020]
+, dass die effektivsten „Cues“ (Hinweise) kurz, bildhaft und immer vom Körper weggerichtet sind. Jedes Wort, das Sie während der Übung rufen, ist oft ein Wort zu viel. Wenn Sie eingreifen, dann mit maximal drei Wörtern: „Zerschneide die Luft!“, „Such den Kontakt!“, „Bleib wie Schatten!“.
+
+Wenn wir den Fechter als komplexes, selbstorganisierendes Ökosystem begreifen, dann ist Sprache nicht dazu da, ihm eine Betriebsanleitung vorzulesen. Sprache ist dazu da, seine Vorstellungskraft zu zünden und seinen Fokus dorthin zu lenken, wo das Gefecht entschieden wird: nach draußen, zur Klinge des Gegners.
 
 === Athlete Development Model
+
+NOTE: Noch nicht geschrieben. Die Inhalte könnten sein:_
 
 * Wie wir Talent entwickeln und fördern
 * Auswirkungen von Sprache auf Leistung, Motivation und Entwicklung

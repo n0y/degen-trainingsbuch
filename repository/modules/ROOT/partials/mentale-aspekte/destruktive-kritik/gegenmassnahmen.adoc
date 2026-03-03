@@ -21,7 +21,7 @@ Um negative Effekte zu puffern oder gar umzukehren, haben sich mehrere kompensat
 Negativ besetzte Begriffe werden durch neue Bedeutungsnetzwerke ersetzt oder entwertet. +
 Beispiel: Statt „verrücktes Huhn“ → _„eine ungewöhnliche, kreative Eigenlösung“_ +
 Ziel ist die Neucodierung im mentalen Lexikon, um die emotional-negative Verankerung zu lösen
-include::partial$gen/bibliography.adoc[tags=Schack2007Reprasentation]
+include::partial$gen/bibliography.adoc[tags=schack_representation_2006]
 .
 
 * *Sozial sichere Kontexte schaffen*:
