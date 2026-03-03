@@ -43,7 +43,7 @@ a|
 ==== Aufwärmen mit Bänken II
 
 Quelle:
-include::partial$gen/bibliography.adoc[tags=ErlFe]
+include::partial$gen/bibliography.adoc[tags=molter_erlebniswelt_2006]
 , S. 64
 
 Die Fechter stehen vor drei hintereinander gestellten Bänken in einer Reihe. Nach jedem Überwinden der Bänke laufen sie seitlich zurück und schließen sich in der Reihe wieder hinten an.
