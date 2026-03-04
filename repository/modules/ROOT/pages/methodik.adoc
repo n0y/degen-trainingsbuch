@@ -1103,7 +1103,6 @@ Beobachten Sie einmal Erwachsene, die am Rand eines Kletterseilparcours stehen u
 Wir berauben Erwachsene oft des Spiels, weil wir es für "unseriös" halten. Dabei sehnt sich ihr Nervensystem genau nach diesem explorativen Freiraum. Die Annahme, das erwachsene Gehirn brauche „harte, freudlose Wiederholungen“, um sich noch zu verändern, ist falsch. Studien zur Plastizität des motorischen Kortex bei Erwachsenen
 include::partial$gen/bibliography.adoc[tags=kami_functional_1995]
 ,
-
 include::partial$gen/bibliography.adoc[tags=dayan_neuroplasticity_2011]
 belegen, dass auch das reife Gehirn durch sensorisches Rauschen, intrinsische Motivation und Variabilität am schnellsten lernt.
 
