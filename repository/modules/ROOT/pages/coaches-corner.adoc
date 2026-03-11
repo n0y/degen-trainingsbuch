@@ -1,4 +1,4 @@
-= Level Up: Vom Drill-Sergeant zum Weltenbauer
+= Level Up: Vom Drill-Sergeant zum Weltenbauer [alpha]
 :description: Der Trainer als Designer von Lernumgebungen – warum wir aufhören zu befehlen und anfangen zu programmieren.
 :keywords: Coaching, Ready Player One, Constraints, Lernumgebung, Gamification
 

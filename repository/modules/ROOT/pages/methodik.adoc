@@ -1,4 +1,4 @@
-= Hinter der Kulisse des Fintenfischs (Alpha-Version)
+= Hinter der Kulisse des Fintenfischs [beta]
 :description: Trainingsmethoden für das Fechten verglichen: klassische Ansätze gegenüber systemdynamischen Ansätzen
 :keywords: Fechten,Degen-Fechten,Training,Grundlagen,differenzielles Training
 
