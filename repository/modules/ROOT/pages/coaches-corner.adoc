@@ -239,3 +239,112 @@ Du hast keine Zeit, stundenlang Übungen zu designen? Du brauchst etwas, das heu
 Willkommen im Arcade Mode. Hier gilt: Münze einwerfen, Start drücken.
 
 Keine Theorie. Nur getestete Szenarien, die funktionieren.
+
+// == Architect Mode
+//
+// ==== Der Coach als Architekt: Wie wir Lernumgebungen gestalten
+//
+// // TODO Das gehört eigentlich ins Trainer-Kapitel - bei Gelegenheit bewegen
+//
+// Es reicht nicht, einfach wild ein paar Constraints in den Raum zu werfen und zu hoffen, dass Fechten dabei herauskommt. Ein guter Architekt baut nicht nach Gefühl, er baut nach Statik und Funktion.
+//
+// Damit Sie (lieber Coach) nicht jedes Mal raten müssen, ob eine Übung funktioniert, geben wir Ihnen hier den *Constraint-Design-Loop* an die Hand. Das ist ein 5-Schritte-Prozess, mit dem Sie systematisch von der Fehleranalyse zur perfekten Lernumgebung kommen.
+//
+// **Der Constraint-Design-Loop: In 5 Schritten zur Lösung**
+//
+// Dieser Prozess verhindert, dass Sie Übungen „zerlegen“. Er zwingt Sie, immer das _Ganze_ im Blick zu behalten.
+//
+// **Schritt 1: Identifiziere das „Problem“ (Das Dysfunktionale Verhalten)**
+//
+// Bevor wir bauen, müssen wir wissen, was wackelt. Schauen Sie sich das Gefecht an. Was genau stört Sie?
+//
+// * Schlecht: „Die Technik ist unsauber.“ (Zu vage, führt zu internem Fokus).
+// * Gut: „Der Athlet wird bei gegnerischem Druck passiv und friert ein.“ (Funktionales Problem).
+// * Gut: „Die Ausfälle sind zu kurz, um die Mensur zu überbrücken.“ (Distanz-Problem).
+//
+//
+// 1. Einführung: Warum wir aufhören, Lösungen vorzugeben
+//
+//     Der Paradigmenwechsel: Weg von der Instruktion („Mach es so!“), hin zur Provokation („Finde eine Lösung für dieses Problem!“).
+//
+//     Das Prinzip der Selbstorganisation: Warum eine selbst gefundene Lösung stabiler und stressresistenter ist als eine nachgeahmte.
+//
+//     Biologische Intelligenz: Das Nervensystem als Problemlösungsmaschine, die nur durch Widerstand lernt (Referenz: Bernstein/Newell).
+//
+// 2. Das Dreieck der Macht: Die drei Kategorien von Constraints (nach Newell, 1986)
+//
+//     Hier definieren wir das Vokabular für den Rest des Buches.
+//
+//     Organismic Constraints (Der Fechter):
+//
+//         Feste Faktoren: Größe, Reichweite, genetische Muskelfaserverteilung.
+//
+//         Variable Faktoren: Müdigkeit, Angst, Motivation, Verletzungen.
+//
+//         Implikation: Warum ein kleiner Fechter (andere Constraints) niemals die Technik eines großen kopieren darf.
+//
+//     Environmental Constraints (Die Umwelt):
+//
+//         Physisch: Bodenbelag, Licht, Temperatur, Lärm.
+//
+//         Sozial/Kulturell: Erwartungsdruck, Zuschauer, "Angst vor dem Trainer".
+//
+//     Task Constraints (Die Aufgabe) – Unser wichtigstes Werkzeug:
+//
+//         Regeln des Spiels (Trefferfläche, Zeit, Punkte).
+//
+//         Ausrüstung (Degen, Maske, Zusatzgewichte).
+//
+//         Zielvorgabe (Treffen vs. Nicht getroffen werden).
+//
+// 3. Der Coach als Architekt: Wie wir Lösungen "designen"
+//
+//     Vom Instruktor zum Environment Architect: Wir korrigieren nicht den Athleten, wir korrigieren die Übung.
+//
+//     Manipulation der Constraints:
+//
+//         Beispiel: Wenn der Fechter zu große Bewegungen macht -> Constraint: "Fechten im engen Korridor" (Environmental).
+//
+//         Beispiel: Wenn die Beinarbeit statisch ist -> Constraint: "Treffer zählt nur, wenn beide Füße in der Luft waren" (Task).
+//
+//     Simplification by Constraints: Wie man Komplexität reduziert, ohne die Kopplung (Perception-Action) zu zerstören (Abgrenzung zur Zerlegung).
+//
+// 4. Die Werkzeugkiste: Welche Schrauben wir drehen können
+//
+//     Eine konkrete Liste von Stellschrauben für das tägliche Training.
+//
+//     Räumliche Constraints: Bahn verkürzen/verbreitern, Zonen definieren (Neutral Zone, Warning Zone).
+//
+//     Zeitliche Constraints: Zeitlimits für Angriffe ("Shot Clock"), Zeitlupen-Fechten vs. Hyper-Speed.
+//
+//     Regel-Constraints: Asymmetrische Ziele (Einer darf alles, Einer nur Hand), Handicaps.
+//
+//     Material-Constraints: Schwerere Waffen, Augenklappen, Bälle in der Hand, instabile Untergründe.
+//
+// 5. Druckbedingungen: Agilität und Stress als Katalysator
+//
+//     Integration von Aspekten aus dem Agilitätstraining.
+//
+//     Entscheidungsdruck: Mehrere Ziele gleichzeitig anbieten (Choice Reaction).
+//
+//     Präzisionsdruck: Trefferfläche extrem verkleinern (z.B. nur auf Maskenband).
+//
+//     Komplexitätsdruck: Zusatzaufgaben während des Fechtens (kognitive Dual-Tasks).
+//
+//     Belastungsdruck: Vorermüdung nutzen, um ökonomische Bewegungen zu erzwingen.
+//
+// 6. Der Athlet als sein eigener Architekt (Autonomie)
+//
+//     Partnerübungen neu gedacht: Wie Athleten sich gegenseitig Constraints setzen ("Du darfst mich nur treffen, wenn ich atme").
+//
+//     Selbstregulation: Wie der Fechter im Wettkampf seine eigenen Constraints erkennt und nutzt (z.B. "Ich bin müde, also ändere ich meine Taktik auf Ressourcensparen").
+//
+//     Hausaufgaben: Wie man Constraints ins Einzeltraining (Schattenfechten) einbaut.
+//
+// 7. Zusammenfassung: Die "Goldene Regel" des CLA
+//
+//     Manipuliere so wenig wie möglich, aber so viel wie nötig.
+//
+//     Lass dem System Zeit, die Lösung zu finden (Geduld statt Korrektur).
+//
+//     Wenn die Lösung "hässlich" ist, aber funktioniert: Lass sie!

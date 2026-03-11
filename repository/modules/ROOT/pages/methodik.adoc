@@ -2,9 +2,13 @@
 :description: Trainingsmethoden für das Fechten verglichen: klassische Ansätze gegenüber systemdynamischen Ansätzen
 :keywords: Fechten,Degen-Fechten,Training,Grundlagen,differenzielles Training
 
-Wir alle stehen auf den Schultern von Riesen. Die traditionelle Fechtlehre, wie sie über Jahrhunderte von den großen Meistern entwickelt wurde, ist ein Monument menschlichen Strebens nach Perfektion. Sie hat Legenden geformt und das Fechten zu der ästhetischen Kunst gemacht, die wir heute lieben.
+Seit Camillo Agrippa im Jahr 1553 versuchte, das Fechten mit Zirkel und Lineal zu erklären, träumen wir den Traum der perfekten, berechenbaren Technik. Doch erst mit der Industriellen Revolution vor gut 100 Jahren wurde aus diesem Traum ein Korsett:
 
-== Die Sackgasse der Klassik: Ein respektvoller Rückblick auf das „Computer-Modell“
+Wir begannen, Athleten wie Rohmaterial in einer Fabrik zu behandeln. Wir erfanden den Drill in Reihen, die synchrone Dressur und die unerbittliche Schablone des Technikleitbildes.
+
+Wir dachten, wir könnten den Menschen programmieren wie eine Maschine. In dieser Sackgasse stehen wir noch heute. Es wird Zeit, die Schablone zu zerbrechen und den Fechter endlich als das zu sehen, was er ist: Ein lebendiges, wachsendes System.
+
+== Das Erbe der Industriekultur: Warum 100 Jahre Drill-Training heute in die Sackgasse führen
 
 Wenn Sie, liebe Kolleginnen und Kollegen der „alten Schule“, heute in der Halle stehen und nach dem Prinzip des *Lernens am Modell*
 include::partial$gen/bibliography.adoc[tags=bandura_social_1986]
@@ -186,7 +190,13 @@ Wenn wir die Prinzipien des *Differenziellen Lernens* und des *System-Destructio
 
 Wir sehen diese Menschen deshalb nicht in der Weltspitze, weil unsere Trainer sie wie defekte Uhren behandeln, die man reparieren muss, statt sie als hochspezialisierte Rennwagen zu begreifen, die eine andere Art von Fahrwerk haben.
 
-*Wahre Inklusion im Fechten bedeutet*: Wir fördern nicht trotz einer Behinderung, sondern wir nutzen die einzigartige System-Konfiguration jedes Einzelnen, um Lösungen zu finden, die so brillant und eigenwillig sind, dass die „Norm-Welt“ keine Antwort darauf hat.
+Wir müssen ehrlich sein: Natürlich ist nicht jede Behinderung ein versteckter Vorteil. Viele körperliche oder geistige Einschränkungen sind im Fechtsport – einer Disziplin, die extreme Schnelligkeit, Präzision und Belastbarkeit fordert – zunächst einmal ein Hindernis.
+
+Wer eine eingeschränkte Beinfunktion hat, wird niemals den explosivsten Drei-Meter-Ausfall der Welt machen. Das zu leugnen, wäre unfair gegenüber dem Athleten.
+
+Dennoch gilt: Degeneracy und Selbstorganisation sind mächtige Werkzeuge, um Probleme auf ungewöhntliche Weise zu umgehen. Ein "behinderter" Athlet kann unter den richtigen Umständen die "normale" Fechterin in eine Welt bringen, auf die sie tausend Stunden Technik-Drill nicht vorbereitet haben.
+
+*Wahre Inklusion im Fechten bedeutet deshalb*: Wir fördern nicht trotz einer Behinderung, sondern wir nutzen die einzigartige System-Konfiguration jedes Einzelnen, um Lösungen zu finden, die so brillant und eigenwillig sind, dass die „Norm-Welt“ keine Antwort darauf hat.
 
 === Die Harmenberg-Logik: Dein Makel ist Deine Waffe
 
@@ -469,20 +479,37 @@ Er macht Dinge unbewusst perfekt, weiß aber nicht mehr, wie er sie gelernt hat.
 
 Der Assistent hingegen ist der *Architekt der Möglichkeiten*. Da er nicht fehlerfrei „vorturnen“ kann, verlässt er sich auf das System. Er designt Constraints. Er ist offen für „hässliche“, aber funktionale Lösungen der Athleten, weil er keine Angst hat, dass eine „heilige Technik“ beschmutzt wird. Die Lösungen, die seine Schüler unter Druck selbst finden, gehören ihnen. Sie sind tief verankert, individuell passend und extrem fehlerresistent. Die kopierte Technik des Olympiasiegers ist hingegen nur geliehen – und bricht unter Druck zusammen.
 
-==== Die „Impf-Strategie“: Überleben im System Verbandssport
+==== Einschub: Die „Impf-Strategie“ - Wie Athleten das Drill-Training hacken
 
-Was bedeutet das für die Praxis? Dürfen Ihre Athleten nie wieder zu einem traditionellen Kader-Training oder zum Verbandstrainer?
+Was bedeutet das für die Praxis? Dürfen Ihre Athleten nie wieder zu einem traditionellen Kader-Training oder zur Einzellektion beim Verbandstrainer gehen?
 
-Nun, sicher zum Training mit dem Kader, um gegen gute Sparrings-Partner ihre Fähigkeiten zu erproben.
+Die Antwort lautet nicht „Nein“. Im Gegenteil: Sie können und sollen dorthin gehen. Nicht nur, weil sie dort auf exzellente Sparringspartner treffen. Selbst das monotonste Drill-Training und das Beharren auf starren Technikleitbildern müssen keinen Schaden anrichten. Im Fintenfisch-Ansatz können sie sogar nützlich sein.
 
-Aber mit Drill-Training oder zu den persönlichen Lektionen mit Technik-Leitbild? *In einer idealen Welt: Nein*.
+Warum? Weil aus Sicht des Differenziellen Lernens (DL) die Vorgabe, eine Bewegung exakt in einer bestimmten, isolierten Form auszuführen, letztlich nur eines ist: *Ein weiterer, sehr extremer Constraint.* Es ist schlichtweg eine weitere, stark eingeschränkte Variante auf der großen Speisekarte der Bewegungserfahrungen.
 
-In der Realität des deutschen Sportsystems würde das oft das Ende der Karriere bedeuten. Wenn Ihre Athleten dorthin müssen, müssen Sie sie intellektuell bewaffnen. Geben Sie ihnen einen *„mentalen Schutzschild“* mit:
+Voraussetzung dafür ist allerdings, dass Ihre Athleten nicht unvorbereitet in diese Halle gehen. Wir müssen sie intellektuell bewaffnen. Wir geben ihnen einen *„mentalen Schutzschild“* mit, um die traditionelle Lektion für sich zu hacken:
 
-. _Distanzierung_: Erklären Sie ihnen, dass die Drill-Lektion beim Verband eine choreografierte Tanzstunde ist, um den dortigen Trainer zufriedenzustellen. Es ist körperliche Konditionierung, aber kein echtes Fechten.
-. _Subversive Variabilität_: Weisen Sie Ihre Athleten an, während des starren Drills _heimlich zu variieren_. Sie sollen den Treffpunkt auf der gegnerischen Weste millimeterweise verschieben, das Timing unsichtbar verzögern oder den Druck der Finger variieren. Nach außen hin sieht es aus wie Gehorsam, aber das Nervensystem bleibt im „Such-Modus“.
+*1. Subversive Variabilität (Das unsichtbare Rauschen)*
 
-Ein Athlet, der weiß, _warum_ der Drill des traditionellen Trainers suboptimal ist, ist dagegen weitgehend immun. Er gibt dem System, was es sehen will, und behält für sich, was er zum Siegen braucht.
+Weise Deine Athleten an, während des starren Drills heimlich zu variieren. Sie sollen den Treffpunkt auf der Weste des Trainers bei jedem Ausfall millimeterweise verschieben, das Timing für den Coach fast unsichtbar verzögern oder den Druck der Finger am Griff bei jeder Wiederholung ändern.
+
+Nach außen hin sieht es aus wie bravster Gehorsam, der den Trainer zufriedenstellt. Im Verborgenen aber bleibt das Nervensystem des Athleten im aktiven, neuroplastischen „Such-Modus“.
+
+*2. Der Fokus-Übersetzer (Der Winkelman-Hack)*
+
+Traditionelle Trainer lieben den internen Fokus. Sie rufen Dinge wie: _„Beuge das hintere Knie mehr, nimm die Schulter zurück und streck den Ellenbogen früher!“_
+
+Ein Fintenfisch-Athlet lernt, diese Anweisungen in seinem Kopf in Echtzeit in externe Cues zu übersetzen. Wenn der Verbandstrainer die Mechanik des Ellenbogens kritisiert, denkt der Athlet: _„Wirf die Spitze wie einen Dartpfeil genau auf dieses Nahtkreuz an seiner Schulter.“_
+
+Er erfüllt die optische Erwartung des Trainers, schützt aber sein Gehirn vor dem lähmenden internen Fokus.
+
+*3. Der emotionale Filter (Resilienz gegen das Defizit-Modell)*
+
+In traditionellen Systemen wird oft noch nach dem Prinzip der negativen Fehlervermeidung gecoacht – Abweichungen vom Idealbild werden nicht selten hart, emotionalisiert oder destruktiv kritisiert. Darauf müssen Ihre Fechter vorbereitet sein. Bereiten Sie sie mit den Techniken aus dem Kapitel „Mentale Aspekte / Umgang mit destruktiver Kritik“ (inklusive der dortigen Coaching-Karten) darauf vor. Der Athlet muss verinnerlichen: Die Kritik des Trainers bewertet nur die Abweichung von einer Papierschablone – nicht seinen Wert als Kämpfer oder die tatsächliche Funktionalität seiner Bewegung.
+
+*Fazit*
+
+Ein Athlet, der weiß, _warum_ der traditionelle Drill stattfindet und wie das eigene Nervensystem wirklich lernt, ist immun gegen die Nebenwirkungen der Linear Pedagogy. Er gibt dem alten System die Form, die es sehen will, und zieht für sich selbst die Funktion heraus, die er zum Siegen braucht.
 
 == Die wichtigsten Lehr- und Lernmethoden - und ihre Anwendung im Fechten
 
@@ -718,7 +745,7 @@ include::partial$gen/bibliography.adoc[tags=hakim_joint_2003]
 
 Das sind die äußeren Bedingungen, die auf alle Fechter gleichermaßen wirken. _Environment_ ist nicht nur das Licht in der Halle. Environment ist die *Gesamtheit der psychophysischen Atmosphäre*.
 
-Als Coach darfst Du Regisseur werden, der das Bühnenbild und das Drehbuch so manipuliert, dass das Drama (der Lerneffekt) maximal wird.
+Als Coach darfst Du Regisseur werden, der das Bühnenbild und das Drehbuch so manipuliert, dass das Drama (der Lerneffekt) maximal wird. In diesem Teil geben wir kurze Beispiele für diese Constraints. Weitere Möglichkeiten findest Du im Coach-Kapitel.
 
 ** *Physisch*: +
   Hier manipulieren wir die Physik des Raumes und der Wahrnehmung. Beispiele:
@@ -751,160 +778,20 @@ Als Coach darfst Du Regisseur werden, der das Bühnenbild und das Drehbuch so ma
 
 * *Regeln* +
   Hier verändern wir die Physik des Spiels und zwingen das System zu neuen Taktiken. Beispiele:
-// TODO Teile davon ins Coach-Kapitel ziehen
 ** *Der Boden ist Lava* (Zone of Death): Wer mit beiden Füßen im hinteren Drittel der Bahn (letzte 2 Meter) steht, verliert sofort den Punkt. (Zwingt zu aggressivem Vorwärtsverteidigen und Neutral Zone Engagement).
-** *Stille Post* (No Blade Contact): Treffer zählen nur, wenn keine Klingenberührung stattgefunden hat. (Fördert Disengagement, Tempo und Timing ohne Bindung).
-** *Klebstoff-Klinge* (Constant Contact): Treffer zählen nur, wenn vorher eine Klingenbindung bestand. Lösen ist verboten. (Zwingt zu Infight, Kraftübertragung und Fühlen).
-** *Der Einbeinige* (Single Leg Takedown): Wer trifft, während er auf einem Bein steht (oder gerade springt), bekommt doppelte Punkte. (Fördert Balance, Koordination und unvorhersehbare Rhythmen).
-** *Zeitlupe vs. Hyper-Speed* (Matrix-Mode):
-*** _Variante A_: Nur Zeitlupe erlaubt. Wer schneller wird, verliert. (Fördert Präzision und Balance).
-*** _Variante B_: Nur maximale Explosivität erlaubt. Kein Abtasten. (Fördert Entscheidungsschnelligkeit).
-** *Der 5-Sekunden-Countdown* (Shot Clock): Jeder Angriff muss innerhalb von 5 Sekunden nach dem "Allez" oder nach dem letzten Klingenkontakt erfolgen. Sonst Punktabzug. (Erzwingt Action und verhindert Passivität).
-** *Symmetrie-Verbot* (Anti-Mirror): Wenn der Gegner vorwärts geht, musst du vorwärts gehen (Infight erzwingen). Wenn er rückwärts geht, musst du rückwärts gehen (Sog-Wirkung). (Bricht das klassische "Abstand halten"-Muster).
 ** *Freeze-Tag* (Stopp-Tanz): Auf Pfiff müssen beide sofort in ihrer Position "einfrieren". Wer wackelt, verliert. (Überprüft Balance und Stabilität in jeder Phase der Bewegung).
-** *Blind-Date* (No Vision Start): Start Rücken an Rücken, mit geschlossenen Augen oder eine Abdeckplane zwischen den Fechtern. Auf Signal drehen/Augen auf/Plane entfernen und sofort fechten. (Trainiert Reaktionsschnelligkeit und Orientierung).
 
 * *Ausrüstung*: +
   Hier verfremden wir das Material, um die Sensorik neu zu kalibrieren. Beispiele:
 
 ** *Die schwere Hand* (Heavy Weapon): Fechten mit einer Gewichtsmanschette (200-500g) am Handgelenk oder direkt an der Glocke. (Zwingt zu extrem ökonomischer Handführung, da "Wedeln" unmöglich wird).
-** *Die Keule*: Fechten mit einem starken Magneten (10g) direkt an der Spitze ("Wedeln" wird fast unmöglich)
-** *Der rutschige Griff* (Slippery Handle): Griff mit kleinem Handtuch Tape umwickeln (Zwingt zu lockerem Griff, statt "Krampf-Halten").
-** *Das verlängerte Ziel* (Target Extension): Ein Tennisball oder Schwamm wird an der Maske oder am Ellenbogen befestigt. Nur Treffer auf dieses Objekt zählen. (Verändert die Affordance Landscape des Ziels massiv).
-** *Der Schildkampf* (Target Restriction): Nutze eine runde Pappe (50cm Durchmesser) als Erweiterung der Glocke (erzwingt ungewöhnliche Stoßwinkel)
-** *Die kurze Waffe* (Short Blade): Fechten mit Mini-Degen oder kurzen Schlauchstücken (Zwingt zu naher Distanz und Infight).
-** *Der "Falsche" Handschuh* (Sensory Deprivation): Fechten mit einem dicken Fäustling oder einem Boxhandschuh an der Waffenhand (Waffe wird nur "eingeklemmt"). (Nimmt das feine Fingergefühl und zwingt zur Steuerung aus der Schulter/dem Arm).
-** *Augenklappe / Brille* (Visual Restriction):
-*** Einseitig: Simuliert monokulares Sehen (kein Tiefensehen).
-*** Maske Oben/Unten abgeklebt: Man sieht die Beine/Klinge nicht mehr, nur den Kopf/Rumpf. (Zwingt zum Fühlen und Antizipieren).
-** *Gummiband-Fesseln* (Resistance Bands): Ein Theraband verbindet beide Knöchel (kurz). (Zwingt zu kleinen, schnellen Schritten und stabiler Basis).
-** *Der Rucksack* (Load Carriage): Fechten mit einem (leichten) Rucksack oder einer Gewichtsweste. (Verändert den Schwerpunkt und erhöht die Rumpf-Last).
-** *Ball in der Hand* (Dual Task): Die freie Hand muss einen Tennisball jonglieren oder prellen, während man ficht. (Entkoppelt die Körperhälften und bindet kognitive Ressourcen).
-** *Das "Laserschwert"* (Poolnudel/Schaumstoff): Statt Degen nutzen wir Poolnudeln. (Nimmt die Angst vor dem Schmerz und erlaubt extrem mutige, aggressive Aktionen ohne Verletzungsrisiko).
+** *Die Keule*: Fechten mit 4mm Stahlkugeln direkt an der Spitze ("Wedeln" wird fast unmöglich)
 
 * *Zielvorgabe* (Goal / Task Goal)
   Hier definieren wir, was "Erfolg" bedeutet. Beispiele:
 
-** *Sniper-Modus* (Precision only): Treffer zählen nur auf einen 5cm großen Punkt (z.B. Maskenband). Markierung z.B. mit geerdeter Säbelweste (ungültig) und Klebeband darauf (gültig). Alles andere ist "daneben". (Zwingt zu maximaler Präzision).
-** *Verkehrte Welt* (Reverse Scoring):
-*** Ein Doppeltreffer gibt beiden Minus-Punkte. (Fördert "Einer-Fechten").
-*** Ein Treffer auf den Fuß zählt 5 Punkte, auf den Rumpf nur 1. (Lenkt den Fokus extrem auf tiefe Ziele).
-** *Der Überlebenskünstler* (Defense First): Fechter A darf nicht angreifen, nur parieren/ausweichen/mitstoßen. Er bekommt einen Punkt, wenn Fechter B nach 30 Sekunden nicht alleine getroffen hat. (Fördert extreme Defensive und Zeitmanagement).
-** *Kombinations-Zwang* (Combo-Counter): Ein Punkt zählt erst, wenn zwei Treffer in Folge (innerhalb von 3 Sek.) gesetzt wurden (der erste wird ignoriert/pariert). (Zwingt zum Weiterfechten nach dem ersten Kontakt – Second Intention).
+** *Sniper-Modus* (Precision only): Wir ziehen einem Fechter ein altes T-Shirt mit "Wasserbomben"-Luftballons an. Sein Gegner soll sie zum platzen bringen.
 ** *Der Provokateur* (Draw the Foul): Ziel ist es nicht zu treffen, sondern den Gegner zu einer ungültigen Aktion (z.B. Rauslaufen, Bodenberührung, Waffenberührung mit falschem Arm) zu verleiten. (Schult psychologische Kriegsführung).
-*** *Königsmord* (Focus Target): Vor dem Gefecht wird heimlich ein Körperteil ausgelost (z.B. "Linker Oberschenkel"). Nur Treffer dort zählen. Der Gegner weiß es nicht. (Schult das "Lesen" der gegnerischen Absicht).
-** *Boden-Kampf* (Ground Control): Ein Punkt wird nur gegeben, wenn der Gegner nach dem Treffer aus dem Gleichgewicht ist (stolpert/wackelt). (Fördert physische Dominanz und "schwere" Treffer).
-** *Koop-Treffer* (Synchronicity): (In Partnerübung) Beide müssen gleichzeitig treffen (Doppeltreffer erzwingen). (Schult das Gefühl für das Timing des Gegners).
-** *Der "Angsthase"* (Risk Management): Man startet mit 10 Punkten. Jeder eigene Angriff kostet 1 Punkt "Einsatz". Ein Treffer bringt 3 Punkte zurück. (Lehrt ökonomisches Risiko-Management: Lohnt sich der Angriff?).
-
-==== Der Coach als Architekt: Wie wir Lernumgebungen gestalten
-
-// TODO Das gehört eigentlich ins Trainer-Kapitel - bei Gelegenheit bewegen
-
-Es reicht nicht, einfach wild ein paar Constraints in den Raum zu werfen und zu hoffen, dass Fechten dabei herauskommt. Ein guter Architekt baut nicht nach Gefühl, er baut nach Statik und Funktion.
-
-Damit Sie (lieber Coach) nicht jedes Mal raten müssen, ob eine Übung funktioniert, geben wir Ihnen hier den *Constraint-Design-Loop* an die Hand. Das ist ein 5-Schritte-Prozess, mit dem Sie systematisch von der Fehleranalyse zur perfekten Lernumgebung kommen.
-
-**Der Constraint-Design-Loop: In 5 Schritten zur Lösung**
-
-Dieser Prozess verhindert, dass Sie Übungen „zerlegen“. Er zwingt Sie, immer das _Ganze_ im Blick zu behalten.
-
-**Schritt 1: Identifiziere das „Problem“ (Das Dysfunktionale Verhalten)**
-
-Bevor wir bauen, müssen wir wissen, was wackelt. Schauen Sie sich das Gefecht an. Was genau stört Sie?
-
-* Schlecht: „Die Technik ist unsauber.“ (Zu vage, führt zu internem Fokus).
-* Gut: „Der Athlet wird bei gegnerischem Druck passiv und friert ein.“ (Funktionales Problem).
-* Gut: „Die Ausfälle sind zu kurz, um die Mensur zu überbrücken.“ (Distanz-Problem).
-
-
-1. Einführung: Warum wir aufhören, Lösungen vorzugeben
-
-    Der Paradigmenwechsel: Weg von der Instruktion („Mach es so!“), hin zur Provokation („Finde eine Lösung für dieses Problem!“).
-
-    Das Prinzip der Selbstorganisation: Warum eine selbst gefundene Lösung stabiler und stressresistenter ist als eine nachgeahmte.
-
-    Biologische Intelligenz: Das Nervensystem als Problemlösungsmaschine, die nur durch Widerstand lernt (Referenz: Bernstein/Newell).
-
-2. Das Dreieck der Macht: Die drei Kategorien von Constraints (nach Newell, 1986)
-
-    Hier definieren wir das Vokabular für den Rest des Buches.
-
-    Organismic Constraints (Der Fechter):
-
-        Feste Faktoren: Größe, Reichweite, genetische Muskelfaserverteilung.
-
-        Variable Faktoren: Müdigkeit, Angst, Motivation, Verletzungen.
-
-        Implikation: Warum ein kleiner Fechter (andere Constraints) niemals die Technik eines großen kopieren darf.
-
-    Environmental Constraints (Die Umwelt):
-
-        Physisch: Bodenbelag, Licht, Temperatur, Lärm.
-
-        Sozial/Kulturell: Erwartungsdruck, Zuschauer, "Angst vor dem Trainer".
-
-    Task Constraints (Die Aufgabe) – Unser wichtigstes Werkzeug:
-
-        Regeln des Spiels (Trefferfläche, Zeit, Punkte).
-
-        Ausrüstung (Degen, Maske, Zusatzgewichte).
-
-        Zielvorgabe (Treffen vs. Nicht getroffen werden).
-
-3. Der Coach als Architekt: Wie wir Lösungen "designen"
-
-    Vom Instruktor zum Environment Architect: Wir korrigieren nicht den Athleten, wir korrigieren die Übung.
-
-    Manipulation der Constraints:
-
-        Beispiel: Wenn der Fechter zu große Bewegungen macht -> Constraint: "Fechten im engen Korridor" (Environmental).
-
-        Beispiel: Wenn die Beinarbeit statisch ist -> Constraint: "Treffer zählt nur, wenn beide Füße in der Luft waren" (Task).
-
-    Simplification by Constraints: Wie man Komplexität reduziert, ohne die Kopplung (Perception-Action) zu zerstören (Abgrenzung zur Zerlegung).
-
-4. Die Werkzeugkiste: Welche Schrauben wir drehen können
-
-    Eine konkrete Liste von Stellschrauben für das tägliche Training.
-
-    Räumliche Constraints: Bahn verkürzen/verbreitern, Zonen definieren (Neutral Zone, Warning Zone).
-
-    Zeitliche Constraints: Zeitlimits für Angriffe ("Shot Clock"), Zeitlupen-Fechten vs. Hyper-Speed.
-
-    Regel-Constraints: Asymmetrische Ziele (Einer darf alles, Einer nur Hand), Handicaps.
-
-    Material-Constraints: Schwerere Waffen, Augenklappen, Bälle in der Hand, instabile Untergründe.
-
-5. Druckbedingungen: Agilität und Stress als Katalysator
-
-    Integration von Aspekten aus dem Agilitätstraining.
-
-    Entscheidungsdruck: Mehrere Ziele gleichzeitig anbieten (Choice Reaction).
-
-    Präzisionsdruck: Trefferfläche extrem verkleinern (z.B. nur auf Maskenband).
-
-    Komplexitätsdruck: Zusatzaufgaben während des Fechtens (kognitive Dual-Tasks).
-
-    Belastungsdruck: Vorermüdung nutzen, um ökonomische Bewegungen zu erzwingen.
-
-6. Der Athlet als sein eigener Architekt (Autonomie)
-
-    Partnerübungen neu gedacht: Wie Athleten sich gegenseitig Constraints setzen ("Du darfst mich nur treffen, wenn ich atme").
-
-    Selbstregulation: Wie der Fechter im Wettkampf seine eigenen Constraints erkennt und nutzt (z.B. "Ich bin müde, also ändere ich meine Taktik auf Ressourcensparen").
-
-    Hausaufgaben: Wie man Constraints ins Einzeltraining (Schattenfechten) einbaut.
-
-7. Zusammenfassung: Die "Goldene Regel" des CLA
-
-    Manipuliere so wenig wie möglich, aber so viel wie nötig.
-
-    Lass dem System Zeit, die Lösung zu finden (Geduld statt Korrektur).
-
-    Wenn die Lösung "hässlich" ist, aber funktioniert: Lass sie!
-
-
 
 === Die Trainings-Praxis: Representative Learning Design (RLD)
 
