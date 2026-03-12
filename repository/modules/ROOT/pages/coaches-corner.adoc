@@ -250,6 +250,12 @@ xref:page$spiele/degen-kabadi.adoc[Degen Kabaddi]: für alle, Mensur-Disruption,
 
 === Partnerübungen
 
+Bei Partnerübungen gibtst Du die Lernwelt komplett an die Athleten weiter. Lass sie das selbst erkunden.
+
+Erst wenn die Übung fertig ist, erläuterst Du ihnen die Namen der entdeckten Aktionen.
+
+xref:page$partneruebungen/angriff-umlenken-innen.adoc[Die Torrero-Falle]: entdecke, wie Du Angriffe nach innen umleiten kannst, um selbst zu treffen; Quart- und Prim-Parade; Schlagparade vs. Bindungsparade, Timing
+
 === Fechtaufgaben
 
 
