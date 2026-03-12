@@ -64,11 +64,11 @@ include::partial$gen/bibliography.adoc[tags=newell_motor_1991]
 
 Oft hören wir: „Fechten ist eine jahrhundertealte Tradition, die Technik ist ausgereizt.“ Das ist ein Irrtum. Innovative *Bewegungslösungen* entstehen immer dann, wenn sich die Rahmenbedingungen ändern.
 
-Nehmen wir das Paradebeispiel des Hochsprungs: Der „Fosbury-Flop“ wurde nicht erfunden, weil Dick Fosbury eines Morgens beschloss, ein Rebell zu sein. Er wurde möglich, weil sich die Umwelt änderte: Die harten Landegruben aus Sand wurden durch weiche Schaumstoffmatten ersetzt. Plötzlich war eine Landung auf dem Rücken kein Gesundheitsrisiko mehr, sondern die effizienteste Lösung für ein physikalisches Problem.
+_Nehmen wir das Paradebeispiel des Hochsprungs: Der „Fosbury-Flop“ wurde nicht erfunden, weil Dick Fosbury eines Morgens beschloss, ein Rebell zu sein. Er wurde möglich, weil sich die Umwelt änderte: Die harten Landegruben aus Sand wurden durch weiche Schaumstoffmatten ersetzt. Plötzlich war eine Landung auf dem Rücken kein Gesundheitsrisiko mehr, sondern die effizienteste Lösung für ein physikalisches Problem._
 
 *Das Problem ist: Während die Umwelt sich blitzschnell wandelt, klammert sich die Lehrmethodik oft jahrzehntelang an Dogmen, die längst ihren Sinn verloren haben.*
 
-Schauen wir uns das im Fechten an einem ganz konkreten, fast schon schmerzhaften Beispiel an: *Den Fußtreffer*.
+Schauen wir uns das im Fechten an einem ganz konkreten, fast schon schmerzhaften Beispiel an: *Dem Fußtreffer*.
 
 Wenn Sie (liebe Anhänger der klassischen Schule) heute ein altes Lehrbuch aufschlagen, finden Sie für den Fußtreffer eine hochkomplexe Choreografie: Die gegnerische Spitze muss erst mühsam beseitigt oder gebunden werden, der Angriff muss chirurgisch vorbereitet sein, und nach dem Treffer muss sofort eine Absicherung erfolgen, um den Gegentreffer zu verhindern.
 
