@@ -20,7 +20,7 @@ eine Bewegung „einschleifen“ könne.
 
 Doch wir müssen uns heute fragen: Sind unsere Athleten wirklich Maschinen, die wir programmieren können?
 
-=== Das Gehirn ist kein Computer
+=== 1. Das Gehirn ist kein Computer
 
 Die klassische Fechtlehre basiert oft unbewusst auf der Informationsverarbeitungstheorie. Die Idee: Der Trainer gibt eine Information ein, das Gehirn speichert ein „Motorisches Programm“
 include::partial$gen/bibliography.adoc[tags=schmidt_schema_1975]
@@ -198,7 +198,7 @@ Dennoch gilt: Degeneracy und Selbstorganisation sind mächtige Werkzeuge, um Pro
 
 *Wahre Inklusion im Fechten bedeutet deshalb*: Wir fördern nicht trotz einer Behinderung, sondern wir nutzen die einzigartige System-Konfiguration jedes Einzelnen, um Lösungen zu finden, die so brillant und eigenwillig sind, dass die „Norm-Welt“ keine Antwort darauf hat.
 
-=== Die Harmenberg-Logik: Dein Makel ist Deine Waffe
+==== Die Harmenberg-Logik: Dein Makel ist Deine Waffe
 
 Wenn Du eine körperliche oder geistige Besonderheit hast, bist Du ein geborener *System-Zerstörer*. Dein gesamtes Fechten findet außerhalb dessen statt, was der Gegner in seinen 10.000 Stunden Training gelernt hat.
 
