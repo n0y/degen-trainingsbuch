@@ -240,6 +240,20 @@ Willkommen im Arcade Mode. Hier gilt: Münze einwerfen, Start drücken.
 
 Keine Theorie. Nur getestete Szenarien, die funktionieren.
 
+=== Fechtspiele
+
+Diese Spiele sind Ready-Set-Go. Mach die Regelansage, gib das Startsignal. Laufe herum, nicke anerkennend, teile High-Fives aus.
+
+xref:page$spiele/poolnudel-beinarbeit.adoc[]: für Einsteiger, lass sie Beinarbeit mit Spaß selbst lernen, statt sie zu erklären
+
+xref:page$spiele/degen-kabadi.adoc[Degen Kabaddi]: für alle, Mensur-Disruption, Finten, Vorbereitungen
+
+=== Partnerübungen
+
+=== Fechtaufgaben
+
+
+
 // == Architect Mode
 //
 // ==== Der Coach als Architekt: Wie wir Lernumgebungen gestalten
