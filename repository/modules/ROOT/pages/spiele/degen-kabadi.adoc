@@ -1,0 +1,58 @@
+= Spiel: Degen Kabaddi
+
+_"Leute: Degen-Kabaddi! 1 Raider gegen 2 Verteidiger. Person vier ist Fight Master._"
+
+*Spielfläche:*
+
+Viertel Volleyball-Feld (oder ähnlich groß). +
+Verteidiger stehen im Hinterfeld. +
+Raider (Angreifer) an der Mittellinie.
+
+*Regeln:*
+
+1. Der *Raider* läuft zu den Verteidigern. Dort darf er *so viele Treffer* setzen, wie er will. +
+  Dann läuft er wieder *zurück über die Mittellinie* +
+  Dabei darf er *nie getroffen werden*!
+2. Für den *ersten Treffer* hat der Raider *12 Sekunden* Zeit. +
+  Der Fight Master _zählt laut herunter_.
+3. Jeder *Verteidiger* hat _genau einen_ Stich. +
+  Wer verfehlt (oder pariert wird), darf *nur noch verteidigen* und ausweichen.
+4. Wird ein *Verteidiger getroffen*, dann ruft er laut _"LOS"_. +
+  Ab jetzt dürfen die Verteidiger wieder *so oft zustechen*, wie sie wollen, um den Raider zu jagen.
+5. Punkte: +
+  *Nur Raider* trifft: einen Punkt pro Treffer +
+  *Verteidiger treffen*: jeder Verteidiger einen Punkt, der Raider keinen +
+  *12 Sekunden abgelaufen*: jeder Verteidiger einen Punkt
+6. Rotation: +
+  Raider -> Fight Master +
+  Fight Master -> Verteidiger 2 +
+  Verteidiger 2 -> Verteidiger 1 +
+  Verteidiger 1 -> Raider +
+  _Jeder zählt seine Punkte selbst. Es geht sofort weiter._
+
+*Sicherheits-Regeln*
+
+* Augen Richtung Gegner!
+* Kein Angriff in den Rücken
+* Stopp unterbricht den Raid (egal von wem)
+
+*Bei Streit/Unklarheiten*: +
+_Fight Master_ entscheidet. Allein. Ohne Diskussion.
+
+*Bonus-Regeln (optional)*:
+
+* "Alle gegen mich!" - kann der Raider ansagen. Der Fight Master geht sofort als dritter Verteidiger aufs Feld. Punkte des Raiders werden verdoppelt!
+* "Ich bin unbesiegbar!" - bei dieser Ansage dürfen die Verteidiger immer beliebig oft zustechen. Punkte des Raiders werden verdoppelt!
+
+*Varianten*
+
+* Mit Pool-Nudeln und ohne Schutzausrüstung (für Anfänger geeignet)
+* Halbe Breite des Spielfelds: _kein flankieren mehr möglich, entwickelt oft das Binden_
+* Fight Master zeigt die Sekunden mit dem Finger, statt sie laut anzusagen: _entwickelt peripheres Sehen und verhindert den Tunnelblick_
+* Die Defender tragen jeweils einen Medizinball: _schult Gleichgewicht_
+
+*Warum das funktioniert:*
+
+Wir schaffen ein Umfeld, in dem sich fechterisch perfektes Verhalten von selbst organisiert. Ein Raider, der mit einem unkontrollierten Ausfall trifft, wird auf der Flucht sofort abgeschossen. So korrigiert das Nervensystem die eigene Balance und das Distanzgefühl beim Treffen völlig automatisch, ganz ohne Technik-Korrekturen.
+
+Taktisch erzwingt das 1-gegen-2-Setup exakt Johan Harmenbergs Prinzipien der Mensur-Disruption und des Asymmetric Engagements. Weil ein direkter, frontaler Angriff gegen zwei Klingen (In-Strength Engagement) aussichtslos ist, muss der Raider den Rhythmus stören, die Defender zu Fehltritten provozieren und ihre Formation zerstören (System-Destruction). Wahrnehmung und Handlung werden gekoppelt – und echte Entscheidungen unter realem Stress geschult.
