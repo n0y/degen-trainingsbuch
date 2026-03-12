@@ -369,7 +369,7 @@ include::partial$gen/bibliography.adoc[tags=simon_metacognition_2001]
   Einzeltraining an der Wand oder Trocken-Beinarbeit in der Gruppe. Warum? Weil kein Gegner da ist. Ohne Gegner fehlt der wichtigste Constraint des Fechtens. Es ist wie Trockenschwimmen auf dem Hallenboden.
 
 * *Lernen durch Einsicht / Lernen durch Zuhören*: +
-  Sie (liebe Coaches der alten Schule) reden gerne? Wir nicht. Während Sie erklären, kühlen die Athleten ab und das Gehirn schaltet auf Standby. Wir wollen Action, keine Vorlesungen
+  Sie (liebe Coaches der alten Schule) reden gerne? Wir nicht. Während Sie erklären, trainieren unsere Athletinnen bereits die zwanzigste Quart-Parade-Variante. Wir wollen Action, keine Vorlesungen
 include::partial$gen/bibliography.adoc[tags=masters_theory_2008]
   .
 
