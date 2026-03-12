@@ -600,7 +600,7 @@ zeigt eindrücklich: Externe Bewertung und Korrektur lösen im Gehirn eine Stres
 * *Die Folge für die Physis*: Es wird noch schlimmer. Beilock wies nach, dass dieser soziale Stress sogar das *Maximalkraftniveau* und die *Präzision* deutlich reduziert. Ein korrigierter Athlet ist physisch schwächer als ein Athlet, der im "Flow" des Ausprobierens ist. Wer ständig korrigiert, trainiert seine Fechter also wortwörtlich schwach.
 
 Und selbst abgesehen von Lernrate und Maximalkraft: Die bewusste Steuerung der Athleten ist viel zu grob für Zentimeter-Entscheidungen.
-Rob Gray fand wies in
+Rob Gray wies in
 include::partial$gen/bibliography.adoc[tags=gray_links_2011]
 (bei Elite-Baseballern) nach, dass selbst Profis nicht in der Lage sind, ihre Bewegungskinematik durch bewusste interne Vorgaben präzise zu steuern. Die simple Anweisung, den Ball-Treffpunkt minimal zu verlagern, führte zu riesigen, unkontrollierten Abweichungen und einem Zusammenbruch des Timings.
 
@@ -617,7 +617,7 @@ include::partial$gen/bibliography.adoc[tags=wulf_automaticity_2001]
 erklärt das Phänomen:
 Wenn ein Athlet versucht, eine automatisierte Bewegung bewusst zu korrigieren - „Reinvestment“ nach
 include::partial$gen/bibliography.adoc[tags=masters_theory_2008]
-- , greift er massiv in die Bewegungsökonomie ein. Ja, er hält die Hand höher. Aber Messungen zeigen, dass gleichzeitig seine Reaktionszeit sinkt und die muskuläre Anspannung steigt. Er wird langsamer und starrer.
+- , greift er massiv in die Bewegungsökonomie ein. Ja, er hält die Hand höher. Aber Messungen zeigen, dass gleichzeitig seine Reaktionszeit und die muskuläre Anspannung steigt. Er wird langsamer und starrer.
 
 Wenn es trotzdem funktioniert, dann oft nur, weil:
 
