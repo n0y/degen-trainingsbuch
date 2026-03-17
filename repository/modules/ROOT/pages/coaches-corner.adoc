@@ -246,7 +246,11 @@ Diese Spiele sind Ready-Set-Go. Mach die Regelansage, gib das Startsignal. Laufe
 
 xref:page$spiele/poolnudel-beinarbeit.adoc[]: für Einsteiger, lass sie Beinarbeit mit Spaß selbst lernen, statt sie zu erklären
 
+xref:page$spiele/fang-die-socke.adoc[]: für Einsteiger/Fortgeschrittene, zum Erlernen von Mensur-Disruption, Zweiter Absicht und Körperfinten
+
 xref:page$spiele/degen-kabadi.adoc[Degen Kabaddi]: für alle, Mensur-Disruption, Finten, Vorbereitungen
+
+xref:page$fechtaufgaben/the-drop-zone.adoc[]: für alle, Kombination mit Ablage-Spiel, Mensur-Dominanz, Verteidigung, Manövrierfähigkeit
 
 === Partnerübungen
 
