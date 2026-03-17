@@ -1,0 +1,32 @@
+= The Drop Zone (Der Handschuh-Heist) 🧤
+
+*Setup*:
+
+* Volle Ausrüstung, Bahn, Melder
+* Beide Fechtenden halten in ihrer unbewaffneten Hand (hinten) einen Ersatzhandschuh (oder ein kleines Säckchen/Lumpen).
+* Gefochten wird in kurzen, knackigen 30-Sekunden-Runden (reine Kampfzeit).
+
+*Punkte-Mechanik*
+
+* *Normaler Treffer (Der Filler)*: Bringt 1 Punkt. (Wichtig bei Gleichstand).
+* *Die Drop-Aktion (Die Main Quest)*: Gelingt es einem Fechter, den Handschuh _kontrolliert_ neben seinem eigenen vorderen Fuß auf dem Boden _abzulegen_ (nicht werfen, nicht fallen lassen, sondern physisch hinlegen!), _ohne_ in dieser Aktion oder unmittelbar danach _getroffen zu werden_, erhält er *1 Drop-Punkt*.
+* *Die Win-Condition*: Am Ende des Turniers (Jeder gegen Jeden) gewinnt, wer die meisten Drop-Punkte gesammelt hat. Normale Treffer dienen nur als Tie-Breaker bei Gleichstand.
+
+*Varianten*:
+
+1. _Drop Zone_: nur in dieser markierten Zone darf der Handschuh abgelegt werden - sonst gibt es keinen Punkt.
+2. _Time-Hack_: Beim Ablegen muss die Hand eine Sekunde am Handschuh bleiben. Um das zu prüfen, ruft die ablegende Fechterin laut "Ha, ha!".
+3. _Der Twist_: Das Ablegen erfolgt neben den hinteren Fuß auf der Außenseite
+4. _Einhorn-Punkt_: Du darfst aus dem Ablegen direkt mit Fléche fortsetzen. Wenn Du das triffst, wird der Ablage-Punkt verdoppelt (auch bei Doppeltreffer). Triffst Du nicht, dann ist er aber weg.
+5. _Ghost-Blade_: Drop-Punkte nur, wenn während des Ablegens kein Klingenkontakt stattfindet.
+6. _Boss-Encounter_: Nur einer der Fechter darf droppen. Fechtet dafür 2x 30 Sekunden mit Rollentausch.
+7. _Healer-Buff_ (falls Du kein Turnier willst): Die Fechterinnen starten mit 5 Lebenspunkten. Normale Treffer kosten sie einen davon. Ein Drop-Punkt stellt wieder fünf Lebenspunkte her. Bei 0 bist Du raus!
+
+
+*Das geheime Level-Up:*
+
+Um den Handschuh abzulegen, ohne dabei abgekontert zu werden, müssen die Athleten das Degen-Spiel auf einem völlig neuen Level beherrschen. Das Manöver erzwingt eine perfekte Mensur-Manipulation: Nur wer durch schnelles Neutral Zone Engagement den Gegner kurzzeitig bindet oder aus dem Rhythmus bringt, gewinnt das entscheidende Zeitfenster für die Ablage.
+
+Nebenbei hilft ein tiefer Stand - den Deine Athleten plötzlich freiwillig einnehmen.
+
+Achja: Sich einfach auf eine starke Defense zu verlassen, ist nicht die übliche, aber eine gültige Lösung des Spiels.
