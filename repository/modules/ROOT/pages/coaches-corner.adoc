@@ -252,6 +252,8 @@ xref:page$spiele/degen-kabadi.adoc[Degen Kabaddi]: für alle, Mensur-Disruption,
 
 xref:page$fechtaufgaben/the-drop-zone.adoc[]: für alle, Kombination mit Ablage-Spiel, Mensur-Dominanz, Verteidigung, Manövrierfähigkeit
 
+xref:spiele/parade-ripose-aussen.adoc[]: Fechtspiel, dass die Quart-Parade / Riposte entstehen lässt
+
 === Partnerübungen
 
 Bei Partnerübungen gibtst Du die Lernwelt komplett an die Athleten weiter. Lass sie das selbst erkunden.
