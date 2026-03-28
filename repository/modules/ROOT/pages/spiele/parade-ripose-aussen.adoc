@@ -1,0 +1,46 @@
+= Partnerübung: Bulldozer und Trichter-Troll
+
+*Aufbau*:
+
+*Der Trichter*: Lege zwei Turnbänke (oder dicke Weichbodenmatten) in einem “V” auf die Planche. Die offene, breite Seite zeigt zum Angreifer. Die schmale Spitze zeigt zum Verteidiger.
+
+*Die Troll-Höhle*: Lege einen Hula-Hoop-Reifen (oder ein mit Springseilen gelegtes Viereck) genau an das schmale Ende des Trichters.
+
+*Die Positionen*: Die Verteidigerin (Troll) steht mit dem vorderen Fuß zwingend in dem Reifen. Der Angreifer (Bulldozer) startet an der breiten Seite des Trichters.
+
+== 📜 Die Spielregeln
+
+*Ziel des Angreifers (Bulldozer)*:
+
+Er muss maximalen Stress aufbauen. Er hat nur 4 Sekunden Zeit, um den Verteidiger im Reifen zu treffen oder ihn aus dem Reifen herauszuschieben (Mensur-Druck).
+
+Zusatz-Constraint für den Angreifer: Er darf nur auf die Körpermitte (Brust/Bauch) zielen.
+
+*Ziel der Verteidigerin (Trichter-Troll)*:
+
+Er darf den Reifen mit dem vorderen Fuß nicht verlassen (Flucht nach hinten ist also extrem limitiert – er muss das Problem mit der Klinge lösen).
+
+*Das Punktesystem (Der Schlüssel zur Quart!)*:
+
+* Ein normaler Treffer gibt *1 Punkt*.
+* *3 Punkte* gibt es, wenn die Verteidigerin den Angreifer an dessen äußerer Schulter, der Flanke oder dem Rücken trifft.
+
+== Mehr Rauschen: Die Varianten
+
+Um die Anpassungsfähigkeit zu maximieren und das Ganze lustig und chaotisch zu machen, zieht ihr nach jedem 3. Gefecht eine “Chaos-Karte” (oder ruft eine Variation rein):
+
+* *Kampf um die Melone*: Die Fechter tragen einen 5-Kilo Medizinball in der unbewaffneten Hand
+* *Piraten-Modus*: Tragt eine Augenklappe oder kneift ein Auge zu (verändert die Tiefenwahrnehmung radikal)
+* *Wackelkontakt*: Die Verteidigerin steht nicht auf dem Hallenboden, sondern auf einer weichen Gymnastikmatte oder einem Balance-Pad im Reifen. (Stört die gewohnte Rumpfstabilität und zwingt zu einer dynamischeren Handaktion).
+* *Asymmetrischer Start*: Der Angreifer startet aus der Hocke oder mit dem Rücken zum Verteidiger, dreht sich auf “Los!” um und stürmt sofort los.
+
+== Hilfen
+
+* *Manipulation statt Instruktion*: Wenn die Verteidigerin die Klinge des Angreifers nicht findet, ändere die Constraints. Mach den Trichter noch enger. Oder gib dem Angreifer die Regel: “Du musst mit voll gestrecktem Arm anrennen.” (Das vergrößert das “Affordance” – also das Handlungsangebot – für den Klingenschlag).
+* *Fokus auf das Spiel*: Lobe kreative Lösungen, Lachen und den Mut, im Reifen stehen zu bleiben. Das fördert ein Growth Mindset und die intrinsische Motivation (SDT).
+
+== Warum das funktioniert:
+
+Da der Angriff auf die Brust kommt und der Verteidiger die Außenseite treffen will, ist die biomechanisch effizienteste (und fast einzige) Lösung, die Klinge des Gegners nach innen über die Körpermitte wegzuschlagen (Quart-Schlag) und in die nun offene Außenseite hineinzustoßen.
+
+Die Technik entsteht völlig von selbst aus der Wahrnehmung-Handlungs-Kopplung.

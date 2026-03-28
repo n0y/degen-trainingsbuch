@@ -252,13 +252,58 @@ xref:page$spiele/degen-kabadi.adoc[Degen Kabaddi]: für alle, Mensur-Disruption,
 
 xref:page$fechtaufgaben/the-drop-zone.adoc[]: für alle, Kombination mit Ablage-Spiel, Mensur-Dominanz, Verteidigung, Manövrierfähigkeit
 
-=== Partnerübungen
+xref:spiele/angriff-umlenken-innen.adoc[Die Torrero-Falle]: entdecke, wie Du Angriffe nach innen umleiten kannst, um selbst zu treffen; Quart- und Prim-Parade; Schlagparade vs. Bindungsparade, Timing
 
-Bei Partnerübungen gibtst Du die Lernwelt komplett an die Athleten weiter. Lass sie das selbst erkunden.
+xref:spiele/parade-ripose-aussen.adoc[]: Fechtspiel, dass die Quart-Parade / Riposte entstehen lässt
+
+=== Partnerübungen
 
 Erst wenn die Übung fertig ist, erläuterst Du ihnen die Namen der entdeckten Aktionen.
 
-xref:page$partneruebungen/angriff-umlenken-innen.adoc[Die Torrero-Falle]: entdecke, wie Du Angriffe nach innen umleiten kannst, um selbst zu treffen; Quart- und Prim-Parade; Schlagparade vs. Bindungsparade, Timing
+Wenn du an das klassische „Partner-Training“ denkst, hast du wahrscheinlich sofort dieses Bild im Kopf: Person A macht einen Ausfall, Person B pariert in die Quarte und ripostiert. Ein starrer, choreografierter Tanz, der im echten Gefecht exakt _nie_ so passiert. Das ist lineares Training aus dem letzten Jahrhundert – vorhersehbar, monoton und für das Gehirn so spannend wie das Lesen von AGBs.
+
+Wir werfen dieses Skript jetzt aus dem Fenster.
+
+In unserem System sind „Partner Drills“ keine einstudierten Bewegungsabläufe, sondern *dynamische Problemlösungs-Quests*. Das Ziel? Wir übergeben die Autonomie zurück an die Athlet:innen.
+
+*Die neue Aufgabenteilung: „Architekt“ und „Actor“*
+
+Bei unseren Partnerübungen gibt es keine passiven „Statisten“ mehr. Beide Fechter:innen haben hochaktive, aber völlig unterschiedliche Rollen. Nach der Hälfte der Zeit (bei einer 5- bis 7-minütigen Übung) wird zwingend getauscht.
+
+*Der Architekt* baut das Level. Er oder sie manipuliert die Umweltbedingungen (Constraints), um eine bestimmte Situation zu erschaffen.
+
+* *Die goldene Regel*: Der Architekt hält den Mund! Es gibt keine verbalen Korrekturen („Nimm die Hand höher“, „Mach den Schritt kleiner“).
+* *Die Aufgabe*: Den Actor durch clevere Anpassung der Umgebung an den Rand seiner Komfortzone zu pushen.
+
+*Der Actor* (Die Athleten-Rolle) betritt das Level und muss das Bewegungsproblem lösen, das der Architekt ihm vorwirft.
+
+* *Die goldene Regel*: Wie das Ziel erreicht wird, ist völlig dem Actor überlassen. Es gibt keine „richtige“ Technik, nur funktionierende Lösungen, die aus der Wahrnehmung der Situation (Perception-Action Coupling) entstehen.
+
+*Das Cockpit des Architekten: Dials & Simplification*
+
+Wie steuert der Architekt nun die Übung, wenn er nicht reden darf? Er nutzt *Dials (Regler)*. Für jede Übung definieren wir 2 bis 3 spezifische Parameter (oft aus dem Differentiellen Lernen), an denen der Architekt drehen kann:
+
+_Beispiel-Dials: Start-Mensur (Nah/Mittel/Weit), Rhythmus-Brüche, Klingenbindung (hart/weich/gar nicht), Einschränkung der Trefffläche des Actors._
+
+*Simplification (Vereinfachung durch Constraints)*: Wenn der Actor das Problem nicht lösen kann, greifen wir _nicht ein_, indem wir die Bewegung in ihre Einzelteile zerlegen (Part-Task Decomposition) oder die Aktion „einfrieren“. Stattdessen dreht der Architekt an den Dials. Er verringert den Raum, reduziert die Optionen oder verlangsamt das Tempo.
+
+_Wichtig_: Das „Rauschen“ (Noise/Variabilität) muss immer erhalten bleiben! Die Situation darf nie komplett statisch werden.
+
+Hier wird es magisch. Echtes Lernen passiert nicht, wenn alles klappt. Es passiert genau an der Kante zum Scheitern _(Edge of Failure)_.
+
+Der Architekt muss die Schwierigkeit genau so einpegeln, dass der Actor permanent gefordert ist, aber nicht komplett verzweifelt. Ein bisschen Chaos (Rauschen) im System hilft dem Actor, neue, kreative Bewegungsmuster zu finden.
+
+*Die Reset-Regel* (3-Fail Rule): Damit die Frustration nicht überhandnimmt (Self-Determination Theory lässt grüßen), gibt es eine harte Grenze: *3 Fehlversuche am Stück* = sofortiger Dial-Back. Der Architekt muss die Aufgabe über die Dials sofort vereinfachen. Kein Meckern, kein Erklären – einfach die Constraints anpassen.
+
+*Dein Takeaway als Coach*
+
+Wenn du diese Partner-Übungen anleitest, ist deine Hauptaufgabe: Zuschauen und Vertrauen. Du bist nicht mehr der Fehler-Korrektor, der jede unsaubere Parade anmahnt. Du bist der Weltenbauer. Du bringst deinen Athlet:innen bei, wie sie sich gegenseitig trainieren, wie sie Constraints manipulieren und wie sie selbstorganisiert Lösungen finden.
+
+*Der Session-Plan*
+
+Wir planen immer vier Übungen, jeweils 5 bis 7 Minuten lang. Danach wird die Rolle getauscht. Bevorzuge immer viele Übungen gegenüber langen, ausführlichen. Dann ist wahrscheinlich für jede was dabei.
+
+xref:page$partneruebungen/stabil-nach-dem-angriff.adoc[]: Deine Athleten üben, auch nach dem Ende eines Angriffs agil zu bleiben
 
 === Fechtaufgaben
 
