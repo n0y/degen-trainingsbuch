@@ -1,16 +1,18 @@
 = Training der Körperbewegungen im Fechtsport
 
-Für das Training von Körperhaltung und Körperbewegung im Fechtsport ergeben sich eine Reihe von Problemen. Zum einen fällt auf, dass bereits die Grundstellung, wie sie klassisch bspw. in
+Wenn es um das Training von Körperhaltung und Beinarbeit geht, stoßen wir in der klassischen Fechtlehre schnell auf ein faszinierendes Phänomen: Schlag mal ein traditionelles Lehrbuch wie beispielsweise
 include::partial$gen/bibliography.adoc[tags=barth_fechttraining_2005]
-gelehrt wird, bei der Auswertung von Top-Athleten nicht vorzufinden ist.
+auf und betrachte die dort oft gepredigte, winkelgenaue Grundstellung. Wenn Du dann den Blick hebst und Dir Weltklasse-Fechterinnen und -Fechter im Wettkampf ansiehst, wirst Du feststellen: Diese erstarrte Lehrbuch-Pose existiert in der freien Wildbahn praktisch nicht.
 
-Verschiedene „Stile“ resultieren bei allen Fechtern in sehr unterschiedlichen Lösungen bezüglich Kraft, Geschwindigkeit, Beschleunigung, Haltung und Energieaufwand
+Stattdessen sehen wir auf der Planche unzählige individuelle „Stile“. Jeder Athlet und jede Athletin (ob Fußgänger oder im Rollstuhl) findet höchst unterschiedliche, aber funktionale Lösungen, wenn es um Kraft, Geschwindigkeit, Beschleunigung, Haltung und Energieaufwand geht
 include::partial$gen/bibliography.adoc[tags=roi_science_2008]
-. Diese sind nicht nur abhängig von Anthropometrie und Trainingsstand, sondern immer auch von konkreten fechterischen Situationen, die einer angepassten Lösung bedürfen.
+.
 
-Besonders für Heranwachsende ist das Bewegungstraining einer Herausforderung, da sich ständig änderne Hebel, Proportionen und Kraftverhältnisse eine ständige Anpassung der notwendigen Technik bedingen.
+Das ist kein Mangel an Disziplin, sondern das Grundprinzip der ökologischen Dynamik! Wie sich jemand bewegt, hängt eben nicht von einer abstrakten Idealform ab, sondern von den eigenen körperlichen Voraussetzungen (Anthropometrie), dem Trainingsstand und vor allem von der konkreten, sich ständig wandelnden Situation im Gefecht, die in Sekundenbruchteilen nach einer angepassten Lösung verlangt.
 
-Ziel des Trainings der Körperbewegungen muss deswegen immer sein, dem Athleten Stabilität bei der Anpassung und Adaption seiner Bewegungen an neue Situationen zu ermöglichen.
+Besonders im Nachwuchsbereich wird das Festhalten an einer „perfekten“ Technik vollends absurd. Heranwachsende befinden sich in einem permanenten Umbau: Hebel, Körperproportionen und Kraftverhältnisse verändern sich durch Wachstumsschübe quasi über Nacht. Eine Bewegungslösung, die heute noch hervorragend funktioniert, muss morgen vielleicht schon wieder völlig neu justiert werden.
+
+Das oberste Ziel beim Training der Körperbewegungen darf deshalb niemals das sture Einschleifen einer normierten Schablone sein. Unser Job als Coach ist es vielmehr, den Athleten und Athletinnen eine hohe funktionale Stabilität zu vermitteln. Wir wollen ihnen eine Umgebung schaffen, in der sie lernen, ihre Bewegungen jederzeit fließend, robust und kreativ an neue, unvorhersehbare Situationen und ihren eigenen Körper anzupassen.
 
 include::partial$techniktraining/koerperbewegungen/beinarbeit.adoc[leveloffset=+1]
 

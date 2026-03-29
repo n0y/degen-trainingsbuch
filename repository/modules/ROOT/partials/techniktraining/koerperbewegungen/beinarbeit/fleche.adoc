@@ -32,5 +32,3 @@ Alle anderen Parameter sollen über Variationen abgedeckt werden. Das betrifft z
 * Bewegung der hinteren Schulter: konstant, weiter nach vorne oder nach hinten, ...
 
 Die Fléche kann z.B. in Partnerübung oder mit Weichbodenmatten trainiert werden. Wichtig ist es, die Angst vor dem Verlust des Gleichgewichts zu nehmen, indem diese Aktion als Teil des normalen Bewegungsrepertoirs etabliert wird.
-
-include::partial$techniktraining/koerperbewegungen/beinarbeit/fleche/uebung-fleche-mit-matten.adoc[leveloffset=+1]

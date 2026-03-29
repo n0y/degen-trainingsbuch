@@ -1,4 +1,6 @@
 = Für AthletInnen: Level Up für die Plance [pre-alpha]
+:description: Beende die Drill-Hölle! Nutze spielerische Constraints und variables Training, um deine Fechtleistung auf das nächste Level zu heben.
+:keywords: Fechttraining, Constraints-Led Approach, Differenzielles Lernen, Degenfechten, Sport-Methodik, Athletenentwicklung, Leistungssteigerung Fechten, Bewegungsintelligenz, Fecht-Taktik, Flow-Zustand, Training ohne Drill.
 
 == Grinding-Hölle oder Offene Welt?
 
