@@ -2,6 +2,10 @@
 :description: Training für sportspezifische Agilität für das Fechten mit Schwerpunkt auf dem Degen-Fechten.
 :keywords: Fechten,Degen-Fechten,Training,Agilität,Kampfsport
 
+TIP: Die Inhalte hier sind aus dem Jahr 2015 und aus Sicht der modernen Trainingswissenschaft inzwischen veraltet. Wir überarbeiten sie gerade. +
+Sie bleiben so lange hier verfügbar, weil sie weiter nützlich sein können.
+
+
 Kraft-, Kraft-Ausdauer und kardiovaskuläre Fitness sind verhältnismäßig einfach zu trainieren und eine Erhebung des Trainingsstands ist vergleichsweise einfach.
 
 Spezielles Agilitätstraining ist wesentlich komplizierter anzulegen, zum großen Teil, weil vergleichende Tests viel schwieriger durchzuführen sind.

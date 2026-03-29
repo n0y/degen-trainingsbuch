@@ -1,6 +1,6 @@
-= Level Up: Vom Drill-Sergeant zum Weltenbauer [alpha]
-:description: Der Trainer als Designer von Lernumgebungen – warum wir aufhören zu befehlen und anfangen zu programmieren.
-:keywords: Coaching, Ready Player One, Constraints, Lernumgebung, Gamification
+= Level Up: Vom Drill-Sergeant zum Weltenbauer
+:description: Wie du als Coach durch den Constraints-Led Approach (CLA) und Game-Design-Prinzipien Lernwelten schaffst, in denen Fechter ihre Technik selbst optimieren.
+:keywords: Fechttraining, Constraints-Led Approach, Differenzielles Lernen, Sportpädagogik Fechten, Embodied Cognition, Athletenentwicklung, Game Design im Sport, Degenfechten Training, Selbstorganisation Sport, Coaching-Methodik, Flow im Fechten.
 
 Stell Dir vor, _Shigeru Miyamoto_ (der Erfinder von _Super Mario_ und _Zelda_) würde morgen Deinen Fechtverein übernehmen.
 

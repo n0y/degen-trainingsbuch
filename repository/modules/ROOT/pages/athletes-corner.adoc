@@ -1,4 +1,6 @@
-= DAS FINTENFISCH-PLAYBOOK: DEIN LEVEL-UP FÜR DIE PLANCHE
+= Das Fintenfisch-Playback: Dein Level-Up für die Planche
+:description: Beende die Drill-Hölle! Nutze spielerische Constraints und variables Training, um deine Fechtleistung auf das nächste Level zu heben.
+:keywords: Fechttraining, Constraints-Led Approach, Differenzielles Lernen, Degenfechten, Sport-Methodik, Athletenentwicklung, Leistungssteigerung Fechten, Bewegungsintelligenz, Fecht-Taktik, Flow-Zustand, Training ohne Drill.
 
 == Grinding-Hölle oder Offene Welt?
 

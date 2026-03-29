@@ -10,7 +10,7 @@ Die Auswahl der Techniken, die jeweils trainiert werden sollen, liegt primär be
 
 Gerade beim Aufbau komplizierterer Techniken (z.B. Quart-Coupé, Wurfstoß Schulter) kommen oft methodische Reihen zum Einsatz, die einzelne Elemente unabhängig voneinander trainieren und erst später kombinieren.
 
-Gemäß der xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[Umsetzungsprinzipien] ist es besser, diesen geblockten Ansatz aufzulösen und die Reihenfolge des Erlernens zufällig zu variieren
+Gemäß der xref:page$grundlagen-old.adoc#grundlagen-umsetzungsprinzipien[Umsetzungsprinzipien] ist es besser, diesen geblockten Ansatz aufzulösen und die Reihenfolge des Erlernens zufällig zu variieren
 include::partial$gen/bibliography.adoc[tags=heymen_lernen_1986]
 .
 
@@ -26,15 +26,15 @@ Zum Umgang mit der Athlet:in sollen folgende Grundsätze beachtet werden:
 
 * Jede erfolgreiche Ausführung muss die Athlet:in sich erarbeiten. In keinem Fall sorgt die Trainer:in dafür, dass eine Aktion erfolgreich ist. Die unverfälschte Rückmeldung effektiver Aktionen ist die Grundlage für das Bewegungslernen.
 
-* Lektionszeit ist Übungszeit. Die Athlet:in soll möglichst durchgehend selbst aktiv sein. Erläuterungen zu Theorie und Hintergründen sind Teil des Taktiktrainings oder können bei Interesse separat erfolgen. Die Methoden "Lernen durch Beobachtung", "Lernen durch Einsicht" und "Lernen durch Bewusstmachen von Bewegung" sind deutlich weniger effizient (siehe xref:page$grundlagen.adoc#grundlagen-klassische-trainingsmethoden[Klassische Trainingsmethoden]).
+* Lektionszeit ist Übungszeit. Die Athlet:in soll möglichst durchgehend selbst aktiv sein. Erläuterungen zu Theorie und Hintergründen sind Teil des Taktiktrainings oder können bei Interesse separat erfolgen. Die Methoden "Lernen durch Beobachtung", "Lernen durch Einsicht" und "Lernen durch Bewusstmachen von Bewegung" sind deutlich weniger effizient (siehe xref:page$grundlagen-old.adoc#grundlagen-klassische-trainingsmethoden[Klassische Trainingsmethoden]).
 
 == Prinzip der Lektionsarbeit
 
 Grundlegend sind technische Lektionen so aufgebaut, dass jeweils ein einzelnes Technik-Element herausgegriffen wird, dass dann in möglichst vielen Variationen ausgeführt wird.
 
-Zur Variation stehen die xref:page$grundlagen.adoc#umsetzungsprinzipien-variabilitaet[Variablen des differenziellen Trainings] und die xref:page$motoriktraining.adoc#koordination-druchbedingungen[Druckbedingungen des Koordinationstrainings] zur Verfügung.
+Zur Variation stehen die xref:page$grundlagen-old.adoc#umsetzungsprinzipien-variabilitaet[Variablen des differenziellen Trainings] und die xref:page$motoriktraining.adoc#koordination-druchbedingungen[Druckbedingungen des Koordinationstrainings] zur Verfügung.
 
-Gemäß der xref:page$grundlagen.adoc#grundlagen-umsetzungsprinzipien[Umsetzungsprinzipien] wird auch bei der Lektionsarbeit eine einzelne Übung (=Kombination aus Aktion und gewählter Variation) niemals wiederholt. Es geht immer mit der nächsten Kombination weiter.
+Gemäß der xref:page$grundlagen-old.adoc#grundlagen-umsetzungsprinzipien[Umsetzungsprinzipien] wird auch bei der Lektionsarbeit eine einzelne Übung (=Kombination aus Aktion und gewählter Variation) niemals wiederholt. Es geht immer mit der nächsten Kombination weiter.
 
 == Beispiele für technische Lektionen
 

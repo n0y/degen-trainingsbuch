@@ -1,4 +1,4 @@
-= Einleitung [beta]
+= Einleitung
 
 include::partial$einleitung/einleitung-motivation.adoc[]
 

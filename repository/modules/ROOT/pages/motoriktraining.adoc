@@ -2,6 +2,9 @@
 :description: Effizientes Training der grundlegenden motorischen Fähigkeiten für das Degen-Fechten.
 :keywords: Fechten,Degen-Fechten,Training,Kampfsport,Ausdauer,Schnelligkeit,Maximalkraft,Koordination,Beweglichkeit
 
+TIP: Die Inhalte hier sind aus dem Jahr 2015 und aus Sicht der modernen Trainingswissenschaft inzwischen veraltet. Wir überarbeiten sie gerade. +
+ Sie bleiben so lange hier verfügbar, weil sie weiter nützlich sein können.
+
 Motorische Fähigkeiten sind die Grundlage, auf der das spezifische Fechttraining aufsetzt:
 
 * Ausdauer

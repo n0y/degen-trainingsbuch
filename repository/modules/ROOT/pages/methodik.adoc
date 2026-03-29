@@ -1,6 +1,9 @@
-= Hinter der Kulisse des Fintenfischs [beta]
-:description: Trainingsmethoden für das Fechten verglichen: klassische Ansätze gegenüber systemdynamischen Ansätzen
-:keywords: Fechten,Degen-Fechten,Training,Grundlagen,differenzielles Training
+= Hinter der Kulisse des Fintenfischs
+:page-aliases: grundlagen.adoc
+
+:description: Schluss mit der Roboter-Dressur: Entdecke die Wissenschaft hinter dem Fintenfisch-Ansatz. Warum Fehler der Treibstoff für Champions mit dem Degen sind.
+
+:tags: Fintenfisch-Methode, Dynamic Systems Theory, Differenzielles Lernen, Constraints-Led Approach, Sportpädagogik Fechten, Embodied Cognition, Talentförderung, Sportwissenschaft, Repräsentatives Design, Mentale Modelle.
 
 Seit Camillo Agrippa im Jahr 1553 versuchte, das Fechten mit Zirkel und Lineal zu erklären, träumen wir den Traum der perfekten, berechenbaren Technik. Doch erst mit der Industriellen Revolution vor gut 100 Jahren wurde aus diesem Traum ein Korsett:
 
