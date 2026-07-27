@@ -55,12 +55,6 @@ include::partial$gen/bibliography.adoc[tags=fletcher_grounded_2012]
 
 Zur praktischen Resilienzbildung haben sich folgende Methoden bewährt:
 
-. *Rollenspiele mit "fiesen Coaches"*
-In kurzen szenischen Übungen geben Trainer:innen gezielt überzeichnet negatives Feedback. Die Sportler:innen lernen, eine körperlich-mentale Haltung zu bewahren und gezielte Reaktionen einzuüben, z. B. durch innere Selbstansprache oder bewusst gesetzte Gestik. +
-Ziel: Aufbau kognitiver Immunität durch emotionale Antizipation
-include::partial$gen/bibliography.adoc[tags=gross_emerging_1998]
-.
-
 . *„Was denkst du gerade?“ – Kognitive Umleitung trainieren*
 Direkt nach echtem, aber konstruktivem Feedback werden Athlet:innen gefragt: +
 _„Was ging dir gerade durch den Kopf?“_ +
