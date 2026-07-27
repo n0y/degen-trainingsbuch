@@ -1,4 +1,4 @@
-= DAS FINTENFISCH-PLAYBOOK: DEIN LEVEL-UP FÜR DIE PLANCHE
+= Für AthletInnen: Level Up für die Plance [pre-alpha]
 
 == Grinding-Hölle oder Offene Welt?
 
@@ -109,7 +109,7 @@ Wenn du im Training verlierst, weil du etwas Neues ausprobiert hast, hast du meh
 
 **Ab hier: WORK IN PROGRESS - nur noch Stichworte**
 
-== 2. EMBRACE THE GLITCH: FINDE DEINE SUPERKRAFT
+== 2. Umarme den Glitch: Finde Deine Superkraft
 
 *Warum „Normalität“ auf der Planche eine Schwäche ist.*
 
@@ -117,7 +117,7 @@ Wenn du im Training verlierst, weil du etwas Neues ausprobiert hast, hast du meh
 *   **Neuro-Power:** Warum ADHS (Hyperfokus) oder Autismus (Mustererkennung) deine geheimen Skill-Trees sind.
 *   **Asymmetrie-Hacks:** Wie du eine „unmögliche Geometrie“ aufbaust, die klassisch trainierte Fechter völlig überfordert (The Harmenberg-Logic).
 
-== 3. STEALTH-MODE: UNDERCOVER-QUESTS IM FREIGEFECHT
+== 3. Stealth Mode: Undercover-Modus im Freigefecht
 
 *Wie du dein Training optimierst, ohne dass der Trainer es merkt.*
 
@@ -125,7 +125,7 @@ Wenn du im Training verlierst, weil du etwas Neues ausprobiert hast, hast du meh
 *   **Affordance-Surfing:** Lerne, „Handlungseinladungen“ deines Gegners zu sehen, statt im Kopf komplizierte Pläne zu schmieden.
 *   **Der 50%-Sweetspot:** Wie du dir Gegner suchst oder dir selbst Handicaps auferlegst, damit du immer in der Zone des maximalen Lernzuwachses bleibst.
 
-== 4. HACK THE DRILL: PARTNERÜBUNGEN MODIFIZIEREN
+== 4. Hack the Drill: Partnerübungen modifizieren
 
 *So rettest du deine Zeit in langweiligen Partnerlektionen.*
 
