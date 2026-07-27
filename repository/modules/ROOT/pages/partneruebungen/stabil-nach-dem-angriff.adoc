@@ -67,9 +67,9 @@ Wenn der Stoß verfehlt wird, wird der Fechter zum leichten Ziel. Das Ziel diese
 
 *Ablauf*
 
-* *Architekt*: Du spannst gedanklich (oder real mit einem Gummiband/Seil) eine harte Grenze auf Brusthöhe quer über die Bahn und zeigst sie dem Akteur. Du stellst dich direkt dahinter.*
+* *Architekt*: Du spannst gedanklich (oder real mit einem Gummiband/Seil) eine harte Grenze auf Brusthöhe quer über die Bahn und zeigst sie dem Akteur. Du stellst dich direkt dahinter.
 * Lade dann den Akteur mit einer Klingenbewegung zum Angriff ein
-* *Akteur*: Greife explosiv an, touchiere die Grenze und feder sofort in einem fließenden Rhythmus zurück in die Ausgangslage, um direkt für den nächsten "Pass" bereit zu sein.
+* *Akteur*: Greife explosiv an, touchiere die Grenze und federe sofort in einem fließenden Rhythmus zurück in die Ausgangslage, um direkt für den nächsten "Pass" bereit zu sein.
 * Dein Ausfall zum Treffen muss exakt an der Grenze enden. Der Oberkörper darf das Band berühren, es aber keinen Zentimeter nach vorne drücken.
 
 *Die Regler*
