@@ -1,4 +1,6 @@
-= Einleitung [beta]
+= Einleitung
+:description: Primer, Einleitung, Motivation und Community Building für die neue Methode des Degen-Fechttrainings
+:keywords: Fechten,Degen-Fechten,Training,Grundlagen,differenzielles Training
 
 include::partial$einleitung/einleitung-motivation.adoc[]
 
