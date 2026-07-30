@@ -28,7 +28,7 @@ und ruft dieses bei Bedarf wie eine Datei ab
 include::partial$gen/bibliography.adoc[tags=adams_closed-loop_1971]
 . In dieser Welt wird das Gehirn als zentrale Recheneinheit (CPU) verstanden, die Befehle an die Muskeln sendet.
 
-_Stellen Sie sich vor: Ein Schüler lernt den perfekten Parade-Ripo-Stoß in der Lektion. Auf der Planche aber variiert der Gegner den Widerstand, und die Klingenlage um ein paar Zentimeter. Der „programmierte“ Fechter scheitert, weil seine „Datei“ nicht zur Realität passt. Er muss bewusst anpassen - und schon geht ihm die Zeit aus._
+_Stellen Sie sich vor: Ein Schüler lernt den perfekten Parade-Riposte-Stoß in der Lektion. Auf der Planche aber variiert der Gegner den Widerstand, und die Klingenlage um ein paar Zentimeter. Der „programmierte“ Fechter scheitert, weil seine „Datei“ nicht zur Realität passt. Er muss bewusst anpassen - und schon geht ihm die Zeit aus._
 
 Moderne Ansätze zeigen, dass Wahrnehmung und Handlung unmittelbar gekoppelt sind
 include::partial$gen/bibliography.adoc[tags=davids_dynamics_2007]

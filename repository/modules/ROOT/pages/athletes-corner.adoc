@@ -103,31 +103,109 @@ Der „Sweet Spot“ liegt irgendwo bei *50% bis 70%*. Wenn du Fehler machst, be
 
 Wir alle lieben es zu gewinnen. Aber im Training ist das Ziel „Sieg“ oft dein größter Feind. Warum? Weil du, um zu gewinnen, nur das machst, was du eh schon kannst. Du spielst deine sichersten Karten.
 
-In der Philosophie nennt man das *Shoshin (den Anfängergeist)*. Geh ins Training, als hättest du keine Ahnung, wer gewinnen „muss“. Probiere die riskante Parade, teste das neue Timing, spiel mit der Mensur.
+Was Dir hilft, nennt man das *Shoshin (den Anfängergeist)*. Geh ins Training, als hättest du keine Ahnung, wer gewinnen „muss“. Probiere die riskante Parade, teste das neue Timing, spiel mit der Mensur.
 
 Wenn du im Training verlierst, weil du etwas Neues ausprobiert hast, hast du mehr XP (Erfahrungspunkte) gesammelt als derjenige, der dich mit seiner Standard-Aktion abgezogen hat.
 
 *Key Takeaway*: Wer im Training gewinnen will, stagniert. Wer im Training experimentiert, gewinnt später die Turniere. Sei kein „Scoreboard-Warrior“, sei ein Entdecker.
 
+== Stealth Mode: Geheime Quests im Freigefecht
+
+Kennst du diese Trainingsabende? Der Coach sitzt am Rand, scrollt vielleicht durch sein Handy oder trinkt Kaffee und ruft in die Halle: _„So, jetzt macht mal Freigefecht. Auf 15 Treffer!“_
+
+Mit viel Glück kriegst Du noch die übliche Zusatzaufgabe: _"Keine Doppeltreffer"_
+
+Für die meisten bedeutet das: Hirn aus, Autopilot an. Du triffst auf die immer gleichen Gegner, fichtst deine immer gleichen Standard-Aktionen, gewinnst gegen die, die du immer schlägst, und verlierst gegen den Endboss des Vereins. Am Ende des Abends hast du geschwitzt, aber hast du auch etwas Neues gelernt? Wahrscheinlich nicht.
+
+Hier kommt dein Hack für diese Abende: _Der Stealth-Mode_.
+
+Du musst dem Trainer oder deiner Trainingspartnerin nicht auf die Nase binden, dass du gerade intensiv an dir arbeitest. Du baust dir einfach deine eigenen, unsichtbaren Constraints (Einschränkungen) in das Gefecht ein. Du gehst auf eine Undercover-Quest.
+
+=== Dein Skill-Tree: Wie du dir eigene Quests baust
+
+Um dir sinnvolle Aufgaben zu stellen, schaust du dir am besten deinen persönlichen "Skill-Tree" (deine Action Capabilities) an. Wo hast du Lücken? Was willst du aufleveln? Pick dir einfach eine Fähigkeit heraus und bastele eine Regel darum, die du dir selbst im Freigefecht auferlegst.
+
+Hier sind fünf Action-Capability-Gruppen mit typischen Stealth-Quests, aus denen du wählen kannst:
+
+1. _Feinmotorische Präzision (Point Control / Angulation)_ +
+   *Die Quest: Sniper-Mode*: Für Dich zählen heute _nur_ Treffer auf die Hand unten oder den hinteren Oberarm. Triffst Du was anderes, dann schenkst Du Deiner Gegnerin unauffällig einen Punkt! +
+   _Weitere Beispiele_: +
+   * _Top Tap_: Du darfst nur den vorderen Fuß angreifen (Mensur-Disruption pur!)
+   * _Klingenwirbel_: Jeder Deiner Treffer muss extrem anguliert (abgewinkelt) um die gegnerische Glocke erfolgen. Direkte Stöße sind tabu!
+
+2. _Interceptive Timing (Antizipation / Kopplungefähigkeit)_ +
+   *Die Quest: Schatten-Fechten*: Bewege Dich leise, halte immer den gleichen Abstand. Deine Aktionen sind der Schatten deines Gegners. Sucht er die Klinge - du suchst sie auch. Löst er sich, löst Du dich auch. Sticht er zu, stichst Du auch. Denk dran, dass das Punkteergebnis für Dich völlig egal ist! +
+    _Weitere Beispiele_: +
+    * _Counter Strike_: Du darfst nur exakt in dem Halbsekunden-Fenster treffen, in dem der Gegner sein Gewicht nach vorne verlagert.
+    * _Late Block_: Greif nie selbst an. Du darfst erst parieren, wenn die gegnerische Spitze gefühlt schon deine Jacke berührt.
+
+3. _Haltungsstabilität (Dynamische Balance / Core Stiffness)_ +
+   *Die Quest: Low Gravity*: Stell Dir vor, Du bist auf dem Mond (nur mit Atmosphäre). Wenn Du springst oder Dich zu kräftig bewegst, wirst Du wegfliegen. Also bleib die ganze Zeit dicht am Boden. Auf und Ab ist Dein Feind! +
+   _Weitere Beispiele_:
+   * _Flamingo-Stance_: Starte deine explosiven Aktionen ausschließlich aus einer einbeinigen Schwebephase heraus.
+   * _Planken-Ritter_: Dein Oberkörper muss komplett steif wie ein Brett bleiben. Jedes Ausweichen oder Vorbeugen aus der Hüfte ist verboten.
+
+4. _Täuschung (Deception Mechanics / Augen-Hand-Kopplung)_: +
+   *Die Quest: Jedi Mind Trick*: Du darfst nie dorthin schauen, wo du treffen willst. Du starrst auf den vorderen Fuß, stichst aber in die hohe Linie. Fake-Affordances aus dem Lehrbuch. +
+   _Weitere Beispiele_:
+   * _Drunken Master_: Baue absichtliche Stolperer oder Rhythmus-Pannen in deine Beinarbeit ein, um Angriffe zu provozieren.
+   * _Ghost Blade_: Zeige eine offensichtliche Blöße, aber schließe sie in exakt dem Moment, in dem die Gegnerin auch nur zuckt. Finde raus, wie groß die sein müssen, damit exakt diese Gegnerin reagiert.
+
+5. _Transition Speed (Umschalttempo / Stop-and-Go)_:
+   *Die Quest: Glitch Step*: Du verbietest dir jeden flüssigen Rhythmus. Jeder deiner Angriffe muss einen kompletten Stopp oder einen absurden Rhythmus-Bruch beinhalten. Du fichtst, als hättest du krasse Lags im Wifi. +
+   _Weitere Beispiele_:
+   * _Rubber-Band_: Weiche im Höchsttempo rückwärts aus und schnipse sofort, ohne Übergang, in einen Vorwärts-Ausfall zurück. Manage den Abstand so, dass der Ausfall reicht!
+   * _Gear-Shift_: Schleiche im absoluten Zeitlupen-Tempo vorwärts, um dann aus dem Nichts und ohne jede Vorbereitung (Non-Protected Sectoring) maximal zu explodieren.
+
+=== Affordance-Surfing: Der RNG-Hack für dein Nervensystem
+
+Oft versuchen FechterInnen 4D-Schach zu spielen: _„Wenn er eine Quart-Parade sucht, mache ich eine Umgehung in die Sixt und treffe.“_
+
+Vergiss das. Das ist das klassische Informationsverarbeitungs-Modell (_Wenn-Dann-Regeln_). In der Realität hast du für diesen Gedankenprozess keine Zeit.
+
+Stattdessen nutzen wir *Affordance-Surfing*. Eine _Affordance_ ist eine Handlungseinladung deiner Umwelt. Denk an ein Bossmonster in einem Game: Wenn es zuschlägt, leuchtet für eine Sekunde seine Flanke rot. Du drückst nicht nach Lehrbuch Tastenkombinationen – du haust einfach instinktiv auf die rote Stelle.
+
+Um das zu trainieren, musst du wissen, wie diese „roten Stellen“ beim Fechten aussehen. Hier sind ein paar typische Affordances (Angebote), die Gegner dir anbieten:
+
+* *Gewichtsverteilung*: Zum Beispiel wechselt das Gewicht auf den vorderen Fuß. Kann er nun nicht mehr schnell zurück (und wird angreifbar)? Oder wird er darüber abrollen und angreifen (und wird parierbar)?
+* *Waffenlage*: Hängt die Klinge plötzlich nach runter? Bietet das einen Handtreffer an? Oder lautert er genau darauf für eine Parade und Du könntest indirekt treffen?
+* *Klingenaktionen*: Sucht die Gegnerin panische die Klinge? Dann lautet das Angebot vielleicht: triff auf den Oberschenkel. Oder ist es eine Falle und Sie wird genau dann einen direkten Gegenangriff setzen?
+* *Identische Schrittfolge*: Dein Gegner geht immer zwei kleine Schritte zurück und einen Sprung vor? Bietet Dir das einen Rhythmusbrecher an? Oder wird er Dich einschläfern und plötzlich verlängern?
+
+Du kannst also auf vieles achten: Positionen der Körperteile und der Waffe, Bewegungen, Geschwindigkeiten, Blickrichtung, Pausen. Nur: wie an gute Aktionen koppeln?
+
+_Hier kommt der eigentliche Cheat-Code_: Kopple zufällig und probiere es aus (_Random Perturbation_).
+
+Beispiel: Nimm Dir die Quest _Glitch Step_ von oben. Mache den Rhythmus-Bruch, sobald deine Gegnerin das Gewicht auf den hinteren Fuß legt (_Gewichtsverteilung_). Oder Du nimmst _Sniper-Mode_ und koppelst es an einen großen Vorwärtsschritt.
+
+Zieh das für ein paar Treffer durch! Sei völlig überrascht, was dabei herauskommt. Dein Gehirn (dieses wunderbare, selbstorganisierende System) wird extrem schnell merken, was in dieser absurden Kombination funktioniert und was nicht.
+
+Und vor allem: _Wie_ es funktioniert. Du merkst plötzlich, dass Du deine normalen Bewegungen ganz anders machst als sonst (_Adaption_ / _Variantenbildung_) Plötzlich entdeckst du Lösungswege, Laufwege oder Mensur-Spielereien, die dir kein Coach der Welt per Ansage hätte beibringen können. Das ist emergentes Taktik-Training at its best.
+
+=== Der 50%-Sweetspot: Dein persönlicher Difficulty-Slider
+
+Was machst du, wenn du gegen einen Level-1-Noob fichtst? Ihn 15:0 von der Bahn zu fegen, bringt keinem von euch XP. Was, wenn du gegen den Kader-Athleten 0:15 untergehst? Dein System lernt nur Frust.
+
+Erinnerst du dich an die 50%-Regel aus der Methodik? Du lernst nur am Rand deiner Fähigkeiten. Mit deinen Stealth-Quests steuerst du deinen Difficulty-Slider selbst:
+
+* *Gegen schwächere Gegner*: Mach es dir absichtlich schwer. Nutze die abgedrehtesten Zufalls-Kombinationen, die du dir ausdenken kannst. Plötzlich ist das Gefecht hochspannend.
+* *Gegen übermächtige Gegner*: Verändere deine Siegbedingung. Gegen den Endboss des Vereins ist dein Ziel heute nicht „15 Treffer machen“. Dein Ziel ist: „Ich provoziere ihn dreimal zu einem großen Schritt und setze meinen Stoppstoß.“ Schaffst du das dreimal, hast du die Quest bestanden – egal, wer das Gefecht gewinnt.
+
+=== Bereit für die Arcade-Halle?
+
+Vielleicht sagst du jetzt: _„Coole Idee, aber nach einem langen Schul- oder Arbeitstag habe ich absolut keine mentale Kapazität mehr, mir selbst kreative Zufalls-Quests auszudenken.“_
+
+Kein Problem. Wir haben da was für dich vorbereitet.
+
+Wir geben dir eine große, fertige Liste mit extrem spezifischen, wilden, hocheffektiven und manchmal absurd lustigen Welten, in die du im Freigefecht direkt eintauchen kannst.
+
+Wir geben Dir immer vier Aufgaben zum selben Thema für vier Gefechte. Zieh es durch.
+
+* xref:page$freigefechts-contraints/fourth-parry.adoc[Blockiere nach Innen]
+
 **Ab hier: WORK IN PROGRESS - nur noch Stichworte**
 
-== 2. Umarme den Glitch: Finde Deine Superkraft
-
-*Warum „Normalität“ auf der Planche eine Schwäche ist.*
-
-*   **Deine „Fehler“ als Waffe:** Bist du extrem klein? Riesig? Linkshänder? Nutze deine individuelle Biomechanik, um das System deines Gegners zu crashen.
-*   **Neuro-Power:** Warum ADHS (Hyperfokus) oder Autismus (Mustererkennung) deine geheimen Skill-Trees sind.
-*   **Asymmetrie-Hacks:** Wie du eine „unmögliche Geometrie“ aufbaust, die klassisch trainierte Fechter völlig überfordert (The Harmenberg-Logic).
-
-== 3. Stealth Mode: Undercover-Modus im Freigefecht
-
-*Wie du dein Training optimierst, ohne dass der Trainer es merkt.*
-
-*   **Selbstgesetzte Constraints:** Aufgaben für dein Gefecht, die kein anderer sieht (z.B. „Heute setze ich alle Treffer nur über die Hand“ oder „Ich bleibe nur in der Nahdistanz“).
-*   **Affordance-Surfing:** Lerne, „Handlungseinladungen“ deines Gegners zu sehen, statt im Kopf komplizierte Pläne zu schmieden.
-*   **Der 50%-Sweetspot:** Wie du dir Gegner suchst oder dir selbst Handicaps auferlegst, damit du immer in der Zone des maximalen Lernzuwachses bleibst.
-
-== 4. Hack the Drill: Partnerübungen modifizieren
+== 4. HACK THE DRILL: PARTNERÜBUNGEN MODIFIZIEREN
 
 *So rettest du deine Zeit in langweiligen Partnerlektionen.*
 
