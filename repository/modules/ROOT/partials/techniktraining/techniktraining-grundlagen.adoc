@@ -1,20 +1,22 @@
 = Grundlagen der Fechttechnik
 
-In der klassischen Auffassung gibt es eine Reihe von "Fecht-Schulen"
+Wenn man alte Fechtbücher aufschlägt, stolpert man unweigerlich über die klassischen “Fecht-Schulen”
 include::partial$gen/bibliography.adoc[tags=gaugler_history_1998]
-, die für die unterschiedlichen Bereiche der Fechttechnik Vorgaben und Vorstellungen bündeln und oft gemeinsam gelehrt werden. Diese Vorgaben beziehen sich insbesondere auf:
+. Früher (und für manchen Trainer der alten Schule auch heute noch) galten diese Schulen als in Stein gemeißelte Gebrauchsanweisungen für den perfekten Fechter. In diesen traditionellen Systemen wurde oft minutiös und isoliert vorgegeben:
 
-* Die Art, in der die verschiedenen Fechtelemente ausgeführt werden.
-* Die Art, in der die Fechtelemente miteinander kombiniert werden.
-* Die Reihenfolge, in der Fechtelemente beim Training eingeführt werden.
-* Das grundlegende strategische Ziel, das bei Gefechten erreicht werden soll.
-* Die Anteile, die die Bereiche Technik, Taktik, Schnelligkeit, Kraft und Koordination beim Training einnehmen sollen (im Training und in Gefechten).
+* *Das “Wie” der Ausführung*: Wie ein Fechtelement bis in den letzten Winkel exakt auszusehen hat (oft als isoliertes, dekontextualisiertes Techniktraining ohne echten Gegner).
+* *Die Kombinationen*: In welcher starren Reihenfolge diese Elemente aneinandergereiht werden sollen (vorgefertigte Muster statt kreativer Lösungsfindung).
+* *Der Lehrplan*: Eine strikte, lineare Chronologie, in der Elemente abgearbeitet werden müssen, bevor man überhaupt ans freie Fechten denken darf.
+* *Die Strategie*: Vorgefertigte taktische Schablonen und “Wenn-Dann”-Regeln, die im Gefecht abgespult werden sollen, statt Taktik aus der ständigen Wahrnehmung-Handlung-Kopplung (_Perception-Action Coupling_) entstehen zu lassen.
+* *Die Trainingsanteile*: Wie genau die Trainingszeit zwischen Technik, Taktik, Kraft und Koordination im Baukastensystem aufgeteilt wird.
 
-Es ist darauf zu achten, dass die entsprechenden "Fecht-Schulen" in ihren extremen Ausprägungen nicht vorkommen (abgesehen vom stark formalisierten System "Emil Beck"), sondern meist in Mischform und in verschiedenen Ausprägungen.
+In der freien Wildbahn der Fechthallen findest Du diese Schulen in ihrer extremen Reinform heute zum Glück nur noch selten – eine Ausnahme bildete in der Vergangenheit vielleicht das stark formalisierte und drill-lastige System von “Emil Beck”, das lange Zeit als unantastbar galt. Meistens begegnen uns heute Mischformen.
 
-Eine Betrachtung ist dennoch sinnvoll, um unterschiedliche Vorstellungen und Herangehensweisen kennenzulernen und ihre Auswirkungen und Eigenschaften abzuschätzen.
+Warum schauen wir uns diese historischen Herangehensweisen in diesem Referenzteil trotzdem an?
 
+Ganz sicher nicht, um Dir einen neuen, starren Lehrplan vorzusetzen! Wir betrachten diese Schulen vielmehr als ein riesiges Archiv an Bewegungslösungen. Wir halten diese alten Konstrukte gegen unsere Prinzipien (wie den _Constraints-Led Approach_, das _differenzielle Lernen_ und die _ökologische Dynamik_) und befreien die Techniken aus ihrem starren Korsett.
 
+Wir untersuchen die verschiedenen Techniken, ihre unzähligen Varianten und beleuchten, welche Vor- und Nachteile sie in spezifischen Situationen haben. Egal ob auf der Planche oder im Rollstuhl: Eine Technik ist nie per se “richtig” oder “falsch”. Sie ist immer nur eine von vielen möglichen Antworten auf ein Problem, das der Gegner und die Situation uns gerade stellen. Lass uns also einen Blick darauf werfen, was die Fechtgeschichte zu bieten hat – und wie wir dieses Wissen nutzen können, um anpassungsfähige, selbstbestimmte Fechterinnen und Fechter zu entwickeln, statt nur Roboter zu programmieren.
 
 == Das System "Emil Beck"
 
@@ -41,7 +43,7 @@ Eine Betrachtung ist dennoch sinnvoll, um unterschiedliche Vorstellungen und Her
 3. taktische Adaption (Aktionsauswahl)
 
 |*Haupt-Probleme*
-| geringe Lernrate, hohe Wiederholungszahlen, hoher Zeitaufwand +
+| geringe Lernrate, hohe Wiederholungszahlen, hoher Zeitaufwand, Gefahr des _Choking under Pressure_ +
 gegen Fechtstil mit Klingenentzug
 
 |===
@@ -89,7 +91,7 @@ Durch die *Fokussierung auf Klingenkontrolle* hat das System Probleme mit Gegner
 
 Das System "Emil Beck" kann so verändert werden, dass es den Umsetzungsprinzipien besser entspricht:
 
-. Akzeptanz von Aktionen *abseits des Technik-Leitbilds*. Das Leitbild soll weiter verwendet werden, um Einsteiger:innen einen Startpunkt zu bieten. Sehr schnell muss aber auf die *Effektivität der Aktionen* abgestellt werden. Durch *Zusatz-Aufgaben* ist den Lernenden der *gesamte mögliche Lösungsbereich* anzubieten und auch fehlerhaft scheinende Umsetzungs-Varianten einzubinden.
+. Akzeptanz von Aktionen *abseits des Technik-Leitbilds*. Das Leitbild kann weiter verwendet werden, um Einsteiger:innen einen Startpunkt zu bieten. Sehr schnell muss aber auf die *Effektivität der Aktionen* abgestellt werden. Durch *Zusatz-Aufgaben* ist den Lernenden der *gesamte mögliche Lösungsbereich* anzubieten und auch fehlerhaft scheinende Umsetzungs-Varianten einzubinden.
 . Sichtbarmachen der *Auswirkungen von Änderungen im Bewegungsablauf*: Entstehende Schwachstellen (Blößen, Balance-Probleme, ...) müssen sichtbar gemacht, Ausführungszeiten gemessen und dargestellt werden.
 . Erhöhen der *Fehlerraten*: Sobald eine Aktion in mehr als 25% der Fälle gelingt, müssen *Zusatz-Aufgaben*, *Einschränkungen* und *angepasste Rahmenbedingungen* eingeführt werden, die die hohe Fehlerrate aufrecht erhalten.
 . Frühes Einführen komplexer Aktionen und Auswahl-Aktionen: Das System "vom Einfachen zum Schweren" und geblockte Übungen müssen aufgebrochen werden, um höhere Lernraten zu erreichen. Es soll auf *selbstorganisierendes Lernen* abgestellt werden.
