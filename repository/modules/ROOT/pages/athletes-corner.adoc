@@ -40,19 +40,19 @@ Bist du bereit, den Grind zu beenden und das Spiel neu zu starten? Wir verlassen
 
 == Gerade genug Methodik
 
-Du hast den Methodik-Teil übersprungen? Kein Problem. Hier gibt’s gerade genug Hintergrund, damit du direkt loslegen kannst.
+Du hast xref:page$methodik.adoc[] übersprungen? Kein Problem. Hier gibt’s gerade genug Hintergrund, damit du direkt loslegen kannst.
 
-TIP: Alle Nerds, die das Kapitel "Methodik" gelesen haben, dürfen das hier überspringen.
+TIP: Alle Nerds, die xref:page$methodik.adoc[] gelesen haben, dürfen das hier überspringen.
 
 Wir nutzen vier Werkzeuge. Du musst nicht die ganze Physik dahinter verstehen, um sie zu benutzen – genauso wenig, wie Du wissen musst, wie ein Verbrennungsmotor funktioniert, um Auto zu fahren. Hier ist Dein Schlüssel.
 
 CAUTION: *Trigger-Warnung* +
 Du liest das hier und Dein innerer Fechtmeister schreit: _„Was für ein neumodischer Blödsinn! Wo bleibt die saubere Schule?“_ +
-+
+ +
 *Ganz ruhig*. Wenn Du harte Beweise brauchst, dass die Erde keine Scheibe ist und Drill das Lernen bremst: +
-+
-*Blätter zurück*. Im Kapitel „Methodik“ erschlagen wir Dich liebevoll mit Studien, Biomechanik und Fußnoten. +
-+
+ +
+*Blätter zurück*. In xref:page$methodik.adoc[] erschlagen wir Dich liebevoll mit Studien, Biomechanik und Fußnoten. +
+ +
 Für alle anderen gilt die alte Gamer-Regel: Meta changed - git gud or rage quit.
 
 === Dein Gehirn ist keine Festplatte
@@ -186,7 +186,7 @@ Und vor allem: _Wie_ es funktioniert. Du merkst plötzlich, dass Du deine normal
 
 Was machst du, wenn du gegen einen Level-1-Noob fichtst? Ihn 15:0 von der Bahn zu fegen, bringt keinem von euch XP. Was, wenn du gegen den Kader-Athleten 0:15 untergehst? Dein System lernt nur Frust.
 
-Erinnerst du dich an die 50%-Regel aus der Methodik? Du lernst nur am Rand deiner Fähigkeiten. Mit deinen Stealth-Quests steuerst du deinen Difficulty-Slider selbst:
+Erinnerst du dich an die 50%-Regel aus xref:page$methodik.adoc[]? Du lernst nur am Rand deiner Fähigkeiten. Mit deinen Stealth-Quests steuerst du deinen Difficulty-Slider selbst:
 
 * *Gegen schwächere Gegner*: Mach es dir absichtlich schwer. Nutze die abgedrehtesten Zufalls-Kombinationen, die du dir ausdenken kannst. Plötzlich ist das Gefecht hochspannend.
 * *Gegen übermächtige Gegner*: Verändere deine Siegbedingung. Gegen den Endboss des Vereins ist dein Ziel heute nicht „15 Treffer machen“. Dein Ziel ist: „Ich provoziere ihn dreimal zu einem großen Schritt und setze meinen Stoppstoß.“ Schaffst du das dreimal, hast du die Quest bestanden – egal, wer das Gefecht gewinnt.
