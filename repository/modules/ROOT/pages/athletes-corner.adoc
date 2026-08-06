@@ -202,8 +202,9 @@ Wir geben dir eine große, fertige Liste mit extrem spezifischen, wilden, hochef
 Wir geben Dir immer vier Aufgaben zum selben Thema für vier Gefechte. Zieh es durch.
 
 * xref:page$freigefechts-contraints/fourth-parry.adoc[Blockiere nach Innen]
-
-**Ab hier: WORK IN PROGRESS - nur noch Stichworte**
+* xref:page$freigefechts-contraints/first-parry.adoc[Das Infight-Dilemma]
+* xref:page$freigefechts-contraints/eights-parry.adoc[Das Chaos der Oktav]
+* xref:page$freigefechts-contraints/sixt-falle.adoc[Die Sixt-Falle]
 
 == 4. HACK THE DRILL: PARTNERÜBUNGEN MODIFIZIEREN
 
