@@ -4,7 +4,7 @@
   "description": "= Degen - Trainingsbuch",
   "main": "index.js",
   "dependencies": {
-    "asciidoctor-kroki": "^0.18.1"
+    "asciidoctor-kroki": "^1.0.0"
   },
   "devDependencies": {
     "@antora/cli": "3.1.15",
