@@ -17,6 +17,8 @@ Du lernst die Spielmechanik nicht durch Zuhören. Du lernst sie durch unvermeidb
 
 Willkommen in Deinem neuen Job. Du bist ab heute kein Instruktor mehr. Du bist Game Designer.
 
+include::partial$coaches-corner/image-level11.adoc[]
+
 === Niemand liest das Handbuch
 
 Hand aufs Herz: Wenn Du ein neues Game startest, liest Du erst das 50-seitige PDF-Handbuch? Oder hämmerst Du auf den „Skip Intro“-Button, weil Du endlich spielen willst?
@@ -34,15 +36,19 @@ Dein Job ist es nicht, die Lösung zu verraten („Halt den Arm höher!“). Dei
 Warum können Kinder (und Erwachsene) stundenlang _Fortnite_ oder _Minecraft_ zocken, verlieren aber im Beinarbeits-Block nach fünf Minuten die Konzentration? +
 Die Antwort ist reine Chemie: *Dopamin*
 
-Videospiele sind Meister darin, uns kleine Belohnungshappen hinzuwerfen. Ein „Pling“-Geräusch hier, ein „Level Up“ da. Das Gehirn liebt direktes Feedback.
+Oft wird es als „Belohnungshormon“ bezeichnet, aber das ist eigentlich falsch. Entspannte Zufriedenheit nach getaner Arbeit ist der Job von Serotonin. Dopamin hingegen ist der pure Antrieb. Es ist das Gefühl von: „YEA, das hat funktioniert – gleich nochmal!“
 
-Im Fechten haben wir eigentlich das perfekteste Feedback-System der Welt: Eine Lampe, die leuchtet, wenn wir jemanden mit einem Stahlstab treffen. Es ist das Äquivalent zum „Headshot“-Marker in einem Shooter. Ein sattes, befriedigendes Signal: Erfolg!
+Videospiele sind Meister darin, genau diesen Motor am Laufen zu halten. Ein „Pling“-Geräusch hier, ein Hit-Marker da. Das Gehirn liebt dieses direkte Feedback. Es signalisiert uns, dass wir auf der richtigen Fährte sind, und schießt sofort neues Dopamin nach, damit wir hungrig bleiben und die nächste Aktion starten.
+
+Im Fechten haben wir eigentlich das perfekteste Feedback-System der Welt: Eine Lampe, die leuchtet, wenn wir jemanden mit einem Stahlstab treffen. Es ist unser Äquivalent zum „Headshot“-Marker in einem Shooter. Ein knackiges Signal, das nicht nur sagt „Gut gemacht“, sondern den Jagdinstinkt triggert: Erfolg! Hol dir den nächsten!
 
 Doch was machen wir im klassischen Training? Wir schalten die Meldeanlagen aus. Wir lassen sie „trocken“ auf Lederkissen stoßen oder Luftlöcher in die Wand stechen.
 
-Das ist wie _Call of Duty_ ohne Sound und ohne Trefferanzeige. Es ist sensorisch tot. Ohne das „Pling“ (die Lampe) fehlt der Dopamin-Kick, der dem Gehirn sagt: *„Das war gut, speichere diese Bewegung ab!“*
+Das ist wie _Call of Duty_ ohne Sound und ohne Trefferanzeige. Es ist sensorisch tot. Ohne das „Pling“ (die Lampe) fehlt das Feedback und der Dopamin-Loop reißt ab. Der Motor läuft trocken. Dem Gehirn fehlt der chemische Treibstoff, der ruft: *„Das war genau der richtige Weg! Speichere dieses Bewegungsmuster ab und mach sofort weiter!“* Ohne diesen Antrieb bricht die Konzentration nach wenigen Minuten unweigerlich ein.
 
-Als Game Designer lautet Deine oberste Regel: *Kill the Silence*. Mach die Anlagen an. Sorge für Feedback. Ohne Spaß keine Neuroplastizität.
+Als Game Designer lautet Deine oberste Regel daher: Kill the Silence. Mach die Anlagen an. Sorge für Feedback. Ohne Dopamin-Antrieb kein Fokus, und ohne Fokus keine Neuroplastizität.
+
+include::partial$coaches-corner/image-dopamin-ruler.adoc[]
 
 === Die Kunst des Balancing
 
