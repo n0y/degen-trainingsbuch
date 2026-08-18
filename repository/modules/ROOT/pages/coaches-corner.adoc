@@ -75,9 +75,9 @@ Wir müssen aufhören, unseren Athleten eine „ideale Technik“ aufzuzwingen, 
 
 == Gerade genug Methode
 
-Du hast den Methodik-Teil übersprungen? Kein Problem. Hier gibt’s gerade genug Hintergrund, damit du direkt loslegen kannst.
+Du hast xref:page$methodik.adoc[] übersprungen? Kein Problem. Hier gibt’s gerade genug Hintergrund, damit du direkt loslegen kannst.
 
-TIP: Alle Nerds, die das Kapitel "Methodik" gelesen haben, dürfen das hier überspringen.
+TIP: Alle Nerds, die xref:page$methodik.adoc[] gelesen haben, dürfen das hier überspringen.
 
 Wir nutzen vier Werkzeuge. Du musst nicht die ganze Physik dahinter verstehen, um sie zu benutzen – genauso wenig, wie Du wissen musst, wie ein Verbrennungsmotor funktioniert, um Auto zu fahren. Hier ist Dein Schlüssel.
 
@@ -86,7 +86,7 @@ CAUTION: *Trigger-Warnung* +
   +
   *Ganz ruhig*. Wenn Du harte Beweise brauchst, dass die Erde keine Scheibe ist und Drill das Lernen bremst: +
   +
-  *Blätter zurück*. Im Kapitel „Methodik“ erschlagen wir Dich liebevoll mit Studien, Biomechanik und Fußnoten. +
+  *Blätter zurück*. In xref:page$methodik.adoc[] erschlagen wir Dich liebevoll mit Studien, Biomechanik und Fußnoten. +
   +
   Für alle anderen gilt die alte Gamer-Regel: Meta changed - git gud or rage quit.
 
