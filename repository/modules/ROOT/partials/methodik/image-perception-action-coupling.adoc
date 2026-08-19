@@ -1,0 +1,2 @@
+
+image::methodik-perception-action-coupling.jpg["Ein wissenschaftlich-sachliches, aber modernes Diagramm, das zwei Modelle der Handlungssteuerung vergleicht. Links: Das klassische "Informationsverarbeitungs-Modell" (Reiz -> kognitiver Prozessor/CPU im Gehirn -> Motorisches Programm abrufen -> Muskelaktion). Rechts: Das Modell der "Ökologischen Dynamik" (Perzeptions-Aktions-Kopplung) als direkter, kontinuierlicher Kreislauf zwischen Athlet (Organismus) und Umwelt, ohne zentrale Rechnereinheit.", width=90%]

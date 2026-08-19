@@ -1,0 +1,3 @@
+
+.Wiederholung ohne Wiederholung - jeder Pfad ist immer unterschiedlich, aber das erreichte Ziel ist gleich.
+image::methodik-bernsteins-fencer.jpg["Eine humorvolle, leicht skizzenhafte Illustration zu Bernsteins "Wiederholung ohne Wiederholung". Sie zeigt einen Fechter (oder Schmied), der in drei überlagerten, durchscheinenden Silhouetten ("Geisterbildern") zu sehen ist. Seine Gelenke (Schulter, Ellbogen, Knie) befinden sich in völlig unterschiedlichen Winkeln. Aber alle drei Klingen (oder Hämmer) treffen am Ende exakt und stabil auf denselben präzisen Punkt im Ziel auf. Die Botschaft: Variable, unvorhersehbare Gelenkwege führen zu einem stabilen, perfekten Ergebnis. Stil: Optimistisch, Athleten-zentriert", width=90%]

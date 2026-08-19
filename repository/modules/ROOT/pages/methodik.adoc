@@ -1,6 +1,7 @@
 = Hinter der Kulisse des Fintenfischs
 :description: Trainingsmethoden für das Fechten verglichen: klassische Ansätze gegenüber systemdynamischen Ansätzen
 :keywords: Fechten,Degen-Fechten,Training,Grundlagen,differenzielles Training
+:figure-caption!:
 
 Seit Camillo Agrippa im Jahr 1553 versuchte, das Fechten mit Zirkel und Lineal zu erklären, träumen wir den Traum der perfekten, berechenbaren Technik. Doch erst mit der Industriellen Revolution vor gut 100 Jahren wurde aus diesem Traum ein Korsett:
 
@@ -35,6 +36,8 @@ include::partial$gen/bibliography.adoc[tags=davids_dynamics_2007]
 . Es gibt keinen „Umweg“ über eine zentrale Recheninstanz. Wer Bewegungen wie Computerbefehle trainiert, erzeugt Athleten, die unter Stress „einfrieren“
 include::partial$gen/bibliography.adoc[tags=beilock_choke_2010]
 , weil ihr kognitiver Prozessor überlastet ist.
+
+include::partial$methodik/image-perception-action-coupling.adoc[]
 
 Lernen passiert durch *neuroplastische Änderungen*. Und der Treibstoff dafür ist – man mag es kaum glauben – der *Fehler*. Die Forschung ist eindeutig: Ein Lernprozess setzt zwingend voraus, dass das System einen Fehler begeht, der über Feedback zu Anpassungen führt
 include::partial$gen/bibliography.adoc[tags=metcalfe_learning_2017]
@@ -86,6 +89,8 @@ Wir müssen also radikal unterscheiden:
 Wenn wir in der *Linearen Pädagogik* verharren, zwingen wir Dich (lieber Fechter) dazu, Lösungen für eine Umwelt von 1970 zu trainieren, während Du auf einer Planche von heute stehst. Wir behindern Deine Anpassungsfähigkeit durch künstliche „Denk-Verbote“.
 
 === 3. Das Bernstein-Problem: Warum Wiederholung eine Lüge ist
+
+include::partial$methodik/image-bernsteins-fencer.adoc[]
 
 Das vielleicht größte Missverständnis der klassischen Methodik ist der Glaube an die exakte Wiederholbarkeit. Man denkt: „Wenn ich den Stoß 10.000 Mal exakt gleich mache, kann ich ihn perfekt.“
 
@@ -225,6 +230,8 @@ Wir verlassen uns auf die *Dynamic Systems Theory (DST)*: Vergessen Sie die Idee
 
 Ein dynamisches System ist ein Gebilde aus vielen Teilen (Muskeln, Nerven, Emotionen, Klinge, Gegner), die miteinander interagieren, ohne dass es einen „Chef“ gibt, der alles kontrolliert. Denken Sie an einen Vogelschwarm: Es gibt keinen Anführer, der jedem Vogel sagt, wohin er fliegen soll. Die Formation entsteht durch einfache Regeln und die Reaktion auf den Nachbarn.
 
+include::partial$methodik/image-self-organized-fencer.adoc[]
+
 In der DST nennen wir das *Selbstorganisation*
 include::partial$gen/bibliography.adoc[tags=kelso_dynamic_1995]
 . Dein Körper „findet“ die Lösung für einen Treffer, wenn die Bedingungen stimmen. Deine Aufgabe als Coach ist es nicht, die Lösung vorzugeben, sondern die *Constraints* (Einschränkungen) so zu setzen, dass die Lösung fast zwangsläufig entstehen muss
@@ -238,6 +245,8 @@ Die Kernpunkte der DST im Fechten
 include::partial$gen/bibliography.adoc[tags=haken_theoretical_1985]
   .
 3. *Phasenübergänge*: Das ist der magische Moment im Gefecht. Du wartest, lauerst, und plötzlich – ein winziger Reiz – kippt das System von „Defensiv“ in „Angriff“. Dieser Umschlagpunkt ist keine Entscheidung, die Du im Kopf triffst, sondern ein physikalischer Prozess Deines Gesamtsystems.
+
+include::partial$methodik/image-attractor-landscape.adoc[]
 
 === Beweise für die Wirksamkeit: Funktioniert das wirklich?
 
@@ -560,6 +569,8 @@ mit dem _Challenge Point Framework_) nennt uns fünf nicht verhandelbare Eigensc
    -> Coach-Aufgabe: *Korrigiere nie*. Eine unerwartete Lösung ist eine Lösung. Ein Fehler ist ein Lernraum. +
    -> Coach-Aufgabe: *Verschärfe die Constraints!* Wenn die Fehlerrate sinkt, mach die Bahn kürzer, das Ziel kleiner oder den Gegner schneller. Zwinge das System zurück in den Modus der Instabilität, wo es suchen und lernen muss.
 
+include::partial$methodik/image-optimal-challenge-point.adoc[]
+
 ==== Die Werkzeuge: Wer liefert Was
 
 Schauen wir uns an, wie unsere bevorzugten Methoden diese Anforderungen erfüllen – und wie sie Fehler _produktiv_ nutzen.
@@ -681,6 +692,8 @@ Wir erklären die Technik nicht – wir machen sie *funktional attraktiv*.
 ==== Die drei Regler des Coaches (Newells Dreieck)
 
 Um das Verhalten eines Fechters zu ändern, müssen wir an mindestens einem von drei Reglern drehen. Diese drei Kategorien von Constraints interagieren ständig miteinander. Wenn wir einen ändern, ändert sich das gesamte System.
+
+include::partial$methodik/image-newels-triangle.adoc[]
 
 *1. Organism Contraints (die Fechterin):*
 
@@ -866,6 +879,8 @@ Wer nur die "Mittelstellung" übt, kollabiert, sobald er aus dem Gleichgewicht k
 include::partial$gen/bibliography.adoc[tags=stergiou_optimal_2006]
 .
 
+include::partial$methodik/image-classic-vs-differential.adoc[]
+
 *Wichtig*: Das Ziel ist *Stabilität im Ganzen durch Anpassungsfähigkeit im Kleinen*. Der Treffer bleibt stabil, aber der Weg dorthin (die Gelenkstellungen) variiert ständig.
 
 === Das Spiel als Lehrer: Small-Sided Games (SSG) & Game-Based Approach
@@ -875,6 +890,8 @@ Viele Trainer (und leider auch viele Eltern) haben ein völlig falsches Bild vom
 Aber das Spiel ist keine Pause vom Lernen. *Das Spiel ist die höchste Form des Lernens*.
 
 In der modernen Sportwissenschaft (vor allem im Fußball und Rugby) hat sich der Begriff der *Small-Sided Games* (SSG) durchgesetzt. Das sind Spiele auf verkleinertem Raum mit wenigen Spielern, die aber die _gesamte Komplexität_ des echten Sports enthalten.
+
+include::partial$methodik/image-poolnoodle-fencing.adoc[]
 
 Warum ist das besser als jeder Drill? Weil ein Spiel niemals lügt. Es liefert *unmittelbare Konsequenz* (Sieg/Niederlage), *maximale Variabilität* (Gegner sind unberechenbar) und *hohe Wiederholungszahlen* von Entscheidungen.
 
@@ -1205,6 +1222,8 @@ Sie werden _geformt_, indem ihr System kontinuierlich mit der richtigen Dosis an
 Die moderne Trainingswissenschaft stützt sich hierbei auf das _Long-Term Athlete Development (LTAD) Modell_
 include::partial$gen/bibliography.adoc[tags=balyi_long-term_2013]
 . Richtig verstanden, basiert das LTAD nicht auf chronologischen Jahren, sondern auf dem Trainingsalter und biologischen/mentalen Entwicklungsphasen.
+
+include::partial$methodik/image-ltad.adoc[]
 
 * *Der Irrtum der Ernsthaftigkeit*:
 ** _Die alte Lehre_: Erwachsenentraining muss nach Arbeit aussehen (Drill, Lektion, Wiederholung).
