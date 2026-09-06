@@ -1,2 +1,3 @@
 
+.Die ideale Menge Rückkopplung finden. Kein bischen vereinfacht - na sicher doch!
 image::coaches-corner-dopamin-ruler.jpg["Fehlender Reiz: keine Dopamin-Reaktion. Perfekter Reiz: Dopamin spornt an zum Weitermachen. Dopamin-Überdosos: Zocker-Hirn und Chaos",width=90%]
