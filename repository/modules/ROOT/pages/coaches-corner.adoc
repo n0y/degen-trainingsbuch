@@ -1,6 +1,7 @@
 = Für Coaches: Vom Drill-Sergeant zum Weltenbauer [alpha]
 :description: Der Trainer als Designer von Lernumgebungen – warum wir aufhören zu befehlen und anfangen zu programmieren.
 :keywords: Coaching, Ready Player One, Constraints, Lernumgebung, Gamification
+:figure-caption!:
 
 Stell Dir vor, _Shigeru Miyamoto_ (der Erfinder von _Super Mario_ und _Zelda_) würde morgen Deinen Fechtverein übernehmen.
 
@@ -34,17 +35,30 @@ Dein Job ist es nicht, die Lösung zu verraten („Halt den Arm höher!“). Dei
 === Der Dopamin-Loop: Warum „Trockentraining“ der Endgegner ist
 
 Warum können Kinder (und Erwachsene) stundenlang _Fortnite_ oder _Minecraft_ zocken, verlieren aber im Beinarbeits-Block nach fünf Minuten die Konzentration? +
-Die Antwort ist reine Chemie: *Dopamin*
 
-Oft wird es als „Belohnungshormon“ bezeichnet, aber das ist eigentlich falsch. Entspannte Zufriedenheit nach getaner Arbeit ist der Job von Serotonin. Dopamin hingegen ist der pure Antrieb. Es ist das Gefühl von: „YEA, das hat funktioniert – gleich nochmal!“
+Eine wichtige Antwort darauf hat mit *Dopamin* zu tun – aber nicht ganz so simpel, wie es oft dargestellt wird.
 
-Videospiele sind Meister darin, genau diesen Motor am Laufen zu halten. Ein „Pling“-Geräusch hier, ein Hit-Marker da. Das Gehirn liebt dieses direkte Feedback. Es signalisiert uns, dass wir auf der richtigen Fährte sind, und schießt sofort neues Dopamin nach, damit wir hungrig bleiben und die nächste Aktion starten.
+Dopamin ist nicht einfach das „Belohnungshormon“. Es spielt unter anderem eine wichtige Rolle bei Motivation, Handlungsbereitschaft und Lernen. Besonders interessant ist dabei die Frage: _War das Ergebnis besser oder schlechter als erwartet?_ Genau solche Abweichungen zwischen Erwartung und tatsächlichem Ergebnis beeinflussen das Belohnungs- und Lernsystem.
 
-Im Fechten haben wir eigentlich das perfekteste Feedback-System der Welt: Eine Lampe, die leuchtet, wenn wir jemanden mit einem Stahlstab treffen. Es ist unser Äquivalent zum „Headshot“-Marker in einem Shooter. Ein knackiges Signal, das nicht nur sagt „Gut gemacht“, sondern den Jagdinstinkt triggert: Erfolg! Hol dir den nächsten!
+Und Videospiele sind darin verdammt gut.
 
-Doch was machen wir im klassischen Training? Wir schalten die Meldeanlagen aus. Wir lassen sie „trocken“ auf Lederkissen stoßen oder Luftlöcher in die Wand stechen.
+Ein „Pling“ hier, ein Hit-Marker da, Punkte, Animationen, Gegner fällt um, nächstes Ziel erscheint. Die Konsequenz einer Aktion ist innerhalb von Sekundenbruchteilen sichtbar. Du tust etwas – und dein Gehirn bekommt sofort Information darüber, was daraus entstanden ist.
 
-Das ist wie _Call of Duty_ ohne Sound und ohne Trefferanzeige. Es ist sensorisch tot. Ohne das „Pling“ (die Lampe) fehlt das Feedback und der Dopamin-Loop reißt ab. Der Motor läuft trocken. Dem Gehirn fehlt der chemische Treibstoff, der ruft: *„Das war genau der richtige Weg! Speichere dieses Bewegungsmuster ab und mach sofort weiter!“* Ohne diesen Antrieb bricht die Konzentration nach wenigen Minuten unweigerlich ein.
+Das ist für Lernen und Motivation extrem wertvoll: Aktion → Ergebnis → Information → nächste Aktion.
+
+Die Lampe der Meldeanlage hat im Training genau diesen Sinn, das satte „Beep“, dass Dir sagt: _Das war gut. Speichere das ab!_
+
+Aber da ist viel mehr: Die Klinge der Gegnerin zittert kurz unter Druck. Sie macht einen Schritt zurück. Du scheuchst sie aus der Bahn. Ihre Spitze kratzt bei einer Parade im letzten Moment gerade noch über deinen Oberarm. Du siehst, wie ihre Klinge abgleitet. Du hörst den Kontakt. Du spürst die Parade in der Hand. Deine Gegnerin reagiert. Vielleicht schaut sie dich sogar überrascht an.
+
+*Alles das ist Feedback.* Das sind unsere Trefferanzeigen, Soundeffekte und Animationen.
+
+Und genau deshalb müssen wir unseren Athleten beibringen, diese Informationen überhaupt wahrzunehmen. Denn Lernen braucht nicht nur Wiederholungen. Lernen braucht Informationen über die Konsequenzen unserer Handlungen.
+
+Die Konsequenz muss dabei nicht immer eine Lampe sein. Sie kann ein Treffer sein. Ein Gegner, der zurückweicht. Eine Klinge, die abgleitet. Ein Körper, der aus der Bahn gerät. Ein spürbarer Kontakt.
+
+Oder die Trainingskameraden, die von außen rufen: „JA! Genau diese Abwehr!“
+
+Ohne dieses sofortige Feedback wird der Feedback-Loop schwächer. Der Motor läuft schwerer. Dem Gehirn fehlt ein wichtiger Teil der Information, die Motivation und Lernen unterstützt: „Das hat funktioniert – mach weiter!“ Und wenn Aktionen immer wieder ohne erkennbare Konsequenz bleiben, wird es schwieriger, Aufmerksamkeit und Handlungsbereitschaft über viele Wiederholungen aufrechtzuerhalten.
 
 Als Game Designer lautet Deine oberste Regel daher: Kill the Silence. Mach die Anlagen an. Sorge für Feedback. Ohne Dopamin-Antrieb kein Fokus, und ohne Fokus keine Neuroplastizität.
 
