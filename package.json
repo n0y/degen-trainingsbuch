@@ -13,7 +13,7 @@
     "@citation-js/plugin-pubmed": "0.4.0",
     "@djencks/asciidoctor-mathjax": "0.0.9",
     "citation-js": "0.9.0",
-    "npm-run-all2": "9.0.3",
+    "npm-run-all2": "9.0.4",
     "onchange": "7.1.0",
     "rimraf": "6.1.3"
   },
